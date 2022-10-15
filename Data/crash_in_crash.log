@@ -1,0 +1,10 @@
+handlers: 185967
+ptrs: 185965
+memused: 47442944
+memtotal: 884998144
+CheckMemoryIntegrityEx: done
+mem info: done
+FEX_GetCallStackEBP_Ex: done
+print call stack: done
+unable to open dump file.
+fastcrash dump: done

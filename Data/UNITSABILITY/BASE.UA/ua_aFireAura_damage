@@ -1,0 +1,35 @@
+<NewAbility>
+ <Name>ua_aFireAura_damage</Name>
+ <ClassType>Image</ClassType>
+ <HintName>Goriu</HintName>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <Modificators>
+  <mod_Life>
+   <Operand>
+    <Operator>-</Operator>
+    <Operand>
+     <Value>
+      <Op>
+       <NumericalConst>
+        <Value>
+         <Value>10</Value>
+        </Value>
+       </NumericalConst>
+      </Op>
+     </Value>
+    </Operand>
+   </Operand>
+   <Period>1</Period>
+  </mod_Life>
+ </Modificators>
+</NewAbility>

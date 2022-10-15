@@ -1,0 +1,44 @@
+<NewAbility>
+ <Name>HA_aSilenceAttack_OE</Name>
+ <FileID>Interf3\Ability\Ability3.00</FileID>
+ <SpriteID>16</SpriteID>
+ <EffectFileID>Interf3\Ability\Ability3.00</EffectFileID>
+ <EffectSpriteID>16</EffectSpriteID>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>4000</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+ <OnDieDeleteEffect>true</OnDieDeleteEffect>
+ <Modificators>
+  <mod_Silence></mod_Silence>
+ </Modificators>
+ <VisualEffects>
+  <uat_VisualEffect>
+   <UnlimitDuration>true</UnlimitDuration>
+   <Place>Target units</Place>
+   <Effect>
+    <Scale>0.450000</Scale>
+    <ModelID>Models\Effects\Reborn\RebSpells\HA_aSilenceAttack.c2m</ModelID>
+    <ReflectionID>Models\Effects\Reborn\RebSpells\HA_aSilenceAttack.c2m</ReflectionID>
+   </Effect>
+  </uat_VisualEffect>
+ </VisualEffects>
+</NewAbility>

@@ -1,0 +1,15 @@
+<ua_SingleUnitAI>
+ <Name>suai_AuraOfFire</Name>
+ <CastingRadius>450</CastingRadius>
+ <Abilities>
+  <suAI_Ability>
+   <UA>
+    <ClassName>NewAbility</ClassName>
+    <RefName>MC_aAuraOfFire</RefName>
+   </UA>
+   <MinTargetAmount>4</MinTargetAmount>
+   <TargetEnemy>true</TargetEnemy>
+   <Finite>true</Finite>
+  </suAI_Ability>
+ </Abilities>
+</ua_SingleUnitAI>

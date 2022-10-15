@@ -1,0 +1,28 @@
+<NewAbility>
+ <Name>sa_Knight_ChargeStomp</Name>
+ <FileID>Interf3\Ability\Knight</FileID>
+ <SpriteID>11</SpriteID>
+ <EffectFileID>Interf3\Ability\Knight</EffectFileID>
+ <EffectSpriteID>11</EffectSpriteID>
+ <HintName>Stomp</HintName>
+ <Type>AntiMageSkill</Type>
+ <Button>true</Button>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <AntiMageSupportSkill>true</AntiMageSupportSkill>
+ <NecessarySkills>
+  <ClassRef.UnitAbility>
+   <ClassName>NewAbility</ClassName>
+   <RefName>sa_Knight_ChargeHaste</RefName>
+  </ClassRef.UnitAbility>
+ </NecessarySkills>
+</NewAbility>

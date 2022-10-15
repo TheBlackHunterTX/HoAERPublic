@@ -1,0 +1,31 @@
+<NewAbility>
+ <Name>UA_aBallistic_Dam</Name>
+ <ClassType>Image</ClassType>
+ <HintName>Boom =)</HintName>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <Modificators>
+  <mod_Life>
+   <Operand>
+    <Operator>-</Operator>
+    <Operand>
+     <Value>
+      <Op>
+       <BHP_Damage></BHP_Damage>
+      </Op>
+     </Value>
+    </Operand>
+   </Operand>
+   <Period>1</Period>
+  </mod_Life>
+ </Modificators>
+</NewAbility>

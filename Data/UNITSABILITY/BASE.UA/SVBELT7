@@ -1,0 +1,36 @@
+<NewItem>
+ <Name>SVBelt7</Name>
+ <FileID>Interf3\Ability\goods_belt</FileID>
+ <SpriteID>5</SpriteID>
+ <FileID_Char>Interf3\Ability\goods_character_belt</FileID_Char>
+ <FileID_Inv>Interf3\Ability\goods_inventory_belt</FileID_Inv>
+ <EffectFileID>Interf3\Ability\goods_belt</EffectFileID>
+ <EffectSpriteID>5</EffectSpriteID>
+ <HintName>#SVBelt7.NAME</HintName>
+ <Hint>#SVBelt7</Hint>
+ <Type>ItemClothe</Type>
+ <GroundMD>
+  <UnitType>DropM3(IT)</UnitType>
+ </GroundMD>
+ <ShopPrice>200</ShopPrice>
+ <Amount>1</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+ <Conditions>
+  <umc_LifeLess>
+   <OperandType>Percent</OperandType>
+  </umc_LifeLess>
+ </Conditions>
+</NewItem>

@@ -1,0 +1,47 @@
+<NewAbility>
+ <Name>IW_aFear_8_SolHArc</Name>
+ <FileID>Interf3\Ability\bigA</FileID>
+ <SpriteID>7</SpriteID>
+ <EffectFileID>Interf3\Ability\goods_character_weapon_sceptre</EffectFileID>
+ <EffectSpriteID>5</EffectSpriteID>
+ <HintName>#IW_aFear_8_SolHArc.NAME</HintName>
+ <Hint>#IW_aFear_8_SolHArc</Hint>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1500</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+ <OnDieDeleteEffect>true</OnDieDeleteEffect>
+ <Modificators>
+  <mod_Fear></mod_Fear>
+ </Modificators>
+ <VisualEffects>
+  <uat_VisualEffect>
+   <UnlimitDuration>true</UnlimitDuration>
+   <Place>Target units</Place>
+   <ScaleToRadius>true</ScaleToRadius>
+   <AllowFormFactor>true</AllowFormFactor>
+   <Effect>
+    <ModelID>Models\Effects\MagicCard\Fear\FearUnFire.c2m</ModelID>
+    <ReflectionID>Models\Effects\MagicCard\Fear\FearUnFire.c2m</ReflectionID>
+   </Effect>
+  </uat_VisualEffect>
+ </VisualEffects>
+</NewAbility>

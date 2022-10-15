@@ -1,0 +1,36 @@
+<NewItem>
+ <Name>SVArmor7</Name>
+ <FileID>Interf3\Ability\goods_armour</FileID>
+ <FileID_Char>Interf3\Ability\goods_character_armour</FileID_Char>
+ <FileID_Inv>Interf3\Ability\goods_inventory_armour</FileID_Inv>
+ <EffectFileID>Interf3\Ability\goods_armour</EffectFileID>
+ <HintName>#SVArmor7.NAME</HintName>
+ <Hint>#SVArmor7</Hint>
+ <Type>ItemClothe</Type>
+ <GroundMD>
+  <UnitType>DropM3(IT)</UnitType>
+ </GroundMD>
+ <ShopPrice>100</ShopPrice>
+ <Amount>1</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+ <Conditions>
+  <umc_LifeLess>
+   <OperandType>Percent</OperandType>
+  </umc_LifeLess>
+ </Conditions>
+ <FriendlyTarget>true</FriendlyTarget>
+ <TargetMaxAmount>1</TargetMaxAmount>
+</NewItem>

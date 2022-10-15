@@ -1,0 +1,33 @@
+<NewItem>
+ <Name>SVHelm4</Name>
+ <FileID>Interf3\Ability\goods_helmet</FileID>
+ <SpriteID>2</SpriteID>
+ <FileID_Char>Interf3\Ability\goods_character_helmet</FileID_Char>
+ <FileID_Inv>Interf3\Ability\goods_inventory_helmet</FileID_Inv>
+ <EffectFileID>Interf3\Ability\goods_helmet</EffectFileID>
+ <EffectSpriteID>2</EffectSpriteID>
+ <HintName>#SVHelm4.NAME</HintName>
+ <Hint>#SVHelm4</Hint>
+ <Type>ItemClothe</Type>
+ <GroundMD>
+  <UnitType>DropM2(IT)</UnitType>
+ </GroundMD>
+ <ShopPrice>100</ShopPrice>
+ <Amount>1</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <Conditions>
+  <umc_LifeLess>
+   <OperandType>Percent</OperandType>
+  </umc_LifeLess>
+ </Conditions>
+</NewItem>

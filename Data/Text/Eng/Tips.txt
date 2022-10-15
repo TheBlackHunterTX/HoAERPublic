@@ -1,0 +1,65 @@
+#Tips0 Did you know that tips are shown on the loading screens of the game? :D
+#Tips1 You can avoid the arena by entering the astral. 
+#Tips2 Undead - a race that is based on numerous \ cheap units and literally fills the enemy with bodies.
+#Tips3 Harpies are the most hated creatures in Aquador, their bites block any magical abilities.
+#Tips4 A character's spell power can be found by looking at the acceleration ability (boots on the spell panel).
+#Tips5 Irneate Boots can be obtained by purchasing Druid Boots, two Rings of Magic and a Scroll of Irneate Boots.
+#Tips6 Obtaining items through recipes and buying them are equivalent, but the assembly is more profitable, because during the collection of items you can use the accumulated artifacts.
+#Tips7 The griffin can hit and slow vampires in the form of bats.
+#Tips8 Control is powerless against Stone Spirit, Devil, enemy workers and magic immune units.
+#Tips9 The key combination ctrl+[ can select all unfilled mines.
+#Tips10 Elven armor is created from chain mail and a scroll with a recipe in any laboratory. 
+#Tips11 The effects of two Unicorn bracelets do not stack.
+#Tips12 The effects of the two Evil Eye bracelets are counted separately.
+#Tips13 Harpies can fly over water.
+#Tips14 Basilisk Gaze works even through spell immunity.
+#Tips15 The effects of the rings "Heart of the Dragon", "Rim of Fire", "Soul Catcher" do not stack.
+#Tips16 A quick attack at the very beginning of the game by workers is not the best way to commit suicide.
+#Tips17 Fairies make it easier to fight off a crowd of skeletons.
+#Tips18 To destroy a lot of conscripted units, use the "Absorption of Magic" spells.
+#Tips19 Защитить призывных юнитов от "Поглощении магии" можно "Магической защитой".
+#Tips20 You can protect draft units from Absorb Magic with Magic Defense.
+#Tips21 Boar riders slow down the enemy when they hit, use this in the battle against the hero.
+#Tips22 Towers cast spells automatically on the nearest group of units.
+#Tips23 If you can't break through enemy armor,\ there are always those who can reduce it: rats, golems, druids,\ and in RPGs, some hero weapons, as well as poison wave, acid, curse spells.
+#Tips24 If the fireball is hit as close to the center as possible, it will deal the most damage.
+#Tips25 There are several spells during which you can not move \ attack or cast others, otherwise it will drop insects \ fog of death, firestorm, thunderstorm.
+#Tips26 Invisibility is not revealed on hit or spell cast.
+#Tips27 At the beginning of the game, for 5 minutes, the RPG cannot attack the RTS, otherwise it will turn into a boar, \and the RTS will deal 50% less damage.
+#Tips28 Experience for killing a hero is given each time he dies,\ gold - only with complete destruction.
+#Tips29 You can use the hero's auras while under the effect of silence\ and during the casting of interrupted abilities.
+#Tips30 A decoction of sight can well prepare you for an attack from invisibility.
+#Tips31 Regeneration Brew will restore more health to you than Health Brew, but it takes time.
+#Tips32 Moving spells costs you mana, but only if you don't do it in your library.
+#Tips33 A hero can only have one attack modifier active at a time.\ Exception: One weapon has two modifiers. \If the source of the modifier is an item, then the last item picked up and equipped is applied.
+#Tips34 When collecting an item or spell from recipes, you will pay the same amount of money as for a direct purchase,\ but you can realize gold in component items and abilities.
+#Tips35 The basic indicators of the hero are his starting amount \health, damage, armor, etc., as well as the increases received for leveling up.\ Without taking into account items, abilities and effects.
+#Tips36 Gladiator's Anger, Flame Master's Sun ban, and Vampiressa's Bloodlust\ auras are attack modifiers, so they disable the modifiers/attacks of items (Including their weapons) when activated.
+#Tips37 You can learn about the presence of phantoms near you with the help of their aura.
+#Tips38 Most percentage gains from items only affect base stats (starting stats + bonus per level), and do not increase stats gained from other items.
+#Tips39 Invisibility effects from spells can be dispelled with the spell "Absorption Magic", "Potion of Invisibility" \ cannot be dispelled, only revealed using detection methods.
+#Tips40 Using the keyboard shortcut CTRL+P selects all unoccupied peasants.
+#Tips41 Using the keyboard shortcut CTRL+Z allows you to select all units of the same type on the map.
+#Tips42 Highlighting one type of unit displays their average HP.
+#Tips43 Level 1 magic drops from goblin shamans, harpies, and banshees.
+#Tips44 Level 2 magic drops from human mages, wyverns, large poisonous spiders, gnome sorcerers, and orc shamans.
+#Tips45 Level 3 magic drops from Wyrm, Salamander, Crystal Raptor, Bone Terror, and Ogre.
+#Tips46 Level 4 magic drops from Giant Salamander, Cyclops, Sphinx, and Elite Gravedigger.
+#Tips47 Tier 1 items drop from Large Desert Spider, Goblin Chieftain, Blind Chieftain, and Gnoll Chieftain.
+#Tips48 Tier 2 items drop from Draconid Chieftain, Minotaur,\ Orc Chieftain, Gravedigger, Ursunoid Chieftain, and Large Cave Spider.
+#Tips49 Tier 3 items drop from dragons, trolls, basilisks, thunder lords, and giant hammerers.
+#Tips50 Tier 4 items drop from Hydra, Devil, and Stone Spirit.
+#Tips51 Did you know that with the Del button you can move the camera away, \ and with the home button you can return the camera position? \ The Page Down button tilts the camera to the horizon, and the Page Up button puts it almost vertically.
+#Tips52 Using the keyboard shortcut ctrl+X selects all melee units (except peasants)
+#Tips53 Using the keyboard shortcut ctrl+P selects all peasants
+#Tips54 Using the keyboard shortcut ctrl+C selects all shooters (except peasants) 
+#Tips55 Using the keyboard shortcut ctrl+F selects all flying creatures
+#Tips56 Using the keyboard shortcut ctrl+D selects ships 
+#Tips57 Cheats for single player: farseer - reveal the whole map, \ beasts - gives access to creature spawn, \ fastupg - instant upgrades, \ treasure - gives 50,000 of each resource.
+#Tips58 After the destruction of the inhabitants of a neutral settlement, they will slowly reappear, \but they will no longer have their former treasures.
+#Tips59 The Leprechaun Medallion allows you to sell items for more and buy them for less.
+#Tips60  Сrystal of learning allows you to gain more experience.
+#Tips61 None of the unit stats from the original game remain in this patch.
+#Tips62 Tournaments are regularly held in our community, join us.
+#Tips63This mod was created for multiplayer, if you haven't joined our discord group yet, what are you waiting for? Invitation on our website hoaer.org
+#Tips64 Game modes allow you to play only the hero, only the base, with the choice of one or the other, and only on some maps you can play both the hero and the base at the same time.

@@ -1,0 +1,20 @@
+<NewAbility>
+ <Name>UW_aSumUImp_Fake</Name>
+ <FileID>Interf3\Ability\Ability3.00</FileID>
+ <SpriteID>4</SpriteID>
+ <EffectFileID>Interf3\Ability\Ability3.00</EffectFileID>
+ <EffectSpriteID>4</EffectSpriteID>
+ <HintName>#AuraDemona1.NAME</HintName>
+ <Hint>#AuraDemona1</Hint>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+</NewAbility>

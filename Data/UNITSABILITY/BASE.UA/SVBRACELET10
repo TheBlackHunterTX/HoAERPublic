@@ -1,0 +1,36 @@
+<NewItem>
+ <Name>SVBracelet10</Name>
+ <FileID>Interf3\Ability\goods_bracelet</FileID>
+ <SpriteID>15</SpriteID>
+ <FileID_Char>Interf3\Ability\goods_character_bracelet</FileID_Char>
+ <FileID_Inv>Interf3\Ability\goods_inventory_bracelet</FileID_Inv>
+ <EffectFileID>Interf3\Ability\goods_bracelet</EffectFileID>
+ <EffectSpriteID>15</EffectSpriteID>
+ <HintName>#SVBracelet10.NAME</HintName>
+ <Hint>#SVBracelet10</Hint>
+ <Type>ItemClothe</Type>
+ <GroundMD>
+  <UnitType>DropM2(IT)</UnitType>
+ </GroundMD>
+ <ShopPrice>200</ShopPrice>
+ <Amount>1</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+ <Conditions>
+  <umc_LifeLess>
+   <OperandType>Percent</OperandType>
+  </umc_LifeLess>
+ </Conditions>
+</NewItem>

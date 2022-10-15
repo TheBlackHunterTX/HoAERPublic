@@ -1,0 +1,14 @@
+<ua_SingleUnitAI>
+ <Name>suAI_MC_aRiseOfUndeads_Bon</Name>
+ <CastingRadius>500</CastingRadius>
+ <Abilities>
+  <suAI_Ability>
+   <UA>
+    <ClassName>NewAbility</ClassName>
+    <RefName>MC_aRiseOfUndeads_Bon</RefName>
+   </UA>
+   <MinTargetAmount>1</MinTargetAmount>
+   <TargetEnemy>true</TargetEnemy>
+  </suAI_Ability>
+ </Abilities>
+</ua_SingleUnitAI>

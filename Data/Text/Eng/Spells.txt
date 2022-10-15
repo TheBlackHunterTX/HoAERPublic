@@ -1,0 +1,680 @@
+#LEVELUP_HP_1 Increase health by 15
+#LEVELUP_HP_2 Increase health by 30
+#LEVELUP_HP_3 Increase health by 45
+#LEVELUP_HP_1+ Increase health by 20
+#LEVELUP_HP_2+ Increase health by 40
+#LEVELUP_HP_3+ Increase health by 60
+#LEVELUP_LETPASS Skip promotion, opening full list selection to next level
+#LEVELUP_ATTACK_1 Increase damage by 1
+#LEVELUP_ATTACK_2 Increase damage by 2
+#LEVELUP_ATTACK_3 Increase damage by 3
+#LEVELUP_ATTACK_1+ Increase damage by 2
+#LEVELUP_ATTACK_2+ Increase damage by 3
+#LEVELUP_ATTACK_3+ Increase damage by 4
+#LEVELUP_RANGE_1 Increase attack radius by 30
+#LEVELUP_RANGE_2 Increase attack radius by 55
+#LEVELUP_RANGE_3 Increase attack radius by 70
+#LEVELUP_SPEED_1 Add 4% movement speed
+#LEVELUP_SPEED_2 Add 6% movement speed
+#LEVELUP_SPEED_3 Add 8% movement speed
+#LEVELUP_FSPEED_1 Add 4% attack speed
+#LEVELUP_FSPEED_2 Add 6% attack speed
+#LEVELUP_FSPEED_3 Add 8% attack speed
+
+#LEVELUP_PARMOR_1 Increase piercing defense by 1
+#LEVELUP_PARMOR_2 Increase piercing defense by 2
+#LEVELUP_PARMOR_3 Increase piercing defense by 3
+#LEVELUP_CHARMOR_1 Increase defense against chopping damage by 1
+#LEVELUP_CHARMOR_2 Increase defense against chopping damage by 2
+#LEVELUP_CHARMOR_3 Increase defense against chopping damage by 3
+#LEVELUP_MARMOR_1 Increase magic resistance by 1
+#LEVELUP_MARMOR_2 Increase magic resistance by 2
+#LEVELUP_MARMOR_3 Increase magic resistance by 3
+#LEVELUP_CARMOR_1 Increase defense against crushing damage by 1
+#LEVELUP_CARMOR_2 Increase defense against crushing damage by 2
+#LEVELUP_CARMOR_3 Increase defense against crushing damage by 3
+#LEVELUP_PARMOR_1+ Increase piercing defense by 2
+#LEVELUP_PARMOR_2+ Increase piercing defense by 3
+#LEVELUP_PARMOR_3+ Increase piercing defense by 4
+#LEVELUP_CHARMOR_1+ Increase defense against chopping damage by 2
+#LEVELUP_CHARMOR_2+ Increase defense against chopping damage by 3
+#LEVELUP_CHARMOR_3+ Increase defense against chopping damage by 4
+#LEVELUP_MARMOR_1+ Increase magic resistance by 2
+#LEVELUP_MARMOR_2+ Increase magic resistance by 3
+#LEVELUP_MARMOR_3+ Increase magic resistance by 4
+#LEVELUP_CARMOR_1+ Increase defense against crushning damage by 2
+#LEVELUP_CARMOR_2+ Increase defense against crushning damage by 3
+#LEVELUP_CARMOR_3+ Increase defense against crushning damage by 4
+
+
+#LEVELUP_LREGEN_1 Increase health regeneration rate by 1
+#LEVELUP_LREGEN_2 Increase health regeneration rate by 2
+#LEVELUP_LREGEN_3 Increase health regeneration rate by 3
+#LEVELUP_LREGEN_1+ Increase health regeneration rate by 2
+#LEVELUP_LREGEN_2+ Increase health regeneration rate by 3
+#LEVELUP_LREGEN_3+ Increase health regeneration rate by 4
+#LEVELUP_MREGEN_1 Increase mana regeneration rate by 1
+#LEVELUP_MREGEN_2 Increase mana regeneration rate by 2
+#LEVELUP_MREGEN_3 Increase mana regeneration rate by 3
+#LEVELUP_MREGEN_1+ Increase mana regeneration rate by 2
+#LEVELUP_MREGEN_2+ Increase mana regeneration rate by 3
+#LEVELUP_MREGEN_3+ Increase mana regeneration rate by 4
+#LEVELUP_MANA_1 Increase mana by 15
+#LEVELUP_MANA_2 Increase mana by 30
+#LEVELUP_MANA_3 Increase mana by 45
+#LEVELUP_MANA_1+ Increase mana by 20
+#LEVELUP_MANA_2+ Increase mana by 40
+#LEVELUP_MANA_3+ Increase mana by 60
+#LEVELUP_VISION_1 Increase hero vision parameter +1
+#LEVELUP_VISION_2 Increase hero vision parameter +2
+#LEVELUP_VISION_3 Increase hero vision parameter +3
+
+FEAR_RNDM0 Ааааа... 
+FEAR_RNDM1 We all die!!!   Die...
+FEAR_RNDM2 О, no!
+FEAR_RNDM3 Too many of them!
+FEAR_RNDM4 They will kill me!
+FEAR_RNDM5 They are too strong!
+FEAR_RNDM6 I don't want to die!
+FEAR_RNDM7 Save yourself!
+#Kostil.NAME Crutch
+#Kostil Wow, you are sitting in the editor and found my crutch))) Good luck with creating the map, or what are you doing here?
+#BA_aDoNotCrush.NAME Merchant's protection
+#BA_aDoNotCrush Move 200 away from a neutral building to restore your spellcasting ability.
+#PushAll.Name Crushes enemies
+#PushAll Destroys enemy infantry in its path
+\\=================================-------------------------------------- SPELLS --------------===============================
+
+#MC_aSummonPeasants Summon workers to build a base.  The hero himself turns into a statue.
+#MC_aSummonPeasants.NAME RTS
+#MC_aNoSummonPeasants Continue playing as a hero (before that you need to sell the RTS card with a right click).
+#MC_aNoSummonPeasants.NAME RPG
+#RTSDEF.NAME Defense
+#RTSDEF The magic area is protected by the "RTS" spell, stay away until 5 minutes of playing time has passed from the summoning of the peasants.
+#RPGDEF.NAME Defense
+#RPGDEF The magic area is protected by the "RPG" spell,  stay away until 5 minutes of playing time has passed from the summoning of the hero.
+
+=======================T1=======================
+#SPELL_GENIESUMMON_DELETE Release the Genie - The caster releases the Genie into the wild.
+#SPELL_GENIESUMMON_DELETE.NAME Release the Genie
+#SPELL_CLAIRVOYANCE This spell opens the hero of the earth in a radius of 530 for 10 seconds, also reveals the invisibility of enemies for 30 seconds.  Cool Down - 2 sec.
+#SPELL_CLAIRVOYANCE.NAME Clairvoyance
+#SPELL_ASTRAL All creatures and heroes, in an area of ??400 around the hero, for 15 + 0.25sec / lvl.  become intangible, in this state they are invisible. But lowed down by 50%, unable to attack and use spells. The hero who used the astral restores 10 mana for each second of staying in the astral  Cool Down - 60sec.
+#SPELL_ASTRAL.NAME Astral
+#SPELL_FEAR Creates an area with a radius of 150 for 19sec.  Enemy warriors within the radius become uncontrollable for some time and run in fear at a speed increased by 25%.  Range of application - 550. Cool Down - 40sec.
+#SPELL_FEAR.NAME Fear
+#SPELL_FROST The hero creates a impassable block of ice (radius 100) for 2 seconds, the units caught in it are invulnerable, but cannot perform any actions, flying creatures will land. Range of application - 600. Cool Down - 40sec.
+#SPELL_FROST.NAME Frost
+#SPELL_INVISIBILITY A group of warriors within a radius of 200 becomes invisible for 25 + 0.2sec / lvl.  Invisibility disappears if the warrior attacks the enemy or casts a spell.  Enchanted warriors do not attack without orders.  Range of application - 300. Cool Down - 30sec.
+#SPELL_INVISIBILITY.NAME Invisibility
+#SPELL_STONESKIN The skin of all creatures in area 200 turns to stone for 20+0.5/lvl seconds, allied heroes and their summoned units increase their defense by 8+1/7 lvl from magic, 8+1/7 lvl from piercing, 2+1/7 lvl from crushing and 8+1/7 lvl from chopping. Enemy units are slowed by 25%, while flying units are slowed an additional 50%, and lose half their damage and land. Usage range - 500. CD - 30 seconds.
+#SPELL_STONESKIN.NAME Stone skin
+#SPELL_BERSERK Summoned units and heroes in a radius of 70 enter into a combat trance, which increases their strike power by 40% (heroes by 25%), but at the same time they pay less attention to defense (-20% to defense from everything).  Does not apply to units under the effect of the "Spirit of Battle" and "Spirit of War" spells.  Range of application - 600. Duration - 20 sec., Cool Down - 30 sec.
+#SPELL_BERSERK.NAME Berserk
+#SPELL_DECEIVEDEATH Increases the hero's armor by 35 units from piercing, crushing and chopping, and also grants 15 health regeneration every half second.  When the spell expires, warriors remain at 25 health.  Duration - 50 sec., Cool Down - 70 sec.
+#SPELL_DECEIVEDEATH.NAME Deceive Death
+#SPELL_STATUEOFOUTRAGE The hero creates a magic statue (health 500 + 10 / level, armor 0 + 1/6 lvl.), Which attracts the attention of all enemy soldiers within a radius of 200. They run to attack the statue, ignoring all orders.  Affects units with magic protection.  Doesn't work for heroes.  Casting range 600. Statue lifespan 60 sec.  Cool Down - 60 sec.
+#SPELL_STATUEOFOUTRAGE.NAME Statue of outrage
+#SPELL_SUMMONILLUSION An illusion appears next to the selected allied warrior.  The illusion resembles the original in everything, deals only 50% of the damage (damage from items and level is not taken into account) and cannot use spells.  The duration of the illusion's life is 30 seconds.  Range of application - 200. Cool Down - 15sec.
+#SPELL_SUMMONILLUSION.NAME Summon Illusion
+#SPELL_FLAMEAURA The selected warrior is surrounded by an aura of fire that inflicts damage on enemies of lvl 3 + 1/5 that are nearby.  Duration - 20 + 0.25sec. / Lvl., Cool Down - 20sec.
+#SPELL_FLAMEAURA.NAME Aura of flame
+#SPELL_LASTBREATH With the death of the enchanted warrior or for 12 seconds.  life force escapes from his body, causing damage to enemies 40 + 3 / lvl. and stunning them for 1.5sec (radius 120 + 2 / lvl.), can also infect warriors with disease for 10 + 0.2sec / lvl.  which deals 1 damage / 0.333 sec and slows down by 80%.  Cool Down - 25 sec.
+#SPELL_LASTBREATH.NAME Last breath
+#SPELL_PETRIFICATION The enchanted warrior transforms into a magical statue. The ground unit is stunned and invulnerable (except flying units, they are only stuned) for 20 seconds, and for 15 seconds if the target is a hero. Allied units and heroes restore 10 health per second. If this spell is cast on a building, it ceases to function. Range of application - 500. Cool Down - 50sec.
+#SPELL_PETRIFICATION.NAME Petrification
+#SPELL_TRAP The hero binds enchanted warriors in a 150 radius with ghostly chains for 15 + 0.334 sec / lvl, heroes for 5 sec.  Trapped warriors take 5 damage for every 2 seconds they are trapped, they cannot move, but they are still able to attack.  Attracts flying units (except for the polymorph dragon).  Range of application - 300. Cool Down - 30sec.
+#SPELL_TRAP.NAME Trap
+#SPELL_FOGOFDEATH The hero utters a magic formula and a poisonous fog (radius 250) begins to swirl over the ground, poisoning all living warriors, slowing them down by 45%, constantly receiving damage 7 + 1/10 lvl.  Corpses gradually revive under the influence of fog.  Warriors who have been in the fog lose their vitality for some time.  Range of application - 500. Cool Down - 30sec.
+#SPELL_FOGOFDEATH.NAME Fog of death
+#SPELL_ACID A stream of acid bursts out of the hero's hands.  Acid deals 40 + 1 / lvl.  damage to enemies, corrodes the armor and weapons of warriors, temporarily halving their attack and defense by 20 + 0.2 / lvl.  Range of application - 140. Cool Down - 40sec.
+#SPELL_ACID.NAME Acid
+#SPELL_LIFESTEAL The hero sucks the life of enemies around him, 10 ticks of 2 + 1/8 lvl, restoring himself 10 ticks for each enemy 6 + 10 / lvl health. Interrupted spell.  Cool Down - 40 sec.
+#SPELL_LIFESTEAL.NAME Life Steal
+#SPELL_EARTHFIST Under the effect of the spell, stone fists (no more than 4 fists) fall from the sky every 4 seconds into an area with a radius of 100, each dealing 30 + 1/3 lvl.  damage and stuns them for 3 seconds.  The fist can destroy buildings with damage 400 + 15 / lvl.  Range of application - 600. Cool Down - 40sec.
+#SPELL_EARTHFIST.NAME Earth fist
+#SPELL_POISONOUSWAVE The hero summons a wave of poisonous fog in an area with a radius of 80, which poisons enemies for 10x5 + 1/8 lvl.  damage, and reduces their attack and defense by 25%, lasts 10sec.  Range of application - 500. Cool Down - 10 sec.
+#SPELL_POISONOUSWAVE.NAME Poisonous wawe
+#SPELL_SUMMON The hero summons 5 rats (for 60 + 0.5sec / lvl).  With an increase in the level, the defense (+ 1/14 lvl.), Damage (+ 1/5 lvl.), Speed ??(+ 1/2 lvl.) And maximum health (+ 1 / lvl.) Of the summoned rats increase.  Cool Down - 15sec.
+#SPELL_SUMMON.NAME Summon Rats
+#SPELL_RAISEDEAD The hero revives the skeletons of long-fallen warriors.  16 + 1/1 lvl appear on the battlefield within a radius of 200.  living skeletons 30 + 0.25 / lvl.  sec.  Range of application - 400. Cool Down - 40sec.
+#SPELL_RAISEDEAD.NAME Raise dead
+#SPELL_CALLOFNATURE The caster summons forest dwellers to help himself (Dryads 9 + 1/5 lvl., Archers 9 + 1/3 lvl.), For 40 + 1 sec. / Lvl.  Cool Down - 60 sec.
+#SPELL_CALLOFNATURE.NAME Call of nature
+#SPELL_PLANTWALL In the place indicated by the hero, 4 predatory plants grow from the ground, living for 2 minutes (Health 40, Damage 7 + 1/5lvl., Armor (4 4 1 0) + 1/5 lvl.), Which spits at enemies with thorns.  Thorns Poison and Slow enemies by 5%.  Range of application - 700. Cool Down - 18 sec.
+#SPELL_PLANTWALL.NAME Poisonous flowers
+#SPELL_TREEOFLIFE A magical tree grows from the ground, which heals friendly warriors around it for 1 + 1/6 lvl.  every second and slows enemies down by 50%.
+#SPELL_TREEOFLIFE.NAME Tree of life
+#SPELL_GHOSTLYTOWER The hero summons a tower (health 2000+40/lvl), which attacks enemies with clots of dark energy (10+1/4 damage). The tower detects invisible enemies and reduces defense against a chopping damage by 50% within 800 radius, as well as increasing allied summoned skeletons' damage by 25%. The tower lasts for 60 seconds. Range of application - 300. Cool Down - 30sec.
+#SPELL_GHOSTLYTOWER.NAME Ghostly Tower
+#SPELL_CURSE Enemy troops affected by the curse in the area of ??120 increase by 22 + 0.1 sec / lvl.  lose 25% defense, their hits become 50% weaker, and health and mana regeneration is disabled.  Range of application - 400. Cool Down - 30sec.
+#SPELL_CURSE.NAME Curse
+#SPELL_MAGICSEEDS The hero throws magic seeds on the ground.  Seeds germinate for a while, after which 7 + 1 / 4lvl appear from the blossoming flowers.  dryads.  Faded plants go underground and lie there, waiting for the approach of enemies.  If the enemy steps on such a plant, it explodes, causing damage to all enemies around (30 damage).  Dryad damage 0 + 1 / 8lv.  Dryad Defense 0 + 1 / 14lv.  Cool Down - 30 sec.
+#SPELL_MAGICSEEDS.NAME Magic seed's
+#SPELL_PERSTILENCE Upon the call of the hero, a huge swarm of insects descends to the ground (in area 250), which sting enemies for 10 seconds every 2.5 seconds, slowing them down by 55% (lasts 3 seconds) and causing damage (4 + 1/8 lvl).  Does not work on flying enemies.  Range of application - 800. Cool Down - 40sec.
+#SPELL_PERSTILENCE.NAME Invoke insects
+#SPELL_BLINDNESS ПUnder the influence of this spell, the enemy warrior becomes blind and cannot attack anyone 10sec + 0.25sec / lvl.  if he is melee, and 20 + 0.25sec / lvl.  if distant.  Also reduces the view radius by 100%.  Range of application - 400. Cool Down - 60sec.
+#SPELL_BLINDNESS.NAME Blindness
+#SPELL_MINE The hero lays a mine, which becomes invisible and begins to act seven seconds after the mining is completed, the explosion deals 50 + 1/2 lvl.  damage in the area of ??100. If the enemy detects a mine, he can destroy it.  The duration of the existence of the mine is 10 minutes. Cool Down - 14 sec.
+#SPELL_MINE.NAME Mine
+#SPELL_GRENADE The hero throws a grenade that inflicts damage to all enemy soldiers around the crash site 45 + 1/4 lvl and stuns them (units for 3 sec., heroes for 3 sec.) Cool Down - 10 sec
+#SPELL_GRENADE.NAME Grenade
+#SPELL_MAGICWEAPON Weapons of allied heroes and summoned warriors in the selected area (100) become magical for 60 seconds. In addition, it increases the damage by 10%. Range is 600. Cool Down - 60 sec.
+#SPELL_MAGICWEAPON.NAME Magic weapon
+#SPELL_CRUSHINGWEAPON Weapons of allied heroes and summoned warriors in the area around the hero (300) for 60 seconds become crushing. Also increases damage by 10%. Cool Down - 60 sec.
+#SPELL_CRUSHINGWEAPON.NAME Crushing weapon
+#SPELL_ICEARROW The hero summons an ice arrow with a speed of 500, which slows down movement speed and attack speed by 40% for 15 seconds, and also deals 2 * damage (20 + 1 damage / level 2) on its way to all enemies.  Range 550 + 10 / lvl.  Cool Down - 30sec.
+#SPELL_ICEARROW.NAME Ice arrow
+#MC_aSquall.NAME Squall
+#MC_aSquall ncreases attack speed of targeted ally for 30 sec. By 0 + 1% / 2 lvl if the target is a hero, and by 60 + 1% / 2 lvl if the target is a unit.  Range of application - 400. Cool downD - 60 sec.
+#MC_aThorn.NAME Thorns
+#MC_aThorn 40% of each melee hit on the hero will also be dealt by the attacker. Duration 30 sec., Reload time 60 sec.
+
+=======================Т2=======================
+
+#SPELL_ABSORPTION Removes all magical effects in the specified area (radius - 350). The magical energy contained in the spells is transferred to the hero. Instantly kills summoned units and illusions (does not kill the bone golem, but dispels the effect). The range of application is 1000. Cool down - 30sec.
+#SPELL_ABSORPTION.NAME Absorption Magic
+#SPELL_FAIRYDUST.NAME Fairy Dust
+#SPELL_FAIRYDUST Golden dust appears in the hero's hand, which he blows away on the selected target (Range of use-600). After that, the target are silenced and slowed down by 30%. The duration of the effect is 20 seconds. Cool down - 60sec.
+#SPELL_CONTROL The enemy goes under the control of the hero for 20+0.5 sec. / level. The range of application is 350. Cool down - 40sec.
+#SPELL_CONTROL.NAME Control
+#SPELL_ICESPHERE The hero summons a ball of magical ice, which wounds (45+1/1 lvl. damage) and slows down enemies (by 80%, the duration of the deceleration is 10 sec.) on its way (path range 900+2/lvl, path width radius 80). Cool down - 65sec.
+#SPELL_ICESPHERE.NAME Ice Sphere
+#SPELL_GENIESUMMON The hero summons a genie (Health 290+10 /lvl, Damage 26+1/4 lvl, Defense (0/10/2/4) +1/8 lvl, Speed 50 units+1%/2 lvl, Has regeneration, attacks slow down the speed of movement and attacks by 30%). The gin feeds on its host's life force. Duration-120 seconds. Cool down - 150 sec.
+#SPELL_GENIESUMMON.NAME Genie summon  
+#MC_aMagicDef.NAME Magic defense
+#MC_aMagicDef Summoned units in the area of 400, for 20 seconds. gain 800 magic protection and cannot be killed by the Magic Absorption spell. The range of application is 500. Cool down - 45sec.
+#MC_aIllusions.NAME Summon Illusions
+#MC_aIllusions 3 + 1/8 level illusions appear around the hero with 50% of the base damage (item damage and level damage are not taken into account). The lifetime of illusions is 40sec. Cool down - 60sec.
+#MC_aIllusion_S.NAME Summon an Enhanced Illusion
+#MC_aIllusion_S Next to the chosen warrior, his illusion appears. The illusion is an exact copy of the original, except for the presence of abilities (damage from items and level is not taken into account). The duration of the illusion's life is 40 seconds. The range of application is 400. Cool down - 60sec.
+#SPELL_HURRICANE The hero summons a powerful hurricane within a radius of 600, causing damage to buildings (60+2/lvl per second) and flying creatures (1/5lvl per second). Slows down enemies by 30% (60% for flying) and reduces their attack radius. The duration of the hurricane is 21 seconds. The range of application is 400. Cool down - 90sec.
+#SPELL_HURRICANE.NAME Hurricane
+#SPELL_TORNADO The spell summons a tornado moving erratically over the ground. The tornado cripples the warriors who fall into it (30+1 / 6lvl.) and buildings (350+1/lvl.). The tornado's life span is 40+0.5 seconds / level. The range of application is 300. Cool down - 25sec.
+#SPELL_TORNADO.NAME Tornado
+#SPELL_INFECTION The hero infects enemy warriors with an unknown disease for 10+0.1 / level (duration on heroes is 8 seconds), from which they slow down by 50% (heroes by 80%) and gradually lose strength (2 health every 0.25 seconds). The disease is contagious, and spreads quickly in the ranks of the enemy. The range of application is 400. Cool down - 40sec.
+#SPELL_INFECTION.NAME Infection
+#SPELL_FIRESTORM When this spell is cast, the ground begins to burn, damaging enemy warriors 8 times (interrupting cancels subsequent uses), each 4 ticks of 8+1/9lvl damage, and setting buildings on fire 8 times (interrupting cancels subsequent uses), each 4 ticks of 40+4 / lvl damage. Interruptible spell. Cool down - 60sec.
+#SPELL_FIRESTORM.NAME Firestorm
+#SPELL_DIVINECALL The hero summons a powerful dragon to help him (damage 30, health 490+10/lvl). Dragon's life span is 80 sec. Cool down - 120sec.
+#SPELL_DIVINECALL.NAME Call of dragon
+#SPELL_SICCATION The hero creates a magical clot in the sky that resembles a lens. Sunlight, enhanced by the lens, sets the enemy on fire for 16 seconds, paralyzing him and inflicting 15 ticks (1 per second) each for 25+1/5 lvl pure damage. The range of application is 600. Cool down - 40sec.
+#SPELL_SICCATION.NAME Siccation
+#SPELL_RUNEOFFIRE The hero draws a rune on the ground that is invisible to enemies for 40 seconds. If it is attacked by an enemy warrior, the rune explodes causing 65+1/2 damage to all enemies around it (radius 100) and stuns them for 5 seconds. If the rune is discovered, it can be destroyed. The range of application is 500. Cool down - 16sec.
+#SPELL_RUNEOFFIRE.NAME Rune of fire
+#SPELL_EARTHQUAKE In an area with a radius of 200+2/lvl, an earthquake begins around the hero, in which up to 20 tremors occur (every second), destroying buildings with damage of 150+5 / lvl. Waves slow down the movement of ground troops by 70% (duration 2 seconds each push), causing them damage of 8+1/5 lvl. Interruptible spell. Cool down - 40sec.
+#SPELL_EARTHQUAKE.NAME Earthquake
+#SPELL_POLYMORPH With this slaying, you can turn another hero into a wild boar for 32 seconds (can't attack and use abilities, health 4000, speed 80) or turn yourself into a dragon for 64 seconds (health 3950+50 / lvl, damage 11+1/2lvl, speed 70, attack speed 44, attack radius 400). The dragon effect cannot be removed. Bonuses from items are valid after the transformation. Disables health and mana regeneration. The range of application is 500. Cool down - 160 sec.
+#SPELL_POLYMORPH.NAME Polymorph
+#SPELL_LIGHTNINGEYE The hero summons a magic eye that hovers above the ground and attacks enemies with lightning bolts (damage 25+1/4 lvl.) within a radius of 350. The eye detects invisible enemies within a radius of 600. The life span of the eye is 60 seconds. Range of application-700. Cool down - 60sec.
+#SPELL_LIGHTNINGEYE.NAME Lightning eye
+#SPELL_BONEGOLEM This spell collects a mighty golem from the bones of dead warriors within a radius of 400. The golem's health depends on the number and strength of fallen warriors within the spell's range. Golem Damage - 30+2/3 level. The golem's movement speed is 36 points+1% / level. The golem's life span is 150 seconds. Range of application-700. Cool down - 150 sec.
+#SPELL_BONEGOLEM.NAME Bone golem
+#MC_aArena.NAME Arena
+#MC_aArena The hero summons the overseer soldiers who form a circular arena with a radius of 200. Soldier damage 4+1/3lvl. Soldiers cannot die and cannot be destroyed by "Absorb Magic". Soldiers live for 22 seconds. Cool down - 60sec.
+#MC_aPostponeDeath.NAME Postpone death
+#MC_aPostponeDeath The allied target becomes invulnerable to any damage for 20 seconds, but dies at the end of the ability. The effect cannot be dispelled. Other invulnerability abilities cannot be applied to a unit under the influence of this spell. The range of application is 200. Cool down - 100sec.
+#SPELL_CELESTIALLIGHT The hero calls to the heavens, and a pillar of light hits the ground, destroying enemy demons and undead causing them 300+5 / lvl. damage and healing their warriors (if they are not demons or undead) for 300+5 / lvl. health. The range of application is 1000. Cool down - 60sec.
+#SPELL_CELESTIALLIGHT.NAME Celestial light
+
+#MC_aFireControl.NAME Fire control
+#MC_aFireControl The enemy goes under the control of the hero for 20+0.5 sec. / lvl, the unit burns the opponents causing them 7+1/4 lvl. damage. The range of application is 350. Cool down - 40sec.
+#MC_aStatueControl.NAME Statue control
+#MC_aStatueControl The enemy goes under the control of the hero for 20+0.5 sec. / lvl, provokes opponents around to attack him, also, increases armor +1/6lvl of target. The range of application is 350. Cool down - 40sec.
+#MC_aTreeArrow.NAME Arrow of life
+#MC_aTreeArrow The hero fires an arrow at a speed of 900, which deals 2*damage (30 + 1 damage/2 lvl) to all enemies in its path. In the selected area, a magic tree also grows, which heals friendly warriors around it for 1+1 / 6lvl. every second and slows down enemies by 50%. Range 550+10/level. Cool down - 25sec.
+
+=======================Т3=======================
+
+#SPELL_ANTIMAGICThe hero protects himself from enemy spells for 22 seconds. (if a melee hero) or 16 sec. (if a ranged hero), increasing your magic resistance by 20, gaining spell immunity. Cool down - 65sec. When activated, it disables the invisibility of the Invisibility Cloak item.
+#SPELL_ANTIMAGIC.NAME Antimagic
+#MC_aAntiMech.NAME Technogenesis
+#MC_aAntiMech Summons around him (radius 250) 5 + 1/5 lvl. unmanageable spirits that help destroy the hero's opponents, cause triple damage to ground mechanisms. The life span of the spirits is 80 seconds. Cool down - 80sec.
+#SPELL_LIGHTNINGSTORM Lightning strikes from the sky, stunning the target for 2 seconds, dealing 200+10 / damage if the target is not a hero, and 125+4/damage if the target is a hero. From the place where the lightning struck, electric discharges radiate out, damaging the enemies standing in the way and the main target for 50+5 / lvl damage. The range of application is 600. Cool down - 40sec.
+#SPELL_LIGHTNINGSTORM.NAME Lightning storm
+#SPELL_WHITEMAGIC All enemies within 700 radius each second take pure damage as a percentage of their maximum health, 5% - for heroes, 4% - for regular units and 2% - for large units, and all friendly warriors recover 4% of their maximum health/sec. The effect lasts for 15 seconds, but the Hero loses 60% of his health and CAN even DIE. Cool down - 150 sec.
+#SPELL_WHITEMAGIC.NAME White magic
+#SPELL_SPHERESOFMAGMA The hero creates a ball of hot magma that rolls away from him in a given direction. The ball deals heavy damage to all units (70+3/level) and buildings (700+25/level) standing in the way. After a certain time, the ball explodes with a damage of 150+6 / lvl. throwing enemies into a panic. The range of application is 500. Cool down - 70 sec.
+#MC_aDeceptionOfDeath.NAME Sphere of magma
+#MC_aSpiritOfBattle.NAME Spirit of battle
+#MC_aSpiritOfBattle Summoned units and illusions in area 210 receive +40% damage, 25% attack speed, and 25% movement speed for 30 seconds. Does not apply to units under the effect of the spell "Berserk" and "Spirit of War" Range - 600. Cool down - 30sec.
+#MC_aDeceptionOfDeath.NAME Deception of death
+#MC_aDeceptionOfDeath The allied target becomes invulnerable to any damage for 14 seconds, at the end of the ability, the target has 25 health points, and the target is superimposed with a fear effect lasting 4 seconds. The effect cannot be dispelled. Other invulnerability abilities cannot be applied to a unit under the influence of this spell. The range of application is 200. Cool down - 100sec.
+
+
+#MC_aHPolymorph.NAME Higher Polymorph (Non Drop)
+#MC_aHPolymorph In the selected area (radius 500), all enemy heroes turn into boars for 32 seconds (can not attack and use abilities, health 4000, speed 80) , you remove all effects and turn into a dragon for 80 seconds (health 3950+50 / lvl, damage 11+1/2lvl, speed 70, attack speed 44, attack radius 400). The dragon effect cannot be removed. Bonuses from items are valid during the transformation. Disables health and mana regeneration. Passive: You can't be turned into a boar with a normal polymorph. You can't transform into a dragon with a normal polymorph. The range of application is 500. Cool down - 160 sec
+
+=======================Т4=======================
+
+#MC_aStorm Around the hero begins a thunderstorm (radius 570), from the sky on the enemy warriors periodically hit lightning 1 + 1/30 lvl, causing them damage 100+2 / lvl and slowing them down by 25%. Cool down - 80sec.
+#MC_aStorm.NAME Storm
+#SPELL_FRACTURE The hero causes a rift around him, as a result of which the earth in a radius of 150 opens up, forming a bottomless abyss, into which soldiers, buildings and resources fall. The abyss is insurmountable for flightless creatures. At the end of the spell, the abyss disappears. Cool down - 150 sec.
+#SPELL_FRACTURE.NAME Fracture
+#SPELL_ANCIENTGHOSTS The hero summons ancient spirits (Health 35 + 2/lvl, damage (pure) 10 + 1/15 lvl) for 30 seconds. Spirits reveal invisibility. Max spirit amount - 18. Cool down - 120sec.
+#SPELL_ANCIENTGHOSTS.NAME Ancients spirits
+#SPELL_FIREWAVE A fire wave radiates from the hero in a ring (the radius of the ring is 500), damaging all enemies regardless of the amount of their protection from magic, 35+1 / 4lvl. per wave. Enemies who have received damage remain in fear for 2.8 seconds. Cool down - 100sec.
+#SPELL_FIREWAVE.NAME Fire wawe
+#SPELL_FIREBALL The hero summons a ball of fire, which explodes and deals damage (40+4 / lvl) to enemy warriors in the area (240). The explosion deals additional damage (60+7 / lvl) and temporarily stuns those who are too close to the center (within a radius of 140) for 3 seconds. Damage to buildings - 750+25/lvl. The range of application is 600. Cool down - 120 seconds.
+#SPELL_FIREBALL.NAME Fireball
+#MC_aSpiritOfWar.NAME Spirit of war
+#MC_aSpiritOfWar Summoned units and illusions in area 420 receive +140% damage, 60% attack speed, and 50% movement speed for 30 seconds. Does not apply to units under the effect of the spell "Berserk" and "Battle Spirit". The range of application is 600. Cool down - 30sec.
+
+
+
+
+
+#MC_aArena1.NAME Arena Control
+#MC_aArena1 The overseers control the battle process in the arena.
+#SPELL_POLYMORPHB You've been turned into a wild boar, but you can still run.
+#SPELL_POLYMORPHB.NAME Turning into a wild boar
+#SPELL_POLYMORPHD You are a dragon! Destroy everything in your path.
+#SPELL_POLYMORPHD.NAME Turning into a dragon
+#SPELL_THEFT A ghostly connection appears between the hero and the enemy building, through which the hero draws resources from the enemy's reserves. (as the level increases, the pumping speed increases).
+#SPELL_THEFT.NAME Theft
+#SPELL_NECROSIS Under the influence of this spell, enemies lose some of their life force. Warriors who die from this spell turn into zombies under the control of the hero. If the spell is applied to the undead, then it passes under the control of the hero. This spell also restores the wounded flesh of friendly undead (the radius of the spell increases as the level increases).
+#SPELL_NECROSIS.NAME Necrosis
+#SPELL_DECAY Above the corpses around the hero, a poisonous fog begins to swirl, causing damage to enemies and healing friendly undead. Corpses gradually evaporate (as the level increases, the damage and healing power increase).
+#SPELL_DECAY.NAME Decay
+***Ne nado***#SPELL_INCARNATION Развоплощение - Заклинатель указывает на группу воинов, которая бесследно исчезает. Владельцу юнитов возвращаются ресурсы, равные затратам на производство исчезнувших воинов (с ростом уровня увеличивается радиус действия заклинания)
+***Ne nado***#SPELL_ARROWSHIELD Щит стрел - Заклинатель призывает прозрачный купол, который защищает дружественных воинов от стрел (с ростом уровня увеличивается длительность и радиус заклинания)
+***Ne nado***#SPELL_AXESHIELD Щит топора - Маг окружает воинов прозрачным коконом, защищающим их от рубящего оружия (с ростом уровня увеличивается длительность и радиус действия заклинания)
+***Ne nado***#SPELL_CLUBSHIELD Щит булавы - Заклинатель создает призрачный доспех, который  защищает воинов от дробящего оружия (с ростом уровня увеличивается длительность и радиус действия заклинания)
+***Ne nado***#SPELL_MAGICSHIELD Щит магии - Заклинатель вызывает призрачный щит, который защищает воинов от вражеской магии (с ростом уровня увеличивается длительность и радиус действия заклинания)
+***Ne nado***#SPELL_VAGILEFIRE Блуждающие огни - Маг создает несколько огненных сфер, которые хаотически разлетаются от него в разные стороны. Огонь наносит повреждения всем вражеским воинам на своем пути (с ростом уровня увеличиваются повреждения и количество огоньков)
+
+
+\\ ==============================------------------------------       Auras        -----------------------------================================
+#HeroRunTemporarily increases the speed of movement.
+#HeroRunFighter Increases your movement speed by 30% (Duration 35sec, cool down-80sec) (can run the longest). Shows your spell power on hover.
+#HeroRunRanger Increases your movement speed by 40% (Duration 30sec, cool down-80sec) (can run faster than anyone). Shows your spell power on hover.
+#HeroRunWizard Increases your movement speed by 20% (Duration 20sec, cool down-40sec) (recovers strength faster than anyone). Shows your spell power on hover.
+
+\\ Amazonia
+#AuraRetribution.NAME Retribution
+#AuraRetribution With magical powers, the Amazon directs the enemy's anger against him. Damage inflicted by enemy warriors is returned to them.
+#AuraEquilibrium.NAME Equilibrium
+#AuraEquilibrium The Amazon is restoring the balance of nature's forces. Balance increases protection from the magic of friendly warriors, doubles the cost of summoning spells.
+#AuraHeroism.NAME Heroism
+#AuraHeroism A charismatic leader always defeats warriors to rush into battle. Heroism increases the damage and attack speed of allied warriors, but reduces their defense
+
+\\ Ranger
+#AuraTrueshot.NAME Wind Arrows
+#AuraTrueshot The wind blows from the back of the troops, causing the arrows to do more damage and fly further.
+#AuraLightwalk.NAME Light walk
+#AuraLightwalk The ranger and his troops move faster, and it is more difficult to hit them, but moving at this speed reduces the regeneration of health.
+
+\\ Druid
+#AuraInsects.NAME Insects
+#AuraInsects A swarm of insects appears around the druid, which lowers the attack and defense of enemies and deals them weak damage.
+
+\\ Death Knight
+#AuraAbsorption.NAME Absorption
+#AuraAbsorption Deals damage to his troops, restores the health of the death knight at the expense of the life force lost by his warriors.
+#AuraFear.NAME Fear
+#AuraFear Enemy warriors who have received damage from the death Knight may get scared and run away.
+#AuraDarkarmor.NAME Dark Armor
+#AuraDarkarmor Increases defense and attack, reduces the speed of friendly warriors.
+
+\\ Vampiress
+#AuraVampirism.NAME Vampirism
+#AuraVampirism Friendly warriors are treated by inflicting damage on the enemy. Resets the protection from magic to its warriors.
+#AuraBloodlust.NAME Bloodlust
+#AuraBloodlust The vampire gives the warriors an irrepressible thirst for blood. Increases the attack and reduces the defense of your warriors.
+
+\\ Necromancer
+#AuraNecromancy.NAME Ancient spirit
+#AuraNecromancy The Lich summons an ancient ghost to help (Health 35 + 5 / lvl, damage 12 + 1/2 lvl).
+
+\\ Barbarian
+#AuraFury.NAME Aura of Fury
+#AuraFury Rage boils up in the hearts of the warriors, causing their attack to increase, but their defense to decrease.
+#AuraIce.NAME Aura of Ice
+#AuraIce The hero is surrounded by such cold air that the enemies next to him slow down, their defense decreases.
+#AuraDestriction.NAME Aura of Destriction
+#AuraDestriction Friendly warriors next to the barbarian begin to deal crushing damage.
+
+\\  Valkirya
+#AuraThunder.NAME Aura Thunder
+#AuraThunder In anger, Valkyrie is able to hit her opponents with lightning strikes. Enemies near the Valkyrie take magical damage.
+#AuraWind.NAME Aura wind
+#AuraWind The wind surrounding the Valkyrie slows down enemies and increases the defense of its warriors from piercing weapons.
+
+\\  Archmage
+#AuraTransformation.NAME Energy transformation
+#AuraTransformation The mage transforms his life force into mana.
+
+\\ Geomancer - earth caster
+#AuraEarthPower.NAME Earth power
+#AuraEarthPower The ground attracts enemies, slowing them down and reducing their defense.
+
+\\ Artificer - expert on mechanisms and artifacts
+#AuraOverhaul.NAME Aura of overhaul
+#AuraOverhaul The technique around the master begins to recover by itself.
+#AuraJamming.NAME Jamming
+#AuraJamming The master creates a force field around him, which significantly reduces the attack of enemies.
+
+\\ Enforcer  - a heavily armed warrior using various mechanical killing tools.
+#AuraDynamite.NAME Dynamite
+#AuraDynamite The mechanic supplies his warriors with dynamite sticks. Each dying friendly warrior explodes, causing damage to all enemies around.
+#AuraSmokeScreen.NAME Smoke screen
+#AuraSmokeScreen The smoke bomb is a great defense against enemy archers. Damage caused by enemy arrows is reduced.
+#AuraGasStrike.NAME Gas strike
+#AuraGasStrike The mechanic summons a cloud of toxic gas, poisoning everyone around.
+
+
+\\ Gladiator
+#HA_aAnger.NAME Anger
+#HA_aAnger МAttack modifier: After hitting an enemy, the hero gains +70% damage and a 50% armor penalty for 3 seconds. Duration 20 sec, cool down - 40 sec.
+#HA_aPowerOfTheSun.NAME The power of the sun
+#HA_aPowerOfTheSun Allies within a radius of 400 receive bonuses to maximum health + 20% Duration 20 sec, cool down - 40 sec.
+
+\\High priest
+#HA_aFlash.NAME Flash
+#HA_aFlash The hero blinds enemies within a 400 radius around him, causing them to miss with a 40% chance. Duration 20 sec, cool down - 40 sec.
+
+\\Flame Master
+#HA_aSilenceAttack.NAME Sun Ban
+#HA_aSilenceAttack Attack Modifier: Attacking enemy Heroes prevents them from using abilities for 4 seconds. Also increases your damage by 10%. Duration 20 sec, cool down - 40 sec.
+#HA_aEnergyOfTheSun.NAME Energy of Sun
+#HA_aEnergyOfTheSun СThe sun provides additional energy for casting spells, which reduces mana cost by 50%. Duration 20 sec, cool down - 40 sec.
+
+\\ Units
+#AuraHypnosis.NAME  Hypnosis
+#AuraHypnosis With each attack, there is a 30% chance to hypnotize up to 3 enemies. The hypnotized warriors are inactive for a half second. Does not affect heroes.
+#AuraTrample.NAME Trample
+#AuraTrample Can trample enemy infantry, just passing through the enemy ranks.
+#AuraBrotherhood.NAME Brotherhood
+#AuraBrotherhood Adds 10 Health points to all Yetis and community leaders who fall within the Aura's range.Radius-600. The effects of auras add up.
+#AuraIceBreath.NAME  Ice breath
+#AuraIceBreath Slows down hit enemies by 33%, as well as reduces their attack speed by 33%. This effect lasts 1.5 seconds.
+#AuraWordofIce.NAME Word of Ice
+#AuraWordofIce Word of Ice-slows down hit enemies by 15% (5% for heroes), as well as reduces their attack speed by 15% (5% for heroes). This effect lasts 1.5 seconds. The effects add up.
+#UA_IceGolem_Degeneration.NAME Melt
+#UA_IceGolem_Degeneration Loses 20 health points every second.
+#UA_IceGolem_Regeneration.NAME Cooling down
+#UA_IceGolem_Regeneration Restores 20 health points every second (only in snowy lands).
+#AuraPowerofSnows.NAME Power of Snows
+#AuraPowerofSnows Regenerates 10 health points every 3 seconds.
+#AuraMagicImmune.NAME Magic Immune
+#AuraMagicImmune Immune to all magical effects and spells.
+#AuraAutorepair.NAME Autorepair
+#AuraAutorepair Regenerates 2 health points per second (only in Mechanic territory).
+#AuraMud.NAME Mud
+#AuraMud Slows down the attack speed of the enemy you hit by 25%.
+#AuraCloudofFear.NAME Cloud of Fear
+#AuraCloudofFear Enemies attacked by the dracolich in 40% of cases run away in a panic.
+#AuraDeathblow.NAME Deathblow
+#AuraDeathblow 30% chance to strike 2 times in a row.
+#AuraImmunity.NAME Aura Immunity
+#AuraImmunity Reduces by 2 the defense of all enemies within range (600). The effects of auras add up.
+#UW_aUndULic_Poison.NAME Breath of Death
+#UW_aUndULic_Poison Slows affected enemies by 10% (4% for heroes) and deals 1/0.5 sec. intermittent damage. Duration - 1.6 sec. Effects add up.
+#AuraNecromancy.NAME Necromancy
+#AuraNecromancy Raises skeletons from the corpses of warriors.
+#AuraBonePower.NAME Bone power
+#AuraBonePower Every 6 seconds a skeleton-captain resurrects 3 skeletons in a 180 radius.
+#UA_Zombie_Speed.NAME Invasion of the Dead
+#UA_Zombie_Speed Increases the movement speed of zombies by 60% on undead territory.
+#AuraVampirism1.NAME Vampirism
+#AuraVampirism1 Vampirism - very high speed and defense, flying, can't attack.
+#AuraVampirism2.NAME Vampirism
+#AuraVampirism2 The vampire drains some of the life energy from the enemy it attacks, restoring its own health. Vampirism 35% of the damage dealt.
+#AuraTransformation1.NAME Transformation
+#AuraTransformation1 Transformation - high-speed movement, melee unit with regeneration.
+#AuraTransformation2.NAME Transformation
+#AuraTransformation2 Transformation - shooter, defenseless in hand-to-hand combat.
+#AuraFortitude.NAME Fortitude
+#AuraFortitude Regenerates 3 units of life per second.
+#AuraIreofNature.NAME Ire of nature
+#AuraIreofNature Increases the magic defence (+2) and movement speed (+8%) of all friendly warriors who are affected by the aura within a radius of 600. The effects of auras add up.
+#AuraRoots.NAME Roots
+#AuraRoots Entwines all enemies within a radius of 250 around the ent with its roots. Entangled warriors are motionless for 15 seconds. Cool down - 30sec.
+#AuraMightofUrsa.NAME Might of Ursa
+#AuraMightofUrsa Adds 50 Health points and 3 attacks to those affected by the aura. The effects of auras add up.
+#AuraWoundHealing.NAME Wound healing
+#AuraWoundHealing Restores 35 health points to friendly warriors.
+#AuraOrcsFury.NAME Orcs Fury
+#AuraOrcsFury All Orcs affected by the aura receive +2 attack bonus. The effects of auras add up.
+#AuraPlague.NAME Plague
+#AuraPlague Reduces the attack of a bitten warrior by 60% and slows the movement speed by 60%. The effect lasts for 20 seconds.
+#AuraPlague1.NAME Plague
+#AuraPlague1 Reduces the attack of the bitten hero by 60% and slows down the movement speed by 60%. The effect lasts for 10 seconds.
+#AuraRatAttack.NAME Rat bite
+#AuraRatAttack Reduces the defense against everything by 1 if the target is a unit, and by 2 if the target is a hero, valid for 4 seconds.
+#AuraRevenge.NAME Revenge of the Giant Desert Spider
+#AuraRevenge After the death of a large desert spider, all other spiders gain +100% movement speed and +50% attack speed. The effect lasts for 20 seconds.
+#AuraRevenge_s.NAME Revenge of the Desert Spider
+#AuraRevenge_s After the death of a desert spider, all other spiders gain +20% to their movement speed and +10% to their attack speed. The effect lasts for 20 seconds.
+#AuraRevenge1.NAME Revenge of the Giant Cave Spider
+#AuraRevenge1After the death of a large cave spider, all other spiders receive +7 damage. The effect lasts for 20 seconds.
+#AuraRevenge_s1.NAME Revenge of the Cave Spider
+#AuraRevenge_s1 After the death of a cave spider, all other spiders receive +2 damage. The effect lasts for 20 seconds.
+#AuraDemise1.NAME Venom glands
+#AuraDemise1 After the death of a venomous spider, all nearby enemies lose 25 lives.
+#AuraDemise.NAME Venom glands
+#AuraDemise After the death of a large venomous spider, all nearby enemies lose 75 lives.
+#AuraWindStrike.NAME Wind strike
+#AuraWindStrike When hit, it reduces the movement speed by 75%, and the attack speed by 50%. The effect lasts for 3 seconds.
+#AuraWindStrikeW.NAME Wind strike
+#AuraWindStrikeW When hit, it reduces the movement speed by 10%, and the attack speed by 5%. The effect lasts for 5 seconds. The effects add up.
+#AuraEarthStrike.NAME Earth strike
+#AuraEarthStrike When hit with a 50% chance, it stuns the enemy for 3 seconds. A stunned warrior does not move or attack.
+#AuraIceStrike.NAME Ice strike
+#AuraIceStrike When hit, it reduces the defense and attack by 2 times. The effect lasts for 3 seconds.
+#AuraFlameStrike.NAME Flame strike
+#AuraFlameStrike There is a 30% chance that the damaged enemy will run away in terror (duration 5 sec). On heroes, the duration is 1 second, and the chance of fear is 15%.
+#AuraRuse.NAME Ruse of goblins 
+#AuraRuse All goblins affected by the aura receive a +1 attack bonus. If the chief is killed, there is a panic among the goblins. The effects of auras add up.
+#AuraRaiseDead.NAME Raise dead
+#AuraRaiseDead Resurrects fallen goblins.
+#AuraTricks.NAME Gnoll Tactics
+#AuraTricks All gnolls affected by the aura receive +2 attack bonus. If the chief is killed, there is a panic among the gnolls. The effects of auras add up.
+#AuraRunePower.NAME Rune Power
+#AuraRunePower All dwarves affected by the aura gain +3 to attack and +2 to defend.
+#AuraHarpy.NAME Cry of the Harpy
+#AuraHarpy Breaks concentration, taking away the ability to cast spells, and reduces the mana recovery rate by 10 units (if this indicator is less than 10, then the mana begins to gradually decrease). The effect lasts 10 seconds on heroes and 60 seconds on normal units.
+#AuraHellhound.NAME Fire of the Underworld
+#AuraHellhound Burns out the mana of the hero it attacks. With each hit, the enemy loses 30 mana points.
+#AuraBasiliskPetrify.NAME Look of Basilisk
+#AuraBasiliskPetrify Turns the enemy into a stone statue, while increasing the enemy's armor. The effect lasts for 10 seconds.
+#AuraVasyaLook.NAME Look of Basilisk
+#AuraVasyaLook Turns the enemy into a stone statue. The effect lasts 4 seconds on heroes, 8 seconds on units, and 2 seconds on targets under the Anti-Magic spell effect. Lands flying units. The range of application is 500. Cool down - 12 sec.
+#AuraVasyaRegen.NAME Basilisk Regeneration
+#AuraVasyaRegen The Basilisk recovers 1 health every second.
+#AuraGravedigger.NAME Grave gloom
+#AuraGravedigger Turns dead enemies into undead. Partially restores his health at the expense of killed enemies.
+#AuraRunePowerMec.NAME Rune Power
+#AuraRunePowerMec Boosts the Dwarf mechanics around (radius 900), +1 to max life of the Dwarf warriors and the Dwarf militia. The effects of auras add up.
+#SPELL_CLAIRVOYANCE_T.NAME Telescope
+#SPELL_CLAIRVOYANCE_T Tower points your telescope at the selected area (530) to reveal hidden lands for 10 seconds, also reveals the invisibility of enemies for 30 seconds. Cool down - 20sec.
+#Explosion.NAME Concussion
+#Explosion Concussion (-50%/-50% attack and movement speed for 3 seconds))
+#Lower_damage.NAME Lowering the attack
+#Lower_damage Attack Reduction-Reduces attack by 3, defense by 2, and movement speed by 20%
+#UA_aScaryTower.NAME Scary Tower
+#UA_aScaryTower Reduces chopping defense by 50% to all enemies within 800 radius, and increases damage to allied summoned skeletons by 25%.
+#AuraDemona.NAME Demonic activity
+#AuraDemona Disables the health regeneration of heroes within a radius of 200 around them.
+#UA_aDruUGri.NAME Greatness of the Gryphon
+#UA_aDruUGri Reduces the movement speed of flying units by 30% (from the current one) in a radius of 300 around the gryphon. Works through immunity to magic.
+#SPELL_RAISEDEAD_BON Bone Horror raises 16 skeletons from once-dead warriors every 30 seconds. Skeletons live for 30 seconds. Skeletons enhance Bone Horror indicators.
+#SPELL_RAISEDEAD_BON.NAME Fallen Bones
+#AuraBonePower_Bon.NAME Bone Power
+#AuraBonePower_Bon Skeletons summoned by Bone Horror strengthen him, increasing his defense by 1.
+#UA_eSpiderNet.NAME Catch in the web
+#UA_eSpiderNet A large cave spider throws a web in area 60, the web prohibits units from moving, flying units land. Duration of stay in the web - 8 seconds. Cool down - 8sec
+#UA_aBlindmanChief.NAME Blindman Chief
+#UA_aBlindmanChief Increases the attack speed of Blind Men and Blind Leaders by 15%.
+#ABILITY_FLAMEAURA The salamander burns nearby enemies (radius 100), dealing 12 damage to them.
+#ABILITY_FLAMEAURA.NAME Flame Aura
+#ABILITY_FLAMEAURAB The giant salamander burns nearby enemies (radius 200), dealing 30 damage to them.
+#ABILITY_FLAMEAURAB.NAME Flame Aura
+#UA_aHydra.NAME The Lost Head
+#UA_aHydra Hydra gains a damage bonus (25) for every 12% of health lost.
+#UA_aEleUSto.NAME Destroyed layers of ancient stone
+#UA_aEleUSto The destruction of ancient stone layers reduces the protection of the stone spirit: for every 10% of the lost strength, the stone spirit loses 10 protection.
+#UW_aUdeUBan.NAME Cry of Banshee
+#UW_aUdeUBan Shout of a banshee reduces damage by 20% of current damage, duration 5sec. Damage reduction effects stacks.
+#UA_aPhantom_OE.NAME The Phantom Feeling
+#UA_aPhantom_OE Decreases the ability of enemies to dodge attacks by 40% (from current), also reveals enemies invisibility. Radius - 1000.
+#UW_aDjin_Freezee.NAME Freezy
+#UW_aDjin_Freezee. Genie attacks slow movement speed and attack speed by 30%
+
+
+
+#Bottle9_Slow.NAME Poisoning
+#Bottle9_Slow Reduces movement speed by 20%, and deals damage over time. Lasts for 4 seconds. The effects of poisoning add up.
+#UW_aSpiderSlow.NAME Poisoning
+#UW_aSpiderSlow Reduces movement speed by 15%, and deals damage over time. The effects of poisoning add up.
+#UW_aSpiderSlow1.NAME Poisoning
+#UW_aSpiderSlow1 Reduces movement speed by 5%, and deals damage over time. The effects of poisoning add up.
+#UW_aSlow.NAME Poisoning
+#UW_aSlow Reduces movement speed by 35%, lasts 3.5 seconds.
+#UW_Poison.NAME Poisoning
+#UW_Poison Reduces movement speed by 5%, and deals damage every half second. Lasts for 6 seconds. The effects of poisoning add up.
+
+#DemonCurse.NAME Demon curse
+#DemonCurse Strikes additionally remove 8% of the target's current health.
+#AuraDemona1.NAME Demonic activity
+#AuraDemona1 Reduces the heroes ' health regeneration by 20% (from the current one) for 4 seconds.
+
+\\ Items
+
+#IW_aMin1UndHVam.NAME Poison from the claws
+#IW_aMin1UndHVam Vampiress has dealt you damage with venom-laced claws, causing you to slow down by 20% and take 1 damage every 0.4 seconds for 4.8 seconds. The effects of poisoning add up.
+#IW_aMaj2MecHGeo.NAME Power of the Emerald
+#IW_aMaj2MecHGeo You are affected by the weakening power of the emerald, which causes you to slow down by 20% and take 1 damage every 0.4 seconds for 4.8 seconds. The effect adds up.
+#AuraGravedigger1.NAME Reaper absorbs you!
+#AuraGravedigger1 Your health regeneration is absorbed by the Reaper. The effect lasts 16 seconds.
+#AuraGravedigger2.NAME Reaper Gift
+#AuraGravedigger2 Reaper grants you a charge that increases life regeneration (+12) for 16 seconds. Effect stacks. Effect cannot be dispelled. Death Mask does not disable regeneration from Reaper's Gift.
+#IW_aBash_8_UndHVam.NAME Embrace of Death
+#IW_aBash_7_MecHArt.NAME Techno-hammer
+#MC_aDesease_Damage_8_UndHLic.NAME Desease
+#MC_aDesease_Damage_8_UndHLic.NAME Pestilence attacks infect the disease for 5 seconds, causing the target to slow down by 80% and take 4 damage every 0.25 seconds, each second the disease spreads to the other two units with a 25% chance.
+#UW_aConjurer_Freeze_8_IceHArc.NAME Archmage's Staff
+#UW_aConjurer_Freeze_8_IceHArc Archmage Staff attacks slow down hit enemies by 15%, as well as reduce their attack speed by 15%. This effect lasts for 5 seconds. The effects add up.
+#IW_aMadness_8_IceHBar.NAME Blades of Madness
+#IW_aMadness_8_IceHBar Each attack increases the barbarian's damage (by 6) and attack speed (by 2%), but reduces the maximum health by 2%. The duration of a single charge is 13 seconds. The effect adds up. The effect cannot be dispelled.
+#IW_aLightning_8_IceHVal.NAME Lightning
+#IW_aLightning_8_IceHVal Valkyrie's Lightning Attacks summon lightning that deals 1/3lvl pure damage to a single opponent.
+#IW_aHammer_8_MecHArt.NAME Hammer of the Foothill Kings
+#IW_aHammer_8_MecHArt Hammer of the Submountain Kings attacks increase the Wizard's crushing damage by 5 units (duration 18 seconds, cannot be dispelled) and reduce opponents' defense against crushing damage by 5 units (duration 18 seconds, can be dispelled).
+#AuraGeomancer.NAME Mithril Scepter
+#AuraGeomancer Your attacks have a 20% chance of stunning your opponents for 2 seconds. A stunned warrior does not move or attack.
+#IW_aFear_8_SolHArc.NAME Fire poloz
+#IW_aFear_8_SolHArc Fire poloz attacks with a 20% chance of causing enemies to be scared and run away at an increased speed (+30%) for 1.5 seconds.
+#Ama_T8.NAME Seal-ring of fate
+#Ama_T8 You are rooted and your defense against magic is reduced by 60%
+#IW_aCrusher_8_SolHGla.NAME Crusher
+#IW_aCrusher_8_SolHGla Your armor is damaged by the "Crusher", -100% to protect against physical attacks, for 10 seconds.
+#IW_aHealWand_8_SolHPyr.NAME Curse of the Caduceus
+#IW_aHealWand_8_SolHPyr Reduces health regeneration (-2) and magic defense (-4), and if the target is an undead or demon, additionally reduces damage (-2). The duration of a single charge is 20 seconds. The effect adds up.
+#IW_aHealWand_Heal_8_SolHPyr.NAME Gift of the Caduceus
+#IW_aHealWand_Heal_8_SolHPyr Increases health regeneration (+2) and Magic Protection (+4) for 20 seconds. The effect adds up.
+#IW_aDefReduce_Ring11.NAME Lich Ring 
+#IW_aDefReduce_Ring11 Units within a radius of 600 around the hero lose protection from everything (every second, for 1 second). The effects of multiple rings are summed up.
+#IW_aRing19.NAME Berserk Ring
+#IW_aRing19 Attacks increase your damage (+1 for rangers and +2 for melees) and attack speed (+4%), but reduce your defense against everything (-1). The duration of a single charge is 4 seconds. The effect adds up.
+#IW_aSummons_Ring22.NAME Black Ring
+#IW_aSummons_Ring22 Increases the damage (+2) and defense (+1) of your allies by 6 seconds every 6 seconds. The range is 600. The effect adds up.
+#Ring23.NAME Wind Power Ring
+#Ring23 Increases the speed of movement of allies by 5% within a radius of 600. The effect of the speed aura from multiple rings does not add up.
+#IW_aMaxLife_Ring28.NAME Ring of Life
+#IW_aMaxLife_Ring28 Increases the health of allied heroes and summoned creatures by 50 within a radius of 600. The effect does not add up.
+#Ring30.NAME Fire Rim
+#Ring30 The owner passively sets enemies on fire every second (within a radius of 150 around him), dealing 15 pure damage to units and 38 heroes. The fire effect does not add up from multiple rings.
+#IW_aBracelet11.NAME Cold Flame Bracelet
+#IW_aBracelet11 Increases the damage of allies by 15% within a radius of 600. The aura effect does not add up.
+#IW_aBracelet16.NAME Unicorn Bracelet
+#IW_aBracelet16 Increases the speed of movement of allies (by 8%) and magic defence (by 2) within a radius of 600. The aura effect does not add up.
+#Helm8B.NAME Mask of Death
+#Helm8B Wearing a mask every second disables health regeneration for 30 seconds.
+#IW_Gloves7_aSpiders.NAME Spider Gloves
+#IW_Gloves7_aSpiders The life span of spiders is 5 minutes.
+#IW_aMedalion6c_OF.NAME Marksmanship star
+#IW_aMedalion6c_OF You can't miss.
+#IW_aMedalion6c_OE.NAME Marksmanship star
+#IW_aMedalion6c_OE You can't dodge it.
+#IW_aMedalion9_A.NAME Amulet of Weakening
+#IW_aMedalion9_A Your pure damage is reduced by 50%
+
+#Altar_attack.NAME Monolith Attacks
+#Altar_attack Increases the attack of the warriors by 5.
+#Altar_defence.NAME Monolith of Protection
+#Altar_defence Increases the warriors ' defense by 5.
+#Altar_regeneration.NAME Runestone
+#Altar_regeneration Increases the hero's mana and health recovery by 5 times.
+#Altar_rage.NAME Stone of the Ancients
+#Altar_rage Increases the hero's movement and attack speed by 50%.
+#Bonus_fontain.NAME Magic Spring
+#Bonus_fontain Restores the hero's health (300) and Mana (120).
+(UNITS)\EFFECTS\EFFLANDMINE.MD Mine
+(UNITS)\EFFECTS\EFFLANDMINE.MD.HINT A mine filled with combustible sand. It will explode if an enemy steps on it, causing great damage to everyone around it. The mine is invisible to opponents.
+(UNITS)\EFFECTS\EFFRUNEOFFIRE.MD Rune of Fire
+(UNITS)\EFFECTS\EFFRUNEOFFIRE.MD.HINT An invisible magic symbol. If it is attacked by an enemy, the rune explodes, causing damage to all enemies around it. If the rune is discovered, it can be destroyed.
+(UNITS)\EFFECTS\EFFLIGHTNINGEYE.MD Eye of Lightning
+(UNITS)\EFFECTS\EFFLIGHTNINGEYE.MD.HINT Magic eye attacks enemies with lightning bolts, is able to detect invisible enemies.
+(UNITS)\EFFECTS\EFFBAPL.MD Tree of Life
+(UNITS)\EFFECTS\EFFBAPL.MD.HINT The magic tree heals friendly warriors around it and slows down enemies. Strong trees can resurrect fallen warriors.
+
+#To_Vampire.NAME Reincarnate
+#To_Vampire Reincarnate-Take the form of a vampire.
+#To_Bat_Vampire.NAME Reincarnate
+#To_Bat_Vampire Reincarnate-Take the form of a bat
+#UA_aRaiseSkeleton.NAME Raise the Skeleton
+#UA_aRaiseSkeleton Raise the Undead-A Necromancer performs a ritual by summoning a skeleton from the ground.
+#ToArcher.NAME Reincarnate
+#ToArcher Reincarnate-Take the form of a person.
+#AuraTransformation1.NAME Reincarnate
+#AuraTransformation1 Reincarnate-Take the form of a wolf.
+
+//R3.0
+//Sols spells
+#UW_ASOLUSCOSLOW.NAME Venomous Sting
+#UW_ASOLUSCOSLOW Sting attacks, slow down the target by 20% and deal it 1 damage every 0.8 seconds (total 5 damage), the effect lasts 4 seconds.
+#UW_ASOLUGSCSLOW.NAME Venomous Sting
+#UW_ASOLUGSCSLOW Sting attacks, slow down the target by 20% and deal it 2 damage every 0.8 seconds (total 10 damage), the effect lasts 4 seconds. Works through protection from magic.
+#UA_aSolUClePure.NAME Holy Radiance
+#UA_aSolUClePure Clerics attacks ignore magic defenses.
+#UA_aSolUCleHeal.NAME A blessing
+#UA_aSolUCleHeal Clerics restore health to wounded ground units.
+#UA_aSolUSph.NAME Guardian Barrier
+#UA_aSolUSph Enemy and neutral units passing through the solar barrier (radius 200) are called to attack the Guardian Sphinx. Works on units with magic protection. Doesn't work for heroes.
+#WA_SolUPri_Osleplenie.NAME The power of the sun
+#WA_SolUPri_Osleplenie Priest attacks with a 5% chance cause enemies to miss for 1.5 seconds.
+
+//attack Modifiers of Sols
+#UW_aSolBTow.NAME Arson
+#UW_aSolBTow The target that is set on fire loses health. -1 every second for 4 seconds.
+#UW_aSolBDra.NAME Arson
+#UW_aSolBDra The target that is set on fire loses health. -3 every second for 4 seconds.
+
+//Auras
+//Attack Modifiers
+//Spells
+
+//TRANSLATE IS ERROR? No, no, I just wrote in invisible ink
+
+''''''''''''''#MC_aDisappearance.NAME Исчезновение (нужен адекватный инвизиз 2.0, а так она готова)
+''''''''''''''#MC_aDisappearance Герой частично переносится в астральное измерение на 15сек, в таком состоянии он пребывает в невидимости (не раскрывая её при атаках) и получает +20% к скорости атаки, но не может использовать заклинания. Герои дальнего боя теряют возможность передвигаться, герои ближнего боя замедляются на 50% Кд - 40сек.
+
+''''''''''''''#MC_aDematerialization.NAME Дематериализация (Чёрная картинка с белыми частицами)
+''''''''''''''#MC_aDematerialization. Герой пытаясь перейти в астральное измерение застрявает в пространстве на 40сек, из-за чего его нельзя выбрать целью заклинания но он всё ещё уязвим, разрыв измерений искажает сущность героя из-за чего тот получает одну из случайных прибавок каждые 4 секунды к скорости атаки (20%), урону (20%), силе заклинаний (20%), скорости передвижения (20%) или же вовсе неуязвимость. Длительность прибавок - 4 сек. Кд - 60сек.
+''''''''''''''рецепт Исчезновение 1200 + АМ 1200 + рецепт 100, сума 2500
+
+''''''''''''''Астральный мир (белая картинка с чёрными частицами) Исчезновение 1200 + АМ 1200 + 700 поглощение магии + 100 рецепт? сума 3200
+''''''''''''''Герой переходит в астральное измерение на 9сек, в таком состоянии он неуязвим к магии и ничто не может увидеть его, а он может атаковать противников из него с дополнительной скоростью атаки +60%, но не может использовать заклинания. Кд - 40сек.
+
+'''''''''''''' Невидимости, обычная в прозрачную как верхняя часть картинки, новые:
+'''''''''''''' Невидимость Мистического Леса (зелёная), +40% к увороту во время действия невидимости. відхіл
+'''''''''''''' Невидимость Острых Волн (синяя) следующая абилка не требует маны, пассивно даёт 10 к силе заклинаний
+'''''''''''''' Невидимость Зачарованных Ветров (белая) +15%к скорости перемещения
+'''''''''''''' Невидимость Адского Огня (красная) атака из невидимости наносит пятикратный урон
+'''''''''''''' Невидимость Твёдой Скалы (коричневые?) во время невидимости +12% к макс здоровью и +12 к защите от всего.
+'''''''''''''' Невидимость Стихий, следующая абилка не требует маны, пассивно даёт 10 к силе заклинаний, атака из невидимости наносит пятикратный урон, во время невидимости +12% к макс здоровью, +12 к защите от всего, +15%к скорости перемещения и +40% к увороту во время действия невидимости.
+
+'''''''''''''' Улучшенная невидимость Адского Огня (красная с огнями на фоне) атака из невидимости наносит десятикратный урон. 700 + 500 свиток.
+
+''''''''''''''#MC_aDistractingManeuver.NAME Отвлекающий манёвр спаунит вокруг героя куклы, сам герой создаёт иллюзии, и спецэффекты возле себя чтобы не заметно было где иллюзии.

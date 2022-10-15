@@ -1,0 +1,24 @@
+<NewAbility>
+ <Name>DieDebaff</Name>
+ <ClassType>Effect</ClassType>
+ <Visible>false</Visible>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1400</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+ <EndEffectIfEnemyNearRadius>0</EndEffectIfEnemyNearRadius>
+</NewAbility>

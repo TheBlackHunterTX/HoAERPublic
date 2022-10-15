@@ -1,0 +1,33 @@
+<ua_SingleUnitAI>
+ <Name>suAI_SolHero</Name>
+ <CastingRadius>700</CastingRadius>
+ <Abilities>
+  <suAI_Ability>
+   <UA>
+    <ClassName>NewAbility</ClassName>
+    <RefName>MC_aFireStorm</RefName>
+   </UA>
+   <MinTargetAmount>2</MinTargetAmount>
+   <TargetEnemy>true</TargetEnemy>
+   <CastingDelay>5000</CastingDelay>
+  </suAI_Ability>
+  <suAI_Ability>
+   <UA>
+    <ClassName>NewAbility</ClassName>
+    <RefName>MC_aTreeOfLife</RefName>
+   </UA>
+   <MinTargetAmount>1</MinTargetAmount>
+   <TargetEnemy>true</TargetEnemy>
+   <CastingDelay>5000</CastingDelay>
+  </suAI_Ability>
+  <suAI_Ability>
+   <UA>
+    <ClassName>NewAbility</ClassName>
+    <RefName>MagicCardSwarmOfInsects</RefName>
+   </UA>
+   <MinTargetAmount>3</MinTargetAmount>
+   <TargetEnemy>true</TargetEnemy>
+   <CastingDelay>5000</CastingDelay>
+  </suAI_Ability>
+ </Abilities>
+</ua_SingleUnitAI>

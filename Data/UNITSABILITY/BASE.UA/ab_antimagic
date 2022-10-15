@@ -1,0 +1,31 @@
+<NewAbility>
+ <Name>ab_antimagic</Name>
+ <System>true</System>
+ <Aura>true</Aura>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <Radius>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>10</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </Radius>
+ <FriendlyTarget>true</FriendlyTarget>
+ <LiveBody>true</LiveBody>
+ <BuildingTarget>false</BuildingTarget>
+ <TargetMaxAmount>1</TargetMaxAmount>
+</NewAbility>

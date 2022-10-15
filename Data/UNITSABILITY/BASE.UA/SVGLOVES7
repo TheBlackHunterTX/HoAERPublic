@@ -1,0 +1,32 @@
+<NewItem>
+ <Name>SVGloves7</Name>
+ <FileID>Interf3\Ability\goods_gloves</FileID>
+ <SpriteID>7</SpriteID>
+ <FileID_Char>Interf3\Ability\goods_character_gloves</FileID_Char>
+ <FileID_Inv>Interf3\Ability\goods_inventory_gloves</FileID_Inv>
+ <HintName>#SVGloves7.NAME</HintName>
+ <Hint>#SVGloves7</Hint>
+ <Type>ItemClothe</Type>
+ <GroundMD>
+  <UnitType>DropM3(IT)</UnitType>
+ </GroundMD>
+ <ShopPrice>2900</ShopPrice>
+ <Amount>1</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <ImpulseCreateWeaponPeriod>1000</ImpulseCreateWeaponPeriod>
+ <OnImpulseCreateWeapon>
+  <ClassName>WeaponModificator</ClassName>
+  <RefName>IW_Gloves7_wAura</RefName>
+ </OnImpulseCreateWeapon>
+ <Conditions>
+  <umc_LifeLess>
+   <OperandType>Percent</OperandType>
+  </umc_LifeLess>
+ </Conditions>
+</NewItem>

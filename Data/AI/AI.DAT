@@ -1,0 +1,11 @@
+4
+@RMID_EASY 1
+@RMID_NORMAL 1
+@RMID_HARD 1
+@RMID_VERYHARD 1
+5 5
+DRUIDS     druids        DruUFai(DR)          9 1 1 - -
+UNDEADS    undeads       UndUNec(UN)          9 1 1 - -
+MECHANICS  mechanics     MecUDww(ME)          9 1 1 - -
+ICE        ice           IceUGre(IC)          9 1 1 - -
+SOLS       sols          SolUSla(SL)          9 1 1 - -

@@ -1,0 +1,28 @@
+<NewItem>
+ <Name>SVMC_aFireControl</Name>
+ <FileID>Interf3\Ability\Ability3.00</FileID>
+ <SpriteID>33</SpriteID>
+ <FileID_Char>Interf3\Ability\Ability3.00</FileID_Char>
+ <FileID_Inv>Interf3\Ability\Ability3.00</FileID_Inv>
+ <HintName>#SVMC_aFireControl.NAME</HintName>
+ <Hint>#SVMC_aFireControl</Hint>
+ <SoundExecute>NONE</SoundExecute>
+ <Type>ItemClothe</Type>
+ <GroundMD>
+  <UnitType>DropMs(IT)</UnitType>
+ </GroundMD>
+ <ShopPrice>100</ShopPrice>
+ <Amount>1</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <Conditions>
+  <umc_LifeLess>
+   <OperandType>Percent</OperandType>
+  </umc_LifeLess>
+ </Conditions>
+</NewItem>

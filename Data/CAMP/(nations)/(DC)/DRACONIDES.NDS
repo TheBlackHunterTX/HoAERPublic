@@ -1,0 +1,18 @@
+[MEMBERS]
+DrcUChi(DC)  DrcUChi
+DrcUDra(DC)  DrcUDra
+DrcUWar(DC)  DrcUWar
+Drc1aChi(DC)  Drc1aChi
+Drc1aWar(DC)  Drc1aWar
+DrcUChiZ(DC)  DrcUChiZ
+[ENABLED]
+DrcUChi(DC)
+DrcUDra(DC)
+DrcUWar(DC)
+[COUNTRY]
+DRACONIDES 4
+#units
+DrcUChi(DC)
+DrcUDra(DC)
+DrcUWar(DC)
+[END]

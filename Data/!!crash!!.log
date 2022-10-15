@@ -1,0 +1,591 @@
+HEROESOFANNIHILATEDEMPIRES 0.7.20
+Memory status before run:
+
+Memory load: 63
+TotalPhys: 2147483647
+AvailPhys: 2147483647
+TotalPageFile: -1
+AvailPageFile: -1
+TotalVirtual: 2147352576
+AvailVirtual: 993288192
+
+Memory status after crash:
+
+Memory load: 64
+TotalPhys: 2147483647
+AvailPhys: 2147483647
+TotalPageFile: -1
+AvailPageFile: -1
+TotalVirtual: 2147352576
+AvailVirtual: 830783488
+
+AvailVirtual: 830783488
+
+Internal memory manager info:
+Handles: 185967
+Blocks: 185965
+
+Module found D:\Games\Heroes of Annihilated Empires Reborn [RU]\Data\engine.exe   	(\engine.exe) 	Handle: 00400000 Base address: 00400000
+Module found C:\Windows\SYSTEM32\ntdll.dll   	(ntdll.dll) 	Handle: 776a0000 Base address: 776a0000
+Module found C:\Windows\System32\KERNEL32.DLL   	(KERNEL32.DLL) 	Handle: 75360000 Base address: 75360000
+Module found C:\Windows\System32\KERNELBASE.dll   	(KERNELBASE.dll) 	Handle: 77150000 Base address: 77150000
+Module found C:\Windows\System32\WS2_32.dll   	(WS2_32.dll) 	Handle: 74f80000 Base address: 74f80000
+Module found C:\Windows\System32\RPCRT4.dll   	(RPCRT4.dll) 	Handle: 751a0000 Base address: 751a0000
+Module found C:\Windows\System32\SspiCli.dll   	(SspiCli.dll) 	Handle: 740c0000 Base address: 740c0000
+Module found C:\Windows\System32\CRYPTBASE.dll   	(CRYPTBASE.dll) 	Handle: 740b0000 Base address: 740b0000
+Module found C:\Windows\System32\bcryptPrimitives.dll   	(bcryptPrimitives.dll) 	Handle: 74b80000 Base address: 74b80000
+Module found C:\Windows\System32\sechost.dll   	(sechost.dll) 	Handle: 75840000 Base address: 75840000
+Module found C:\Windows\System32\USER32.dll   	(USER32.dll) 	Handle: 756c0000 Base address: 756c0000
+Module found C:\Windows\System32\win32u.dll   	(win32u.dll) 	Handle: 77130000 Base address: 77130000
+Module found C:\Windows\System32\GDI32.dll   	(GDI32.dll) 	Handle: 77670000 Base address: 77670000
+Module found C:\Windows\System32\gdi32full.dll   	(gdi32full.dll) 	Handle: 74ff0000 Base address: 74ff0000
+Module found D:\Games\Heroes of Annihilated Empires Reborn [RU]\Data\iChat.dll   	(\iChat.dll) 	Handle: 10000000 Base address: 10000000
+Module found C:\Windows\System32\msvcp_win.dll   	(msvcp_win.dll) 	Handle: 76f20000 Base address: 76f20000
+Module found C:\Windows\System32\ADVAPI32.dll   	(ADVAPI32.dll) 	Handle: 75500000 Base address: 75500000
+Module found C:\Windows\System32\ucrtbase.dll   	(ucrtbase.dll) 	Handle: 75580000 Base address: 75580000
+Module found C:\Windows\System32\msvcrt.dll   	(msvcrt.dll) 	Handle: 75260000 Base address: 75260000
+Module found C:\Windows\System32\comdlg32.dll   	(comdlg32.dll) 	Handle: 77050000 Base address: 77050000
+Module found C:\Windows\System32\combase.dll   	(combase.dll) 	Handle: 77330000 Base address: 77330000
+Module found C:\Windows\System32\shcore.dll   	(shcore.dll) 	Handle: 74d60000 Base address: 74d60000
+Module found C:\Windows\System32\SHLWAPI.dll   	(SHLWAPI.dll) 	Handle: 77000000 Base address: 77000000
+Module found C:\Windows\System32\SHELL32.dll   	(SHELL32.dll) 	Handle: 75890000 Base address: 75890000
+Module found C:\Windows\System32\cfgmgr32.dll   	(cfgmgr32.dll) 	Handle: 75320000 Base address: 75320000
+Module found C:\Windows\SYSTEM32\DDRAW.dll   	(DDRAW.dll) 	Handle: 65d00000 Base address: 65d00000
+Module found C:\Windows\System32\windows.storage.dll   	(windows.storage.dll) 	Handle: 74170000 Base address: 74170000
+Module found C:\Windows\System32\kernel.appcore.dll   	(kernel.appcore.dll) 	Handle: 74740000 Base address: 74740000
+Module found C:\Windows\System32\powrprof.dll   	(powrprof.dll) 	Handle: 76ed0000 Base address: 76ed0000
+Module found C:\Windows\System32\profapi.dll   	(profapi.dll) 	Handle: 754e0000 Base address: 754e0000
+Module found C:\Windows\System32\ole32.dll   	(ole32.dll) 	Handle: 76c60000 Base address: 76c60000
+Module found C:\Windows\SYSTEM32\DSOUND.dll   	(DSOUND.dll) 	Handle: 73470000 Base address: 73470000
+Module found C:\Windows\SYSTEM32\DPLAYX.dll   	(DPLAYX.dll) 	Handle: 73ba0000 Base address: 73ba0000
+Module found C:\Windows\SYSTEM32\WSOCK32.dll   	(WSOCK32.dll) 	Handle: 74080000 Base address: 74080000
+Module found C:\Windows\SYSTEM32\dxgi.dll   	(dxgi.dll) 	Handle: 70ab0000 Base address: 70ab0000
+Module found C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.16299.192_none_d02ca7595f31d9e4\COMCTL32.dll   	(C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.16299.192_none_d02ca7595f31d9e4\COMCTL32.dll) 	Handle: 65920000 Base address: 65920000
+Module found C:\Windows\SYSTEM32\DCIMAN32.dll   	(DCIMAN32.dll) 	Handle: 73460000 Base address: 73460000
+Module found D:\Games\Heroes of Annihilated Empires Reborn [RU]\Data\binkw32.dll   	(\binkw32.dll) 	Handle: 30000000 Base address: 30000000
+Module found C:\Windows\SYSTEM32\WINMM.dll   	(WINMM.dll) 	Handle: 73df0000 Base address: 73df0000
+Module found C:\Windows\SYSTEM32\WINMMBASE.dll   	(WINMMBASE.dll) 	Handle: 73dc0000 Base address: 73dc0000
+Module found D:\Games\Heroes of Annihilated Empires Reborn [RU]\Data\DipServer.dll   	(\DipServer.dll) 	Handle: 06470000 Base address: 06470000
+Module found D:\Games\Heroes of Annihilated Empires Reborn [RU]\Data\d3d9.dll   	(\d3d9.dll) 	Handle: 001d0000 Base address: 001d0000
+Module found D:\Games\Heroes of Annihilated Empires Reborn [RU]\Data\theovorb.dll   	(\theovorb.dll) 	Handle: 06700000 Base address: 06700000
+Module found D:\Games\Heroes of Annihilated Empires Reborn [RU]\Data\intExplorer.dll   	(\intExplorer.dll) 	Handle: 06760000 Base address: 06760000
+Module found C:\Windows\System32\IMM32.DLL   	(IMM32.DLL) 	Handle: 74be0000 Base address: 74be0000
+Module found C:\Windows\system32\uxtheme.dll   	(uxtheme.dll) 	Handle: 73ad0000 Base address: 73ad0000
+Module found C:\Windows\System32\clbcatq.dll   	(clbcatq.dll) 	Handle: 740e0000 Base address: 740e0000
+Module found C:\Windows\System32\MMDevApi.dll   	(MMDevApi.dll) 	Handle: 70cd0000 Base address: 70cd0000
+Module found C:\Windows\System32\PROPSYS.dll   	(PROPSYS.dll) 	Handle: 731a0000 Base address: 731a0000
+Module found C:\Windows\System32\DEVOBJ.dll   	(DEVOBJ.dll) 	Handle: 70ca0000 Base address: 70ca0000
+Module found C:\Windows\System32\OLEAUT32.dll   	(OLEAUT32.dll) 	Handle: 75440000 Base address: 75440000
+Module found C:\Windows\SYSTEM32\AUDIOSES.DLL   	(AUDIOSES.DLL) 	Handle: 6bc50000 Base address: 6bc50000
+Module found C:\Windows\SYSTEM32\wintypes.dll   	(wintypes.dll) 	Handle: 70dc0000 Base address: 70dc0000
+Module found C:\Windows\SYSTEM32\AVRT.dll   	(AVRT.dll) 	Handle: 71a70000 Base address: 71a70000
+Module found C:\Windows\System32\MSCTF.dll   	(MSCTF.dll) 	Handle: 74c10000 Base address: 74c10000
+Module found C:\Windows\system32\D3D9.DLL   	(D3D9.DLL) 	Handle: 65df0000 Base address: 65df0000
+Module found C:\Windows\SYSTEM32\dwmapi.dll   	(dwmapi.dll) 	Handle: 73510000 Base address: 73510000
+Module found C:\Windows\System32\DriverStore\FileRepository\c0365573.inf_amd64_16bc87c54b7eec21\B365567\aticfx32.dll   	(aticfx32.dll) 	Handle: 6e4a0000 Base address: 6e4a0000
+Module found C:\Windows\SYSTEM32\VERSION.dll   	(VERSION.dll) 	Handle: 74090000 Base address: 74090000
+Module found C:\Windows\System32\DriverStore\FileRepository\c0365573.inf_amd64_16bc87c54b7eec21\B365567\atiu9pag.dll   	(atiu9pag.dll) 	Handle: 73380000 Base address: 73380000
+Module found C:\Windows\System32\DriverStore\FileRepository\c0365573.inf_amd64_16bc87c54b7eec21\B365567\atiumdag.dll   	(atiumdag.dll) 	Handle: 0ccb0000 Base address: 0ccb0000
+Module found C:\Windows\SYSTEM32\dbghelp.dll   	(dbghelp.dll) 	Handle: 735a0000 Base address: 735a0000
+Module found C:\Windows\SYSTEM32\dbgcore.DLL   	(dbgcore.DLL) 	Handle: 73570000 Base address: 73570000
+Module found C:\Windows\System32\DriverStore\FileRepository\c0365573.inf_amd64_16bc87c54b7eec21\B365567\atiumdva.dll   	(atiumdva.dll) 	Handle: 6aa10000 Base address: 6aa10000
+Module found C:\Windows\SYSTEM32\amdihk32.dll   	(amdihk32.dll) 	Handle: 6ca00000 Base address: 6ca00000
+Module found C:\Windows\System32\TextInputFramework.dll   	(TextInputFramework.dll) 	Handle: 71160000 Base address: 71160000
+Module found C:\Windows\System32\CoreUIComponents.dll   	(CoreUIComponents.dll) 	Handle: 70f20000 Base address: 70f20000
+Module found C:\Windows\System32\CoreMessaging.dll   	(CoreMessaging.dll) 	Handle: 70e90000 Base address: 70e90000
+Module found C:\Windows\SYSTEM32\ntmarta.dll   	(ntmarta.dll) 	Handle: 73540000 Base address: 73540000
+
+Calls: 1 before address: 0xB76B34 (A01E8BC1D00)
+Call (0xE8) detected from: 0x00B76B2F to: 0x00B788F0!
+
+Calls: 1 before address: 0x65E46E8D (15887F465FFD6)
+Call (0xFF) detected from: 0x65E46E8B to: 0xFFFFFFFF!
+
+Calls: 1 before address: 0x65E66EA5 (33CDE8EBE1FFFF)
+Call (0xE8) detected from: 0x65E66EA0 to: 0x65E65090!
+
+Calls: 1 before address: 0x65E46E9D (33C0E8FEFF10)
+Call (0xE8) detected from: 0x65E46E98 to: 0x65E66E9B!
+
+Calls: 1 before address: 0x46862B (4DF8E835000)
+Call (0xE8) detected from: 0x00468626 to: 0x00468660!
+
+Calls: 1 before address: 0x9DD689 (C114E887AFA8FF)
+Call (0xE8) detected from: 0x009DD684 to: 0x00468610!
+
+Calls: 1 before address: 0x9DEDAA (4DFCE876E8FFFF)
+Call (0xE8) detected from: 0x009DEDA5 to: 0x009DD620!
+
+Calls: 1 before address: 0x5C40BC (DC50E8542C5B0)
+Call (0xE8) detected from: 0x005C40B7 to: 0x00B76D10!
+
+Calls: 1 before address: 0x5C3F68 (4DECE8F813410)
+Call (0xE8) detected from: 0x005C3F63 to: 0x009D5360!
+
+Calls: 1 before address: 0x5FB4B8 (4DDCE8188AFCFF)
+Call (0xE8) detected from: 0x005FB4B3 to: 0x005C3ED0!
+
+Calls: 1 before address: 0xB78A70 (4D88E830900)
+Call (0xE8) detected from: 0x00B78A6B to: 0x00B793A0!
+
+Calls: 1 before address: 0xB76B34 (A01E8BC1D00)
+Call (0xE8) detected from: 0x00B76B2F to: 0x00B788F0!
+
+Calls: 1 before address: 0x1043F7C (8BCFE882FFFFFF)
+Call (0xE8) detected from: 0x01043F77 to: 0x01043EFE!
+
+Calls: 1 before address: 0x10446D3 (45BCE882F8FFFF)
+Call (0xE8) detected from: 0x010446CE to: 0x01043F55!
+
+Calls: 1 before address: 0x104471E (CD5BE8B577FFFF)
+Call (0xE8) detected from: 0x01044719 to: 0x0103BED3!
+
+Calls: 1 before address: 0xCD4A1D4 (00E84C93E0)
+Call (0xE8) detected from: 0x0CD4A1CF to: 0x0CE33520!
+
+Calls: 1 before address: 0xCD1F6C4 (10FF75C56FFD0)
+Call (0xFF) detected from: 0x0CD1F6C2 to: 0xFFFFFFFF!
+
+Calls: 1 before address: 0x73387FA9 (50FF9694200)
+Call (0xFF) detected from: 0x73387FA3 to: 0xFFFFFFFF!
+
+Calls: 1 before address: 0x65E4D298 (CD5BE8F87D10)
+Call (0xE8) detected from: 0x65E4D293 to: 0x65E65090!
+
+Calls: 1 before address: 0x65E3F2E3 (F4658BCFFF563C)
+Call (0xFF) detected from: 0x65E3F2E0 to: 0xFFFFFFFF!
+
+Calls: 1 before address: 0x65E3F2F1 (33CCE89F5D20)
+Call (0xE8) detected from: 0x65E3F2EC to: 0x65E65090!
+
+Calls: 1 before address: 0xB76B34 (A01E8BC1D00)
+Call (0xE8) detected from: 0x00B76B2F to: 0x00B788F0!
+
+Calls: 1 before address: 0x65E46E8D (15887F465FFD6)
+Call (0xFF) detected from: 0x65E46E8B to: 0xFFFFFFFF!
+
+Calls: 1 before address: 0x46862B (4DF8E835000)
+Call (0xE8) detected from: 0x00468626 to: 0x00468660!
+
+Calls: 1 before address: 0x9DD689 (C114E887AFA8FF)
+Call (0xE8) detected from: 0x009DD684 to: 0x00468610!
+
+Calls: 1 before address: 0x9DEDAA (4DFCE876E8FFFF)
+Call (0xE8) detected from: 0x009DEDA5 to: 0x009DD620!
+
+Calls: 1 before address: 0x1036BAF (75E0E8DDD300)
+Call (0xE8) detected from: 0x01036BAA to: 0x01043F8C!
+
+Calls: 1 before address: 0x97BAA5 (FF51E8FB200)
+Call (0xE8) detected from: 0x0097BAA0 to: 0x0097BDA0!
+
+Calls: 1 before address: 0xB7847D (4DB4E8E3F00)
+Call (0xE8) detected from: 0x00B78478 to: 0x00B79460!
+
+Calls: 1 before address: 0x7770E8EC (BA209D7277FFD2)
+Call (0xFF) detected from: 0x7770E8EA to: 0xFFFFFFFF!
+
+Calls: 1 before address: 0x77252EE1 (FFFF1528872F77)
+Call (0xFF) detected from: 0x77252EDB to: 0xFFFFFFFF!
+
+Calls: 1 before address: 0x103EF47 (53FF15401101)
+Call (0xFF) detected from: 0x0103EF41 to: 0xFFFFFFFF!
+
+Calls: 1 before address: 0x9DD689 (C114E887AFA8FF)
+Call (0xE8) detected from: 0x009DD684 to: 0x00468610!
+
+Calls: 1 before address: 0x46862B (4DF8E835000)
+Call (0xE8) detected from: 0x00468626 to: 0x00468660!
+
+Calls: 1 before address: 0xB76D7E (850E842FDFFFF)
+Call (0xE8) detected from: 0x00B76D79 to: 0x00B76AC0!
+
+Calls: 1 before address: 0x9DCF2B (250E8E59D190)
+Call (0xE8) detected from: 0x009DCF26 to: 0x00B76D10!
+
+Calls: 1 before address: 0x46862B (4DF8E835000)
+Call (0xE8) detected from: 0x00468626 to: 0x00468660!
+
+Calls: 1 before address: 0x46862B (4DF8E835000)
+Call (0xE8) detected from: 0x00468626 to: 0x00468660!
+
+Calls: 1 before address: 0xB76D7E (850E842FDFFFF)
+Call (0xE8) detected from: 0x00B76D79 to: 0x00B76AC0!
+
+Calls: 1 before address: 0x9DCF2B (250E8E59D190)
+Call (0xE8) detected from: 0x009DCF26 to: 0x00B76D10!
+
+Calls: 1 before address: 0x46862B (4DF8E835000)
+Call (0xE8) detected from: 0x00468626 to: 0x00468660!
+
+Calls: 1 before address: 0x46862B (4DF8E835000)
+Call (0xE8) detected from: 0x00468626 to: 0x00468660!
+
+Calls: 1 before address: 0xB76D7E (850E842FDFFFF)
+Call (0xE8) detected from: 0x00B76D79 to: 0x00B76AC0!
+
+Calls: 1 before address: 0x9DCF2B (250E8E59D190)
+Call (0xE8) detected from: 0x009DCF26 to: 0x00B76D10!
+
+Calls: 1 before address: 0x46862B (4DF8E835000)
+Call (0xE8) detected from: 0x00468626 to: 0x00468660!
+
+Calls: 1 before address: 0x9DD689 (C114E887AFA8FF)
+Call (0xE8) detected from: 0x009DD684 to: 0x00468610!
+
+Calls: 1 before address: 0x9DEDAA (4DFCE876E8FFFF)
+Call (0xE8) detected from: 0x009DEDA5 to: 0x009DD620!
+
+Calls: 1 before address: 0x9E38A8 (8BC8E888B4FFFF)
+Call (0xE8) detected from: 0x009E38A3 to: 0x009DED30!
+
+Calls: 1 before address: 0x9E386F (4DFCE811000)
+Call (0xE8) detected from: 0x009E386A to: 0x009E3880!
+
+Calls: 1 before address: 0x9DCDA7 (C118E8B96A00)
+Call (0xE8) detected from: 0x009DCDA2 to: 0x009E3860!
+
+Calls: 1 before address: 0x46862B (4DF8E835000)
+Call (0xE8) detected from: 0x00468626 to: 0x00468660!
+
+Calls: 1 before address: 0x46862B (4DF8E835000)
+Call (0xE8) detected from: 0x00468626 to: 0x00468660!
+
+Calls: 1 before address: 0xB76D7E (850E842FDFFFF)
+Call (0xE8) detected from: 0x00B76D79 to: 0x00B76AC0!
+
+Calls: 1 before address: 0x46862B (4DF8E835000)
+Call (0xE8) detected from: 0x00468626 to: 0x00468660!
+
+Calls: 1 before address: 0xB76D7E (850E842FDFFFF)
+Call (0xE8) detected from: 0x00B76D79 to: 0x00B76AC0!
+
+Calls: 1 before address: 0x9DCF2B (250E8E59D190)
+Call (0xE8) detected from: 0x009DCF26 to: 0x00B76D10!
+
+Calls: 1 before address: 0x9D6DDB (FCFF90C4000)
+Call (0xFF) detected from: 0x009D6DD5 to: 0xFFFFFFFF!
+
+Calls: 1 before address: 0x9DB9EA (4DE8E8E67600)
+Call (0xE8) detected from: 0x009DB9E5 to: 0x009E30D0!
+
+Calls: 1 before address: 0x9D6F13 (4DB8E8FD4900)
+Call (0xE8) detected from: 0x009D6F0E to: 0x009DB910!
+
+Calls: 1 before address: 0x89A1FE (2B2E862CC130)
+Call (0xE8) detected from: 0x0089A1F9 to: 0x009D6E60!
+
+Calls: 1 before address: 0x52BD7E (6A1E8E2F4440)
+Call (0xE8) detected from: 0x0052BD79 to: 0x0097B260!
+
+Calls: 1 before address: 0x776E45C9 (33CDE8D7C220)
+Call (0xE8) detected from: 0x776E45C4 to: 0x777108A0!
+
+Calls: 1 before address: 0xB76B34 (A01E8BC1D00)
+Call (0xE8) detected from: 0x00B76B2F to: 0x00B788F0!
+
+Calls: 1 before address: 0x77721F69 (5150E8F76EFBFF)
+Call (0xE8) detected from: 0x77721F64 to: 0x776D8E60!
+
+Calls: 1 before address: 0x7772201D (33CCE883E8FEFF)
+Call (0xE8) detected from: 0x77722018 to: 0x777108A0!
+
+Calls: 1 before address: 0x480049 (4DE8E8C746550)
+Call (0xE8) detected from: 0x00480044 to: 0x009D4710!
+
+Calls: 1 before address: 0x776E01A3 (FFFFE858700)
+Call (0xE8) detected from: 0x776E019E to: 0x776E08FB!
+
+Calls: 1 before address: 0x77728E61 (33CCE83F7AFEFF)
+Call (0xE8) detected from: 0x77728E5C to: 0x777108A0!
+
+Calls: 1 before address: 0x776DFA0D (CA2E873000)
+Call (0xE8) detected from: 0x776DFA08 to: 0x776DFA80!
+
+Calls: 1 before address: 0x513BCC (8CFEFFFFFF5210)
+Call (0xFF) detected from: 0x00513BC9 to: 0xFFFFFFFF!
+
+Calls: 1 before address: 0x776F9CE9 (33CCE8B76B10)
+Call (0xE8) detected from: 0x776F9CE4 to: 0x777108A0!
+
+Calls: 1 before address: 0x7723E63F (50FF15C8802F77)
+Call (0xFF) detected from: 0x7723E639 to: 0xFFFFFFFF!
+
+Calls: 1 before address: 0x7723E2D3 (56FF15CC802F77)
+Call (0xFF) detected from: 0x7723E2CD to: 0xFFFFFFFF!
+
+Calls: 1 before address: 0x7723E73F (8BCEE881FBFFFF)
+Call (0xE8) detected from: 0x7723E73A to: 0x7723E2C0!
+
+Calls: 1 before address: 0x7723E76B (33CCE8D51020)
+Call (0xE8) detected from: 0x7723E766 to: 0x7725F840!
+
+Calls: 1 before address: 0x776E13EE (75CE812000)
+Call (0xE8) detected from: 0x776E13E9 to: 0x776E1400!
+
+Calls: 1 before address: 0x776DC9F3 (75C4E847000)
+Call (0xE8) detected from: 0x776DC9EE to: 0x776DCA3A!
+
+Calls: 1 before address: 0x776DF550 (00E810500)
+Call (0xE8) detected from: 0x776DF54B to: 0x776DFA60!
+
+Calls: 1 before address: 0x776DD507 (764E8C9ABFEFF)
+Call (0xE8) detected from: 0x776DD502 to: 0x776C80D0!
+
+Calls: 1 before address: 0xB76D7E (850E842FDFFFF)
+Call (0xE8) detected from: 0x00B76D79 to: 0x00B76AC0!
+
+Calls: 1 before address: 0x422048 (FF51E8C84C750)
+Call (0xE8) detected from: 0x00422043 to: 0x00B76D10!
+
+Calls: 1 before address: 0x104B48A (6A20E8B9400)
+Call (0xE8) detected from: 0x0104B485 to: 0x0104B943!
+
+Calls: 1 before address: 0x1050B50 (2410E8CFADFFFF)
+Call (0xE8) detected from: 0x01050B4B to: 0x0104B91F!
+
+Calls: 1 before address: 0x1050B72 (FF36E827A9FFFF)
+Call (0xE8) detected from: 0x01050B6D to: 0x0104B499!
+
+Calls: 1 before address: 0x1050B84 (CD5BE84FB3FEFF)
+Call (0xE8) detected from: 0x01050B7F to: 0x0103BED3!
+
+Calls: 1 before address: 0x1045950 (5152E83CB100)
+Call (0xE8) detected from: 0x0104594B to: 0x01050A8C!
+
+Calls: 1 before address: 0x411DA3 (A31E87D110)
+Call (0xE8) detected from: 0x00411D9E to: 0x00421F20!
+
+Calls: 1 before address: 0x640F20 (851E80FEFFFF)
+Call (0xE8) detected from: 0x00640F1B to: 0x00640D20!
+
+Calls: 1 before address: 0x640FD1 (D91E8CFFDFFFF)
+Call (0xE8) detected from: 0x00640FCC to: 0x00640DA0!
+
+Calls: 1 before address: 0x63F254 (00E81C1D00)
+Call (0xE8) detected from: 0x0063F24F to: 0x00640F70!
+
+Calls: 1 before address: 0x55EFBC (40E8441E0)
+Call (0xE8) detected from: 0x0055EFB7 to: 0x0063F100!
+
+Calls: 1 before address: 0x65E66EA5 (33CDE8EBE1FFFF)
+Call (0xE8) detected from: 0x65E66EA0 to: 0x65E65090!
+
+Calls: 1 before address: 0xF3D1B2 (50FF91AC000)
+Call (0xFF) detected from: 0x00F3D1AC to: 0xFFFFFFFF!
+
+Calls: 1 before address: 0x708E17 (DDFFE869FCDBFF)
+Call (0xE8) detected from: 0x00708E12 to: 0x004C8A80!
+
+Calls: 1 before address: 0x8995B9 (C1CE887F7E6FF)
+Call (0xE8) detected from: 0x008995B4 to: 0x00708D40!
+
+Calls: 1 before address: 0x899629 (2B2E8F7FCFFFF)
+Call (0xE8) detected from: 0x00899624 to: 0x00899320!
+
+Calls: 1 before address: 0x5361DD (00E89355FFFF)
+Call (0xE8) detected from: 0x005361D8 to: 0x0052B770!
+
+Calls: 1 before address: 0xB76B34 (A01E8BC1D00)
+Call (0xE8) detected from: 0x00B76B2F to: 0x00B788F0!
+
+Calls: 1 before address: 0x776C4697 (2418E8F95A20)
+Call (0xE8) detected from: 0x776C4692 to: 0x776EA190!
+
+Calls: 1 before address: 0x77721F69 (5150E8F76EFBFF)
+Call (0xE8) detected from: 0x77721F64 to: 0x776D8E60!
+
+Calls: 1 before address: 0x7772201D (33CCE883E8FEFF)
+Call (0xE8) detected from: 0x77722018 to: 0x777108A0!
+
+Calls: 1 before address: 0x480049 (4DE8E8C746550)
+Call (0xE8) detected from: 0x00480044 to: 0x009D4710!
+
+Calls: 1 before address: 0x776E01A3 (FFFFE858700)
+Call (0xE8) detected from: 0x776E019E to: 0x776E08FB!
+
+Calls: 1 before address: 0x800613 (FC51E8EDBFFFFF)
+Call (0xE8) detected from: 0x0080060E to: 0x007FC600!
+
+Calls: 1 before address: 0x820000 (E0FF90DC000)
+Call (0xFF) detected from: 0x0081FFFA to: 0xFFFFFFFF!
+
+Calls: 1 before address: 0x776F9CE9 (33CCE8B76B10)
+Call (0xE8) detected from: 0x776F9CE4 to: 0x777108A0!
+
+Calls: 1 before address: 0x776F9CE9 (33CCE8B76B10)
+Call (0xE8) detected from: 0x776F9CE4 to: 0x777108A0!
+
+Calls: 1 before address: 0x776FE445 (764E86B000)
+Call (0xE8) detected from: 0x776FE440 to: 0x776FE4B0!
+
+Calls: 1 before address: 0x776FE479 (8BC7E8B8AC20)
+Call (0xE8) detected from: 0x776FE474 to: 0x77729131!
+
+Calls: 1 before address: 0x776FE479 (8BC7E8B8AC20)
+Call (0xE8) detected from: 0x776FE474 to: 0x77729131!
+
+Calls: 1 before address: 0x753A424C (50FF15EC193D75)
+Call (0xFF) detected from: 0x753A4246 to: 0xFFFFFFFF!
+
+Calls: 1 before address: 0x753A4325 (8BCEE898FEFFFF)
+Call (0xE8) detected from: 0x753A4320 to: 0x753A41BD!
+
+Calls: 1 before address: 0x753A4352 (33CCE8DD8D20)
+Call (0xE8) detected from: 0x753A434D to: 0x753CD12F!
+
+Calls: 1 before address: 0x72466F (131E8D1FCCFFF)
+Call (0xE8) detected from: 0x0072466A to: 0x00424340!
+
+Calls: 1 before address: 0x88277F (311E85F437B0)
+Call (0xE8) detected from: 0x0088277A to: 0x01036ADE!
+
+Calls: 1 before address: 0x53366F (850E8B1600)
+Call (0xE8) detected from: 0x0053366A to: 0x00533D20!
+
+Address: 0097DA20
+EAX = FFFFFFFF EBX = 002D6000
+ECX = 000001C5 EDX = 01A53670
+ESI = 01A53670 EDI = 0169A3D0
+ESP = 0019E00C EBP = 0019E58C
+Stack size: 7404
+Function calls: 116
+Video name: AMD Radeon(TM) Vega 8 Graphics
+AMD Radeon(TM) Vega 8 Graphics
+AMD Radeon(TM) Vega 8 Graphics
+AMD Radeon(TM) Vega 8 Graphics
+AMD Radeon(TM) Vega 8 Graphics
+AMD Radeon(TM) Vega 8 Graphics
+
+Audio name: 
+User info:
+
+Call stack due to calls
+
+00B76B2F
+65E46E8B
+65E66EA0
+65E46E98
+00468626
+009DD684
+009DEDA5
+005C40B7
+005C3F63
+005FB4B3
+00B78A6B
+00B76B2F
+01043F77
+010446CE
+01044719
+0CD4A1CF
+0CD1F6C2
+73387FA3
+65E4D293
+65E3F2E0
+65E3F2EC
+00B76B2F
+65E46E8B
+00468626
+009DD684
+009DEDA5
+01036BAA
+0097BAA0
+00B78478
+7770E8EA
+77252EDB
+0103EF41
+009DD684
+00468626
+00B76D79
+009DCF26
+00468626
+00468626
+00B76D79
+009DCF26
+00468626
+00468626
+00B76D79
+009DCF26
+00468626
+009DD684
+009DEDA5
+009E38A3
+009E386A
+009DCDA2
+00468626
+00468626
+00B76D79
+00468626
+00B76D79
+009DCF26
+009D6DD5
+009DB9E5
+009D6F0E
+0089A1F9
+0052BD79
+776E45C4
+00B76B2F
+77721F64
+77722018
+00480044
+776E019E
+77728E5C
+776DFA08
+00513BC9
+776F9CE4
+7723E639
+7723E2CD
+7723E73A
+7723E766
+776E13E9
+776DC9EE
+776DF54B
+776DD502
+00B76D79
+00422043
+0104B485
+01050B4B
+01050B6D
+01050B7F
+0104594B
+00411D9E
+00640F1B
+00640FCC
+0063F24F
+0055EFB7
+65E66EA0
+00F3D1AC
+00708E12
+008995B4
+00899624
+005361D8
+00B76B2F
+776C4692
+77721F64
+77722018
+00480044
+776E019E
+0080060E
+0081FFFA
+776F9CE4
+776F9CE4
+776FE440
+776FE474
+776FE474
+753A4246
+753A4320
+753A434D
+0072466A
+0088277A
+0053366A
+
+[EBP_CALLSTACK]
+0097DA20
+0097BAA5
+0052BD7E
+005361DD
+0053366F
+0103BB58
+75378654
+77704A77
+77704A47

@@ -1,0 +1,43 @@
+<NewAbility>
+ <Name>Fix_Regen</Name>
+ <ClassType>Effect</ClassType>
+ <Visible>false</Visible>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>999</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+ <Modificators>
+  <mod_LifeRegeneration>
+   <Operand>
+    <Operator>=</Operator>
+    <Operand>
+     <Value>
+      <Op>
+       <NumericalConst></NumericalConst>
+      </Op>
+     </Value>
+    </Operand>
+    <OperandType>Percent</OperandType>
+    <Percent>From Curent</Percent>
+   </Operand>
+  </mod_LifeRegeneration>
+ </Modificators>
+</NewAbility>

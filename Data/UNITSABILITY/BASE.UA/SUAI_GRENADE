@@ -1,0 +1,15 @@
+<ua_SingleUnitAI>
+ <Name>suai_Grenade</Name>
+ <CastingRadius>650</CastingRadius>
+ <Abilities>
+  <suAI_Ability>
+   <UA>
+    <ClassName>NewAbility</ClassName>
+    <RefName>MC_aGrenade</RefName>
+   </UA>
+   <MinTargetAmount>2</MinTargetAmount>
+   <TargetEnemy>true</TargetEnemy>
+   <Finite>true</Finite>
+  </suAI_Ability>
+ </Abilities>
+</ua_SingleUnitAI>

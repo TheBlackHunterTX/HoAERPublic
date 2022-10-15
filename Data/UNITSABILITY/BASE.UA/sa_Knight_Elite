@@ -1,0 +1,29 @@
+<NewAbility>
+ <Name>sa_Knight_Elite</Name>
+ <FileID>Interf3\Ability\Knight</FileID>
+ <SpriteID>3</SpriteID>
+ <EffectFileID>Interf3\Ability\Knight</EffectFileID>
+ <EffectSpriteID>3</EffectSpriteID>
+ <HintName>Elite (Summons-&gtXbowman-&gtPikeman)</HintName>
+ <Type>AntiMageSkill</Type>
+ <Button>true</Button>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <AntiMageSupportSkill>true</AntiMageSupportSkill>
+ <NecessarySkills>
+  <ClassRef.UnitAbility>
+   <ClassName>NewAbility</ClassName>
+   <RefName>sa_Knight_Summon_Pikeman</RefName>
+  </ClassRef.UnitAbility>
+ </NecessarySkills>
+ <Permanent>true</Permanent>
+</NewAbility>

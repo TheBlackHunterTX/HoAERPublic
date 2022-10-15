@@ -1,0 +1,28 @@
+<NewAbility>
+ <Name>ha_ManaFlare</Name>
+ <HintName>Mana Flare</HintName>
+ <ManaValue>100</ManaValue>
+ <CoolDownDuration>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>20000</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CoolDownDuration>
+ <Button>true</Button>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+</NewAbility>

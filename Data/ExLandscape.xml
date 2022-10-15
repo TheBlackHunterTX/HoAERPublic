@@ -1,0 +1,24 @@
+<ExLandsScope>
+ <AllMaps>
+  <PenRadius>0.000000</PenRadius>
+  <PenWidth>0.000000</PenWidth>
+  <ActionType>Set</ActionType>
+  <CurrentLayer>Plato</CurrentLayer>
+ </AllMaps>
+ <PostProcessType>None</PostProcessType>
+ <PostStagesAmount>0</PostStagesAmount>
+ <GenerateTextures>true</GenerateTextures>
+ <GenerateRelief>true</GenerateRelief>
+ <Relief>
+  <StartHeight>0</StartHeight>
+  <GlobalModulation>
+   <Scale>0.000000</Scale>
+   <Center>0.000000</Center>
+   <Contrast>0.000000</Contrast>
+   <Type>Usual</Type>
+  </GlobalModulation>
+  <Rules></Rules>
+ </Relief>
+ <Terr></Terr>
+ <PredefinedNamesOfLayers></PredefinedNamesOfLayers>
+</ExLandsScope>

@@ -1,0 +1,28 @@
+<NewAbility>
+ <Name>sa_Knight_Summon_Pikeman</Name>
+ <FileID>Interf3\Ability\Knight</FileID>
+ <SpriteID>14</SpriteID>
+ <EffectFileID>Interf3\Ability\Knight</EffectFileID>
+ <EffectSpriteID>14</EffectSpriteID>
+ <HintName>Summon Pikeman (Summons-&gtSummon Xbowman)</HintName>
+ <Type>AntiMageSkill</Type>
+ <Button>true</Button>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <AntiMageSupportSkill>true</AntiMageSupportSkill>
+ <NecessarySkills>
+  <ClassRef.UnitAbility>
+   <ClassName>NewAbility</ClassName>
+   <RefName>sa_Knight_Summon_Xbow</RefName>
+  </ClassRef.UnitAbility>
+ </NecessarySkills>
+</NewAbility>

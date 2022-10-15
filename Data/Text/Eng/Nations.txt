@@ -1,0 +1,1194 @@
+﻿\\ ======================----------------------------------------             NEYTRALS               -----------------------------------------==============================
+                            
+(UNITS)\DRUHWAR.MD Overlord
+(UNITS)\DRUHFAT.MD Monfor
+(UNITS)\BIRUENC.MD Wizard
+(UNITS)\BIRUMAG.MD Mage
+(UNITS)\BIRUSHA.MD Shaman
+(UNITS)\BIRUSOR.MD Witch doctor 
+(UNITS)\DEVUDAE.MD Demon 
+(UNITS)\DEVUDEV.MD Devil
+(UNITS)\DEVULES.MD Lesser demon
+(UNITS)\DRAUDRB.MD Blue dragon
+(UNITS)\DRAUDRG.MD Green dragon
+(UNITS)\DRAUDRR.MD Red dragon
+(UNITS)\DRAUDRR1.MD Red dragon
+(UNITS)\DRCUCHI.MD Draconid-spearman
+(UNITS)\DRCUDRA.MD Draconid-chieftain
+(UNITS)\DEVUHEL.MD Hell hound
+(UNITS)\DRCUWAR.MD Draconid-warrior 
+(UNITS)\DWAUENC.MD Dwarfmen-magiciane
+(UNITS)\DWAUWAR.MD Dwarfmen-warrior
+(UNITS)\DWAURIF.MD Dwarfmen-shooter
+(UNITS)\ELEUSTO.MD Stone spirit
+(UNITS)\GIAUCYC.MD Cyclops
+(UNITS)\GIAUHAM.MD Giant hammerer
+(UNITS)\GIAULOR.MD Thunder lord
+(UNITS)\GIAUMIN.MD Minotaur
+(UNITS)\GIAUOGR.MD Orge
+(UNITS)\GIAUTHR.MD Giant thrower
+(UNITS)\GIAUTRO.MD Troll
+(UNITS)\GNOUCHI.MD Gnoll chieftain
+(UNITS)\GNOUGNO.MD Gnall
+(UNITS)\GOBUCHI.MD Goblin chieftain
+(UNITS)\GOBUGOB.MD Goblin
+(UNITS)\GOBUSHA.MD Goblin shaman
+(UNITS)\GOBUWAR.MD Goblin warrior
+(UNITS)\HUMUMAA.MD Air magus
+(UNITS)\HUMUMAE.MD Earth magus
+(UNITS)\HUMUMAF.MD Fire magus
+(UNITS)\HUMUMAW.MD Water magus
+(UNITS)\INSUSPG.MD Big cave spider
+(UNITS)\INSUSPI.MD Cave spider
+(UNITS)\INSUSPGS.MD Big desert spider
+(UNITS)\INSUSPIS.MD Desert spider
+(UNITS)\INSUSPGZ.MD Big poison spider
+(UNITS)\INSUSPIZ.MD Poisonous spider
+(UNITS)\INSUSPG.MD.HINT Can fish in a net made of cobwebs. The attacks envelop the victim in a web. The effect is cumulative. Increases the damage of other spiders upon death.
+(UNITS)\INSUSPI.MD.HINT The attacks envelop the victim in a web. The effect is cumulative. Increases the damage of other spiders upon death.
+(UNITS)\INSUSPGS.MD.HINT Increases the attack and movement speed of other spiders after death.
+(UNITS)\INSUSPIS.MD.HINT Increases the attack and movement speed of other spiders after death.
+(UNITS)\INSUSPGZ.MD.HINT Attacks poison the victim, damaging and slowing them down. Explodes on death.
+(UNITS)\INSUSPIZ.MD.HINT Attacks poison the victim, damaging and slowing them down. Explodes on death.
+(UNITS)\KOBUSHA.MD Cobold shaman
+(UNITS)\KOBUWAR.MD Cobold warrior
+(UNITS)\MONUHAR.MD Harpy
+(UNITS)\MONURAP.MD Plague rat
+(UNITS)\MO01RAP.MD Plague rat
+(UNITS)\MONURAT.MD Rat
+(UNITS)\MO01RAT.MD Rat
+(UNITS)\MO02RAT.MD Rat
+(UNITS)\MOM1RAT.MD Rat
+(UNITS)\MONUSPH.MD Sphinx
+(UNITS)\ORCUORC.MD Orc
+(UNITS)\ORCURID.MD Оrc-rider
+(UNITS)\ORCUSHA.MD Оrc-shaman 
+(UNITS)\REPUBAS.MD Basilisk
+(UNITS)\REPUHYD.MD Hydra 
+(UNITS)\REPULIC.MD Crystal lizard
+(UNITS)\REPULIG.MD Giant lizard
+(UNITS)\REPUSAL.MD Salamander
+(UNITS)\REPUSAB.MD Giant salamander
+(UNITS)\REPUWYV.MD Wyvern
+(UNITS)\UDEUBAN.MD Banshee
+(UNITS)\UDEUBON.MD Bone terror
+(UNITS)\UDEUGHO.MD Ghoul
+(UNITS)\UDEUGRA.MD Gravedigger
+(UNITS)\UDEUGRA.MD.HINT Knocks back opponents with tusks.
+(UNITS)\UDEUGRN.MD Gravedigger elite
+(UNITS)\UDEUGRN.MD.HINT Knocks back opponents with tusks.
+(UNITS)\URZUCHI.MD Ursa chief
+(UNITS)\URZUURZ.MD Ursanoid
+(UNITS)\REPUWYR.MD Wirm
+(UNITS)\BLIUBLI.MD Blind-man
+(UNITS)\BLIUCHI.MD Blind-man chief
+(UNITS)\INSUARG.MD Giant spider
+(UNITS)\ORCUCHI.MD Orc-chief
+(UNITS)\REPUSTO.MD Crystal lizard
+(UNITS)\EFFECTS\EFFPOLYMORPHDRAKE.MD Форма дракона
+(UNITS)\UNM6NEC.MD Некролит
+(UNITS)\MISGNOL.MD Гнолл chief
+(UNITS)\MISURS1.MD Урсуноид chief
+(UNITS)\ORM1CHI.MD Orc-chief
+(UNITS)\UNM1NEC.MD Necrolyte
+(UNITS)\SOLUSCB.MD Giant scorpion
+(UNITS)\SOLUSCZ.MD Giant scorpion
+(UNITS)\SOLHPRO.MD Тор Geelong
+(UNITS)\UNM1WEH.MD Werewolf-man
+(UNITS)\UNM1WEH.MD.HINT {FC12}{C FFFFCB2B}Werewolf-man{FS}{C FFBCBCBC}\ - In human form, werewolves can deal penetrating damage from a distance, but are much more vulnerable in close combat due to their lack of regeneration.
+(UNITS)\UNDUSK2.MD Skeleton
+(UNITS)\UNDUSK2.MD.HINT {FC12}{C FFFFCB2B}Skeleton{FS}{C FFBCBCBC}\ - Death Warrior: has a small amount of life, deals chopping damage, has good protection against penetrating damage
+(UNITS)\UNDHNEC.MD Necros
+(UNITS)\DEVUIMP.MD Imp
+(UNITS)\DEVUIMP.MD.HINT Imp
+
+\\ ===========================---------------------------------           ELVES (THE SYLVAN FOLK)         -------------------------------------==============================
+
+(UNITS)\DRUHELH.MD Elhant
+(UNITS)\DRUHELH.MD.HINT Rangers are the wardens of the forests, who do not wish to part with their weapons even in times of peace and tranquility. All rangers are master bowmen, plus these warriors are used to fighting the enemy single-handedly and are ready to challenge even the most fearsome of enemies
+(UNITS)\DRUHLANA.MD Lana
+(UNITS)\DRUHLANA.MD.HINT Atlans Amazons are a clan of elves in which mostly women grow up to be skillful warriors. From the early childhood they are taught to handle spears and there is no foe more dangerous than an infuriated Amazonia
+(UNITS)\DRUHAMA.MD Amazonia
+(UNITS)\DRUHAMA.MD.HINT Atlans Amazons are a clan of elves in which mostly women grow up to be skillful warriors. From the early childhood they are taught to handle spears and there is no foe more dangerous than an infuriated Amazonia. The base radius of the damage zone is 40.
+(UNITS)\DRUHARC.MD Ranger
+(UNITS)\DRUHARC.MD.HINT Rangers are the wardens of the forests, who do not wish to part with their weapons even in times of peace and tranquillity. All rangers are master bowmen, plus these warriors are used to fighting the enemy single-handedly and are ready to challenge even the most fearsome of enemies. The base radius of the damage zone is 20. The base speed of the projectile is 1800.
+(UNITS)\DRUHDRU.MD Druid
+(UNITS)\DRUHDRU.MD.HINT Druids are the great solons and mages conjuring the powers of nature. They seldom interfere in conflicts and piously revere the balance of the natural world. But if the druid starts off on the path of war, then there is a serious danger hanging over the whole world. The base radius of the damage area is 70. The base speed of the projectile is 500.
+(UNITS)\DRUHAMAS.MD Amazonia
+(UNITS)\DRUHAMAS.MD.HINT Atlans Amazons are a clan of elves in which mostly women grow up to be skillful warriors. From the early childhood they are taught to handle spears and there is no foe more dangerous than an infuriated Amazonia.
+(UNITS)\DRUHARCS.MD Ranger
+(UNITS)\DRUHARCS.MD.HINT Rangers are the wardens of the forests, who do not wish to part with their weapons even in times of peace and tranquillity. All rangers are master bowmen, plus these warriors are used to fighting the enemy single-handedly and are ready to challenge even the most fearsome of enemies.
+(UNITS)\DRUHDRUS.MD Druid
+(UNITS)\DRUHDRUS.MD.HINT Druids are the great solons and mages conjuring the powers of nature. They seldom interfere in conflicts and piously revere the balance of the natural world. But if the druid starts off on the path of war, then there is a serious danger hanging over the whole world.
+(UNITS)\DRUHTAN.MD Ton'mir
+(UNITS)\DRUSBO1.MD Trianoor
+(UNITS)\DRUSBO1.MD.HINT Light, high-speed vessel used for scouting and exploration
+(UNITS)\DRUSBO2.MD Amera
+(UNITS)\DRUSBO2.MD.HINT Elven battleship with experienced crew and good armament
+(UNITS)\DRUSSAI.MD Harton
+(UNITS)\DRUSSAI.MD.HINT Transport ship capable of transporting the dwellers of the forest through water barriers
+
+\\ UNITS AND DESCRIPTIONS:
+(UNITS)\DRUUARC.MD Elf archer
+(UNITS)\DRUUARC.MD.HINT Forest archer: medium training speed, inflicts piercing damage from a large distance in long-range combat
+(UNITS)\DRUUCEN.MD Centaur 
+(UNITS)\DRUUCEN.MD.HINT Bellicose man-horse: very fast warrior, inflicts crushing damage, has good defense against chopping weapons
+(UNITS)\DRUUDRU.MD Druid 
+(UNITS)\DRUUDRU.MD.HINT Guardian of nature and equilibrium: slowly trained, inflicts magical damage that reduces the enemy's attack, defense and movement speeds
+(UNITS)\DRUUDRY.MD Dryad
+(UNITS)\DRUUDRY.MD.HINT Tree spirit: highly trained, inflicts crushing damage, has good defense against piercing damage and high magical resistance
+(UNITS)\DRUUFAI.MD Fairy
+(UNITS)\DRUUFAI.MD.HINT Winged forest fairy: medium training speed, can accumulate resources and construct buildings
+(UNITS)\DRUUGRI.MD Griffin
+(UNITS)\DRUUGRI.MD.HINT No one is equal to him in air fights
+(UNITS)\DRUUPEG.MD Pegasus
+(UNITS)\DRUUPEG.MD.HINT A fast air warrior who inflicts extensive magical damage in long-range combat and is highly resistant to magic
+(UNITS)\DRUUPIK.MD Elf pikeman
+(UNITS)\DRUUPIK.MD.HINT A warrior of the Four Winds Forest: a universal warrior, medium training speed, inflicts piercing damage
+(UNITS)\DRUUPI2.MD Elf-veteran
+(UNITS)\DRUUPI2.MD.HINT Experienced Warrior of the Forest of the Four Winds: a versatile heavy warrior, has a large supply of health and is well protected, unlike ordinary spearmen, inflicts penetrating damage
+(UNITS)\DRUUTRE.MD Ent
+(UNITS)\DRUUTRE.MD.HINT Tree defender: a powerful siege warrior, heavily protected but extremely slow; can engulf enemies with its roots, inflicts crushing damage to several enemies at a time. Restores 4 health per second in elf territory.
+(UNITS)\DRUUUNI.MD Unicorn
+(UNITS)\DRUUUNI.MD.HINT Mystical totem of the elves: a strong and powerful creature, inflicts extensive magical damage in close combat, its aura increases the morale of elven troops
+=======
+\\ BUILDINGS
+(UNITS)\DRUBHAL.MD Fairy tree
+(UNITS)\DRUBHAL.MD.HINT Summons Fairies and Dryads. Provides 50 living places
+(UNITS)\DRUBACA.MD Forest academy
+(UNITS)\DRUBACA.MD.HINT Allows you to perform ceremonies and upgrades
+(UNITS)\DRUBHOU.MD Dwelling
+(UNITS)\DRUBHOU.MD.HINT Provides 25 living places
+(UNITS)\DRUBHOG.MD Tree-house
+(UNITS)\DRUBHOG.MD.HINT The tree gets resources thanks to its roots. (it can only grow in gold deposits). The house tree lives by feeding the roots with gold, +100 to the living places.
+(UNITS)\DRUBHO2.MD Tree-house
+(UNITS)\DRUBHO2.MD.HINT Tree - house of the elves. It can only grow on gold deposits, +100 living places.
+(UNITS)\DRUBHO3.MD Tree-house
+(UNITS)\DRUBHO3.MD.HINT Tree-house of the elves. It can only grow on gold deposits, +130 living places.
+(UNITS)\DRUBHO4.MD Tree-house
+(UNITS)\DRUBHO4.MD.HINT Tree-house of the elves. It can only grow on gold deposits, +160 living places.
+(UNITS)\DRUBHO5.MD Tree-house
+(UNITS)\DRUBHO5.MD.HINT Tree-house of the elves. It can only grow on gold deposits, +190 living places.
+(UNITS)\DRUBHO6.MD Tree-house
+(UNITS)\DRUBHO6.MD.HINT Tree-house of the elves. It can only grow on gold deposits, +220 living places.
+(UNITS)\DRUBHO7.MD Tree-house
+(UNITS)\DRUBHO7.MD.HINT Tree-house of the elves. It can only grow on gold deposits, +250 living places.
+(UNITS)\DRUBAPL.MD Apple tree
+(UNITS)\DRUBAPL.MD.HINT Allows fairies to gather food
+(UNITS)\DRUBCRY.MD Crystal sapling
+(UNITS)\DRUBCRY.MD.HINT Allows fairies to collect the crystals (can only grow on crystal mines)
+(UNITS)\DRUBCR2.MD Crystal sapling
+(UNITS)\DRUBCR2.MD.HINT Allows fairies to collect the crystals (can only grow on crystal mines)
+(UNITS)\DRUBCR3.MD Crystal sapling
+(UNITS)\DRUBCR3.MD.HINT Allows fairies to collect the crystals (can only grow on crystal mines)
+(UNITS)\DRUBCR4.MD Crystal sapling
+(UNITS)\DRUBCR4.MD.HINT Allows fairies to collect the crystals (can only grow on crystal mines)
+(UNITS)\DRUBCR5.MD Crystal sapling
+(UNITS)\DRUBCR5.MD.HINT Allows fairies to collect the crystals (can only grow on crystal mines)
+(UNITS)\DRUBCR6.MD Crystal sapling
+(UNITS)\DRUBCR6.MD.HINT Allows fairies to collect the crystals (can only grow on crystal mines)
+(UNITS)\DRUBCR7.MD Crystal sapling
+(UNITS)\DRUBCR7.MD.HINT Allows fairies to collect the crystals (can only grow on crystal mines)
+(UNITS)\DRUBORE.MD Iron shrub
+(UNITS)\DRUBORE.MD.HINT Allows fairies to mine the ore (can only grow on ore deposits)
+(UNITS)\DRUBOR2.MD Iron shrub
+(UNITS)\DRUBOR2.MD.HINT Allows fairies to mine the ore (can only grow on ore deposits)
+(UNITS)\DRUBOR3.MD Iron shrub
+(UNITS)\DRUBOR3.MD.HINT Allows fairies to mine the ore (can only grow on ore deposits)
+(UNITS)\DRUBOR4.MD Iron shrub
+(UNITS)\DRUBOR4.MD.HINT Allows fairies to mine the ore (can only grow on ore deposits)
+(UNITS)\DRUBOR5.MD Iron shrub
+(UNITS)\DRUBOR5.MD.HINT Allows fairies to mine the ore (can only grow on ore deposits)
+(UNITS)\DRUBOR6.MD Iron shrub
+(UNITS)\DRUBOR6.MD.HINT Allows fairies to mine the ore (can only grow on ore deposits)
+(UNITS)\DRUBOR7.MD Iron shrub
+(UNITS)\DRUBOR7.MD.HINT Allows fairies to mine the ore (can only grow on ore deposits)
+(UNITS)\DRUBALT.MD Altar
+(UNITS)\DRUBCEN.MD Centaur stable
+(UNITS)\DRUBCEN.MD.HINT Summons Centaurs. +55 living places
+(UNITS)\DRUBELF.MD Elf house
+(UNITS)\DRUBELF.MD.HINT Trains Elf archers and Elf pikemen. Provides 80 living places
+(UNITS)\DRUBGRI.MD Griffin nest
+(UNITS)\DRUBGRI.MD.HINT Summons griffins
+(UNITS)\DRUBPEG.MD Pegasus stall
+(UNITS)\DRUBPEG.MD.HINT Summons pegasuses
+(UNITS)\DRUBSHI.MD Shipyard
+(UNITS)\DRUBSHI.MD.HINT Creates fleet
+(UNITS)\DRUBSTO.MD Cromlech
+(UNITS)\DRUBSTO.MD.HINT Teaches druids
+(UNITS)\DRUBTOW.MD Tower
+(UNITS)\DRUBTOW.MD.HINT Attacks enemy ground and air units, inflicts splash magic damage 
+(UNITS)\DRUBTO1.MD Tower
+(UNITS)\DRUBTO1.MD.HINT Attacks enemy ground and air units, inflicts splash magic damage 
+(UNITS)\DRUBTO2.MD Tower
+(UNITS)\DRUBTO2.MD.HINT Attacks enemy ground and air units, inflicts splash magic damage 
+(UNITS)\DRUBTO3.MD Tower
+(UNITS)\DRUBTO3.MD.HINT Attacks enemy ground and air units, inflicts splash magic damage 
+(UNITS)\DRUBTRE.MD Sacred grove
+(UNITS)\DRUBTRE.MD.HINT Summons ents and unicorns
+(UNITS)\DRUBBAS.MD Forest bastion
+(UNITS)\DRUBGAT.MD Forest gates
+(UNITS)\DRUBGAT.MD.HINT Opens a passageway for forest warriors
+(UNITS)\DRUBTWW.MD Forest wall
+(UNITS)\DRUBWAL.MD Forest wall
+(UNITS)\DRUBWAL.MD.HINT Blocks the enemy's way
+
+
+\\ ===========================---------------------------------          THE UNDEAD (THE LEGIONS OF UNDEAD)             --------------------------==========================
+
+
+(UNITS)\UNDHKNI.MD Death knight
+(UNITS)\UNDHKNI.MD.HINT Death knights are the undead warriors, who had been very bloodthirsty while alive, distinguished themselves through utter cruelty and died a violent death. The spirit of these warriors can't leave the dead bodies for a very long time, doomed to suffer their death again and again. The base radius of the damage area is 40.
+(UNITS)\UNDHLIC.MD Lichlord
+(UNITS)\UNDHLIC.MD.HINT Necromancers who have passed the ceremony of cadaverous conversion become liches. During the ritual the necromancer is turned into the living undead, his flesh dies leaving only bare bones. After the rite, the powers of the thing that used to be a necromancer increase tenfold. The base radius of the damage area is 70. The base speed of the projectile is 500.
+(UNITS)\UNDHVAM.MD Vampiress
+(UNITS)\UNDHVAM.MD.HINT Vampires are a special type of the undead, made of people who were unlucky to have survived after being bitten by another vampire. The lord of the vampires is the most gory and influential of his kin. In their lust for power, vampires don't shy away from anything. That's why a vampire lord lays his path to the throne along and over the corpses of his congeners. The base radius of the damage area is 40.
+
+(UNITS)\UNDHKNIS.MD Death knight
+(UNITS)\UNDHKNIS.MD.HINT Death knights are the undead warriors, who had been very bloodthirsty while alive, distinguished themselves through utter cruelty and died a violent death. The spirit of these warriors can't leave the dead bodies for a very long time, doomed to suffer their death again and again. The base radius of the damage area is 40.
+(UNITS)\UNDHLICS.MD Lichlord
+(UNITS)\UNDHLICS.MD.HINT Necromancers who have passed the ceremony of cadaverous conversion become liches. During the ritual the necromancer is turned into the living undead, his flesh dies leaving only bare bones. After the rite, the powers of the thing that used to be a necromancer increase tenfold.
+(UNITS)\UNDHVAMS.MD Vampiress
+(UNITS)\UNDHVAMS.MD.HINT Vampires are a special type of the undead, made of people who were unlucky to have survived after being bitten by another vampire. The lord of the vampires is the most gory and influential of his kin. In their lust for power, vampires don't shy away from anything. That's why a vampire lord lays his path to the throne along and over the corpses of his congeners.
+
+(UNITS)\UNDSTRA.MD Black ferry
+(UNITS)\UNDSTRA.MD.HINT A ship that transports dead warriors over the seas.
+(UNITS)\UNDSGAL.MD Galley
+(UNITS)\UNDSGAL.MD.HINT Sunken galleys of the ancient empires serve the necromancers well by performing reconnaissance and operations.
+(UNITS)\UNDSGHO.MD Ghost ship
+(UNITS)\UNDSGHO.MD.HINT A heavy necromancer battleship with unparalleled firepower.
+(UNITS)\UNDSXXX.MD Flying Dutchman
+(UNITS)\UNDSXXX.MD.HINT A powerful necromancer battleship.
+(UNITS)\UNDUCAT.MD Catapult
+(UNITS)\UNDUCAT.MD.HINT An outshooting siege machine made out of a dead tree.
+(UNITS)\UNDUDRB.MD Bone dragon
+(UNITS)\UNDUDRB.MD.HINT A fast flying creature with good defense against piercing damage.
+(UNITS)\UNDUDRL.MD Dracolich 
+(UNITS)\UNDUDRL.MD.HINT Strong flying creature magically created from dragon's bones, attacks by magic, can cast fear on enemies; good defense against piercing damage
+(UNITS)\UNDUGHO.MD Ghost
+(UNITS)\UNDUGHO.MD.HINT Souls of the dead who haven't found serenity: extremely high learning speed, attacks at a distance by magic, good defense from all kinds of damage but low health points
+(UNITS)\UNDUKNI.MD Death knight
+(UNITS)\UNDUKNI.MD.HINT A dead horseman: fast heavy cavalry of the undead, high learning speed, inflicts damage with chopping weapons in close combat, good defense characteristics especially against magic and crushing weapons.
+(UNITS)\UNDULIC.MD Lich
+(UNITS)\UNDULIC.MD.HINT A Necromage who went through a transformation ceremony: inflicts damage by magic at a large distance, has an aura that decreases the enemy's armor, good defense from magic and piercing damage.
+(UNITS)\UNDUMUM.MD Mummy
+(UNITS)\UNDUMUM.MD.HINT A very fast warrior of the undead, inflicts crushing damage in close combat, has good defense against piercing wounds and can easily withstanding magic.
+(UNITS)\UNDUNEC.MD Necromancer
+(UNITS)\UNDUNEC.MD.HINT A death magic servant: can erect buildings, gather resources; inflicts extensive magical damage in close combat.
+(UNITS)\UNDUSKC.MD Skeleton-captain
+(UNITS)\UNDUSKC.MD.HINT Dead commander: a strong warrior who inflicts crushing damage in close combat. Can resurrect skeletons in a 180 radius.
+(UNITS)\UNDUSKE.MD Skeleton
+(UNITS)\UNDUSKE.MD.HINT Death warrior: has low life quantity, inflicts chopping damage, has good defense against piercing damage.
+(UNITS)\UNDUVAB.MD Bat
+(UNITS)\UNDUVAB.MD.HINT Vampires may turn into bats, which allows them to move fast through any obstacles. Well-defended from magic and penetrating damage. Vampires cannot attack while in a bat form.
+(UNITS)\UNDUVAM.MD Vampire
+(UNITS)\UNDUVAM.MD.HINT A bloodthirsty dead person: inflicts extensive damage with piercing weapons, can turn into a bat, has good defense against piercing damage and resistance to magic, recuperates upon damaging the enemy.
+(UNITS)\UNDUWEH.MD Werewolf-human
+(UNITS)\UNDUWEH.MD.HINT While in human form werewolves can inflict piercing damage at a distance but are less resistant in close combat due to inability to regenerate.
+(UNITS)\UNDUWEW.MD Werewolf
+(UNITS)\UNDUWEW.MD.HINT A very fast warrior of the undead, inflicts crushing damage, able to regenerate and take on a human form.
+(UNITS)\UNDUZOM.MD Zombie
+(UNITS)\UNDUZOM.MD.HINT Reanimated dead warrior: a slow but powerful warrior of the undead who has high attack rate and inflicts extensive crushing damage.
+(UNITS)\UNDUZO1.MD Zombie
+(UNITS)\UNDUZO1.MD.HINT Reanimated dead warrior: a slow but powerful warrior of the undead who has high attack rate and inflicts extensive crushing damage.
+
+\\ THE UNDEAD BUILDINGS
+(UNITS)\UNDBALT.MD Altar
+(UNITS)\UNDBCEM.MD Graveyard
+(UNITS)\UNDBCEM.MD.HINT Raises skeletons and skeleton captains. Adds 100 residences.
+(UNITS)\UNDBCE2.MD Graveyard
+(UNITS)\UNDBCE2.MD.HINT Raises skeletons and skeleton captains. Adds 100 residences.
+(UNITS)\UNDBCHA.MD Crypt
+(UNITS)\UNDBCHA.MD.HINT Raises mummies and zombies. Adds 200 residences.
+(UNITS)\UNDBDRA.MD Dragon gorge
+(UNITS)\UNDBDRA.MD.HINT Creates bone dragons and dracoliches.
+(UNITS)\UNDBDR2.MD Dracolich Gorge
+(UNITS)\UNDBDR2.MD.HINT Creates Bone Dragons and Dracolichs.
+(UNITS)\UNDBGOR.MD Souls defile
+(UNITS)\UNDBGOR.MD.HINT Creates ghosts.
+(UNITS)\UNDBHOU.MD Grave
+(UNITS)\UNDBHOU.MD.HINT Adds 50 residences.
+(UNITS)\UNDBLIC.MD Necromancy fortress
+(UNITS)\UNDBLIC.MD.HINT Trains the necromancers. Inflicts magic damage. Adds 75 residences.
+(UNITS)\UNDBLI2.MD Necromancy citadel
+(UNITS)\UNDBLI2.MD.HINT Trains the necromancers. Inflicts splash magic damage +75 living place.
+(UNITS)\UNDBLI3.MD Necromancy stronghold
+(UNITS)\UNDBLI3.MD.HINT Trains the necromancers. Inflicts splash magic damage +75 living place.
+(UNITS)\UNDBSHI.MD Shipwreck
+(UNITS)\UNDBSHI.MD.HINT Makes the fleet.
+(UNITS)\UNDBSTO.MD Moonstone
+(UNITS)\UNDBSTO.MD.HINT Makes werewolves.
+(UNITS)\UNDBTOW.MD Necromancer's tower
+(UNITS)\UNDBTOW.MD.HINT Inflicts magical damage on enemy ground and air units.
+(UNITS)\UNDBWOR.MD Necromancer's works
+(UNITS)\UNDBWOR.MD.HINT Creates catapults.
+(UNITS)\UNDBCAS.MD Skull castle
+(UNITS)\UNDBCAS.MD.HINT Creates death knights.
+(UNITS)\UNDBVAM.MD Deserted mansion
+(UNITS)\UNDBVAM.MD.HINT Creates vampires.
+(UNITS)\UNDBLIH.MD Lich tower
+(UNITS)\UNDBLIH.MD.HINT Creates lichs and allows them to perform dark ceremonies.
+(UNITS)\UNDBGOL.MD Haunted gold mine
+(UNITS)\UNDBGOL.MD.HINT Allows the necromancers to mine gold.
+(UNITS)\UNDBGO2.MD Haunted gold mine
+(UNITS)\UNDBGO2.MD.HINT Allows the necromancers to mine gold.
+(UNITS)\UNDBGO3.MD Haunted gold mine
+(UNITS)\UNDBGO3.MD.HINT Allows the necromancers to mine gold.
+(UNITS)\UNDBGO4.MD Haunted gold mine
+(UNITS)\UNDBGO4.MD.HINT Allows the necromancers to mine gold.
+(UNITS)\UNDBGO5.MD Haunted gold mine
+(UNITS)\UNDBGO5.MD.HINT Allows the necromancers to mine gold.
+(UNITS)\UNDBGO6.MD Haunted gold mine
+(UNITS)\UNDBGO6.MD.HINT Allows the necromancers to mine gold.
+(UNITS)\UNDBGO7.MD Haunted gold mine
+(UNITS)\UNDBGO7.MD.HINT Allows the necromancers to mine gold.
+(UNITS)\UNDBORE.MD Haunted iron mine
+(UNITS)\UNDBORE.MD.HINT Allows the necromancers to mine iron.
+(UNITS)\UNDBOR2.MD Haunted iron mine
+(UNITS)\UNDBOR2.MD.HINT Allows the necromancers to mine iron.
+(UNITS)\UNDBOR3.MD Haunted iron mine
+(UNITS)\UNDBOR3.MD.HINT Allows the necromancers to mine iron.
+(UNITS)\UNDBOR4.MD Haunted iron mine
+(UNITS)\UNDBOR4.MD.HINT Allows the necromancers to mine iron.
+(UNITS)\UNDBOR5.MD Haunted iron mine
+(UNITS)\UNDBOR5.MD.HINT Allows the necromancers to mine iron.
+(UNITS)\UNDBOR6.MD Haunted iron mine
+(UNITS)\UNDBOR6.MD.HINT Allows the necromancers to mine iron.
+(UNITS)\UNDBOR7.MD Haunted iron mine
+(UNITS)\UNDBOR7.MD.HINT Allows the necromancers to mine iron.
+(UNITS)\UNDBCRY.MD Haunted crystal mine
+(UNITS)\UNDBCRY.MD.HINT Allows the necromancers to collect the crystals.
+(UNITS)\UNDBCR2.MD Haunted crystal mine
+(UNITS)\UNDBCR2.MD.HINT Allows the necromancers to collect the crystals.
+(UNITS)\UNDBCR3.MD Haunted crystal mine
+(UNITS)\UNDBCR3.MD.HINT Allows the necromancers to collect the crystals.
+(UNITS)\UNDBCR4.MD Haunted crystal mine
+(UNITS)\UNDBCR4.MD.HINT Allows the necromancers to collect the crystals.
+(UNITS)\UNDBCR5.MD Haunted crystal mine
+(UNITS)\UNDBCR5.MD.HINT Allows the necromancers to collect the crystals.
+(UNITS)\UNDBCR6.MD Haunted crystal mine
+(UNITS)\UNDBCR6.MD.HINT Allows the necromancers to collect the crystals.
+(UNITS)\UNDBCR7.MD Haunted crystal mine
+(UNITS)\UNDBCR7.MD.HINT Allows the necromancers to collect the crystals.
+(UNITS)\UNDBWAL.MD Bone wall
+(UNITS)\UNDBWAL.MD.HINT Blocks the enemy's way.
+(UNITS)\UNDBTWW.MD Bone wall
+(UNITS)\UNDBGAT.MD Gates of darkness
+(UNITS)\UNDBGAT.MD.HINT Opens the way for the undead.
+(UNITS)\UNDBBAS.MD Bastion of darkness
+
+
+\\ ===========================---------------------------------          THE CRYO RACE               ----------------------------======================
+
+
+(UNITS)\ICEHARC.MD Archmage
+(UNITS)\ICEHARC.MD.HINT Archmage is the true disciple of the cold magic guild. It took decades for him to master his abilities and now he has truly perfected this art. The base radius of the damage area is 70. The base speed of the projectile is 500.
+(UNITS)\ICEHBAR.MD Barbarian
+(UNITS)\ICEHBAR.MD.HINT Barbarian are warriors from one of the Northern savage tribes. Barbarians are extremely strong and skillful warriors, who are well-known and are rather feared far beyond the bounds of the Ice Empire. These warriors are known for their denial of armor. The base radius of the damage area is 40.
+(UNITS)\ICEHVAL.MD Valkyrie
+(UNITS)\ICEHVAL.MD.HINT Valkyries are the elite of the Ice Empire. No one becomes a valkyrie; they are born that way. Legends say that valkyries can be born only in families with the blood of gods running in their veins. The base radius of the damage area is 40.
+(UNITS)\ICEHARCS.MD Archmage
+(UNITS)\ICEHARCS.MD.HINT Archmage is the true disciple of the cold magic guild. It took decades for him to master his abilities and now he has truly perfected this art.
+(UNITS)\ICEHBARS.MD Barbarian
+(UNITS)\ICEHBARS.MD.HINT Barbarian are warriors from one of the Northern savage tribes. Barbarians are extremely strong and skillful warriors, who are well-known and are rather feared far beyond the bounds of the Ice Empire. These warriors are known for their denial of armor.
+(UNITS)\ICEHVALS.MD Valkyrie
+(UNITS)\ICEHVALS.MD.HINT Valkyries are the elite of the Ice Empire. No one becomes a valkyrie; they are born that way. Legends say that valkyries can be born only in families with the blood of gods running in their veins.
+
+(UNITS)\ICEUBAL.MD Ballistae
+(UNITS)\ICEUBAL.MD.HINT A powerful siege weapon. A ballistae shell strikes everyone on its way. An accurate hit deals double damage to units.
+(UNITS)\ICEUCON.MD Conjurer
+(UNITS)\ICEUCON.MD.HINT A Northern mage who magically inflicts damage at a distance on several enemies and is able to freeze the enemy during attacks.
+(UNITS)\ICEUDRA.MD Ice drake
+(UNITS)\ICEUDRA.MD.HINT A powerful flying creature who magically inflicts damage on a multitude of enemies and has good defense against penetrating wounds; can freeze the enemy during attacks.
+(UNITS)\ICEUENC.MD Enchantress
+(UNITS)\ICEUENC.MD.HINT A representative of the female branch of the guild of cold magic: magically inflicts damage at a distance on several enemies, can hypnotize the enemy depriving him of willpower for a while. Able to fight melee.
+(UNITS)\ICEUGOL.MD Ice golem
+(UNITS)\ICEUGOL.MD.HINT An ice giant: a slow but very powerful creature who thaws outside the Cryo race territory but recuperates in snow fields.
+(UNITS)\ICEUGRE.MD Gremlin
+(UNITS)\ICEUGRE.MD.HINT Constructs and repairs buildings, procure resources.
+(UNITS)\ICEUMAM.MD Mammoth
+(UNITS)\ICEUMAM.MD.HINT A powerful siege creature who inflicts extensive crushing damage and can trample the enemy.
+\\in the distance you can hear the sounds of Yohoho
+(UNITS)\ICEUCHA.MD Snowy chariot
+(UNITS)\ICEUCHA.MD.HINT Has a high defense level against penetrating damage, can crush the enemy; able to move only on icy surfaces.
+(UNITS)\ICEUSPI.MD Cold spirit
+(UNITS)\ICEUSPI.MD.HINT An elemental member of the cold elements who possesses excellent defense against physical damage. Able to regenerate.
+(UNITS)\ICEUYEC.MD Battle Yeti
+(UNITS)\ICEUYEC.MD.HINT Increases the strength of yetis and inflicts extensive crushing damage.
+(UNITS)\ICEUYET.MD Yeti
+(UNITS)\ICEUYET.MD.HINT A quickly trained ice warrior who inflicts extensive damage with crushing weapons in close combat.
+(UNITS)\ICEUYOT.MD Yotun
+(UNITS)\ICEUYOT.MD.HINT A snow giant: powerful support warrior who inflicts extreme magical damage on several enemies at a distance. Has regenerative ability.
+(UNITS)\ICEUDRC.MD Ice Draconid
+(UNITS)\ICEUDRC.MD.HINT A fast-learning ice javelin thrower, deals damage with piercing weapons in ranged and melee combat. P.S. So far, it uses the texture of a regular draconid spearman.
+(UNITS)\ICESSHP.MD Drakkar
+(UNITS)\ICESSHP.MD.HINT A universal ship that can ferry the troops and fight at sea.
+
+\\ THE ICED BUILDINGS
+(UNITS)\ICEBHOU.MD Gremlins abode
+(UNITS)\ICEBHOU.MD.HINT Trains gremlins. +100 living place.
+(UNITS)\ICEBDEE.MD Pen
+(UNITS)\ICEBDEE.MD.HINT Provides for food inflow. +50 living place.
+(UNITS)\ICEBACA.MD Palace of knowledge
+(UNITS)\ICEBACA.MD.HINT Allows to learn various charms and perform upgrades.
+(UNITS)\ICEBDRA.MD Ice cave
+(UNITS)\ICEBDRA.MD.HINTCreates ice drakes and mammoths. +50 living place.
+(UNITS)\ICEBCIT.MD Ice temple
+(UNITS)\ICEBCIT.MD.HINT Trains enchantresses and conjurers. +50 living place.
+(UNITS)\ICEBTOW.MD Tower of Frost
+(UNITS)\ICEBTOW.MD.HINT Attacks enemy with ice arrows.
+(UNITS)\ICEBGOR.MD Yeti lair
+(UNITS)\ICEBGOR.MD.HINT Creates yeti and yeti tribal chiefs and ice draconids. +50 living place.
+(UNITS)\ICEBWOR.MD Craftsmen guild
+(UNITS)\ICEBWOR.MD.HINT Makes ballistae and ice golems.
+(UNITS)\ICEBSTO.MD Warehouse
+(UNITS)\ICEBSTO.MD.HINT Place for storing trees and stones.
+(UNITS)\ICEBCRY.MD Crystal pit
+(UNITS)\ICEBCRY.MD.HINT Allows the necromancers to collect the crystals.
+(UNITS)\ICEBCR2.MD Crystal pit
+(UNITS)\ICEBCR2.MD.HINT Allows the necromancers to collect the crystals.
+(UNITS)\ICEBCR3.MD Crystal pit
+(UNITS)\ICEBCR3.MD.HINT Allows the necromancers to collect the crystals.
+(UNITS)\ICEBCR4.MD Crystal pit
+(UNITS)\ICEBCR4.MD.HINT Allows the necromancers to collect the crystals.
+(UNITS)\ICEBCR5.MD Crystal pit
+(UNITS)\ICEBCR5.MD.HINT Allows the necromancers to collect the crystals.
+(UNITS)\ICEBCR6.MD Crystal pit
+(UNITS)\ICEBCR6.MD.HINT Allows the necromancers to collect the crystals.
+(UNITS)\ICEBCR7.MD Crystal pit
+(UNITS)\ICEBCR7.MD.HINT Allows the necromancers to collect the crystals.
+(UNITS)\ICEBGOL.MD Gold pit
+(UNITS)\ICEBGOL.MD.HINT Allows the necromancers to mine gold.
+(UNITS)\ICEBGO2.MD Gold pit
+(UNITS)\ICEBGO2.MD.HINT Allows the necromancers to mine gold.
+(UNITS)\ICEBGO3.MD Gold pit
+(UNITS)\ICEBGO3.MD.HINT Allows the necromancers to mine gold.
+(UNITS)\ICEBGO4.MD Gold pit
+(UNITS)\ICEBGO4.MD.HINT Allows the necromancers to mine gold.
+(UNITS)\ICEBGO5.MD Gold pit
+(UNITS)\ICEBGO5.MD.HINT Allows the necromancers to mine gold.
+(UNITS)\ICEBGO6.MD Gold pit
+(UNITS)\ICEBGO6.MD.HINT Allows the necromancers to mine gold.
+(UNITS)\ICEBGO7.MD Gold pit
+(UNITS)\ICEBGO7.MD.HINT Allows the necromancers to mine gold.
+(UNITS)\ICEBORE.MD Iron pit
+(UNITS)\ICEBORE.MD.HINT Allows the necromancers to mine iron.
+(UNITS)\ICEBOR2.MD Iron pit
+(UNITS)\ICEBOR2.MD.HINT Allows the necromancers to mine iron.
+(UNITS)\ICEBOR3.MD Iron pit
+(UNITS)\ICEBOR3.MD.HINT Allows the necromancers to mine iron.
+(UNITS)\ICEBOR4.MD Iron pit
+(UNITS)\ICEBOR4.MD.HINT Allows the necromancers to mine iron.
+(UNITS)\ICEBOR5.MD Iron pit
+(UNITS)\ICEBOR5.MD.HINT Allows the necromancers to mine iron.
+(UNITS)\ICEBOR6.MD Iron pit
+(UNITS)\ICEBOR6.MD.HINT Allows the necromancers to mine iron.
+(UNITS)\ICEBOR7.MD Iron pit
+(UNITS)\ICEBOR7.MD.HINT Allows the necromancers to mine iron.
+(UNITS)\ICEBCAS.MD Ice fortress
+(UNITS)\ICEBCAS.MD.HINT Creates yotuns and cold spirits.
+(UNITS)\ICEBSHI.MD Ice dockyards
+(UNITS)\ICEBSHI.MD.HINT Makes drakkars.
+(UNITS)\ICEBWAL.MD Ice wall
+(UNITS)\ICEBWAL.MD.HINT Blocks the enemy's way
+(UNITS)\ICEBTWW.MD Ice wall
+(UNITS)\ICEBTWW.MD.HINT Blocks the enemy's way
+(UNITS)\ICEBGAT.MD Ice gates
+(UNITS)\ICEBGAT.MD.HINT Opens a passageway for ice warriors
+(UNITS)\ICEBBAS.MD Ice wall
+(UNITS)\ICEBBAS.MD.HINT Blocks the enemy's way
+
+
+
+\\ ===========================---------------------------------          DWARVEN NATION        -----------------------------===========================
+
+
+(UNITS)\MECHART.MD Artificer
+(UNITS)\MECHART.MD.HINT Artificers are the most skillful craft workers. The title is actually very hard to obtain, only the most adept and proficient experts of mechanisms and artifacts receive the title of artificer. Base damage area radius - 60.
+(UNITS)\MECHENF.MD Enforcer
+(UNITS)\MECHENF.MD.HINT Enforcer is a heavy-weapon warrior who uses various mechanical elimination tools. His favorite weapon is a "Fireshot". The base radius of the damage area (in close combat) is 30. Basic Ranged Attack cannot deal damage to more than one target.
+(UNITS)\MECHGEO.MD Geomancer
+(UNITS)\MECHGEO.MD.HINT Geomancers are the conjurers of the earth. When mechanicians need to dig out a new tunnel or create a cave, they ask geomancers; they can order the earth, which will listen to them. Geomancers are the best of all mages, the true masters of material magic. The base radius of the damage area is 70. The base speed of the projectile is 500.
+(UNITS)\MECHARTS.MD Artificer
+(UNITS)\MECHARTS.MD.HINT Artificers are the most skillful craft workers. The title is actually very hard to obtain, only the most adept and proficient experts of mechanisms and artifacts receive the title of artificer.
+(UNITS)\MECHENFS.MD Enforcer
+(UNITS)\MECHENFS.MD.HINT Enforcer is a heavy-weapon warrior who uses various mechanical elimination tools. His favorite weapon is a "Fireshot".
+(UNITS)\MECHGEOS.MD Geomancer
+(UNITS)\MECHGEOS.MD.HINT Geomancers are the conjurers of the earth. When mechanicians need to dig out a new tunnel or create a cave, they ask geomancers; they can order the earth, which will listen to them. Geomancers are the best of all mages, the true masters of material magic.
+(UNITS)\MECSIRO.MD Ironclad
+(UNITS)\MECSIRO.MD.HINT A heavy-weapon battleship.
+(UNITS)\MECSTRI.MD Catamaran
+(UNITS)\MECSTRI.MD.HINT A fast battleship.
+(UNITS)\MECSTRA.MD Iron ferry
+(UNITS)\MECSTRA.MD.HINT A carrier that can ferry the troops and machinery.
+(UNITS)\MECUDWW.MD Dwarf militia
+(UNITS)\MECUDWW.MD.HINT A dwarf worker who mines minerals and constructs buildings.
+(UNITS)\MECURIF.MD Dwarf marksman
+(UNITS)\MECURIF.MD.HINT A strong outshooting warrior who uses crystals for shooting and has an ability to fight in melees.
+(UNITS)\MECUCAN.MD Steam cannon
+(UNITS)\MECUCAN.MD.HINT A slow machine that inflicts extensive crushing damage on territories from a large distance.
+(UNITS)\MECUGOG.MD Clay golem
+(UNITS)\MECUGOG.MD.HINT A slow and heavy unit who inflicts crushing damage to lots of surrounding enemies, has regenerative abilities, slows the enemy down and decreases their defense.
+(UNITS)\MECUGOI.MD Iron golem
+(UNITS)\MECUGOI.MD.HINT A slow and heavy unit who inflicts extensive damage with chopping weapons and has a high level of defense against physical damage. Immune to magic.
+(UNITS)\MECUGOS.MD Steam golem
+(UNITS)\MECUGOS.MD.HINT A slow and heavy unit who inflicts splash magic damage, has a medium level of defense against all kinds of damage. Immune to magic.
+(UNITS)\MECUMAC.MD Steam machine
+(UNITS)\MECUMAC.MD.HINT A self-propelled mounting that can shoot the enemy from a large distance and crush the enemy's infantry.
+(UNITS)\MECUMOT.MD Self-propelled machine
+(UNITS)\MECUMOT.MD.HINT Fast self-propelled unit, capable of moving with great speed and maneuver well between groups of enemies.
+(UNITS)\MECUSKY.MD Ornitopter
+(UNITS)\MECUSKY.MD.HINT A fast boat-plane that can attack flying targets and bomb enemy buildings. Can transport small detachments of units.
+(UNITS)\MECUZEP.MD Zeppelin
+(UNITS)\MECUZEP.MD.HINT A heavy bomber that inflicts extensive damage on enemy ground forces. Can transport small detachments of units.
+(UNITS)\MECUENC.MD Dwarf-wizard
+(UNITS)\MECUENC.MD.HINT Dwarves by their origin have powerful rune magic and mechanics. But few people know how to use it. Increases the health of gnome warriors by 1 HP within 1000 radius.
+(UNITS)\MECUWAR.MD Dwarf-warrior
+(UNITS)\MECUWAR.MD.HINT Many of the mechanical dwarves, after the invention of gunpowder, laid aside their axes and shields, replacing them with guns. But not these ones. The dwarf warriors continue to fight their opponents in hand-to-hand combat and cover their allies.
+
+\\ DWARVEN BUILDINGS
+(UNITS)\MECBACA.MD Sage tower
+(UNITS)\MECBACA.MD.HINT Invention of new technologies.
+(UNITS)\MECBAIR.MD Aircraft workshop
+(UNITS)\MECBAIR.MD.HINT Makes ornitopters and zeppelins.
+(UNITS)\MECBALT.MD Altar
+(UNITS)\MECBBLA.MD Blacksmith
+(UNITS)\MECBBLA.MD.HINT Trains Dwarf warriors, +50 living place.
+(UNITS)\MECBBOI.MD Boiler workshop
+(UNITS)\MECBBOI.MD.HINT Makes steam cannons and steam machines.
+(UNITS)\MECBFAR.MD Pig farm
+(UNITS)\MECBFAR.MD.HINT Provides food, +50 living place.
+(UNITS)\MECBGOG.MD Golem Workshop
+(UNITS)\MECBGOG.MD.HINT Produces Golems. +20 living place.
+(UNITS)\MECBGOS.MD Clay workshop
+(UNITS)\MECBGOS.MD.HINT Creates clay and steam golems. +40 living place
+(UNITS)\MECBGOI.MD Iron factory
+(UNITS)\MECBGOI.MD.HINT Creates clay, steam and iron golems. +60 living place
+(UNITS)\MECBHOU.MD Dwarf place
+(UNITS)\MECBHOU.MD.HINT Trains dwarf militia. +75 living place.
+(UNITS)\MECBLAB.MD Alchemist lab
+(UNITS)\MECBLAB.MD.HINT Trains Dwarf wizards.
+(UNITS)\MECBSHI.MD Shipyard
+(UNITS)\MECBSHI.MD.HINT Creates fleet.
+(UNITS)\MECBSHO.MD Shooting grounds
+(UNITS)\MECBSHO.MD.HINT Trains dwarf marksmen. +50 living place.
+(UNITS)\MECBSTO.MD Storage
+(UNITS)\MECBSTO.MD.HINT Place for storing trees and stones.
+(UNITS)\MECBTOC.MD Thunder tower
+(UNITS)\MECBTOC.MD.HINT A high-capacity defense construction that inflicts crushing damage on territories.
+(UNITS)\MECBTOW.MD Musketeer tower
+(UNITS)\MECBTOW.MD.HINT A defense construction.
+(UNITS)\MECBTO2.MD Tower мушкетеров
+(UNITS)\MECBTO2.MD.HINT A defense construction.
+(UNITS)\MECBCRY.MD Crystal mine
+(UNITS)\MECBCRY.MD.HINT A mine for crystal extraction
+(UNITS)\MECBCR2.MD Crystal mine
+(UNITS)\MECBCR2.MD.HINT A mine for crystal extraction
+(UNITS)\MECBCR3.MD Crystal mine
+(UNITS)\MECBCR3.MD.HINT A mine for crystal extraction
+(UNITS)\MECBCR4.MD Crystal mine
+(UNITS)\MECBCR4.MD.HINT A mine for crystal extraction
+(UNITS)\MECBCR5.MD Crystal mine
+(UNITS)\MECBCR5.MD.HINT A mine for crystal extraction
+(UNITS)\MECBCR6.MD Crystal mine
+(UNITS)\MECBCR6.MD.HINT A mine for crystal extraction
+(UNITS)\MECBCR7.MD Crystal mine
+(UNITS)\MECBCR7.MD.HINT A mine for crystal extraction
+(UNITS)\MECBGOL.MD Gold mine
+(UNITS)\MECBGOL.MD.HINT A mine for gold extraction
+(UNITS)\MECBGO2.MD Gold mine
+(UNITS)\MECBGO2.MD.HINT A mine for gold extraction
+(UNITS)\MECBGO3.MD Gold mine
+(UNITS)\MECBGO3.MD.HINT A mine for gold extraction
+(UNITS)\MECBGO4.MD Gold mine
+(UNITS)\MECBGO4.MD.HINT A mine for gold extraction
+(UNITS)\MECBGO5.MD Gold mine
+(UNITS)\MECBGO5.MD.HINT A mine for gold extraction
+(UNITS)\MECBGO6.MD Gold mine
+(UNITS)\MECBGO6.MD.HINT A mine for gold extraction
+(UNITS)\MECBGO7.MD Gold mine
+(UNITS)\MECBGO7.MD.HINT A mine for gold extraction
+(UNITS)\MECBORE.MD Iron mine
+(UNITS)\MECBORE.MD.HINT A mine for iron extraction
+(UNITS)\MECBOR2.MD Iron mine
+(UNITS)\MECBOR2.MD.HINT A mine for iron extraction
+(UNITS)\MECBOR3.MD Iron mine
+(UNITS)\MECBOR3.MD.HINT A mine for iron extraction
+(UNITS)\MECBOR4.MD Iron mine
+(UNITS)\MECBOR4.MD.HINT A mine for iron extraction
+(UNITS)\MECBOR5.MD Iron mine
+(UNITS)\MECBOR5.MD.HINT A mine for iron extraction
+(UNITS)\MECBOR6.MD Iron mine
+(UNITS)\MECBOR6.MD.HINT A mine for iron extraction
+(UNITS)\MECBOR7.MD Iron mine
+(UNITS)\MECBOR7.MD.HINT A mine for iron extraction
+(UNITS)\MECBMIN.MD Mine
+(UNITS)\MECBMIN.MD.HINT A mine filled with flammable sand. If stepped on by the enemy, the mine will explode and inflict extensive damage to its surroundings, dealing 50 damage to everyone around you (areas with a radius of 60). Also applies the concussion effect: -50% to the attack speed and displacement for 3 seconds. The mine is invisible to the opposing party.
+(UNITS)\MECBWAL.MD Wall
+(UNITS)\MECBWAL.MD.HINT Blocks the enemy's way
+(UNITS)\MECBTWW.MD Wall
+(UNITS)\MECBTWW.MD.HINT Blocks the enemy's way
+(UNITS)\MECBGAT.MD Mechanical gates
+(UNITS)\MECBGAT.MD.HINT Lets own troops pass through
+(UNITS)\MECBBAS.MD Wall
+(UNITS)\MECBBAS.MD.HINT Blocks the enemy's way
+
+\\ ===========================---------------------------------          SOLS            ------------------------=============================
+
+\\ Units
+(UNITS)\SOLHARC.MD High Priest
+(UNITS)\SOLHARC.MD.HINT High-priests who have reached the highest rank in the temple of the Sun. The sun was their past, is their present, and will be their future. Those who achieved such power never remained the same. Their souls, together with the incredible power of the Sun, acquired a new view of the world and the purpose of their existence. And for the sake of their goal, they are ready to erase everything in their path. The base radius of the damage area is 70. The base speed of the projectile is 500.
+(UNITS)\SOLHGLA.MD Gladiator
+(UNITS)\SOLHGLA.MD.HINT Gladiators-former slaves of the servants of the Sun. In their time, they proved that they can force their way from the bottom of society to its top, regardless of losses. They killed. They killed everyone and everything that the Lord pointed out to them. Not even the barbarian rage can match their ferocity. The base radius of the damage zone is 40.
+\\Flame... how fast time flies
+(UNITS)\SOLHPYR.MD Flame master
+(UNITS)\SOLHPYR.MD.HINT Flame masters are the supreme sorcerers in the Shambhala Empire built by Sol Atleco and his disciples. These warrior-mages are equally adept at using the magic of living fire and light, as well as mercilessly slashing their enemies in the name of the Sun. The Fire Lords also perform many of the sacred rites of the sols, such as turning to the Pearl or Concentrating. To stand in the way of the Fire Lord is tantamount to suicide. The base radius of the damage area is 40.
+(UNITS)\SOLHARCS.MD High Priest
+(UNITS)\SOLHGLAS.MD Gladiator
+(UNITS)\SOLHPYRS.MD Flame master
+(UNITS)\SOLUCAT.MD Flame catapult
+(UNITS)\SOLUCAT.MD.HINT A powerful Sol siege weapon.
+(UNITS)\SOLUCHA.MD Chariot
+(UNITS)\SOLUCHF.MD Chariot of Fire
+(UNITS)\SOLUCLE.MD Cleric
+(UNITS)\SOLUCLE.MD.HINT A support unit that can restore health to ground allies, and deals pure damage to enemies.
+(UNITS)\SOLUDRA.MD Fire Dragon
+(UNITS)\SOLUDRA.MD.HINT Powerful flying creature, inflicts heavy magic damage on a variety of enemies, has good protection from penetrating damage, has the ability to set fire to enemies during an attack.
+(UNITS)\SOLUFLY.MD Solar Boat
+(UNITS)\SOLUFLY.MD.HINT A versatile flying boat capable of transporting troops and waging war from the air.
+(UNITS)\SOLUPRI.MD Priest
+(UNITS)\SOLUPRI.MD.HINT Holy Mage, deals damage with magic at a distance to multiple enemies.
+(UNITS)\SOLUSLA.MD Slave
+(UNITS)\SOLUSLA.MD.HINT They build and repair buildings, and extract resources.
+(UNITS)\SOLUSPH.MD Sphinx
+(UNITS)\SOLUSPH.MD.HINT A powerful warrior of support and protection, deals heavy magic damage to several enemies. Provokes an attack on yourself. Gains +3 to defense against magic in Sol's territory.
+(UNITS)\SOLUTAS.MD Overseer
+(UNITS)\SOLUTAS.MD.HINT Sols Fighter, deals penetrating damage.
+(UNITS)\UNDUGOL.MD Bone Golem
+(UNITS)\UNDUGOL.MD.HINT Slow and strong creature, has average attack and defense versus ranged units, and poor defense in close combat. Harvested to replace the lich bones of undead living creatures, whose eternally suffering souls are doomed to weaken their still-living counterparts.
+(UNITS)\SOLUSCO.MD Scorpion
+(UNITS)\SOLUSCO.MD.HINT Slow Sols Warrior, has two types of attack. A sting attack poisons the target.
+(UNITS)\SOLUGSC.MD Golden Scorpion
+(UNITS)\SOLUGSC.MD.HINT Slow heavy Sols warrior, has two types of attack. The sting attack poisons the target while ignoring the defense to the magic.
+
+\\ SOLS BUILDINGS
+(UNITS)\SOLBCAT.MD Hard labor
+(UNITS)\SOLBCAT.MD.HINT Trains the slaves. +100 living place.
+(UNITS)\SOLBBAR.MD Barrack
+(UNITS)\SOLBBAR.MD.HINT Trains overseers. +75 living place.
+(UNITS)\SOLBHRA.MD Temple of the Sun
+(UNITS)\SOLBHRA.MD.HINT Trains clerics and priests. +50 living place.
+(UNITS)\SOLBSCO.MD Scorpion Lair
+(UNITS)\SOLBSCO.MD.HINT Trains scorpions and golden scorpions. +60 living place.
+(UNITS)\SOLBMAS.MD Sun Workshop
+(UNITS)\SOLBMAS.MD.HINT Produces sphinxes and fire catapults.
+(UNITS)\SOLBSHI.MD Solar Shipyard
+(UNITS)\SOLBSHI.MD.HINT Manufactures solar boats.
+(UNITS)\SOLBDRA.MD Eternal Flame
+(UNITS)\SOLBDRA.MD.HINT Summons Fire Dragons.
+(UNITS)\SOLBMEL.MD Windmill
+(UNITS)\SOLBMEL.MD.HINT Brings food.
+(UNITS)\SOLBHOU.MD House
+(UNITS)\SOLBHOU.MD.HINT +45 living place.
+(UNITS)\SOLBALT.MD Altar
+(UNITS)\SOLBALT.MD.HINT Allows you to summon special warriors from parallel worlds.
+(UNITS)\SOLBSKL.MD Storehouse
+(UNITS)\SOLBSKL.MD.HINT Storage space for wood and stone.
+(UNITS)\SOLBACA.MD Temple of Knowledge
+(UNITS)\SOLBACA.MD.HINT Allows you to make improvements.
+(UNITS)\SOLBTOW.MD Tower of Light
+(UNITS)\SOLBTOW.MD.HINT Deals magic damage to enemy ground and flying troops.
+(UNITS)\SOLBWAL.MD Wall of Sands
+(UNITS)\SOLBWAL.MD.HINT Blocks the enemy's way
+(UNITS)\SOLBTWW.MD Wall of Sands
+(UNITS)\SOLBBAS.MD Bastion of the Sands
+(UNITS)\SOLBGAT.MD Wall of Sands
+(UNITS)\SOLBGAT.MD.HINT  Open the passage to the warriors of the sands
+
+(UNITS)\SOLBCRY.MD Desert crystal mine
+(UNITS)\SOLBCRY.MD.HINT A mine for crystal extraction
+(UNITS)\SOLBCR2.MD Desert crystal mine
+(UNITS)\SOLBCR2.MD.HINT A mine for crystal extraction
+(UNITS)\SOLBCR3.MD Desert crystal mine
+(UNITS)\SOLBCR3.MD.HINT A mine for crystal extraction
+(UNITS)\SOLBCR4.MD Desert crystal mine
+(UNITS)\SOLBCR4.MD.HINT A mine for crystal extraction
+(UNITS)\SOLBCR5.MD Desert crystal mine
+(UNITS)\SOLBCR5.MD.HINT A mine for crystal extraction
+(UNITS)\SOLBCR6.MD Desert crystal mine
+(UNITS)\SOLBCR6.MD.HINT A mine for crystal extraction
+(UNITS)\SOLBCR7.MD Desert crystal mine
+(UNITS)\SOLBCR7.MD.HINT A mine for crystal extraction
+(UNITS)\SOLBGOL.MD Desert gold mine
+(UNITS)\SOLBGOL.MD.HINT A mine for gold extraction
+(UNITS)\SOLBGO2.MD Desert gold mine
+(UNITS)\SOLBGO2.MD.HINT A mine for gold extraction
+(UNITS)\SOLBGO3.MD Desert gold mine
+(UNITS)\SOLBGO3.MD.HINT A mine for gold extraction
+(UNITS)\SOLBGO4.MD Desert gold mine
+(UNITS)\SOLBGO4.MD.HINT A mine for gold extraction
+(UNITS)\SOLBGO5.MD Desert gold mine
+(UNITS)\SOLBGO5.MD.HINT A mine for gold extraction
+(UNITS)\SOLBGO6.MD Desert gold mine
+(UNITS)\SOLBGO6.MD.HINT A mine for gold extraction
+(UNITS)\SOLBGO7.MD Desert gold mine
+(UNITS)\SOLBGO7.MD.HINT A mine for gold extraction
+(UNITS)\SOLBORE.MD Desert iron mine
+(UNITS)\SOLBORE.MD.HINT A mine for iron extraction
+(UNITS)\SOLBOR2.MD Desert iron mine
+(UNITS)\SOLBOR2.MD.HINT A mine for iron extraction
+(UNITS)\SOLBOR3.MD Desert iron mine
+(UNITS)\SOLBOR3.MD.HINT A mine for iron extraction
+(UNITS)\SOLBOR4.MD Desert iron mine
+(UNITS)\SOLBOR4.MD.HINT A mine for iron extraction
+(UNITS)\SOLBOR5.MD Desert iron mine
+(UNITS)\SOLBOR5.MD.HINT A mine for iron extraction
+(UNITS)\SOLBOR6.MD Desert iron mine
+(UNITS)\SOLBOR6.MD.HINT A mine for iron extraction
+(UNITS)\SOLBOR7.MD Desert iron mine
+(UNITS)\SOLBOR7.MD.HINT A mine for iron extraction
+
+\\ Houses of Chuchkevich
+
+(UNITS)\EFFECTS\EFFDRY.MD Summoned dryad
+(UNITS)\EFFECTS\EFFUVAS.MD Ancient Basilisk
+(UNITS)\EFFECTS\EFFGHO.MD Ancient Spirit
+(UNITS)\EFFECTS\EFFIMP.MD The Lost Demon
+(UNITS)\EFFECTS\EFFCEN.MD Summoned Centaur
+(UNITS)\EFFECTS\EFFWALL.MD Poison Flower
+(UNITS)\EFFECTS\EFFTRE.MD Summoned Ent
+(UNITS)\EFFECTS\EFFSKEL.MD Summoned Skeleton
+(UNITS)\EFFECTS\EFFLICH.MD Master lich
+(UNITS)\EFFECTS\EFFTOW.MD Holy tower
+(UNITS)\EFFECTS\EFFAIRSUPPORT.MD Dragon
+(UNITS)\EFFECTS\EFFARC.MD Summoned elf archer
+(UNITS)\EFFECTS\EFFSUMMON.MD Summoned rat
+(UNITS)\EFFECTS\EFFUSPI.MD Summoned genie
+(UNITS)\EFFECTS\EFFBTOW.MD Summoned tower
+(UNITS)\EFFECTS\EFFSEEDM.MD.HINT Explosive!
+(UNITS)\EFFECTS\EFFSEEDM.MD Magic mine
+(UNITS)\EFFECTS\EFFSEED.MD.HINT Soon they will turn into beautiful dryads
+(UNITS)\EFFECTS\EFFSEED.MD Magic seeds
+(UNITS)\EFFECTS\EFFSTATUEOFRAGE.MD.HINT Statue of outrage
+(UNITS)\EFFECTS\EFFSTATUEOFRAGE.MD Statue of outrage
+(UNITS)\EFFECTS\EFFUSPIRIT.MD Spirit
+(UNITS)\EFFECTS\EFFUSPIRIT.MD.HINT Imbued with a hatred of mechanisms
+(UNITS)\EFFECTS\EFFUSPID.MD Big cave spider
+(UNITS)\EFFECTS\EFFTAS.MD The Ancient Overseer
+(UNITS)\EFFECTS\EFFTAS.MD.HINT Controls the battle process in the arena
+(UNITS)\EFFECTS\EFFARENA.MD Crutch
+(UNITS)\EFFECTS\EFFARENA.MD.HINT Wow, you're sitting in the editor and you found my crutch))) Good luck creating the map, or what are you doing here ?
+
+\\ Mission Houses
+(UNITS)\TOWER_BIG.MD Tower
+(UNITS)\TOWER_BIG.MD.HINT {FC12}{C FFFFCB2B}Tower{FS}{C FFBCBCBC}\ - Attacks enemy ground and air units, inflicts splash magic damage 
+
+\\ =================----------------------------   UPGRADES ----------------------------======================
+
+MAINUN Wrapped in darkness(upgrade the Fortress to a Citadel)
+MAINUN2 Embrace death (upgrade the Citadel to a Stronghold)
+UndUNec(UN)S Black Lightning Ritual (+50% to Stone Mining Speed)
+UndBTow(UN)S Ritual of the Crystals of Darkness (+50% to the rate of fire of the towers)
+UndUCat(UN)R Fire Skull Ritual (+35% to catapult range)
+UndUCat(UN)L Dead Tree Ritual (+8 to lich damage)
+UndBLi2(UN)A Ritual of the Plague Crystals (+35% to the firing range of the towers)
+UndBTow(UN)R Animal Blood Ritual (+30% to the speed of building werewolves and vampires)
+UndUNec(UN)ABILITY Necromancy Ritual (passive ability of necromancers to raise skeletons for 4 minutes every 2 minutes)
+UndUAll(UN)T Ritual Rebirth (+30% to the build speed of all troops)
+UndBAll(UN)D Ritual Black Marble (+5 to protect all buildings except walls and mines)
+UndUAll(UN)H Ritual Resuscitation (Restore 50 health points to all undead warriors)
+UndSAll(UN)S Ritual Death Winds (+25% to Fleet speed)
+UndSAll(UN)T Ritual Sea Abyss (-75% by the time the fleet was built)
+UndSAll(UN)P Ritual Ghost Fleet (+10 to protect ships))
+UndUKni(UN)T Ritual Knights(+30% to Death Knight initiation speed) 
+UndUSks(UN)D Ritual Bones (+5 to the protection of skeletons and skeleton-captains)
+UndBCry(UN)INSIDE Unearth ancient catacombs (more necromancers can work in the mine)
+
+DruUTre(DR)SHIELD1 Summon the Power of the Earth (Defense +5)
+DruBFai(DR)W Perform the rite of the Forest Spirits (+50% to the extraction of wood)
+DruBTow(DR)A1 Master Pure Flow Magic (+2 damage to all elf units and towers) 
+DruBAll(DR)D1 Perform a Root Power Rite (+5 to protect all buildings except the mines)
+DruUFai(DR)A1 Perform a Starlight Rite (+3 to Faerie damage)
+DruUFai(DR)S Perform the Moon Dance ritual (+50% to the speed of movement of the Fairies)
+DruBTow(DR)L Master Invincibility Magic (+65% to Tower Fortress))
+DruUCen(DR)C Sign a contract with the Windclan Centaurs (-50% to the Centaurs' summoning time) 
+DruUAll(DR)H Drink from a Pure Source (Restores 50 Health Points to all Forest People Wars)
+DruUHHH(DR)H Perform a rite of Ancient Energy (All elf units will regenerate /*1*/ hp per second)
+DruBTow(DR)P1 Set a Fire Crystal (+3 damage to this tower)) 
+DruBTow(DR)P2 Set the Wind Crystal (+600 to the shooting radius and +5 to vision radius of this tower)
+DruBTow(DR)P3 Braid the tower with iron creepers (+5000 to the fortress of this tower)
+DruSShp(DR)R Enchant ship's ballistae (+40% to the fleet's firing range) 
+DruSShp(DR)C Discover the secret of the ancient shipbuilders (the cost of building a fleet -35%)
+DruSShp(DR)P Summon the Sea Fairies (all friendly ships near the shipyard are gradually restored)
+DruBCry(DR)INSIDE Grow a new branch (more fairies can collect resources)
+DruBHoG(DR)INSIDE Equip an ancient tree (+30 to the living places of the tree, +1000 to health, +1 to protection from magic and chopping)
+
+MecURif(ME)T1 Spend an additional set of recruits (+33% to the training speed of Dwarf shooters and Dwarf warriors)
+MecURif(ME)R1 Provide with long-barreled muskets (+40% to the shooting range of Dwarf Shooters, also increases the viewing range by 3)
+MecUAll(ME)D1 Issue new equipment to Golem creators (+20% to the strength of all Golems)
+MecUDww(ME)W Increase the salary of loggers (+50% to the extraction of wood)
+MecUDww(ME)S Increase the salary of stonemasons (+50% to the extraction of stone) 
+MecBTow(ME)S Buy new muskets (+50% to the rate of fire of this tower)
+MecBGoG(ME)C Equip the boiler shop (Upgrade to a Golem Factory)
+MecBGoS(ME)C Install a Blast Furnace (Upgrade to a Golem construction plant)
+MecURif(ME)%1 Replace the musket wick with a spark mechanism (/*+25%*/ to Dwarf Shooters attack speed)
+MecURif(ME)%2 Hold Dwarf-mechanics Competitions (+20% to Dwarf-mechanis speed)
+MecURif(ME)%3 Improve the formula of combustible sand (+6 to the damage of Dwarf shooters) 
+MecBTow(ME)R Improve the architecture of the towers (+35% to the firing range of all towers)
+MecUMac(ME)L Strengthen the body of the steam engine (+100% to the strength of the Steam and Self-propelled machines)
+MecUMac(ME)S Improve the sealing of the steam boiler (+55% to the speed of the Steam and Self-propelled machines)
+MecUAll(ME)H Perform a medical examination (restore 50 health to the dwarves)
+MecUCan(ME)R Upgrade steam cannons (+35% to the range of steam cannons))
+MecSShp(ME)L Install additional armor on warships (+350 life for catamarans and battleships)
+MecSShp(ME)A Equip the fleet with explosive shells (+5 damage to catamarans and battleships)
+MecSShp(ME)S Purchase rapid-fire guns for the fleet (+25% to the rate of fire of catamarans and battleships)
+MecBCry(ME)INSIDE Develop a new vein (more dwarves can work in the mine)
+
+\\ Skeleton
+UndUSke(UN)ATTACK1 Equip skeletons with battle axes (attack +1)
+UndUSke(UN)ATTACK2 Sharpen axe blades (attack +2)
+UndUSke(UN)ATTACK3 Pay for the Death Strike Ritual (Attack +3)
+UndUSke(UN)SHIELD1 Strengthen helmets (protection +1)
+UndUSke(UN)SHIELD2 Strengthen skeletons with metal parts (protection +2)
+UndUSke(UN)SHIELD3 Perform a Stone Bone Ritual (protection +3)
+ 
+\\ Zombie
+UndUZom(UN)ATTACK1 Perform an Unholy Power Ritual (Attack +2)
+UndUZom(UN)ATTACK2 Perform a Corpse Poison Ritual (attack +3)
+UndUZom(UN)ATTACK3 Perform a Decomposition Ritual (attack +4)
+UndUZom(UN)SHIELD1 Perform the Stone Flesh Ritual (protection +1)
+UndUZom(UN)SHIELD2 Perform the Iron Skin Ritual (protection +2)
+UndUZom(UN)SHIELD3 Perform the ritual of Grave Decay (protection +3)
+ 
+\\ Mummy
+UndUMum(UN)ATTACK1 Perform the Evil Eye ritual (attack +2)
+UndUMum(UN)ATTACK2 Perform the Last Curse Ritual (attack +4)
+UndUMum(UN)ATTACK3 Perform the Death Touch Ritual (attack +6)
+UndUMum(UN)SHIELD1 Perform an Embalming ritual (protection +1)
+UndUMum(UN)SHIELD2 Apply Death Runes to bandages (protection +2)
+UndUMum(UN)SHIELD3 Perform the ritual of Immortality (defense +3)
+ 
+\\ A werewolf in the form of a human
+UndUWeH(UN)ATTACK1 Forge new bolts (attack +2)
+UndUWeH(UN)ATTACK2 Crossbow Arc Replacement(attack +3)
+UndUWeH(UN)ATTACK3 Replacement of the tension block (attack +4)
+ 
+\\ A werewolf in the shape of a wolf
+UndUWeW(UN)ATTACK1 Pay for the Full Moon Ritual (Attack +2)
+UndUWeW(UN)ATTACK2 Pay for the Hunger Ritual (Attack +4)
+UndUWeW(UN)ATTACK3 Pay for the Wild Hunt Ritual (Attack +6)
+UndUWeW(UN)SHIELD1 Perform the Night Call Ritual (protection +1)
+UndUWeW(UN)SHIELD2 Perform a Shadow Ritual (protection +2)
+UndUWeW(UN)SHIELD3 Perform an Invulnerability Ritual (defense +3)
+ 
+\\ Vampire
+UndUVam(UN)ATTACK1 Perform a Thirst ritual (attack +2, defense +2)
+UndUVam(UN)ATTACK2 Perform a Blood Ritual (attack +2, defense +2)
+UndUVam(UN)ATTACK3 Perform the Midnight Ritual (Attack +2, Defense +2)
+ 
+\\ Ghost
+UndUGho(UN)ATTACK1 Perform the Lost Souls Ritual (Attack +2, Defense /*+1*/, health /*+1*/)
+UndUGho(UN)ATTACK2 Perform the Tomb Cold Ritual (attack +4, defense /*2*/, health /*+2*/)
+UndUGho(UN)ATTACK3 Perform the ritual of Eternal Tribulation (attack +6, defense /*+3*/, health /*+3*/)
+ 
+\\ Dracolich and  bone dragon
+UndUDrL(UN)ATTACK1 Perform a Death Breath Ritual (+5 to undead Dragon damage)
+UndBDr2(UN)U Upgrade to Dracolich Gorge (Transforms "Dragon Gorge" into " Dracolich Gorge")
+
+\\ Catapult 
+UndUCat(UN)ATTACK1 Buy new shells (attack +3)
+UndUCat(UN)ATTACK2 Pay for the improvement of the tension mechanism (attack +4)
+UndUCat(UN)ATTACK3 Pay for the Fire Death Ritual (attack +5)
+UndUCat(UN)SHIELD1 Install additional spikes on the wheels and body (protection +2)
+UndUCat(UN)SHIELD2 Strengthen the catapult structure (protection +3)
+UndUCat(UN)SHIELD3 Install additional armor (protection +4)
+ 
+\\ Elf-archer 
+DruUArc(DR)ATTACK1 Forge new arrowheads (attack +2)
+DruUArc(DR)ATTACK2 Strengthen the arc of the bow with metal strips (attack +2)
+DruUArc(DR)ATTACK3 Craft Enchanted Arrowheads (attack +3)
+DruUArc(DR)SHIELD1 Conduct self-defense exercises (defense +1)
+DruUArc(DR)SHIELD2 Leather Armor Seal (protection +2)
+DruUArc(DR)SHIELD3 Make helmets from troll skins (protection +3)
+ 
+\\ Elf-spearman
+DruUPik(DR)ATTACK1 Conduct warrior training (attack +3)
+DruUPik(DR)ATTACK2 Give spearmen a reinforced ration (attack +4)
+DruUPik(DR)ATTACK3 Learn the secret tactics of the Four Winds Forest Warriors (attack +5)
+DruUPik(DR)SHIELD1 Helmet Reinforcement (protection +1)
+DruUPik(DR)SHIELD2 Make new Chain Mail (protection +2)
+DruUPik(DR)SHIELD3 Craft Enchanted Shields (Defense +3)
+
+\\ Elf-veteran 
+DruUPi2(DR)ATTACK1 Conduct experienced warrior training (attack +2)
+DruUPi2(DR)ATTACK2 Give veteran a reinforced ration (attack +3)
+DruUPi2(DR)ATTACK3 Conduct retraining (attack +4)
+DruUPi2(DR)SHIELD1 Helmet Reinforcement (Defense +2)
+DruUPi2(DR)SHIELD2 Make new Chain Mail (Defense +3)
+DruUPi2(DR)SHIELD3 Shields reinforcement (Defense +4)
+ 
+\\ Centaur 
+DruUCen(DR)ATTACK1 Perform the Rite of the Great Hunt (attack +1)
+DruUCen(DR)ATTACK2 Perform the Wind Power Rite (attack +2)
+DruUCen(DR)ATTACK3 Perform the Rite of the Spirits of War (attack +3)
+DruUCen(DR)SHIELD1 Enchant the bracers (protection +2)
+DruUCen(DR)SHIELD2 Enchant the Protective hoop (Protection +2)
+DruUCen(DR)SHIELD3 Give the centaurs protection rings (protection +2)
+ 
+\\ Dryad
+DruUDry(DR)ATTACK1 Perform the Rite of the Great Willow (attack +2)
+DruUDry(DR)ATTACK2 Perform the Oak Power Rite (attack +4)
+DruUDry(DR)ATTACK3 Perform the Rite of the Tree of Life (attack +8)
+DruUDry(DR)SHIELD1 Song of the Bronze Bark (defense +1)
+DruUDry(DR)SHIELD2 Song of the Silver Bark (Defense +2)
+DruUDry(DR)SHIELD3 Song of the Steel Bark (defense +3)
+ 
+\\ Dwarf-militia
+MecUDww(ME)D1 Make chain mail for the militia (defense +8)
+ 
+\\ Dwarf-marksman
+MecURif(ME)A1 Increase the charge of the combustible sand (shooting +2)
+MecURif(ME)A2 Issue explosive bullets to the shooters (shooting +3)
+MecURif(ME)A3 Install optical sights on the muskets (shooting +4)
+MecURif(ME)A4 Conduct hand-to-hand combat exercises (butt attack +2)
+MecURif(ME)A5 Hire a hand-to-hand combat master (butt attack +3)
+MecURif(ME)A6 Conduct hand-to-hand combat competitions (butt attack +4)
+
+MecURif(ME)D1 Make strong gloves (protection +2)
+MecURif(ME)D2 Give the shooters new helmets (protection +3)
+MecURif(ME)D3 Give the shooters new chain mail (protection +4)
+ 
+\\ Steam machine and Self-propelled machine
+MecUMac(ME)A1 Equip the turret with a rifled barrel (attack +3 for Steam and Self-propelled machine)
+MecUMac(ME)A2 Equip side cannons with rifled barrels (attack +5 for Steam and Self-propelled machine)
+MecUMac(ME)A3 Arm the car with explosive shells (attack +8 for Steam and Self-propelled machine)
+MecUMac(ME)D1 Purchase new armor (protection +3 for Steam and Self-propelled machine)
+MecUMac(ME)D2 Pay for the work of the best mechanics (protection +3 for Steam and Self-propelled machine)
+MecUMac(ME)D3 Purchase additional armor plates (protection +3 for Steam and Self-propelled machine)
+
+\\ Dwarf-warrior
+MecUWar(ME)A1 Improve the sharpening of axes (attack +2)
+MecUWar(ME)A2 Buy high-quality steel for axes (attack +4)
+MecUWar(ME)A3 Apply runes to axes (attack +6)
+MecUWar(ME)D1 Purchase multi-layer bibs (protection +1)
+MecUWar(ME)D2 Apply runes to the armor plates (protection +2)
+MecUWar(ME)D3 Strengthen the Armor Metal Energy Shield (Defense +3)
+
+\\ Dwarf-wizard
+MecUEnc(ME)A1 Get new crystals for staves (attack +2)
+MecUEnc(ME)A2 Add crystals to the steel alloy for staves (attack +3)
+MecUEnc(ME)A3 Cover staves with runes (attack +4)
+MecUEnc(ME)D1 Make raincoats from non-woven fabrics (protection +1)
+MecUEnc(ME)D2 Encase the sorcerers ' robes with steel plates (Protection +2)
+MecUEnc(ME)D3 Apply protective runes to the plates (protection +3)
+MecUEnc(ME)SK Equip wizards with additional Mana stones (attack speed /*+20%*/)
+
+\\ Clay golem
+MecUGoG(ME)A1 Weight the golem's hands (attack +2)
+MecUGoG(ME)A2 Strengthen your fists for Stone Elements (attack +3)
+MecUGoG(ME)A3 Replacing the wooden" bones " of the hands with stone ones (attack +4)
+MecUGoG(ME)L1 Buy a new grade of clay (protection +1)
+MecUGoG(ME)L2 Pay for the heat treatment of golems (protection +2)
+MecUGoG(ME)L3 Add a sealing solution to the clay (protection +3)
+ 
+\\ Steam golem
+MecUGoS(ME)A1 Steam Boiler Upgrade (attack +2)
+MecUGoS(ME)A2 Upgrade the over-heating system (attack +2)
+MecUGoS(ME)A3 Increase steam generator power (attack +2)
+MecUGoS(ME)D1 Equip the golem with new armor (defense +1)
+MecUGoS(ME)D2 Upgrade the golem's skeleton (defense +2)
+MecUGoS(ME)D3 Build a self-defense system into the golem (defense +3)
+ 
+\\ Iron golem 
+MecUGoI(ME)A1 Use a special grade of steel for axes (attack +1)
+MecUGoI(ME)A2 Mount an automatic sharpening system in the axe (attack +2)
+MecUGoI(ME)A3 Upgrade the golem's hand drives (Attack +3)
+MecUGoI(ME)D1 Install an energy shield on the golem (defense +1)
+MecUGoI(ME)D2 Strengthen the Golem's Shield recharge (Defense +2)
+MecUGoI(ME)D3 Golem Armor Crystallization (defense +3)
+
+IceUDra(IC)S Master the Icewind Sorcery (+50% to the movement speed of the Ice Dragons)
+IceUDra(IC)A Master the Frost Breath Spell (+5 to Ice Dragon Damage)
+IceUMam(IC)L Master the Lightskin Spell (+25% to Mammoth Movement Speed)
+IceUGre(IC)A Craft Enchanted Bows (+15 to Gremlins Damage)
+IceUAll(IC)L Cast the Great Winter Spell (+15% health of all Ice Warriors)
+IceUMag(IC)A Write a Great Treatise of Spellcasters (speed up Spellcaster training by 2 times)
+IceUYet(IC)S Spend the Day of the Great Hunt (+30% to the speed of the Yeti)
+IceBMin(IC)D Strengthen the ice crystals (+50% to the rate of fire of the ice towers)
+IceUAll(IC)H Cast an Ice Healing Spell (restores 50 Ice Warriors ' Health points)
+IceUYot(IC)D Forge Great Armor (+8 to protect Jotuns, Cold Spirits and Ice Golems)
+IceBCry(IC)INSIDE Expand the mine (more gremlins can participate in extracting)
+
+\\ Conjurer
+IceUCon(IC)ATTACK1 Issue magic conjurer to spellcasters (attack +3)
+IceUCon(IC)ATTACK2 Issue conjurer magic rings (attack +3)
+IceUCon(IC)ATTACK3 Issue conjurer magic staffs (attack +4)
+IceUCon(IC)SHIELD1 Issue conjurer Stoneskin Elixir (protection +1)
+IceUCon(IC)SHIELD2 Issue conjurer Iron Skin Elixir (protection +2)
+IceUCon(IC)SHIELD3 Issue conjurer elixir of steel skin (protection +3)
+
+\\ Enchantress
+IceUEnc(IC)A1 Learn the Cold Spell (Attack +2)
+IceUEnc(IC)A2 Learn the Ice spell (Attack +3)
+IceUEnc(IC)A3 Learn the Freeze Spell (Attack +4)
+IceUEnc(IC)D1 Give the sorceresses protective amulets (protection +2)
+IceUEnc(IC)D2 Issue magical tiaras to enchantresses (protection +3)
+IceUEnc(IC)D3 Issue magical robes to enchantresses (protection +4)
+IceUEnc(IC)A4 Encrust the staffs with pearls (hand-to-hand attack of Enchantresses +2)
+IceUEnc(IC)A5 Trim the pommel of the staff with gold (hand-to-hand attack of enchantresses +4)
+IceUEnc(IC)A6 Insert an Ice Sapphire into the pommel of the staff (hand-to-hand attack of Enchantresses +6)
+
+\\ Yeti
+IceUYet(IC)ATTACK1 Give the Yeti an enhanced ration (attack +2)
+IceUYet(IC)ATTACK2 Conduct hand-to-hand combat competitions (attack +3)
+IceUYet(IC)ATTACK3 Perform a ritual mammoth hunt (attack +4)
+IceUYet(IC)SHIELD1 Strengthen the greaves with magic metal (protection +1)
+IceUYet(IC)SHIELD2 Strengthen the bracers with magic metal (protection +2)
+IceUYet(IC)SHIELD3 Strengthen the cape with magic metal (protection +3)
+
+\\ Fighting Yeti
+IceUYeC(IC)ATTACK1 Give out improved maces (+2 attack)
+IceUYeC(IC)ATTACK2 Upgrade Mace (+3 attack)
+IceUYeC(IC)ATTACK3 Upgrade Mace Spikes (+4 attack)
+
+
+\\ Ice draconid
+IceUDrc(IC)ATTACK1 Conduct a joint hunt (attack +1)
+IceUDrc(IC)ATTACK2 Improve the spear shaft (attack +2)
+IceUDrc(IC)ATTACK3 Conduct javelin throwing competitions (attack +3)
+IceUDrc(IC)SHIELD1 Train discipline (defense +1)
+IceUDrc(IC)SHIELD2 Strengthen the protective bracers (protection +2)
+IceUDrc(IC)SHIELD3 Perform endurance training (defense +3)
+
+\\----------------Cleric---------
+SolUCleA1 Call of Light (attack +1)
+SolUCleA2 Call of the Sun (attack +2)
+SolUCleA3 Call of the Clerics (attack +3)
+
+SolUCleD1 Light Offering (Defense +1)
+SolUCleD2 Sun Offering (Defense +2)
+SolUCleD3 Clerics Offering (Defense +3)
+
+\\----------------Priest---------
+SolUPriA1 Perform Sacred Vow (attack +2)
+SolUPriA2 Perform Holy Vow of Light (attack +3)
+SolUPriA3 Perform Sacred Sun Vow (attack +4)
+
+SolUPriD1 Tell about knowledge (defense +1)
+SolUPriD2 Tell about the knowledge of light (defense +2)
+SolUPriD3 Tell about the knowledge of the sun (defense +3)
+
+\\----------------Overseer---------
+SolUTasA1 Sharpen pikes (attack +2)
+SolUTasA2 Improved shaft (attack +3)
+SolUTasA3 Steel tip (attack +4) 
+
+SolUTasD1 Thick plates (defense +1)
+SolUTasD2 Steel shield (defense +2)
+SolUTasD3 Solar Training (Defense +3)
+
+\\----------------Scorpion---------
+SolUScoA1 Poison glands (attack +3/2)
+SolUScoA2 Scorpion sting (attack +4/3)
+SolUScoA3 Sharp claws (attack +5/4)
+
+SolUScoD1 Chitin Shroud (Defense +1)
+SolUScoD2 Reinforced Pincers (Defense +2)
+SolUScoD3 Spiked tail (defense +3)
+
+\\----------------Golden  Scorpion---------
+SolUGScA1 Thirst for poison (attack +2)
+SolUGScA2 Increased reflex (attack +4)
+SolUGScA3 Skopion Strike (Attack +6)
+
+SolUGScD1 Improved Chitin Shroud (Defense +1)
+SolUGScD2 Gold Plates (Defense +2)
+SolUGScD3 Strong tail spikes (defense +3)
+
+SolUAllH Call to the Sun (restores 50 health points to all Sols warriors)
+SolUTreT Train in extreme conditions (+ 25% to overseers health)
+SolUTreP Combat training (+4 to the defense of the priests)
+SolUSphH Install bronze plates (+500 to health and / * + 5 * / to the protection of the Sphinxes)
+SolBTowR Improve tower construction (+ 35% to attack radius of towers of light)
+SolUDraH Increase dragon's ration (+ 50% to fire dragons' health reserve)
+SolUFlyD Reinforce the deck (+10 solar boat defense)
+SolUScoD Fortified Chitin (+4 Scorpion Defense)
+SolUSlaR Improved Diet (+10% to the movement speed of all Sols' units (except mechanisms))
+SolHraMU Accelerated training (+ 50% to the speed of preparation of clerics)
+SolUSlaA Sharpen khopeshi (+6 damage to slaves)
+SolUSlaS Improve mining tools (+ 25% to the speed of mining stone and wood)
+SolUDraA Use Flame Enhancement Crystals (+12 Fire Dragon Damage)
+SolUCatR Improve the rope tension system (+ 35% to the attack range of fire catapults)
+SolBCry(UN)INSIDE Make slaves dig a new vein - increases the number of slaves that extract resources.
+
+//Shops
+(UNITS)\MAGAZINES\SHOBITEM1.MD Artifact Master I
+(UNITS)\MAGAZINES\SHOBITEM1.MD.HINT Use the services of a dealer in magical items of the first and second shooting ranges
+(UNITS)\MAGAZINES\SHOBITEM2.MD Artifact Master II
+(UNITS)\MAGAZINES\SHOBITEM2.MD.HINT Use the services of a merchant of magical items of the third and fourth shooting ranges
+(UNITS)\MAGAZINES\Ntr_Artf_HS.MD Artifact Master II
+(UNITS)\MAGAZINES\Ntr_Artf_HS.MD.HINT Use the services of a merchant of magical items of the third and fourth shooting ranges
+(UNITS)\MAGAZINES\SHOBITEM3.MD Master of Magic Scrolls
+(UNITS)\MAGAZINES\SHOBITEM3.MD.HINT Use the services of magic scrolls
+(UNITS)\MONUTORG.MD Master of rings and bracelets
+(UNITS)\MONUTORG.MD.HINT Use the services of a merchant of magic rings and bracelets
+(UNITS)\MAGAZINES\D_ALCHEMISTLAB001.MD Alchemy Lab I
+(UNITS)\MAGAZINES\D_ALCHEMISTLAB001.MD.HINT Use the services of the magic potion merchant of the first shooting range
+(UNITS)\MAGAZINES\D_ALCHEMISTLAB002.MD Alchemy Lab II
+(UNITS)\MAGAZINES\D_ALCHEMISTLAB002.MD.HINT Use the services of the magic potion merchant of the second shooting range
+(UNITS)\MAGAZINES\SHOBSPELL1.MD Library I
+(UNITS)\MAGAZINES\SHOBSPELL1.MD.HINT Use the spell library of 1 tier
+(UNITS)\MAGAZINES\SHOBSPELL2.MD Library II
+(UNITS)\MAGAZINES\SHOBSPELL2.MD.HINT Use the spell library of 2-4 tiers
+
+UndUNec(UN)ABILITY Ritual of Necromancy (passive ability for necromancers to raise skeletons every /*2*/ minutes for /*4*/ minutes)
+IceUMag(IC)A Write the Great Treatise of Spellcasters (60% faster learning of Spellcasters)
+
+SUPER(DR)1 Call on the power of nature, all troops become stronger: attack +1, defense +1, movement speed /*+7%*/
+SUPER(ME)1 Move to a new technological level, all troops become stronger: attack +1, defense +1, movement speed /*+7%*/
+SUPER(UN)1 Perform the ritual of Eternal Night, all troops become stronger: attack +1, defense +1, movement speed /*+7%*/
+SUPER(IC)1 Cast a spell of Ice Might, all troops become stronger: attack +1, defense +1, movement speed /*+7%*/
+SUPER(SO)1 Perform a rite of worship to the Sun, all troops become stronger: attack +1, defense +1, movement speed /*+7%*/
+UndUNec(UN)L Perform a ritual of strong flesh (+20 health to necromancers)
+DruUDru(DR)ATTACK1 Learn arcane spells (attack +2)
+
+//Altar units
+(UNITS)\SUMUBAN.MD Banshee
+(UNITS)\SUMURAT.MD Rat
+(UNITS)\SUMURATS.MD Shallow Rat
+(UNITS)\SUMUHAR.MD Harpy
+(UNITS)\SUMUDAE.MD Demon
+(UNITS)\SUMUDRC.MD Draconid-spear
+(UNITS)\SUMUMAE.MD Combat Fire Mage
+(UNITS)\SUMURID.MD Orc-rider
+(UNITS)\SUMUIMP.MD Imp
+(UNITS)\SUMUVAS.MD Basilisk
+(UNITS)\SUMUPHA.MD Fantom
+
+(UNITS)\SUMUBAN.MD.HINT A powerful undead spirit, the banshee's cry deals damage over a large area.
+(UNITS)\SUMURAT.MD.HINT Not a particularly strong monster, but the invasion of a horde of aggressive rodents is unlikely to please your opponent.
+(UNITS)\SUMURATS.MD.HINT Fast shallow rats, able to get behind enemy lines and kill several workers.
+(UNITS)\SUMUHAR.MD.HINT A strong beast capable of depriving the enemy of the ability to cast spells. In addition, the harpy's bite greatly reduces mana regeneration.
+(UNITS)\SUMUDAE.MD.HINT Strong melee warrior, has a chance to deal double damage.
+(UNITS)\SUMUDRC.MD.HINT Not very strong arrows, in large quantities they are able to thin out the enemy’s formation quite well.
+(UNITS)\SUMUMAE.MD.HINT A powerful mage, has a chance to scare enemies under his spell.
+(UNITS)\SUMURID.MD.HINT A fast warrior, most often used to harass the enemy. The poison that Orcs smear on their spears can briefly paralyze their prey.
+(UNITS)\SUMUIMP.MD.HINT An imp that has not reached its full strength.
+(UNITS)\SUMUVAS.MD.HINT An ancient creature that can turn units and heroes into a stone statue.
+(UNITS)\SUMUPHA.MD.HINT Nobody can understand its essence.
+
+(UNITS)\ICEBALT.MD Altar
+(UNITS)\ICEBALT.MD.HINT allows you to summon special warriors from parallel worlds.
+(UNITS)\DRUBALT.MD.HINT allows you to summon special warriors from parallel worlds.
+(UNITS)\UNDBALT.MD.HINT allows you to summon special warriors from parallel worlds.
+(UNITS)\MECBALT.MD.HINT allows you to summon special warriors from parallel worlds.
+(UNITS)\SOLBALT.MD.HINT allows you to summon special warriors from parallel worlds.
+
+#DruMine Resource Tree
+#MecMine Mine
+#UndMine Abandoned mine
+#IceMine Colliery
+#SolMine Mine
+
+
+

@@ -1,0 +1,37 @@
+<NewAbility>
+ <Name>a_Heal</Name>
+ <Type>Aura</Type>
+ <System>true</System>
+ <Aura>true</Aura>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <IgnoreMagicImmunity>true</IgnoreMagicImmunity>
+ <NonIgnoredSkill>true</NonIgnoredSkill>
+ <eWeapon>
+  <ClassName>WeaponModificator</ClassName>
+  <RefName>w_Heal</RefName>
+ </eWeapon>
+ <Radius>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>450</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </Radius>
+ <FriendlyTarget>true</FriendlyTarget>
+ <LiveBody>true</LiveBody>
+ <TargetMaxAmount>1</TargetMaxAmount>
+</NewAbility>

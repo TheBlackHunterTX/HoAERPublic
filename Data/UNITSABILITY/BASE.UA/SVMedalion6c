@@ -1,0 +1,30 @@
+<NewItem>
+ <Name>SVMedalion6c</Name>
+ <FileID>Interf3\Ability\goods_amulets</FileID>
+ <SpriteID>6</SpriteID>
+ <FileID_Char>Interf3\Ability\goods_character_amulets</FileID_Char>
+ <FileID_Inv>Interf3\Ability\goods_inventory_amulets</FileID_Inv>
+ <EffectFileID>Interf3\Ability\goods_amulets</EffectFileID>
+ <EffectSpriteID>6</EffectSpriteID>
+ <HintName>#SVMedalion6c.NAME</HintName>
+ <Hint>#SVMedalion6c</Hint>
+ <SoundExecute>NONE</SoundExecute>
+ <Type>ItemClothe</Type>
+ <GroundMD>
+  <UnitType>DropMs(IT)</UnitType>
+ </GroundMD>
+ <ShopPrice>2000</ShopPrice>
+ <Amount>1</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <Conditions>
+  <umc_LifeLess>
+   <OperandType>Percent</OperandType>
+  </umc_LifeLess>
+ </Conditions>
+</NewItem>

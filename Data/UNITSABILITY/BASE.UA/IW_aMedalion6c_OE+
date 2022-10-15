@@ -1,0 +1,34 @@
+<NewAbility>
+ <Name>IW_aMedalion6c_OE+</Name>
+ <ClassType>Effect</ClassType>
+ <Visible>false</Visible>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>999</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+ <Modificators>
+  <mod_Evasion>
+   <Operand>
+    <Operator>=</Operator>
+   </Operand>
+  </mod_Evasion>
+ </Modificators>
+</NewAbility>

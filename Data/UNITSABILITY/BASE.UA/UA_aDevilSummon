@@ -1,0 +1,27 @@
+<NewAbility>
+ <Name>UA_aDevilSummon</Name>
+ <FileID>Interf3\Ability\auras_dead_creatures</FileID>
+ <SpriteID>1</SpriteID>
+ <EffectFileID>Interf3\Ability\auras_dead_creatures</EffectFileID>
+ <EffectSpriteID>1</EffectSpriteID>
+ <System>true</System>
+ <Button>true</Button>
+ <PrepareCasting>true</PrepareCasting>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <Permanent>true</Permanent>
+ <eWeapon>
+  <ClassName>WeaponModificator</ClassName>
+  <RefName>UA_wDevilSummon_Birth</RefName>
+ </eWeapon>
+ <CursColor>B3FF223B</CursColor>
+</NewAbility>

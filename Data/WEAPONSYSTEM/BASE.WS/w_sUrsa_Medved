@@ -1,0 +1,18 @@
+<WeaponModificator>
+ <Name>w_sUrsa_Medved</Name>
+ <WPL>
+  <WeaponProcess>
+   <Event>
+    <Trigger></Trigger>
+   </Event>
+   <WeaponModificators>
+    <BirthNewUnit>
+     <UT>
+      <UnitType>UrzUUrz(UR)</UnitType>
+     </UT>
+    </BirthNewUnit>
+    <SelfMurder></SelfMurder>
+   </WeaponModificators>
+  </WeaponProcess>
+ </WPL>
+</WeaponModificator>

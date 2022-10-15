@@ -1,0 +1,31 @@
+<NewItem>
+ <SelfTarget>true</SelfTarget>
+ <Name>Bottle0</Name>
+ <FileID>Interf3\Ability\bottles</FileID>
+ <SpriteID>8</SpriteID>
+ <FileID_Char>Interf3\Ability\bottles_inventory</FileID_Char>
+ <FileID_Inv>Interf3\Ability\bottles_inventory</FileID_Inv>
+ <Type>ItemBottle</Type>
+ <SellAfterUse>true</SellAfterUse>
+ <GroundMD>
+  <UnitType>DropBottle(IT)</UnitType>
+ </GroundMD>
+ <ShopPrice>1000</ShopPrice>
+ <Amount>1000</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+ <IgnoreMagicImmunity>true</IgnoreMagicImmunity>
+ <NonIgnoredSkill>true</NonIgnoredSkill>
+</NewItem>

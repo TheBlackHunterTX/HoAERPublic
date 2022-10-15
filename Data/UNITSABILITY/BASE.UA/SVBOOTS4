@@ -1,0 +1,34 @@
+<NewItem>
+ <Name>SVBoots4</Name>
+ <FileID>Interf3\Ability\goods_boots</FileID>
+ <FileID_Char>Interf3\Ability\goods_character_boots</FileID_Char>
+ <FileID_Inv>Interf3\Ability\goods_inventory_boots</FileID_Inv>
+ <EffectFileID>Interf3\Ability\goods_boots</EffectFileID>
+ <HintName>#SVBoots4.NAME</HintName>
+ <Hint>#SVBoots4</Hint>
+ <Type>ItemClothe</Type>
+ <GroundMD>
+  <UnitType>DropM2(IT)</UnitType>
+ </GroundMD>
+ <ShopPrice>100</ShopPrice>
+ <Amount>1</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+ <Conditions>
+  <umc_LifeLess>
+   <OperandType>Percent</OperandType>
+  </umc_LifeLess>
+ </Conditions>
+</NewItem>

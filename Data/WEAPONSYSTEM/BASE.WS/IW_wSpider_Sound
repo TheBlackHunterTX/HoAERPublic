@@ -1,0 +1,16 @@
+<WeaponModificator>
+ <Name>IW_wSpider_Sound</Name>
+ <WPL>
+  <WeaponProcess>
+   <Event>
+    <Trigger></Trigger>
+   </Event>
+   <WeaponModificators>
+    <PlaySomeSound>
+     <SoundID>death_spider</SoundID>
+    </PlaySomeSound>
+    <SelfMurder></SelfMurder>
+   </WeaponModificators>
+  </WeaponProcess>
+ </WPL>
+</WeaponModificator>

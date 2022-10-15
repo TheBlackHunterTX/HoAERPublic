@@ -1,0 +1,21 @@
+<NewAbility>
+ <Name>ab_icesphere</Name>
+ <System>true</System>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <Blocking>
+  <ClassRef.UnitAbility>
+   <ClassName>NewAbility</ClassName>
+   <RefName>MC_aIceSphere_Damage</RefName>
+  </ClassRef.UnitAbility>
+ </Blocking>
+</NewAbility>

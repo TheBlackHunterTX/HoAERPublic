@@ -1,0 +1,29 @@
+<UA_Lazy>
+ <Name>UA_Lazy</Name>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <Radius>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>300</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </Radius>
+ <Radius>300</Radius>
+ <Supervisor>
+  <UnitType>SolUTas(SL)</UnitType>
+ </Supervisor>
+</UA_Lazy>

@@ -1,0 +1,15 @@
+<ua_SingleUnitAI>
+ <Name>suai_Acid</Name>
+ <CastingRadius>50</CastingRadius>
+ <Abilities>
+  <suAI_Ability>
+   <UA>
+    <ClassName>NewAbility</ClassName>
+    <RefName>ua_aAcid</RefName>
+   </UA>
+   <MinTargetAmount>4</MinTargetAmount>
+   <TargetEnemy>true</TargetEnemy>
+   <CastingDelay>3000</CastingDelay>
+  </suAI_Ability>
+ </Abilities>
+</ua_SingleUnitAI>

@@ -1,0 +1,32 @@
+[MEMBERS]
+RepULiC_M(RE) RepULiC_M
+RepUBas(RE)  RepUBas
+RepUHyd(RE)  RepUHyd
+RepULiC(RE)  RepULiC
+RepUSal(RE)  RepUSal
+RepUWyv(RE)  RepUWyv
+RepUWyr(RE)  RepUWyr
+RepUSaB(RE)  RepUSaB
+RepUSto(RE)  RepUSto
+
+[ENABLED]
+RepUBas(RE)
+RepUHyd(RE)
+RepULiC(RE)
+RepUSal(RE)
+RepUWyv(RE)
+RepUWyr(RE)
+RepUSto(RE)
+RepUSaB(RE)
+
+[COUNTRY]
+REPTILES 8
+#units
+RepUWyv(RE)
+RepUWyr(RE)
+RepULiC(RE)
+RepUSal(RE)
+RepUBas(RE)
+RepUSaB(RE)
+RepUHyd(RE)
+[END]

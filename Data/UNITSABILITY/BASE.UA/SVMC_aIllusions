@@ -1,0 +1,28 @@
+<NewItem>
+ <Name>SVMC_aIllusions</Name>
+ <FileID>Interf3\Ability\spells</FileID>
+ <SpriteID>31</SpriteID>
+ <FileID_Char>Interf3\Ability\spells</FileID_Char>
+ <FileID_Inv>Interf3\Ability\spells</FileID_Inv>
+ <HintName>#SVMC_aIllusions.NAME</HintName>
+ <Hint>#SVMC_aIllusions</Hint>
+ <SoundExecute>NONE</SoundExecute>
+ <Type>ItemClothe</Type>
+ <GroundMD>
+  <UnitType>DropMs(IT)</UnitType>
+ </GroundMD>
+ <ShopPrice>300</ShopPrice>
+ <Amount>1</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <Conditions>
+  <umc_LifeLess>
+   <OperandType>Percent</OperandType>
+  </umc_LifeLess>
+ </Conditions>
+</NewItem>

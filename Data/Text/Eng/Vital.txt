@@ -1,0 +1,153 @@
+#SkipMagicCard Right click to change magic card
+
+#BuildUnlimit Hold CTRL to order continual training
+
+#Inv_Bottles BOTTLES AND SCROLLS
+#Inv_Bottles_Hint Bottles and scrolls
+#Inv_Magic MAGIC
+#Inv_Magic_Hint Magic
+#Inv_History HISTORY
+#Inv_History_Hint History
+#Inv_Journal JOURNAL
+#Inv_Journal_Hint Journal
+#Inv_Info INFORMATION
+#Inv_Info_Hint Information
+
+#Inv_Full_PickUp Can't pick up an item - no place in the inventory
+
+#AblHint_Effects Effects
+
+#BuyPrice Purchase price
+#SellPrice Selling price
+#ManaCost Mana cost
+
+#Influence Action Effect
+#Multicast Number of superimposed charges
+
+#LimitedAmount Single use
+#SellAfterUse Right click to sell it instantly
+#Permanent Permanent
+
+#mod_MotionSpeed Movement speed
+#mod_Stun Stun
+#mod_Trap Immobility
+#mod_AttackRadiusMax Firing range
+#mod_Silence Silence
+#mod_Compassion Compassion
+#mod_Invulnerability Invulnerability
+#mod_Damage Damage
+#mod_Protection Protection from
+#mod_Shield Defense against any (even pure)
+#mod_AttackRate Attack rate
+#mod_MagicImmunity Magic immunity
+#mod_LifeRegeneration Health regeneration
+#mod_ManaRegeneration Mana restoration
+#mod_Vision View range
+#mod_Weapon Switch weapon to
+#mod_WeaponShots shots
+#mod_Invisibility Invisibility
+#mod_Detector Perceives invisible
+#mod_Frozen Frostbite
+#mod_Vampire Vampirism
+#mod_Thorn Thorns
+#mod_ManaValue Spell costs
+#mod_Life Current health
+#mod_Mana Current mana
+#mod_LifeMax Maximum health
+#mod_ManaMax Maximum mana
+#mod_AttackCaster Challenge the fight on yourself
+#mod_OverEarth Antigravity
+#mod_OverEarthDown Landing
+#mod_Fear Fear
+#mod_ProduceEnable Production disabled
+#mod_Scale Scale
+#mod_Control Under control
+#mod_Insubordination Disobedience
+#mod_LevelForEffects Spell power
+#mod_TradeSkill Trading skill
+#mod_Learning Learning skill
+#mod_Evasion Evasion
+#mod_Miss Miss
+#mod_MotionStyle Type of movement
+
+##mod_WeaponKind0 Piercing damage
+#mod_WeaponKind1 Chopping damage
+#mod_WeaponKind2 Crushing damage
+#mod_WeaponKind3 Magic damage
+
+HEROKILL Player %s killed a player %s (level - %d). %d rebirths left.
+HEROKILL2 Player %s DESTROYED a player %s (level - %d). 
+KILLBYCREEPS Player %s died (”level %d). %d rebirths left.
+KILLBYCREEPS2 Player %s DESTROYED (He managed to live up to the %d level).
+
+Money Coins
+CTRL CTRL
+SPACE SPACE
+BACKSPACE BACKSPACE
+SHIFT SHIFT
+HOME HOME
+
+Wood Wood
+Food Food
+Stone Stone
+Gold Gold
+Iron Iron
+
+piercing piercing
+chopping chopping
+crushing crushing
+magical magical
+
+FlyingObject low-flying
+
+#BaseFantasyVic Victory! You have proved your mastery.
+#BaseFantasyDefTownHalls Defeat! You have lost all your building centers.
+#BaseFantasyDefPeasants Defeat! You have less than three peasants left.
+#BaseFantasyDefHeroDeath Defeat! Your hero died.
+
+//Hints on building
+#HintShopBottle.NAME Alchemist lab
+#HintShopBottle Use the services of magic potions merchant
+#HintShopBottle1.NAME Alchemist lab I
+#HintShopBottle1 Use the services of magic potions merchant of the first tier
+#HintShopBottle2.NAME Alchemist lab II
+#HintShopBottle2 Use the services of magic potions merchant of the second tier
+#HintShopItems.NAME Artifact master
+#HintShopItems Use the services of a magic goods merchant
+#HintShopItems1.NAME Artifact master I
+#HintShopItems1 Use the services of a magic goods merchant of the first and second shooting ranges
+#HintShopItems2.NAME Artifact master II
+#HintShopItems2 Use the services of a merchant of magical items of the third and fourth shooting ranges
+#HintShopItems_Recipe.NAME Master of Magic Scrolls
+#HintShopItems_Recipe ВUse the services of a magic scroll merchant
+#HintShopItems_Povozka.NAME Master of rings and bracelets
+#HintShopItems_Povozka Use the services of a shopping cart
+#HintShopMagicCards.NAME Library
+#HintShopMagicCards Use the spell library
+#HintShopMagicCards1.NAME Library I
+#HintShopMagicCards1 Use the spell library of 1 tier
+#HintShopMagicCards2.NAME Library II
+#HintShopMagicCards2 Use the spell library of 2-4 tiers
+#HintBuyVillage.NAME Neutral settlement
+#HintBuyVillage Discuss the possibility of joint war with this settlement
+#HintAltar_attack.NAME Altar of Attack
+#HintAltar_attack Taking advantage of the power of the altar, the hero and all friendly nearby wars for 60 seconds. they will receive an enhanced attack. +15% damage bonus.
+#HintAltar_defence.NAME Altar of Defense
+#HintAltar_defence Taking advantage of the power of the altar, the hero and all friendly nearby wars for 60 seconds. they will receive enhanced protection. +30% protection against everything.
+#HintAltar_regeneration.NAME Stone of Regeneration
+#HintAltar_regeneration Using the power of the stone hero for 60 seconds. will gain an enhanced health regeneration ability. +50 health regeneration bonus.
+#HintAltar_rage.NAME Stone of Rage
+#HintAltar_rage Taking advantage of the power of the stone, the hero for 60 seconds. will gain the ability to quickly attack and move. +12% attack speed and +6% movement speed.
+#HintBonus_fontain.NAME Live Fountain
+#HintBonus_fontain Using the life-giving source, the hero will restore some of his life (250) and mana (150)
+
+//Hints on use
+#UseRightClick Right click to use
+#UseLeftClick Left click to use
+#GetCasterHeroLvl (Hero's level)
+#BuySellDoubleClick double click to buy/sell
+
+//
+#NeedBuildingForConstraction Requires:
+
+#Select_Mission MISSION SELECT

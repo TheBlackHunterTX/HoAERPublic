@@ -1,0 +1,36 @@
+<NewAbility>
+ <Name>a_DFire</Name>
+ <System>true</System>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <IgnoreMagicImmunity>true</IgnoreMagicImmunity>
+ <NonIgnoredSkill>true</NonIgnoredSkill>
+ <Modificators>
+  <mod_Life>
+   <Operand>
+    <Operator>-</Operator>
+    <Operand>
+     <Value>
+      <Op>
+       <NumericalConst>
+        <Value>
+         <Value>4</Value>
+        </Value>
+       </NumericalConst>
+      </Op>
+     </Value>
+    </Operand>
+   </Operand>
+   <Period>1</Period>
+  </mod_Life>
+ </Modificators>
+</NewAbility>

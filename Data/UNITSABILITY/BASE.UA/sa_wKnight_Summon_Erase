@@ -1,0 +1,42 @@
+<NewAbility>
+ <Name>sa_wKnight_Summon_Erase</Name>
+ <FileID>Interf3\Ability\Knight</FileID>
+ <SpriteID>15</SpriteID>
+ <EffectFileID>Interf3\Ability\Knight</EffectFileID>
+ <EffectSpriteID>15</EffectSpriteID>
+ <HintName>Time to die</HintName>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>50000</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+ <IgnoreMagicImmunity>true</IgnoreMagicImmunity>
+ <NonIgnoredSkill>true</NonIgnoredSkill>
+ <OnDieCreateWeapon>
+  <ClassName>WeaponModificator</ClassName>
+  <RefName>sa_wKnight_Summon_Visual</RefName>
+ </OnDieCreateWeapon>
+ <OnDieDeleteEffect>true</OnDieDeleteEffect>
+ <OnEndEffectCreateWeapon>
+  <ClassName>WeaponModificator</ClassName>
+  <RefName>sa_wKnight_Summon_Visual</RefName>
+ </OnEndEffectCreateWeapon>
+ <OnEndEffectErase>true</OnEndEffectErase>
+</NewAbility>

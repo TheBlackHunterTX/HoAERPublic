@@ -1,0 +1,28 @@
+<NewAbility>
+ <Name>sa_Assasin_ETrap</Name>
+ <FileID>Interf3\Ability\AssasinSkills</FileID>
+ <SpriteID>6</SpriteID>
+ <EffectFileID>Interf3\Ability\AssasinSkills</EffectFileID>
+ <EffectSpriteID>6</EffectSpriteID>
+ <HintName>Explosive Trap(Trap-&gtStun Trap-&gtPoison Trap)</HintName>
+ <Type>AntiMageSkill</Type>
+ <Button>true</Button>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <AntiMageSupportSkill>true</AntiMageSupportSkill>
+ <NecessarySkills>
+  <ClassRef.UnitAbility>
+   <ClassName>NewAbility</ClassName>
+   <RefName>sa_Assasin_PTrap</RefName>
+  </ClassRef.UnitAbility>
+ </NecessarySkills>
+</NewAbility>

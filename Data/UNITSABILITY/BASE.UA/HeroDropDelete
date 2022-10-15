@@ -1,0 +1,25 @@
+<NewAbility>
+ <Name>HeroDropDelete</Name>
+ <ClassType>Effect</ClassType>
+ <Visible>false</Visible>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+ <OnDieDeleteEffect>true</OnDieDeleteEffect>
+ <OnEndEffectDie>true</OnEndEffectDie>
+</NewAbility>

@@ -1,0 +1,15 @@
+<ua_SingleUnitAI>
+ <Name>suAI_NewSummon_01</Name>
+ <CastingRadius>500</CastingRadius>
+ <Abilities>
+  <suAI_Ability>
+   <UA>
+    <ClassName>NewAbility</ClassName>
+    <RefName>a_SMonsters_1</RefName>
+   </UA>
+   <MinTargetAmount>1</MinTargetAmount>
+   <TargetEnemy>true</TargetEnemy>
+   <CastingDelay>10000</CastingDelay>
+  </suAI_Ability>
+ </Abilities>
+</ua_SingleUnitAI>

@@ -1,0 +1,18 @@
+<NewBonus>
+ <Name>DialogObjectNoVisual</Name>
+ <SpriteID>1</SpriteID>
+ <EffectSpriteID>1</EffectSpriteID>
+ <SoundExecute>NONE</SoundExecute>
+ <System>true</System>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+</NewBonus>

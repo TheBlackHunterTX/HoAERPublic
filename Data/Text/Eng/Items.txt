@@ -1,0 +1,862 @@
+\\QUEST
+#QuestItemsBug.NAME Bug
+#QuestItemsBug Bug
+#QuestItemsOrb.NAME Eye of Hartualon
+#QuestItemsOrb Eye of Hartualon
+#QuestItemsFlask.NAME Flask with water
+#QuestItemsFlask Flask with water
+#QuestItemsVint.NAME Screw
+#QuestItemsVint Screw
+#QuestItemsKey.NAME Key
+#QuestItemsKey Key
+#Key1.NAME Key
+#Key1 Key
+#Key2.NAME Key
+#Key2 Key
+#QuestItemsEgg.NAME Dragon egg
+#QuestItemsEgg Dragon egg
+#Key3.NAME Key
+#Key3 Key
+#Pearl1.NAME Gem of mechanics
+#Pearl1 Gem of mechanics
+#Pearl2.NAME Gem of coldness
+#Pearl2 Gem of coldness
+#Pearl3.NAME Gem of Sun
+#Pearl3 Gem of Sun
+#Pearl4.NAME Gem of death
+#Pearl4 Gem of death
+
+\\Headwear (8)
+
+#Helm1.NAME Hunter's hat
+#Helm1 Used in the creation of:
+#Helm2.NAME Steel helmet
+#Helm2 Used in the creation of: Eagle helmet 
+#Helm3.NAME Orc's helmet
+#Helm3 Used in the creation of: Dragon's helmet
+#Helm4.NAME Eagle helmet
+#Helm4 Used in the creation of:
+#Helm5.NAME Snake's hoop
+#Helm5 Used in the creation of: Crown of Lament
+#Helm6.NAME Dragon's helmet
+#Helm6 Used in the creation of:
+#Helm7.NAME Crown of Lament
+#Helm7 Used in the creation of:
+#Helm8.NAME Mask of Death
+#Helm8 Vampirism: 25% of the damage done by the hero is added to his health.\Wearing a mask every second disables health regeneration for 30 seconds.
+
+\\ Armor(8)
+
+#Armor1.NAME Leather jacket
+#Armor1 Used in the creation of: Living armor
+#Armor2.NAME Chain mail
+#Armor2 Used in the creation of: Elven chain mail
+#Armor3.NAME Druid's toga
+#Armor3 Used in the creation of: Sorcerer's robe
+#Armor4.NAME Elven chain mail
+#Armor4 Used in the creation of: Bjorn's full armor
+#Armor5.NAME Sorcerer's robe
+#Armor5 Used in the creation of: 
+#Armor6.NAME Bjorn's full armor
+#Armor6 Used in the creation of: 
+#Armor7.NAME Living armor
+#Armor7 Used in the creation of: 
+#Armor8.NAME Midnight Cuirass
+#Armor8 40% of the damage received by the hero in melee is also dealt to the attacker.
+
+\\ Belts(8)
+
+#Belt1.NAME Leather belt
+#Belt1 Used in the creation of: Black legion belt
+#Belt2.NAME Bone belt
+#Belt2 Used in the creation of: Belt of Crystal Lake
+#Belt3.NAME Ranger's belt
+#Belt3 Used in the creation of: Snake's belt
+#Belt4.NAME Black legion belt
+#Belt4 Used in the creation of:
+#Belt5.NAME Belt of endurance
+#Belt5 Used in the creation of:
+#Belt6.NAME Snake's belt
+#Belt6 Used in the creation of:
+#Belt7.NAME Belt of Crystal Lake
+#Belt7 Used in the creation of:
+#Belt8.NAME Giant Lord's Belt
+#Belt8 Increases maximum health from all sources by 20%.
+
+\\ Coats(8)
+
+#Cloak1.NAME Apprentice's cloak
+#Cloak1 Used in the creation of: Necromancer's cloak, Cloak of invisibility
+#Cloak2.NAME Forester's Cloak
+#Cloak2 Used in the creation of: Life Champion's cloak
+#Cloak3.NAME Scout's cloak
+#Cloak3 Used in the creation of:
+#Cloak4.NAME Necromancer's cloak
+#Cloak4 Used in the creation of: Cloak of great rains
+#Cloak5.NAME Life Champion's cloak
+#Cloak5 Used in the creation of:
+#Cloak6.NAME Cloak of great rains
+#Cloak6 CUsed in the creation of:
+#Cloak7.NAME Ancient cloak
+#Cloak7 The "Magic Protection +300%" option only affects basic protection.
+#Cloak8.NAME Cloak of invisibility
+#Cloak8 Gives a permanent invisibility effect. The Anti-Magic spell dispels invisibility.
+
+\\ Gloves(8)
+
+#Gloves1.NAME Leather gloves
+#Gloves1 Used in the creation of: Gloves of bear's might
+#Gloves2.NAME Archer's gloves
+#Gloves2 Used in the creation of: Dragon gloves, Spider's gloves
+#Gloves3.NAME Armored gloves
+#Gloves3 Used in the creation of: Alchemist's gloves, Hammerer's gauntlets
+#Gloves4.NAME Gloves of bear's might
+#Gloves4 Used in the creation of: Hammerer's gauntlets
+#Gloves5.NAME Alchemist's gloves
+#Gloves5 Used in the creation of: Spider's gloves
+#Gloves6.NAME Hammerer's gauntlets
+#Gloves6 Used in the creation of:
+#Gloves7.NAME Spider's gloves
+#Gloves7 Units that died within 650 radius of the hero, with a chance of 10% turn into cave spiders, large units always turn into large cave spiders. Life duration of the spiders is 5 minutes. Units attacked by large spiders turns into cave spiders after death.
+#Gloves8.NAME Dragon gloves
+#Gloves8 Used in the creation of:
+
+\\ Footwear(8)
+
+#Boots1.NAME Wanderer's boots
+#Boots1 Used in the creation of: Cheetah skin shoes
+#Boots2.NAME Heavy boots 
+#Boots2 Used in the creation of: Dragon's shoes
+#Boots3.NAME Orc's boots
+#Boots3 Used in the creation of: Druid's shoes
+#Boots4.NAME Cheetah skin shoes
+#Boots4 Used in the creation of:
+#Boots5.NAME Druid's shoes
+#Boots5 Used in the creation of: Irneate sandals
+#Boots5a.NAME Warrior's Boots
+#Boots5a 700, 10% to move speed, 0/4/4/4 -2 to mana regeneration
+#Boots6.NAME Dragon's shoes
+#Boots6 Used in the creation of:
+#Boots8.NAME Irneate sandals
+#Boots8 The "Spell Power +10%" option increases the Spell power gain from all worn items and level
+#Boots7.NAME Boots of the Mystical Forest
+#Boots7 Boots of the Mystical Forest
+#Boots8a.NAME Irneate High Sandals
+#Boots8a +30% to spell power
+#Boots7a.NAME Boots of Sharp Waves ONLY 40 stats, the rest is armor 0/6/5/5 and 60 to move speed 
+#Boots7a Mana regeneration , mana, -100% to the cost of spells. Spell power
+#Boots7b.NAME Boots of Enchanted Winds
+#Boots7b +20% to the running speed (total +80%)
+#Boots7c.NAME Boots of Solid Rock 
+#Boots7c Armor
+#Boots7d.NAME Boots of Hell Fires
+#Boots7d Damage
+
+\\ Medallions(8)
+#Medalion0.NAME A bag of jewelry
+#Medalion0 The merchants will pay you handsomely for it
+#Medalion1.NAME Pearl Necklace
+#Medalion1 Pearl Necklace
+#Medalion2.NAME Protective amulet
+#Medalion2 Protective amulet
+#Medalion3.NAME Bear's fang
+#Medalion3 Bear's fang
+#Medalion3a.NAME Mascot
+#Medalion3a 400, 10% to move speed, 0/2/1/1 --------------------------------------------------------
+
+#Medalion4.NAME Leprechaun's medallion
+#Medalion4 Leprechaun's medallion
+#Medalion5.NAME Crystal of knowledge
+#Medalion5 Crystal of knowledge
+
+#Medalion6.NAME  The Star
+#Medalion6 Percentage increase works from items. Used in the creation of: Precision Star
+#Medalion6a.NAME Silver Star----------------------------------------------------------
+#Medalion6a Gives protection from magic
+#Medalion6b.NAME The star of the tailwind
+#Medalion6b +20% to attack speed
+#Medalion6c.NAME Marksmanship star (Non Drop)
+#Medalion6c Percentage increase works from items. Opponents within a radius of 1200 cannot dodge, and you and your allies cannot miss.
+#Medalion6d.NAME The Headwind Star
+#Medalion6d +20% to attack speed for enemies
+#Medalion7.NAME Sorcerer's talisman
+#Medalion7 Sorcerer's talisman
+
+#Medalion8.NAME Dragon's eye
+#Medalion8 Reveals the invisibility of enemies within a radius of 1000.
+
+#Medalion9.NAME Amulet of Weakening (Non Drop)
+#Medalion9 Enemies damage with pure damage type is reduced by 50% (Radius 1200)
+
+\\ Bracelet(16) 200 400 1200 3200
+
+#Bracelet1.NAME Leather bracer
+#Bracelet1 Used in the creation of:
+#Bracelet2.NAME Shaman's bracer
+#Bracelet2 Used in the creation of: Sorcerer's bracelet
+#Bracelet3.NAME Centaur's bracer
+#Bracelet3 Used in the creation of:
+#Bracelet4.NAME Enhanced bracelet
+#Bracelet4 Used in the creation of:
+#Bracelet5.NAME Bone bracelet
+#Bracelet5 Used in the creation of:
+
+#Bracelet6.NAME Fairy's bracelet
+#Bracelet6 Used in the creation of:
+#Bracelet7.NAME Bracer of defense
+#Bracelet7 Used in the creation of: Cold Flame Bracelet
+#Bracelet8.NAME Troll's blood bracelet
+#Bracelet8 Used in the creation of:
+#Bracelet9.NAME Bracelet with spikes
+#Bracelet9 Opponents attacking the owner of the bracelet in melee receive 2 damage for each hit. The effect of the two bracelets is summed up.
+#Bracelet10.NAME Sorcerer's bracelet
+#Bracelet10 Used in the creation of:
+
+#Bracelet12.NAME Druid's bracelet
+#Bracelet12 Used in the creation of:
+#Bracelet13.NAME Lightning bracelet
+#Bracelet13 Used in the creation of: Cold Flame Bracelet
+#Bracelet14.NAME Obsidian bracelet
+#Bracelet14 The percentage increase increases only the basic protection.
+#Bracelet15.NAME White Tower bracelet
+#Bracelet15 Used in the creation of: Unicorn's bracelet
+#Bracelet16.NAME Unicorn's bracelet
+#Bracelet16 Increases the speed of movement of allies (by 8%) and magic defence (by 2) within a radius of 600. The aura effect does not add up. Does not add up with "Ring of wind power" aura.
+#Bracelet11.NAME Cold Flame Bracelet
+#Bracelet11 Cold Flame Bracelet
+
+\\ Rings(32)
+
+#Ring1.NAME Gold ring
+#Ring1 Used in the creation of: Eagle helmet 
+#Ring2.NAME Silver ring
+#Ring2 Used in the creation of: Eagle helmet 
+#Ring3.NAME Ring with ruby
+#Ring3 Used in the creation of:
+#Ring4.NAME Ring with sapphire
+#Ring4 Used in the creation of:
+#Ring5.NAME Ring with topaz
+#Ring5 Used in the creation of:
+#Ring6.NAME Apprentice's ring
+#Ring6 Used in the creation of: Mage Ring, Cold Flame Bracelet
+#Ring7.NAME Ring with skull
+#Ring7 Summons a skeleton for 40 seconds every 10 seconds. The effects of multiple rings are summed up.
+#Ring8.NAME Orc's ring
+#Ring8 Used in the creation of:
+#Ring9.NAME Dead man's ring
+#Ring9 Used in the creation of: Sorcerer's Ring
+#Ring10.NAME Troll's ring
+#Ring10 Used in the creation of: Master bowman's ring
+#Ring11.NAME Lich's ring
+#Ring11 Units within a radius of 600 around the hero lose protection from everything. The effects of multiple rings do not add up.
+#Ring12.NAME Stone ring
+#Ring12 Used in the creation of: Ring of protection, Master bowman's ring
+
+#Ring13.NAME Ring of regeneration
+#Ring13 Used in the creation of: Living armor, Belt of endurance, Life Champion's cloak
+#Ring15.NAME Ring of protection
+#Ring15 Used in the creation of: Black legion belt
+#Ring16.NAME Warrior's Ring
+#Ring16 Used in the creation of: Gloves of bear's might, Ring of power
+#Ring17.NAME Mage Ring
+#Ring17 Used in the creation of: Sorcerer's robe, Irneate sandals, Ring of magic
+#Ring18.NAME Lapis-lazuli ring
+#Ring18 Used in the creation of:
+
+#Ring14.NAME Sorcerer's Ring
+#Ring14 Used in the creation of: Alchemist's gloves, Druid's shoes, Battle mage's ring
+#Ring19.NAME Dragon's ring
+#Ring19 Used in the creation of: Dragon's helmet, Dragon gloves, Dragon's shoes
+#Ring20.NAME Ring of luck
+#Ring20 Used in the creation of: Bjorn's full armor, Cheetah skin shoes
+#Ring21.NAME Bone ring
+#Ring21 Opponents attacking the owner of the ring in melee receive 1 damage for each hit. The effect of multiple rings is summed up.
+#Ring22.NAME Black ring
+#Ring22 Increases the damage (+2) and defense (+1) of the allies around. The radius of action is 600. The aura effect from several rings does not add up.
+#Ring25.NAME Master bowman's ring
+#Ring25 Used in the creation of:
+
+#Ring23.NAME Ring of wind power
+#Ring23 Increases the speed of movement of allies by 5% within a radius of 600. The effect of the speed aura from multiple rings does not add up. The aura effect does not add up. Does not add up with "Unicorn's bracelet" aura.
+#Ring24.NAME Wanderer's ring
+#Ring24 Used in the creation of: Snake's belt
+#Ring26.NAME Battle mage's ring
+#Ring26 Used in the creation of:
+#Ring27.NAME Ring of magic
+#Ring27 Used in the creation of: Cloak of great rains, Cloak of invisibility
+#Ring28.NAME Ring of life
+#Ring28 Increases the health of allied Heroes, summoned creatures, and Illusions by 50 within a radius of 600. The effect does not add up.
+#Ring29.NAME Ring of power
+#Ring29 Used in the creation of:
+
+#Ring30.NAME Flame rim
+#Ring30 The owner passively sets enemies on fire every second (within a radius of 150 around him), dealing 15 pure damage to units and 38 heroes. The fire effect does not add up from multiple rings.
+#Ring31.NAME Soulcatcher
+#Ring31 The Soul Catcher consumes the souls of warriors who have died within an 800 radius around the hero. Souls are absorbed 2 minutes after the death of the enemy, during which time the ring owner increases mana regeneration by 1 for each soul, after the absorption of the increase disappears. The effect cannot be dispelled. The effect of multiple rings does not add up.
+#Ring32.NAME Dragon's heart
+#Ring32 "Dragon's heart" increases health regeneration by 3 for every 5% of missing health. The effect cannot be dispelled. The unique regeneration effect of missing health does not add up from multiple rings.
+
+#Run Run
+\\Unreleased
+
+#Ring33.NAME Wedding Ring
+#Ring33 Wedding Ring
+Obsidian ring
+Blood Soul Catcher
+
+\\ Bows(Ranger)(8)
+
+#Weapon1.NAME Long hunter's bow
+#Weapon1 Long hunter's bow
+#Weapon2.NAME Elven yew-bow
+#Weapon2 Elven yew-bow
+#Weapon3.NAME Ancient bow
+#Weapon3 Ancient bow
+#Weapon4.NAME Whalebone
+#Weapon4 Whalebone
+#Weapon5.NAME Ranger's bow
+#Weapon5 Ranger's bow
+#Weapon6.NAME Sniper's bow
+#Weapon6 Sniper's bow
+#Weapon7.NAME Death avenger
+#Weapon7 Death avenger\ Attack Modifier:\Your attacks with a 50% chance deal damage twice.
+#Weapon8.NAME Enthralled wind
+#Weapon8 Enthralled wind\ Attack Modifier:\Your attacks with a 50% chance deal damage twice.\_________________\Attack Modifier:\Your attacks slow down your movement speed (10%) and attack speed (5%) by 5 seconds. within a radius of 20. The effects add up. Reduces the projectile's flight speed from 1800 to 1100
+
+\\ Blades(for Elhant in the company)(8)
+
+#WeaponMelee1.NAME Elven long sword
+#WeaponMelee1 Elven long sword
+#WeaponMelee2.NAME Elven saber
+#WeaponMelee2 Elven saber
+#WeaponMelee3.NAME Balanced sword
+#WeaponMelee3 Balanced sword
+#WeaponMelee4.NAME Enhanced blade
+#WeaponMelee4 Enhanced blade
+#WeaponMelee5.NAME Master's sword
+#WeaponMelee5 Master's sword
+#WeaponMelee6.NAME Saber of dragon bone
+#WeaponMelee6 Saber of dragon bone
+#WeaponMelee7.NAME Rune sword
+#WeaponMelee7 Rune sword
+#WeaponMelee8.NAME Ak'lail's liana sprout
+#WeaponMelee8 Ak'lail's liana sprout
+
+\\ Spears(Amazonia)(8)
+
+#DruHamaWeaponMelee1 Centaur's spear
+#DruHamaWeaponMelee2 Spear of dead tree
+#DruHamaWeaponMelee3 Infantry spear
+#DruHamaWeaponMelee4 Ent's spear
+#DruHamaWeaponMelee5 Amazon's spear
+#DruHamaWeaponMelee6 Enhanced spear
+#DruHamaWeaponMelee7 Lightning
+#DruHamaWeaponMelee8.NAME Seal-ring of fate
+#DruHamaWeaponMelee8 Seal-ring of fate\ Attack Modifier:\Attacks with Seal-ring of fate with a 20% chance impose root for 0.8 sec + 0.032 sec/lvl. During immobility units lose 60% of their defense against magic..
+
+\\ Staffs(Druid)(8)
+
+#DruStaffWeapon1 Oak staff
+#DruStaffWeapon2 Willow staff
+#DruStaffWeapon3 Ash tree staff
+#DruStaffWeapon4 Ent's staff
+#DruStaffWeapon5 Druid's staff
+#DruStaffWeapon6 Staff of elements
+#DruStaffWeapon7 Spirits staff
+#DruStaffWeapon8.NAME Forest might
+#DruStaffWeapon8 Forest might\ Attack Modifier:\An opponent attacked by a druid becomes weaker (-30% from current magic defense, -2 attack, -15% movement speed). The effect lasts for 4 seconds. The effects add up.
+
+\\ Braids(Death Knight)(8)
+
+#UndScytheWeapon1 СOld scythe
+#UndScytheWeapon2 Dead man's sickle
+#UndScytheWeapon3 Naginata
+#UndScytheWeapon4 Black scythe
+#UndScytheWeapon5 Demon's tongue
+#UndScytheWeapon6 Madman's scythe
+#UndScytheWeapon7 Naginata of fury
+#UndScytheWeapon8.NAME Reaper
+#UndScytheWeapon8 Reaper\ Attack Modifier:\"Reaper" attacks absorb all of the target's health regeneration for 16 seconds. "Reaper" gives the Death Knight one charge for each attack that increases health regeneration (+12) for 16 seconds.The effects add up. The effect on the Death Knight cannot be dispelled.  Death Mask does not disable regeneration from Reaper's Gift.
+
+\\ Claws(Vampiress)(8)
+
+#UndClawsWeapon1 Ghoul's claws
+#UndClawsWeapon2 Wolfhound's claws
+#UndClawsWeapon3 Bear's claws
+#UndClawsWeapon4.NAME Poisonous claws
+#UndClawsWeapon4 Poisonous claws\ Attack Modifier:\Your attacks poison the target by dealing periodic damage and slowing it down by 20%. The effects add up.
+#UndClawsWeapon5 Manticore's claws
+#UndClawsWeapon6 Demon's claws
+#UndClawsWeapon7 Dragon's claws
+#UndClawsWeapon8.NAME Death clutch
+#UndClawsWeapon8 Death clutch\ Attack Modifier:\Your attacks have a 30% chance to stun targets for 1 second.\Vampirism: 10% of the damage done by the hero is added to his health.
+
+\\ Wands(Lich)(8)
+
+#UndRodWeapon1 Bone wand
+#UndRodWeapon2 Skull rod
+#UndRodWeapon3 Necromancer's wand
+#UndRodWeapon4 Rune wand
+#UndRodWeapon5 Obsidian wand
+#UndRodWeapon6 Dragon's wand
+#UndRodWeapon7 Wand of anger
+#UndRodWeapon8.NAME Pestilence
+#UndRodWeapon8 Pestilence\ Attack Modifier:\Your attacks with a 25% chance infect the disease for 5 seconds, causing the target to slow down by 80% and take 4 damage every 0.25 seconds, Every second the disease spreads to the other two units with a 25% chance.
+
+\\ Rods (Flame Master)
+
+#SolHPyrWeapon1 Magic Cane
+#SolHPyrWeapon2 Battle Rod
+#SolHPyrWeapon3 Ray Rod
+#SolHPyrWeapon4 Moonlight
+#SolHPyrWeapon5 The Sun Wand
+#SolHPyrWeapon6 Fire Five-Pronger
+#SolHPyrWeapon7 Rod of the Dead
+#SolHPyrWeapon8.NAME Caduceus
+#SolHPyrWeapon8 Caduceus\ Attack Modifier:\Caduceus attacks reduce the target's regeneration (-2) and defense against magic (-4), if the target is undead or demon forces, their attack power is further reduced (-2). The duration of the effect is 20 seconds.\_________________\Attack Modifier:\Caduceus attacks increase the owner's regeneration (+2) and magic protection (+4). The duration of the effect is 20 seconds
+
+\\ Staffs(High Priest)
+
+#SolHArcWeapon1.NAME Last Light
+#SolHArcWeapon2.NAME Wandering Soul
+#SolHArcWeapon3.NAME Fiery Lash
+#SolHArcWeapon4.NAME Blood Soul
+#SolHArcWeapon1 Last Light
+#SolHArcWeapon2 Wandering Soul
+#SolHArcWeapon3 Fiery Lash
+#SolHArcWeapon4 Blood Soul\ Vampirism: 10% of the damage done by the hero is added to his health.
+#SolHArcWeapon5.NAME Staff of the All-seeing Sun
+#SolHArcWeapon6.NAME Staff of Blue Flame
+#SolHArcWeapon5 Staff of the All-seeing Sun
+#SolHArcWeapon6 Staff of Blue Flame
+#SolHArcWeapon7.NAME Staff of Fiery 
+#SolHArcWeapon7 Staff of Fiery\ Vampirism: 10% of the damage done by the hero is added to his health.
+#SolHArcWeapon8.NAME Fire Runner
+#SolHArcWeapon8 Fire Runner\ Attack Modifier:\Your attacks with a 20% chance cause your opponents to get scared and run away with increased speed (+30%) for 1.5 seconds
+
+\\ Morgensterns Ahah:D(Gladiator) 
+
+#SolHGlaWeapon1 Flail
+#SolHGlaWeapon2 Battle Morgenstern
+#SolHGlaWeapon3 Sun glare
+#SolHGlaWeapon4 Double threat
+#SolHGlaWeapon5 Lash of Pain
+#SolHGlaWeapon6 Spiked Skull
+#SolHGlaWeapon7 Fiery Death
+#SolHGlaWeapon8.NAME Crusher
+#SolHGlaWeapon8 Crusher\ Attack Modifier:\Your attacks damage the physical armor of the targets: -100% protection against piercing, crushing and slashing, the duration of the effect is 22 seconds.
+
+\\ Bottles(one use)(34)
+
+#Bottle1 Mana Decoction
+#Bottle2 Health Decoction
+#Bottle3 Recovery decoction
+#Bottle4 Recoveres 3 health units per second. The duration of the action is 40 seconds.
+#Bottle5 Recoveres 3 mana units per second. The duration of the action is 40 seconds.
+#Bottle6 The duration of the action is 40 seconds.
+#Bottle7.NAME Vision Decoction
+#Bottle7 Also allows you to see invisible units within 1200 radius. The duration of the action is 60 seconds.
+#Bottle8 The duration of the action is 40 seconds.
+#Bottle9 Your attacks poison the target, slowing it down by 20% for 4 seconds (target takes periodic damage as well). Gives area damage within 40 radius for close range and 30 for long range. The duration of the action is 40 seconds.
+#Bottle10 Mana Potion
+#Bottle11 Health Potion
+#Bottle12 Recovery potion
+#Bottle13 Restores 6 health units per second. Lasts 44 seconds.
+#Bottle14 Restores 6 mana per second. Life duration: 44 seconds.
+#Bottle15  Invisibility cannot be resolved. The duration of the action is 40 seconds.
+#Bottle16 The duration of the action is 40 seconds.
+#Bottle17 Gives area damage within a range of 50 for melee and 40 for ranged. The duration of the action is 40 seconds.
+#Bottle18 Mana Elixir
+#Bottle19 Health Elixir
+#Bottle20 Elixir of Restoration
+#Bottle21 Restores 10 health units per second. Lasts 45 seconds.
+#Bottle22 Restores 10 mana per second. Lasts 45 seconds.
+#Bottle23 Lasts 30 seconds.
+#Bottle24 Damages an area within a range of 50 for melee and 40 for ranged. The duration of the action is 40 seconds.
+#Bottle25 Removes all effects, even positive ones.
+#Bottle26 Warrior's Elixir
+#Bottle27 Elixir of Magic
+#Bottle28 Elixir of Life
+#Bottle29 Elixir of Fortitude
+#Bottle30 Removes area damage and all attack modifiers. Effect duration 60 seconds.
+#Bottle31 Need new effect
+#Bottle32 Elixir of Agility
+#Bottle33 Psychic Elixir
+#Bottle34 Veteran Elixir
+#Bottle1.NAME Mana Potion
+#Bottle2.NAME Health Decoction
+#Bottle3.NAME Recovery Potion
+#Bottle4.NAME Potion of Regeneration
+#Bottle5.NAME Meditation Decoction
+#Bottle6.NAME Potion of Speed
+#Bottle7.NAME Potion of Vision
+#Bottle8.NAME Healing Potion
+#Bottle9.NAME Poison Bottle
+#Bottle10.NAME Mana Potion
+#Bottle11.NAME Health Potion
+#Bottle12.NAME Recovery Potion
+#Bottle13.NAME Regeneration Potion
+#Bottle14.NAME Meditation Potion
+#Bottle15.NAME Invisibility Potion
+#Bottle16.NAME Stonecoat Decoction
+#Bottle17.NAME Alchemist's Fire
+#Bottle18.NAME Elixir of Mana
+#Bottle19.NAME Elixir of Health
+#Bottle20.NAME Elixir of Recovery
+#Bottle21.NAME Elixir of Regeneration
+#Bottle22.NAME Meditation Elixir
+#Bottle23.NAME Dodge Potion
+#Bottle24.NAME Rattlesnake Potion
+#Bottle25.NAME Absorption Magic Elixir
+#Bottle26.NAME Warrior Elixir
+#Bottle27.NAME Elixir of Magic
+#Bottle28.NAME Elixir of Life
+#Bottle29.NAME Elixir of Fortitude
+#Bottle30.NAME Berserker Elixir
+#Bottle31.NAME Elixir of Immortality
+#Bottle32.NAME Elixir of Agility
+#Bottle33.NAME Elixir of clairvoyance
+#Bottle34.NAME Veteran Elixir
+#BottleDM2.NAME Rattlesnake Potion
+#BottleDM2 Rattlesnake Potion
+#BottleDM5.NAME Rattlesnake Potion
+#BottleDM5 Rattlesnake Potion
+#BottleHP50.NAME Health potion
+#BottleHP50 Health Decoction
+#BottleHP100.NAME Health Decoction
+#BottleHP100 Health Decoction
+
+\\ArchMage(ICE)
+#IceHArcWeapon1.NAME Wizard's rod
+#IceHArcWeapon1 Wizard's rod
+#IceHArcWeapon2.NAME Shaman's staff
+#IceHArcWeapon2 Shaman's staff
+#IceHArcWeapon3.NAME Apprentice's wand
+#IceHArcWeapon3 Apprentice's wand
+#IceHArcWeapon4.NAME Sorcerer's staff
+#IceHArcWeapon4 Sorcerer's staff
+#IceHArcWeapon5.NAME Conjurer's staff
+#IceHArcWeapon5 Conjurer's staff
+#IceHArcWeapon6.NAME Mage's staff
+#IceHArcWeapon6 Mage's staff
+#IceHArcWeapon7 Warlock's staff
+#IceHArcWeapon7.NAME Warlock's staff
+#IceHArcWeapon8.NAME Archmage staff
+#IceHArcWeapon8 Archmage staff\ Attack Modifier:\Your attacks slow down your movement speed (15%) and attack speed (15%) for 5 seconds. within a radius of 70. The effects add up. Increases the projectile's flight speed from 500 to 700.
+
+\\Varvar(ICE)
+#IceHBarWeapon1.NAME Warrior's swords
+#IceHBarWeapon1 Warrior's swords
+#IceHBarWeapon2.NAME Short-swords
+#IceHBarWeapon2 Short-swords
+#IceHBarWeapon3.NAME Slayers swords
+#IceHBarWeapon3 Slayers swords
+#IceHBarWeapon4.NAME Enhanced swords
+#IceHBarWeapon4 Enhanced swords
+#IceHBarWeapon5.NAME Chieftain's blades
+#IceHBarWeapon5 Chieftain's blades
+#IceHBarWeapon6.NAME Night blades
+#IceHBarWeapon6 Night blades
+#IceHBarWeapon7.NAME Kindred brothers
+#IceHBarWeapon7 Kindred brothers\ Vampirism: 10% of the damage done by the hero is added to his health.
+#IceHBarWeapon8.NAME Swords of insanity
+#IceHBarWeapon8 Swords of insanity\ Attack Modifier:\Each attack increases the barbarian's damage (by 6) and attack speed (by 2%). The duration of a single charge is 13 seconds. The effect adds up. The effect cannot be dispelled.
+
+\\Valkiriya(ICE)
+#IceHValWeapon1.NAME Wind
+#IceHValWeapon1 Wind
+#IceHValWeapon2.NAME Hail
+#IceHValWeapon2 Hail
+#IceHValWeapon3.NAME Night
+#IceHValWeapon3 Night
+#IceHValWeapon4.NAME Thunderstorm
+#IceHValWeapon4 Thunderstorm
+#IceHValWeapon5.NAME Hurricane
+#IceHValWeapon5 Hurricane
+#IceHValWeapon6.NAME Gale
+#IceHValWeapon6 Gale
+#IceHValWeapon7.NAME Tornado
+#IceHValWeapon7 Tornado
+#IceHValWeapon8.NAME Lightning
+#IceHValWeapon8 Lightning\ Attack Modifier:\Your attacks summon a lightning bolt that strikes one target and deals an additional 1/3lvl of pure damage.
+
+\\Artificer
+#MecHArtWeapon1 Blacksmith's hammer
+#MecHArtWeapon2 Battle hammer
+#MecHArtWeapon3 Maul
+#MecHArtWeapon4 Master's hammer
+#MecHArtWeapon5 Giant's hammer
+#MecHArtWeapon6 Thunder clap
+#MecHArtWeapon7.NAME Technohammer
+#MecHArtWeapon7 Technohammer\ Attack Modifier:\Your attacks stun targets for 1 second. with a 30% chance.
+#MecHArtWeapon8.NAME Hammer of Mountain Kings 
+#MecHArtWeapon8 Hammer of Mountain Kings\ Attack Modifier:\Your attacks increase crushing damage by 5 (lasts 18 seconds, cannot be dispelled) and reduce opponents' defense against crushing damage by 5 (lasts 18 seconds, can be dispelled).
+
+#MecHEnfWeapon1 Marksman's musket
+#MecHEnfWeapon2 Old musket (Only ranged combat)
+#MecHEnfWeapon3 Hunting musket
+#MecHEnfWeapon4 Sniper musket
+#MecHEnfWeapon5 Fashion musketы
+#MecHEnfWeapon6 Hand gun(Only ranged combat)
+#MecHEnfWeapon6 Hand gun(Only ranged combat)\ Attack Modifier:\ Replaces the projectile of the shot with a core flying at a speed of 600. Your shots deal damage within a radius of 60.
+#MecHEnfWeapon8.NAME Musket of Mechanius
+#MecHEnfWeapon8 Musket of Mechanius\ Attack Modifier:\ Replaces the projectile of the shot with a core flying at a speed of 1500. Your shots deal damage within a radius of 50.
+
+#MecHGeoWeapon1 Copper scepter
+#MecHGeoWeapon2 Bronze scepter
+#MecHGeoWeapon3 Iron scepter
+#MecHGeoWeapon4 Silver scepter
+#MecHGeoWeapon5 Golden scepter
+#MecHGeoWeapon6 Ruby scepter
+#MecHGeoWeapon7.NAME Emerald scepter
+#MecHGeoWeapon7 Emerald scepter\ Attack Modifier:\Your attacks poison the target by dealing periodic damage and slowing it down by 20%. The effects add up.
+#MecHGeoWeapon8.NAME Mithril scepter
+#MecHGeoWeapon8 Mithril scepter\Attack Modifier:\Your attacks have a 20% chance of stunning your opponents for 2 seconds. Increases the projectile's flight speed from 500 to 700
+
+//Types of weapons
+#Treasure_Weapon_1.NAME Level 1 weapons
+#Treasure_Weapon_1 Level 1 weapons are cheaper than mud
+#Treasure_Weapon_2.NAME 2nd level weapon
+#Treasure_Weapon_2 2nd level weapon - cheap junk
+#Treasure_Weapon_3.NAME 3rd level weapon
+#Treasure_Weapon_3 3rd level weapon - novice's choice
+#Minor_Weapon_1.NAME 4th level weapon
+#Minor_Weapon_1 4th level weapon is efficient to fight with
+#Minor_Weapon_2.NAME 5th level weapon
+#Minor_Weapon_2 5th level weapon - usual weapon
+#Major_Weapon_1.NAME 6th level weapon
+#Major_Weapon_1 6th level weapon - optimum
+#Major_Weapon_2.NAME 7th level weapon
+#Major_Weapon_2 7th level weapon - watch out: don't lose it!
+#Relic_Weapon.NAME 8th level weapon
+#Relic_Weapon 8th level weapon - won't find better than this
+
+\\ Scrolls
+\\ Items
+\\ 100
+#SVHelm4.NAME Scroll>Eagle Helmet<\_________________\Components:\Steel Helmet\Gold Ring\Silver Ring\This scroll
+#SVHelm4 
+#SVHelm5.NAME Scroll>Snake Hoop<\_________________/{Essemblies:\Hunter's Hat/ Obedience Ring x2\This scroll
+#SVHelm5 
+#SVHelm7.NAME Scroll>Crown of Sorrow<\_________________\Essemblies:\Snake hoop/ Ring of magic\This scroll
+#SVHelm7 
+#SVArmor6.NAME Scroll>Armor of Bjorn<\_________________\Essemblies:\Elven Ring of Fortune x3\This scroll
+#SVArmor6 
+#SVArmor7.NAME Scroll\>Live Armor<\_________________\Assemblies:\Leather Jacket\His regeneration x4\This scroll
+#SVArmor7 
+#SVBelt4.NAME Scroll>Black Legion Belt<\_________________\Assemblies:\Leather belt\Defense ring\This scroll
+#SVBelt4 
+#SVBelt5.NAME Scroll>Stamina Belt<\_________________\Instruments:\leather belt/regeneration ring\this scroll
+#SVCloak5 
+#SVCloak6.NAME Scroll\>Great Rains Cloak<\_________________\Components:\The Necromancer's Cloak\the Magic Ring\This scroll
+#SVCloak6 
+#SVBoots4.NAME Scroll\>Cheetah skin boots<\_________________\Components:\Traveler's Boots<Luck Ring\This scroll
+#SVBoots4 
+#SVBoots5.NAME Scroll\>Druid Boots<\_________________\Components:\Wizard's Ring\Orc boots\This scroll
+#SVBoots5 
+#SVGloves4.NAME Scroll\>Bear Power Gauntlets<\_________________\Components:\Leather gauntlets\Warrior Ring\This scroll
+#SVGloves4 
+#SVGloves5.NAME Scroll\>Gloves of the Alchemist<\_________________\Components:\Laten gauntlets\Wizard's Ring\This scroll
+#SVGloves5 
+#SVArmor5.NAME Scroll\>Wizard's Cloak<\_________________\Components:\Druid's toga/Mage Ring\This scroll
+#SVArmor5 
+
+\\ 200
+#SVBelt7.NAME Scroll\>Crystal Lake Belt<\_________________\Components:\Bone Belt\Mage Ring\Silver Ring  х2\This scroll
+#SVBelt7 
+#SVRing15.NAME Scroll\>Ring of Protection<\_________________\Components:\Stone ring\This scroll
+#SVRing15 
+#SVGloves6.NAME Scroll\>Gloves of the Hammerman<\_________________\Components:\Bear Power Gauntlets х2\Laten gauntlets (х2)\This scroll
+#SVGloves6 
+#SVRing14.NAME Scroll\>Wizard's Ring<\_________________\Components:\Dead Man's Ring\This scroll
+#SVRing14 
+#SVRing17.NAME Scroll\>Mage Ring<\_________________\Components:\
+acolyte ring\This scroll
+#SVRing17 
+#SVBracelet10.NAME Scroll\>Wizard's Bracelet<\_________________\Components:\Shaman's Bracelet\This scroll
+#SVBracelet10 
+
+\\ 400-500
+#SVArmor4.NAME Scroll\>Elven chainmail<\_________________\Components:\The chainmail\This scroll
+#SVArmor4 
+#SVRing25.NAME Scroll\>Archer Master Ring<\_________________\Components:\Troll Ring\Stone Ring\This scroll
+#SVRing25 
+#SVRing29.NAME Scroll\>Ring of Strength<\_________________\Components:\Warrior Ring х2\This scroll
+#SVRing29 
+#SVBelt6.NAME Scroll\>Snake belt<\_________________\Components:\Pathfinder's Belt х2\Wanderer's Ring\This scroll
+#SVBelt6 
+#SVCloak4.NAME Scroll\>Cloak of the Necromancer <\_________________\Components:\Acolyte Cloak\This scroll
+#SVCloak4 
+#SVBoots8.NAME Scroll\>Irneate Sandals<\_________________\Components:\Druid Boots\Mage Ring х2\This scroll
+#SVBoots8 "Spell Power +10%" parameter increases the spell power gain of all items and levels worn
+#SVRing26.NAME Scroll\>Martial Sorcerer Ring<\_________________\Components:\Wizard's Ring х2\This scroll
+#SVRing26 
+#SVRing27.NAME Scroll\>Magic Ring<\_________________\Components:\Mage Ring х2\This scroll
+#SVRing27 
+
+
+\\ 800
+#SVGloves8.NAME Scroll\>Dragon gauntlets<\_________________\Components:\Gloves of an archer х2\Dragon ring 700\This scroll
+#SVGloves8 
+#SVBracelet15.NAME Scroll\>White Tower Bracelet<\_________________\Components:\An enchanted bracelet х2\This scroll
+#SVBracelet15 
+#SVBracelet16.NAME Scroll\>Unicorn Bracelet<\_________________\Components:\White Tower Bracelet\Wind Power Ring\This scroll
+#SVBracelet16 Increases the movement speed of allies (by 8%) and defense against magic (by 2) in a range of 600. Aura effect does not stack. Does not stack with the aura of the wind power ring.
+
+\\ 1000-1200
+#SVHelm6.NAME Scroll\>>Dragon Helmet<\_________________\Components:\Orc helmet\Dragon ring
+#SVHelm6 
+#SVBoots6.NAME Scroll\>Dragon Boots<\_________________\Components:\Heavy Boots\Dragon ring\This scroll
+#SVBoots6 
+#SVBracelet11.NAME Scroll\>Cold Flame Bracelet<\_________________\Components:\Bracer of Protection\Lightning Bracelet\
+Acolyte Ring (2х)\This scroll
+#SVBracelet11 
+
+\\ 2000
+#SVMedalion6c.NAME Scroll\>Precision Star<\_________________\Components:\"Star" Medallion\This scroll
+#SVMedalion6c Opponents within a radius of 1200 can't dodge, and you and your allies can't miss.
+#SVCloak8.NAME Scroll\>The Invisibility Cloak<\_________________\Components:\Acolyte Cloak\Magic ring\Invisibility spell\This scroll
+#SVCloak8 Gives a permanent invisibility effect. The Anti-Magic spell dispels invisibility.
+#SVGloves7.NAME Scroll\>The Spider's Gloves<\_________________\Components:\Gloves of an archer\Gloves of the alchemist's flurry\This scroll
+#SVGloves7 Units that die within 400 radius of the hero, with a 30% chance of turning into cave spiders, large units always turn into large cave spiders. Life duration of the spiders is 5 minutes. Units attacked by large spiders also turn into cave spiders after death.
+
+
+\\ Spells
+\\ 100
+#SVMC_aFireControl.NAME Scroll\>Fire Control<\_________________\Components:\"Control" Spell\"Fire Aura" Spell\This scroll
+#SVMC_aFireControl The enemy goes under the control of the hero for 20+0.5 sec. / level, the unit burns the opponents causing them 3 + 1/5 level. damage. The range of application is 350. Cool down - 40 sec.
+#SVMC_aStatueControl.NAME Scroll\>Insult Control<\_________________\Components:\"Control" Spell\"Insult Statue" Spell"\This scroll
+#SVMC_aStatueControl The enemy goes under the control of the hero for 20+0.5 sec. / level, provokes opponents around to attack him, as well as increases health +10 / level and armor +1 / 6 level. The range of application is 350. Cool down - 40 sec.
+#SVMC_aArrowOfLife.NAME Scroll\>Arrow of Life<\_________________\Components:\"Ice Arrow" Spell\"Tree of Life" Spell\This scroll
+#SVMC_aArrowOfLife ГThe hero fires an arrow at a speed of 900, which deals 2*damage (30 + 1 damage/2 lvl) to all enemies in its path. In the selected area, a magic tree also grows, which heals friendly warriors around it for 1+1 / 6 level. every second and slows down enemies by 70%. Range 550+10/level. Cool down - 25 sec.
+
+\\ 300
+#SVMC_aIllusion_S.NAME Scroll\>Summon an enhanced Illusion<\_________________\Components:\Spell "Summon Illusion"\This scroll
+#SVMC_aIllusion_S Next to the chosen warrior, his illusion appears. The illusion is an exact copy of the original, except for the presence of abilities (damage from items and level is not taken into account). The duration of the illusion's life is 40 seconds. The range of application is 400. Cool down - 60 sec.
+#SVMC_aIllusions.NAME Scroll\>Summoning Illusions<\_________________\Components:\Spell "Summon Illusion"\This scroll
+#SVMC_aIllusions Around the hero appears 3+1/8lvl. illusions with 50% base damage (damage from items and level does not count). The duration of the life of illusions is 40 seconds. cool down - 60sec.
+#SVMC_aPostponeDeath.NAME Scroll\>Postpone death<\_________________\Components:\"Death Trick" spell\This scroll
+
+#SVMC_aPostponeDeath The allied target becomes invulnerable to any damage for 12 seconds, but dies at the end of the ability. The effect cannot be dispelled. Other invulnerability abilities cannot be applied to a unit under the influence of this spell. The range of application is 200. Cool down - 100 sec.
+
+\\ 400
+#SVMC_aDeceptionOfDeath.NAME Scroll\>Cheat death<\_________________\Components:\Spell "Postpone death"\Spell "Fear"\This scroll
+
+#SVMC_aDeceptionOfDeath The allied target becomes invulnerable to any damage for 12 seconds, and when the ability ends, the target has 25 health points. At the end of the action, a 5-second fear effect is applied to the target. The effect cannot be dispelled. Other invulnerability abilities cannot be applied to a unit under the influence of this spell. The range of application is 200. Cool down - 100 sec.
+#SVMC_aSpiritOfBattle.NAME Scroll\>Battle Spirit<\_________________\Components:\Spell "Berserk"\Spell "Squall"\This scroll
+#SVMC_aSpiritOfBattle Summoned units and illusions in area 210 receive +40% damage, 25% attack speed, and 25% movement speed for 30 seconds. Does not apply to units under the effect of the spell "Berserk" and "Spirit of War" Range - 600. Cool down - 30 sec.
+#SVMC_aSpiritOfWar.NAME Scroll\>Spirit of War<\_________________\\Components:\"Battle Spirit" Spell\"Battle Spirit" Spell\Spell "Berserk"\This scroll
+#SVMC_aSpiritOfWar Summoned units and illusions in area 420 receive +140% damage, 60% attack speed, and 50% movement speed for 30 seconds. Does not apply to units under the effect of the spell "Berserk" and "Battle Spirit". The range of application is 600. Cool down - 30 sec.
+
+\\ 1300
+#SVMC_aHPolymorph.NAME Scroll\>Higher Polymorph<\_________________\Components:\Spell "Polymorph"\This scroll\
+#SVMC_aHPolymorph In the selected area (radius 500), all enemy heroes turn into boars for 32 seconds (can't attack and use abilities, health 4000, speed 80), while you turn into a dragon for 80 seconds (health 3950+50 / level, damage 11+1/2ur, speed 70, attack speed 44, attack radius 400). The dragon effect cannot be removed. Bonuses from items are valid during the transformation. Disables health and mana regeneration. Passive: You can't be turned into a boar with a normal polymorph. You can't transform into a dragon with a normal polymorph. The range of application is 500. Cool down - 160 sec.
+
+
+\\ Bows(Rangers)(8)
+
+#Weapon4R Scroll\>Whalebone<\_________________\Components:\Weapons Elven Yew Bow\Weapons Elven Yew Bow\This scroll
+#Weapon5R Scroll\ > Pathfinder's Bow<\_________________\Components:\Ancient Bow Weapon + Ancient Bow Weapon"\This scroll
+#Weapon6R Scroll\ > Sniper Bow<\_________________\Components:\Whalebone Weapon + Whalebone Weapon"\This scroll
+#Weapon7R Scroll\>Messenger of Death<\_________________\Components:\Ranger's Bow Weapon + Ranger's Bow Weapon This scroll\_________________\Attack Modifier:\Your attacks with a 50% chance deal damage twice.
+#Weapon8R Scroll\>Enchanted Wind<\_________________\Components:\Weapons "Sniper's Bow" or " Messenger of Death"\Weapons "Sniper's Bow" or " Messenger of Death"\This scroll\_________________\Attack Modifier:\Your attacks with a 50% chance deal damage twice.\_________________\Attack Modifier:\Your attacks slow down your movement speed (10%) and attack speed (5%) by 5 seconds. within a radius of 20. The effects add up. Reduces the projectile's flight speed from 1800 to 1100.
+
+\\ Spears(Amazonia)(8)
+
+#DruHamaWeaponMelee4R Scroll\ > Spear tree of man<\_________________\Components:\Dead Tree Spear Weapon + Dead Tree Spear Weapon This scroll
+#DruHamaWeaponMelee5R Scroll\ > Amazon Spear<\_________________\Components:\Weapon "Infantry Spear" + Weapon "Infantry Spear" This scroll
+#DruHamaWeaponMelee6R Scroll\>Enchanted Spear<\_________________\Components:\Amazon Spear Weapon + Amazon Spear Weapon"\This scroll
+#DruHamaWeaponMelee7R Scroll\ > Lightning<\_________________\Components:\Weapon "Ent's spear" + Weapon "Ent's spear" This scroll
+#DruHamaWeaponMelee8R Scroll\>Seal-ring of fate<\_________________\Components:\Weapons "Enchanted Spear" or "Lightning" Weapons "Enchanted Spear" or " Lightning"\This scroll\_________________\Attack Modifier:\Attacks with Seal-ring of fate with a 20% chance impose root for 0.8 sec + 0.032 sec/ur. During immobility units lose 60% of their defense against magic.
+
+\\ Staffs(Druid)(8)
+
+#DruStaffWeapon4R Scroll\>Staff the tree of man<\_________________\Components:\Willow Staff Weapon + Willow Staff Weapon"\This scroll
+#DruStaffWeapon5R Scroll\>Druid's Staff<\_________________\Components:\Ash Staff Weapon + Ash Staff Weapon"\This scroll
+#DruStaffWeapon6R Scroll\>The Staff of the Elements<\_________________\Components:\Weapon "Staff tree of Man" + Weapon "Staff Tree of Man" This scroll
+#DruStaffWeapon7R Scroll\>Spirit Staff<\_________________\Components:\Druid's Staff Weapon + Druid's Staff Weapon"\This scroll
+#DruStaffWeapon8R Scroll\ > Power of the Forest<\_________________\Components:\Weapon "Staff of elements" or "Staff of spirits" + Weapon "Staff of elements" or " Staff of spirits"\This scroll\_________________\Attack Modifier:\An opponent attacked by a druid becomes weaker (-6 magic defense, -2 attack, -15% movement speed). The effect lasts for 4 seconds. The effects add up.
+
+\\ Braids(Death Knight)(8)
+
+#UndScytheWeapon4R Scroll\>Black Braid<\_________________\Components:\Dead Man's Sickle Weapon + Dead Man's Sickle Weapon This scroll
+#UndScytheWeapon5R Scroll\>Demon Language<\_________________\Components:\The Naginata Weapon"\The Naginata Weapon"\This scroll
+#UndScytheWeapon6R Scroll\>Madman's Scythe<\_________________\Components:\Black Scythe Weapon + Black Scythe Weapon"\This scroll
+#UndScytheWeapon7R The Scroll\>Naginata of Rage<\_________________\Components:\Demon Language Weapon + Demon Language Weapon"\This scroll
+#UndScytheWeapon8R Scroll\>Reaper<\_________________\Components:\Weapon "Madman's Scythe" or "Rage Naginata""\Weapon "Madman's Scythe" or "Rage Naginata""\This scroll\_________________\Attack Modifier:\"Reaper" attacks absorb all of the target's health regeneration for 16 seconds. "Reaper" gives the Death Knight one charge for each attack that increases health regeneration (+12) for 16 seconds.The effects add up. The effect on the Death Knight cannot be dispelled.  Death Mask does not disable regeneration from Reaper's Gift.
+
+\\ Claws(Vampiress)(8)
+
+#UndClawsWeapon4R Scroll\ > Poison Claws<\_________________\Components:\Bear Claws Weapon + Bear Claws Weapon"\This scroll\_________________\Attack Modifier:\Your attacks poison the target, dealing intermittent damage and slowing it down by 20%. The effects add up.
+#UndClawsWeapon5R Scroll\>Manticore Claws<\_________________\Components:\Werewolf Claws Weapon + Werewolf Claws Weapon"\This scroll
+#UndClawsWeapon6R Scroll\ > Demon Claws<\_________________\Components:\Manticore Claws Weapon + Manticore Claws Weapon This scroll
+#UndClawsWeapon7R The Scroll\>Dragon claws<\_________________\Components:\Poison Claws Weapon + Poison Claws Weapon"\This scroll
+#UndClawsWeapon8R Scroll\>Embrace of Death<\_________________\Components:\Weapons "Demon Claws" or " Dragon Claws"\Weapon "Demon Claws" or "Dragon Claws" This scroll\_________________\Attack Modifier:\Increases the damage area radius by 20. \ Your attacks have a 30% chance to stun targets for 1 second.\Vampirism: 10% of the damage done by the hero is added to his health.
+
+\\ Wands(Lich)(8)
+
+#UndRodWeapon4R Scroll\>Rune Wand<\_________________\Components:\Weapon "Necromancer's Rod" + Weapon "Necromancer's Rod" This scroll
+#UndRodWeapon5R Scroll\>Obsidian Wand<\_________________\Components:\Skull Wand Weapon + Skull Wand Weapon"\This scroll
+#UndRodWeapon6R The Scroll\>Dragon Wand<\_________________\Components:\Weapons " Rune Wand"\Weapons " Rune Wand"\This scroll
+#UndRodWeapon7R Whistle\>Rod of Wrath<\_________________\Components:\Weapon " Obsidian Wand"\Weapon " Obsidian Wand"\This scroll
+#UndRodWeapon8R The whistle\> Pestilence<\_________________\Components:\Dragon Rod or Wrath Rod Weapon + Dragon Rod or Wrath Rod Weapon"\This scroll\_________________\Attack Modifier:\Your attacks with a 25% chance infect the disease for 5 seconds, causing the target to slow down by 80% and take 4 damage every 0.25 seconds, Every second the disease spreads to the other two units with a 25% chance.
+
+#IceHArcWeapon4R Scroll\>Wizard's Staff<\_________________\Components:\Weapon "Novice Staff" + Weapon "Novice Staff" + This scroll
+#IceHArcWeapon5R Scroll\>Wizard's Staff<\_________________\Components:\Weapon "Shaman's Staff" + Weapon " Shaman's Staff"\This scroll
+#IceHArcWeapon6R Scroll\>Mage's Staff<\_________________\Components:\Wizard's Staff Weapon + Wizard's Staff Weapon + This Scroll
+#IceHArcWeapon7R Scroll\>Warlock's Staff<\_________________\Components:\Wizard's Staff Weapon + Wizard's Staff Weapon"\This scroll
+#IceHArcWeapon8R Scroll\>Archmage's Staff<\_________________\Components:\Weapon "Mage's Staff" or "Warlock's Staff" + Weapon "Mage's Staff" or "Warlock's Staff" + This scroll\_________________\Attack Modifier:\Your attacks slow down your movement speed (15%) and attack speed (15%) by 5 seconds. within a radius of 70. The effects add up. Increases the projectile's flight speed from 500 to 700
+
+#IceHBarWeapon4R Scroll\>Enchanted Swords<\_________________\Components:\Weapons "Short Swords" + Weapons " Short Swords"\This scroll
+#IceHBarWeapon5R Scroll\>Chief's Blades<\_________________\Components:\Weapons " Slashers"\Weapons " Slashers"\This scroll
+#IceHBarWeapon6R Scroll\ > Blades of the Night<\_________________\Components:\Weapons " Enchanted Swords"\Weapons " Enchanted Swords"\This scroll
+#IceHBarWeapon7R Scroll\>Blood Brothers<\_________________\Components:\Weapons "Blades of the leader" + Weapons " Blades of the Leader"\This scroll\_________________\Vampirism: 10% of the damage done by the hero is added to his health.
+#IceHBarWeapon8R Scroll\ > Swords of Madness<\_________________\Components:\Weapons "Blades of the Night "or" Blood Brothers "+ Weapons "Blades of the Night" or " Blood brothers"\This scroll\_________________\Attack Modifier:\Each attack increases the barbarian's damage (by 6) and attack speed (by 2%). The duration of a single charge is 13 seconds. The effect adds up. The effect cannot be dispelled.
+
+#IceHValWeapon4R Scroll\>Thunderstorm<\_________________\Components:\Grad weapons"\Grad weapons"\This scroll
+#IceHValWeapon5R Scroll\>Hurricane<\_________________\Components:\Weapons " Night"\Weapons " Night"\This scroll
+#IceHValWeapon6R Scroll\ > Tornado<\_________________\Components:\Weapons " Hurricane"\Weapons " Hurricane"\This scroll
+#IceHValWeapon7R The Scroll\>Storm<\_________________\Components:\Weapons " Thunderstorm"\Weapons " Thunderstorm"\This scroll
+#IceHValWeapon8R Scroll\ > Lightning<\_________________\Components:\Weapon "Storm " or" Tornado "+ Weapon "Storm" or " Tornado"\This scroll\_________________\Attack Modifier:\Your attacks summon lightning that hits a single target and deals 1/3level pure damage.
+
+#MecHArtWeapon4R Scroll\ > Master's Hammer<\_________________\Components:\Weapon "Battle Hammer" + Weapon " Battle Hammer"\This scroll
+#MecHArtWeapon5R Scroll\>Giant's Hammer<\_________________\Components:\Sledgehammer Weapon + Sledgehammer Weapon"\This scroll
+#MecHArtWeapon6R Scroll\>Thunderbolt<\_________________\Components:\Master's Hammer Weapon + Master's Hammer Weapon"\This scroll
+#MecHArtWeapon7R Scroll\>Technomolot<\_________________\Components:\Giant's Hammer Weapon + Giant's Hammer Weapon"\This scroll\_________________\Attack Modifier:\Your attacks stun targets for 1 second. with a 30% chance.
+#MecHArtWeapon8R Scroll\ >Hammer of the Foothill Kings<\_________________\Components:\Weapons "Thunderbolt" or "Technomolot" + Weapons "Thunderbolt" or " Technomolot"\This scroll\_________________\Attack Modifier:\Your attacks increase crushing damage by 5 (lasts 18 seconds, cannot be dispelled) and reduce opponents' defense against crushing damage by 5 (lasts 18 seconds, can be dispelled).
+
+#MecHEnfWeapon4R Scroll\ > Sniper Musket<\_________________\Components:\Weapon "Fashion Musket" + Weapons " Fashion Musket"\This scroll
+#MecHEnfWeapon5R Scroll\ > Fashion Musket<\_________________\Components:\Weapon "Hunting Musket" + Weapons " Hunting musket"\This scroll
+#MecHEnfWeapon6R Scroll\>Hand Cannon (Ranged only)<\_________________\Components:\"Machine Gun" weapon + Weapons " Machine Gun"\This scroll\_________________\Attack Modifier:\ Replaces the projectile of the shot with a core flying at a speed of 600. Your shots deal damage within a radius of 60.
+#MecHEnfWeapon7R Scroll\>Machine Gun (Ranged only)<\_________________\Components:\Weapons "Old Musket" + Weapons "Old Musket"\This scroll
+#MecHEnfWeapon8R Scroll\>Mechanus Musket<\_________________\Components:\Weapons "Hand cannon" or "Machine Gun" + Weapons "Hand cannon" or " Machine gun"\This scroll\_________________\Attack Modifier:\ Replaces the projectile of the shot with a core flying at a speed of 1500. Your shots deal damage within a radius of 50.
+
+#MecHGeoWeapon4R Scroll\ > Silver Scepter<\_________________\Components:\Bronze Scepter Weapon + Bronze Scepter Weapon"\This scroll
+#MecHGeoWeapon5R Scroll\ > Golden Scepter<\_________________\Components:\Iron Scepter Weapon + Iron Scepter Weapon"\This scroll
+#MecHGeoWeapon6R Scroll\>Ruby Scepter<\_________________\Components:\Golden Scepter Weapon + Golden Scepter Weapon"\This scroll
+#MecHGeoWeapon7R Scroll\>Emerald Scepter<\_________________\Components:\Silver Scepter Weapon + Silver Scepter Weapon"\This scroll\_________________\Attack Modifier:\Your attacks poison the target, dealing intermittent damage and slowing it down by 20%. The effects add up.
+#MecHGeoWeapon8R Scroll\>Mithril Scepter<\_________________\Components:\Weapons "Ruby Scepter" or "Emerald Scepter" + Weapons "Ruby Scepter" or " Emerald Scepter"\This scroll\_________________\Attack Modifier:\Your attacks have a 20% chance of stunning your opponents for 2 seconds. Increases the projectile's flight speed from 500 to 700
+
+\\ Rods(Flame Master)
+
+#SolHPyrWeapon4R Scroll\>Moonlight<\_________________\Components:\Weapon "Ray Rod" + Weapon " Ray Rod"\This scroll
+#SolHPyrWeapon5R Scroll\>Sun Wand<\_________________\Components:\Weapon "Battle Rod" + Weapon " Battle Rod"\This scroll
+#SolHPyrWeapon6R Scroll\>Fire Five-pronger<\_________________\Components:\Sun Rod Weapon + Sun Rod Weapon"\This scroll
+#SolHPyrWeapon7R Whistle\>Wand of the Dead<\_________________\Components:\Moonlight Weapon + Moonlight Weapon"\This scroll
+#SolHPyrWeapon8R Scroll\ > Caduceus<\_________________\Components:\Weapon "Fire Five-prong" or "Wand of the Dead" + Weapon "Fire Five-prong" or " Wand of the Dead"\This scroll\_________________\Attack Modifier:\Caduceus attacks reduce the target's regeneration (-2) and defense against magic (-4), if the target is undead or demon forces, their attack power is further reduced (-2). The duration of the effect is 20 seconds.\_________________\Attack Modifier:\Caduceus attacks increase the owner's regeneration (+2) and magic protection (+4). The duration of the effect is 20 seconds.
+
+\\ Staffs(High Priest)
+
+#SolHArcWeapon4R Scroll\>Blood Soul<\_________________\Components:\Wandering Soul Weapon + Wandering Soul Weapon"\This scroll\_________________\Vampirism: 10% of the damage done by the hero is added to his health.
+#SolHArcWeapon5R Scroll\>Staff of the All-seeing Sun <\_________________\Components:\Fire Lash Weapon + Fire Lash Weapon"\This scroll
+#SolHArcWeapon6R Scroll\>Staff of Blue Flame<\_________________\Components:\Weapon "Staff of the All-seeing Sun "+ Weapon "Staff of the All-seeing Sun" This scroll
+#SolHArcWeapon7R Scroll\>Staff of Fiery Darkness<\_________________\Components:\Blood Soul Weapon + Blood Soul Weapon"\This scroll\_________________\Vampirism: 10% of the damage done by the hero is added to his health.
+#SolHArcWeapon8R Scroll\>Fire Runner<\_________________\Components:\Weapon "Staff of Blue Flame" or "Staff of Fiery Darkness" + Weapon "Staff of Blue Flame" or "Staff of Fiery Darkness" + This scroll\_________________\Attack Modifier:\Your attacks with a 20% chance cause your opponents to get scared and run away with increased speed (+30%) for 1.5 seconds.
+
+\\ Morgensterns (Gladiator)
+
+#SolHGlaWeapon4R Scroll\>Double Threat<\_________________\Components:\Weapon "Battle Morgenstern" + Weapon "Battle Morgenstern" + This scroll
+#SolHGlaWeapon5R Scroll\>The Lash of Pain<\_________________\Components:\Weapon "Sun Glare" + Weapon " Sun Glare"\This scroll
+#SolHGlaWeapon6R Scroll\>Spiked Skull<\_________________\Components:\Double Threat Weapon + Double Threat Weapon"\This scroll
+#SolHGlaWeapon7R Scroll\>Fiery Death<\_________________\Components:\Weapon "Lash of Pain" + Weapon " Lash of Pain"\This scroll
+#SolHGlaWeapon8R Scroll\>Crusher<\_________________\Components:\Fire Death or Spiked Skull Weapon + Fire Death or Spiked Skull Weapon + This Scroll\_________________\Attack Modifier:\Your attacks damage the physical armor of the targets: -100% protection against piercing, crushing and slashing, the duration of the effect is 22 seconds.

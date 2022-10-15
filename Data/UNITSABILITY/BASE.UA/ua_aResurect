@@ -1,0 +1,36 @@
+<NewAbility>
+ <Name>ua_aResurect</Name>
+ <FileID>Interf3\Ability\auras_neutral</FileID>
+ <SpriteID>8</SpriteID>
+ <EffectFileID>Interf3\Ability\auras_neutral</EffectFileID>
+ <EffectSpriteID>8</EffectSpriteID>
+ <HintName>Resurect</HintName>
+ <CoolDownDuration>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>90000</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CoolDownDuration>
+ <Button>true</Button>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <eWeapon>
+  <ClassName>WeaponModificator</ClassName>
+  <RefName>ua_wResurect</RefName>
+ </eWeapon>
+ <BuildingTarget>false</BuildingTarget>
+</NewAbility>

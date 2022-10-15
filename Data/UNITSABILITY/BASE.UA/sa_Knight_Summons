@@ -1,0 +1,37 @@
+<NewAbility>
+ <Name>sa_Knight_Summons</Name>
+ <FileID>Interf3\Ability\Knight</FileID>
+ <SpriteID>15</SpriteID>
+ <EffectFileID>Interf3\Ability\Knight</EffectFileID>
+ <EffectSpriteID>15</EffectSpriteID>
+ <HintName>Summons</HintName>
+ <Type>AntiMageSkill</Type>
+ <ManaValue>70</ManaValue>
+ <CoolDownDuration>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>80000</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CoolDownDuration>
+ <Button>true</Button>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <eWeapon>
+  <ClassName>WeaponModificator</ClassName>
+  <RefName>sa_wKnight_Summon</RefName>
+ </eWeapon>
+</NewAbility>

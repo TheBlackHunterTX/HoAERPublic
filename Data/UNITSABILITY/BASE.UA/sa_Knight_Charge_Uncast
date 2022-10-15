@@ -1,0 +1,32 @@
+<NewAbility>
+ <Name>sa_Knight_Charge_Uncast</Name>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <IgnoreMagicImmunity>true</IgnoreMagicImmunity>
+ <NonIgnoredSkill>true</NonIgnoredSkill>
+ <UnCast>
+  <ClassRef.UnitAbility>
+   <ClassName>NewAbility</ClassName>
+   <RefName>sa_Knight_Charge_Target</RefName>
+  </ClassRef.UnitAbility>
+ </UnCast>
+ <VisualEffects>
+  <uat_VisualEffect>
+   <Duration>1000</Duration>
+   <Place>Target units</Place>
+   <Effect>
+    <ModelID>Models\Effects\MagicCard\AcidWave\VolnaYada.c2m</ModelID>
+    <ReflectionID>Models\Effects\MagicCard\AcidWave\VolnaYada.c2m</ReflectionID>
+   </Effect>
+  </uat_VisualEffect>
+ </VisualEffects>
+</NewAbility>

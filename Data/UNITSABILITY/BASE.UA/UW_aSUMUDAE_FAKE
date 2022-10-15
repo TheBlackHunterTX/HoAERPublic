@@ -1,0 +1,20 @@
+<NewAbility>
+ <Name>UW_aSumUDae_Fake</Name>
+ <FileID>Interf3\Ability\Ability3.00</FileID>
+ <SpriteID>3</SpriteID>
+ <EffectFileID>Interf3\Ability\Ability3.00</EffectFileID>
+ <EffectSpriteID>3</EffectSpriteID>
+ <HintName>#DemonCurse.NAME</HintName>
+ <Hint>#DemonCurse</Hint>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+</NewAbility>

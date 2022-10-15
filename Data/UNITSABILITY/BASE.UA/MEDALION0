@@ -1,0 +1,33 @@
+<NewItem>
+ <Name>Medalion0</Name>
+ <FileID>Interf3\Ability\MeSHOCKbig</FileID>
+ <FileID_Char>Interf3\Ability\MeSHOCKbig</FileID_Char>
+ <FileID_Inv>Interf3\Ability\MeSHOCKsmall</FileID_Inv>
+ <HintName>#Medalion0.NAME</HintName>
+ <Hint>#Medalion0</Hint>
+ <Type>ItemClothe</Type>
+ <GroundMD>
+  <UnitType>DropM1(IT)</UnitType>
+ </GroundMD>
+ <ShopPrice>1000</ShopPrice>
+ <Amount>1</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+ <Conditions>
+  <umc_LifeLess>
+   <OperandType>Percent</OperandType>
+  </umc_LifeLess>
+ </Conditions>
+</NewItem>

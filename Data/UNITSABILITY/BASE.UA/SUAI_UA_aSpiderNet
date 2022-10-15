@@ -1,0 +1,14 @@
+<ua_SingleUnitAI>
+ <Name>suAI_UA_aSpiderNet</Name>
+ <CastingRadius>300</CastingRadius>
+ <Abilities>
+  <suAI_Ability>
+   <UA>
+    <ClassName>NewAbility</ClassName>
+    <RefName>UA_aSpiderNet</RefName>
+   </UA>
+   <MinTargetAmount>1</MinTargetAmount>
+   <TargetEnemy>true</TargetEnemy>
+  </suAI_Ability>
+ </Abilities>
+</ua_SingleUnitAI>

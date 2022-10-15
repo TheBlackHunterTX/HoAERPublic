@@ -1,0 +1,193 @@
+#STARTRES Начальные ресурсы
+#STARTRES_H Выберите ресурсы для начала
+#VICTCOND Условия победы
+#MAPSIZE Размер карты
+#NPLAYERS Игроки
+#PRESET Установка местности
+#NEWPRESET Новый
+#EDITPRESET Изменить
+#DELPRESET Удалить
+#CLEAR Очистить
+#NEWPRESET_H Добавить новый ландшафт
+#EDITPRESET_H Редактировать ландшафт
+#DELPRESET_H Удалить ландшафт
+#CLEAR_H Очистить
+#GENERATE Сгенерировать
+#CANCEL Отменить
+#RANDOM_PARAM Параметры случайной карты
+#DESIGNED_MAP Дезайн карты
+#LAND_TYPE Тип земли
+#LAND_TYPE_H Выберите нужный тип земли
+#RANDOMIZE Сгенерировать
+#TRANSFER Переместить
+#RND_VALUE Значение сида(семени)
+#MAPGENERATOR Генератор карт
+
+#TEXTURIZE Текстурировать
+#MapHeightEditor Редактор высот
+#PENHEIGHT Высота пера
+#PENPAREMS Параметры пера
+#PEN_RADIUS Радиус пера
+#PEN_WIDTH Толщина пера
+#PEN_CURVATURE Кривизна пера
+#FRACTALMODULATION Фрактальная модуляция
+#FRACTALFREQ Фрактальная частота
+#PERFORMTEXTURING Текстурирование
+
+$EHIN_0 {C FFFFFFFF}Режим перемещения мыши {C FF4A8E18}(Q)
+$EHIN_1 {C FFFFFFFF}Режим окраски {C FF4A8E18}(Удерживайте ПРОБЕЛ, чтобы создать инструмент смешивания цветов)
+$EHIN_2 {C FFFFFFFF}Режим деревьев {C FF4A8E18}(F8)
+$EHIN_3 {C FFFFFFFF}Режим камней {C FF4A8E18}(F4)
+$EHIN_4 {C FFFFFFFF}Стирайте деревья, камни и 3d-эффекты на карте {C FF4A8E18}(N)
+$EHIN_5 {C FFFFFFFF}Установить поток реки {C FFFF0505}(Отключен в 3d местности)
+$EHIN_6 {C FFFFFFFF}Расположить воду {C FFFF0505}(Отключен в 3d местности)
+$EHIN_7 {C FFFFFFFF}Убрать воду {C FFFF0505}(Отключен в 3d местности)
+$EHIN_8 {C FFFFFFFF}Добавить волны {C FFFF0505}(Отключен в 3d местности)
+$EHIN_9 {C FFFFFFFF}Убрать волны {C FFFF0505}(Отключен в 3d местности)
+$EHIN_10 {C FFFFFFFF}Поднимать или опускать холмы {C FF4A8E18}(Нажмите и удерживайте LMB, чтобы поднять рельеф, или нажмите и удерживайте RMB, чтобы понизить рельеф или создать воду: после регулировки высоты используйте Ctrl+X для создания воды/плато)
+$EHIN_11 {C FFFFFFFF}Поднимите или опустите равнину{C FFFF0505}(Отключен в 3d местности)
+$EHIN_12 {C FFFFFFFF}Режим сглаживания{C FF4A8E18}(S)
+$EHIN_13 {C FFFFFFFF}Создать плато {C FFFF0505}(Отключен в 3d местности)
+$EHIN_14 {C FFFFFFFF}Нарисовть дороги
+$EHIN_15 {C FFFFFFFF}Вставить шаблон рельефа {C FFFF0505}(Отключен в 3d местности)
+$EHIN_16 {C FFFFFFFF}Режим заблокирования подъема{C FF4A8E18}(Ctrl+S для переключения)
+$EHIN_17 {C FFFFFFFF}Установить дополнительную блокировку {C FF4A8E18}(Ctrl+S для переключения)
+$EHIN_18 {C FFFFFFFF}Установить блокировку по умолчанию {C FF4A8E18}(Ctrl+S для переключения)
+$EHIN_19 {C FFFFFFFF}Разместить юнитов {C FF4A8E18}(P)
+$EHIN_20 {C FFFFFFFF}Создать зону миссии {C FFFF0505}(Отключен в 3d местности)
+$EHIN_21 {C FFFFFFFF}Создать группу миссии {C FFFF0505}(Отключен в 3d местности)
+$EHIN_22* {C FFFFFFFF}Редактор поверхности {C FF4A8E18}(Используйте G для доступа к расширенному генератору поверхности)
+$EHIN_23* {C FFFFFFFF}Редактор ландшафта {C FF4A8E18}(X)
+$EHIN_24* {C FFFFFFFF}Система блокировки обновления или поиска путей {C FF4A8E18}(Ctrl+X)
+$EHIN_25* {C FFFFFFFF}Переключение между 3D и 2D видами
+$EHIN_26* {C FFFFFFFF}Начальные параметры карты
+$EHIN_27* {C FFFFFFFF}Переключение между режимами "Мира" или "Войны" {C FF4A8E18}(W)
+
+$EHIN__0 {C FFFFFFFF}Редактировать рельеф {C FFFF0505}(Отключен в 3d местности)
+$EHIN__1 {C FFFFFFFF}Редактор поверхности {C FF4A8E18}(Use G to access advanced Surface Generator and to prevent crashes)
+$EHIN__2 {C FFFFFFFF}Система блокировки обновления или поиска путей {C FF4A8E18}(Ctrl+X)
+$EHIN__3 {C FFFFFFFF}Переключение между 3D и 2D видами
+$EHIN__4 {C FFFFFFFF}Начальные параметры карты
+$EHIN__5 {C FFFFFFFF}Переключение между режимами "Мира" или "Войны" {C FF4A8E18}(W)
+$EHIN__6 {C FFFFFFFF}Добавить тень{C FFFF0505}(Отключен в 3d местности)
+$EHIN__7 {C FFFFFFFF}Режим фактурирования {C FF4A8E18}(Удерживайте ПРОБЕЛ для создания списка фактур, доступ к которому также можно получить с помощью горячей клавиши F)
+
+ED_ROADEDITOR Редактор дорог
+
+#ARE_YOU_SURE_TO_DELETE Вы уверены, что хотите удалить?
+#DELETE Удалить
+$TE_HN1 Добавить деревья
+$TE_HN2 Добавить воду
+$TE_HN3 Добавить холмы
+$TE_HN4 Добавить зону сглаживания
+$TE_HN5 Редактировать высоту холма
+$TE_HN6 Отменить(Undo) (Z)
+
+ED_TLSHOW Показать меню инструментов (CTRL-T)
+ED_TOPSHOW Показать меню настроек (CTRL-O)
+ED_HDR00 Выбрать текущий цвет
+ED_HDR01 Выбрать юнита
+ED_HDR02 Выбрать объект
+ED_HDR03 Редактировать рельеф
+ED_HDR04 Выбрать цвет
+ED_HDR05 Выбрать фактуру
+ED_HDR06 Добавить/Убрать воду (Отключен в 3d местности)
+ED_HDR07 Добавить волны (Отключен в 3d местности)
+ED_HDR08 Убрать волны (Отключен в 3d местности)
+ED_HDR09 Удалить объекты
+ED_PARM01 Радиус кисти (1-9)
+ED_PARM02 Ширина побережья (CTRL 1-9)
+ED_PARM03 Яркость (1-9)
+ED_PARM04 Темнота (1-9)
+
+ПЕХОТА Пехота
+КАВАЛЕРИЯ Кавалерия
+АРТИЛЛЕРИЯ Артиллерия
+ФЛОТ Флот
+ЗДАНИЯ Здания
+EDTP_01 Мин. высота:
+EDTP_02 Maкс. высота:
+EDTP_03 Мин. угол:
+EDTP_04 Maкс. угол:
+EDTP_05 Текущ. высота:
+EDTX_S0 Установить текстуру #%d
+$#HIHDR Выбрать действие:
+$#ACTION Действие:
+$#HEIGHT Высота/Толщина:
+AIPARM AI(ИИ) Параметры
+SCDLL Путь к библиотеке DLL сценария:
+$PLAYER%D Игрок #%d
+$PLAYERALL Все игроки
+NEWMPHDR Создать новую карту
+SELMSZ Выбрать размер карты:
+SEL_MS0 Нормальный
+SEL_MS1 Большой
+SEL_MS2 Огромный
+
+@ID::&StdBorder::TestBorder Граница предварительного просмотра
+@HINT::&StdBorder::TestBorder Граница предварительного просмотра
+@ID::&StdBorder::AutoCreateXCYC_byOuterMargin Воссоздать границу по внешним размерам
+@HINT::&StdBorder::AutoCreateXCYC_byOuterMargin Воссоздать границу по внешним размерам
+@ID::&StdBorder::AutoCreateXCYC_byInnerMargin Воссоздать границу по внутренним размерам
+@HINT::&StdBorder::AutoCreateXCYC_byInnerMargin Воссоздать границу по внутренним размерам
+@ENUMHINT::&StdBorder::AutoCreateXCYC_byInnerMargin Воссоздать границу по внутренним размерам
+@CLASSID::&StdBorder::AutoCreateXCYC_byInnerMargin Воссоздать границу по внутренним размерам
+
+INTF_CROOM_VIC Победа
+GI_UNITS Юниты
+GI_BLD Здания
+RA_Lean Lean(Опираться)
+RA_Medium Средний
+RA_Rich Обширный
+RA_Normal Нормальный
+RA_Thousands Тысячи
+RA_Millions Миллионы
+RT_Plane Простой
+RT_Low_mountains Низкие горы
+RT_High_mountains Высокие горы
+RT_Highlands Горная местность
+RT_Plateaus Плато
+LT_Land Земля
+LT_Mediterranean Средиземноморский
+LT_Peninsulas Полуостров
+LT_Islands Острова
+LT_Continents Континенты
+LT_Continent Континент
+
+MS_Land Земля
+MS_Islands Остров
+
+#MR_Army0 Казуальная игра
+#MR_Army1 Много крестьян
+
+#CreateFormation Создать Формацию
+
+#Village Деревня
+#City Город
+#Empire Империя
+
+#Credits Титры
+#Info INFO
+
+VC_KillTownCenter Городские центры
+VC_Score Очки
+VC_Mines Шахты
+VC_AnnihilateHero Герои
+
+RM_StartPos Войска
+RM_StartRes Ресурсы
+RM_VictRule Условие победы
+RM_TimeLimit Лимит времени
+RM_MapSize Размер карты
+RM_FogOfWar Туман войны
+VC_NoTimeLimit Нескончаемый
+
+MS_Small Малый
+MS_Normal Нормальный
+
+MS_FogOff Отключен
+MS_FogOn Включен
+
+FASTMOD Быстрый режим
+SLOWMOD Медленный режим
+RNDMUS Случайная музыка

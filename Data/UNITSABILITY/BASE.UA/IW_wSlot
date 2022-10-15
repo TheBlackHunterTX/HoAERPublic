@@ -1,0 +1,26 @@
+<NewItem>
+ <Clothe>true</Clothe>
+ <TypeClothe>Ring</TypeClothe>
+ <Name>IW_wSlot</Name>
+ <FileID>Interf3\abil</FileID>
+ <SpriteID>3</SpriteID>
+ <FileID_Inv>Interf3\abil</FileID_Inv>
+ <GroundMD>
+  <UnitType>DropM1(IT)</UnitType>
+ </GroundMD>
+ <Amount>1</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+</NewItem>

@@ -1,0 +1,25 @@
+[MEMBERS]
+InsUSpGS(IN)  InsUSpGS
+InsUSpiS(IN)  InsUSpiS
+InsUSpG(IN)   InsUSpG
+InsUSpi(IN)   InsUSpi
+InsUSpGZ(IN)  InsUSpGZ
+InsUSpiZ(IN)  InsUSpiZ
+
+[ENABLED]
+InsUSpGS(IN)
+InsUSpiS(IN)
+InsUSpG(IN)
+InsUSpi(IN)
+InsUSpGZ(IN)
+InsUSpiZ(IN)
+[COUNTRY]
+INSECT 7
+#units
+InsUSpGS(IN)
+InsUSpiS(IN)
+InsUSpG(IN)
+InsUSpi(IN)
+InsUSpGZ(IN)
+InsUSpiZ(IN)
+[END]

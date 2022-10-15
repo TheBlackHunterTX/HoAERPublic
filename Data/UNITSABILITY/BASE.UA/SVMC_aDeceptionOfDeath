@@ -1,0 +1,28 @@
+<NewItem>
+ <Name>SVMC_aDeceptionOfDeath</Name>
+ <FileID>Interf3\Ability\Ability3.00</FileID>
+ <SpriteID>21</SpriteID>
+ <FileID_Char>Interf3\Ability\Ability3.00</FileID_Char>
+ <FileID_Inv>Interf3\Ability\Ability3.00</FileID_Inv>
+ <HintName>#SVMC_aDeceptionOfDeath.NAME</HintName>
+ <Hint>#SVMC_aDeceptionOfDeath</Hint>
+ <SoundExecute>NONE</SoundExecute>
+ <Type>ItemClothe</Type>
+ <GroundMD>
+  <UnitType>DropMs(IT)</UnitType>
+ </GroundMD>
+ <ShopPrice>400</ShopPrice>
+ <Amount>1</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <Conditions>
+  <umc_LifeLess>
+   <OperandType>Percent</OperandType>
+  </umc_LifeLess>
+ </Conditions>
+</NewItem>

@@ -1,0 +1,207 @@
+ABLINE0 Heroes of Annihilated Empires Reborn
+ABLINE1 
+ABLINE2 Subtitle
+ABLINE3 
+ABLINE4 Project Manager
+ABLINE5 			Alexey |Fokzy| Lopushansky
+ABLINE6 Programmers
+ABLINE7 		Ilya |Sadochok(BISEC)| Borisov	
+ABLINE8 		Kirill |TheBlackHunter| Eisenberg
+ABLINE9 Special effects development		
+ABLINE10 		Ilya |Sadochok(BISEC)| Borisov	
+ABLINE11 		Alexey |Fokzy| Lopushansky
+ABLINE12 Artists
+ABLINE13 		Kirill |TheBlackHunter| Eisenberg
+ABLINE14 		Alexey |Fokzy| Lopushansky
+ABLINE15 Balance edits
+ABLINE16 		Alexey |Fokzy| Lopushansky
+ABLINE17 Map development 
+ABLINE18 		Arthur |Bool| Ignatovich
+ABLINE19 		Kirill |TheBlackHunter| Eisenberg
+ABLINE20 		Popov |FðóñTeam| Alexey		
+ABLINE21 Also, thank you so much for your help:		
+ABLINE22 		Dmitry Grebentsov(Modding Training HOAE)
+ABLINE23 		FlameMaster (Unit models, manuals, improved development tools, and more)
+ABLINE24 		Mr. Sage (Insights and community development)
+ABLINE25 		Sacred Raven (Server management, tournament organization, community development, statistics management)
+ABLINE26 		To all members of our discord server
+ABLINE27 		Together we develop our community
+ABLINE28		Not with us yet ?
+ABLINE29 		____________________________
+ABLINE30		>discord.com/invite/WKE6gw2<
+ABLINE31 		^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ABLINE32 ------------------------------------	
+ABLINE33 GSC Game World
+ABLINE34 ------------------------------------
+ABLINE35 Producer
+ABLINE36		Sergey' - GSC - ' Grigorovich
+ABLINE37 Project Manager
+ABLINE38		Evgeny '- GEC - ' Grigorovich
+ABLINE39 Story
+ABLINE40		Sergey' - GSC - ' Grigorovich
+ABLINE41		Ilya Novak
+ABLINE42 Lead Programmer
+ABLINE43		Andrey Shpagin
+ABLINE44 Programmers
+ABLINE45		Vitaly Lysenko
+ABLINE46		Sergey Kryzhanovsky
+ABLINE47		Ruslan Shestopalyuk
+ABLINE48 Additional programming
+ABLINE49 		Elena Popova
+ABLINE50 Gameplay Development
+ABLINE51 		Alexander' ATG ' Chuchkevich
+ABLINE52 		Alexander Vasilkonov
+ABLINE53 		Vladimir Yezhov
+ABLINE54 Development of mission writing tools
+ABLINE55 		Viktor Levchenko
+ABLINE56 		Network and System Programmer
+ABLINE57 		Sergey 'ManOwaR' Ivantsov
+ABLINE58 		Mission gameplay
+ABLINE59 		Alex Dragon
+ABLINE60 		Alexey Onishchenko
+ABLINE61 		Daniil Meranov
+ABLINE62 		Lead Designer
+ABLINE63 		Dmitry Zenin 'Paramon'
+ABLINE64 		Building Artists
+ABLINE65 		Dmitry Zenin 'Paramon'
+ABLINE66 		Andrey Zenin
+ABLINE67 		Mikhail Zaporozhchenko
+ABLINE68 		Alexander Lipkan
+ABLINE69 		Andrey Pronyuk
+ABLINE70 Character Artists
+ABLINE71 		Alexander Lipkan
+ABLINE72 		Dmitry Zenin 'Paramon'
+ABLINE73 		Andrey Zenin
+ABLINE74 		Dmitry Starostin
+ABLINE75 		Oleg Koreiba
+ABLINE76 		Mikhail Zaporozhchenko
+ABLINE77 		Nadezhda Babaryk
+ABLINE78 		Andrey Pronyuk
+ABLINE79 Animators
+ABLINE80 		Dmitry Zenin 'Paramon'
+ABLINE81 		Konstantin Kartashov
+ABLINE82 		Sergey Volchanov
+ABLINE83 		Olga Volchanova
+ABLINE84 		Andrey Zenin
+ABLINE85 		Nadezhda Babaryk
+ABLINE86 Technical Render
+ABLINE87 		Alex Demidenko
+ABLINE88 		Visual Effects
+ABLINE89 		Pavel Markevich
+ABLINE90 		Alexander Lipkan
+ABLINE91 Art / Interface
+ABLINE92 		Roman Nesin
+ABLINE93 		Olga Troekurova
+ABLINE94 		Ilya Tolmachev
+ABLINE95 		Alexander Lipkan
+ABLINE96 		Andrey Didenko
+ABLINE97 		Timofey Ursulenko
+ABLINE98 		Kim Demidenko
+ABLINE99 		Dmitry Starostin
+ABLINE100 Mission Design
+ABLINE101 		Dmitry Zenin 'Paramon'
+ABLINE102 		Alexander Lipkan
+ABLINE103 		Timofey Ursulenko
+ABLINE104 		Roman Nesin
+ABLINE105 Comics
+ABLINE106 		Oleg Masyukevich
+ABLINE107 		Dmitry Starostin
+ABLINE108 Sound Engineer
+ABLINE109		Dmitry Kuzmenko
+ABLINE110 Sound Effects
+ABLINE111 		Yuri Pliska
+ABLINE112 Composer
+ABLINE113 		Alexey Omelchuk
+ABLINE114 Actors
+ABLINE115 		Alexey Zorin
+ABLINE116 		Angelika Girich
+ABLINE117 		Yuri Borisenko
+ABLINE118 		Alexander Vilkov
+ABLINE119 		Andrey Podubinsky
+ABLINE120 		Grigory Herman
+ABLINE121 		Anatoly Bogush
+ABLINE122 		Evgeny Malukha
+ABLINE123 		Working with texts
+ABLINE124 		Vladimir Litvinenko
+ABLINE125 VIDEO
+ABLINE126 -
+ABLINE127 INTRO
+ABLINE128 -
+ABLINE129 Directing
+ABLINE130 		Peter Semka
+ABLINE131 		Vasily Guralevich
+ABLINE132 Artists / Animators
+ABLINE133 		Vladimir Druzenko
+ABLINE134 		Sergey Kuzhelny
+ABLINE135 		Nadezhda Babaryk
+ABLINE136 		Vladimir Khvostichenko
+ABLINE137 		Alexey Manita
+ABLINE138 		Alexey Martynenko
+ABLINE139 		Viktor Abramovsky
+ABLINE140 		Viktor Onishchenko
+ABLINE141 		Alexander Kovac
+ABLINE140 		Visualization
+ABLINE142 		Anton Ognev
+ABLINE143 		Vladimir Kazantsev
+ABLINE144 OUTRO
+ABLINE145 -
+ABLINE146 Directing
+ABLINE147 		Alexey Manita
+ABLINE148 		Vasily Guralevich
+ABLINE149 Artists / Animators
+ABLINE150 		Igor Podmokov
+ABLINE151 		Dmitry The Heretic
+ABLINE152 		Bogdan Dubovik
+ABLINE153 		Grigory Lebedev
+ABLINE154 		Andrey Didenko
+ABLINE155 		Vladimir Druzenko
+ABLINE156 		Viktor Abramovsky
+ABLINE157 Visualization
+ABLINE158 		Alexey Martynenko
+ABLINE159 		Alexander Voznyuk
+ABLINE160 Gratitude
+ABLINE161 		Anatoly Shestopalyuk
+ABLINE162 		Sergey Gritsay
+ABLINE163 GSC World Publishing
+ABLINE164 
+ABLINE165 CEO
+ABLINE166 		Sergey' - GSC - ' Grigorovich
+ABLINE167 Head of Sales Department
+ABLINE168 		Sergey Grushko
+ABLINE169 		Sales Manager
+ABLINE170 		Victoria Boyko
+ABLINE171 Advertising/PR
+ABLINE172 Head of Marketing/Art Director
+ABLINE173 		Roman Nesin
+ABLINE174 Art Department
+ABLINE175 		Olga Troekurova
+ABLINE176 		Ilya Tolmachev
+ABLINE177 		Andrey Didenko
+ABLINE178 		Ivan Khivrenko
+ABLINE179 		Grigory Lebedev
+ABLINE180 		Roman Bordenyuk
+ABLINE181 		Kim Demidenko
+ABLINE182 Project Manager
+ABLINE183 		Oleg Yavorsky
+ABLINE184 PR Department
+ABLINE185 		Maxim Kovalev
+ABLINE186 		Valentin Eltyshev
+ABLINE187 		Evgeny Minko
+ABLINE188 		Sergey Storozhenko
+ABLINE189 		Nikolai Volchkov
+ABLINE190 		Artem Pavlenko
+ABLINE191 WEB site development
+ABLINE192 		Maxim Kovalev
+ABLINE193 		Olga Troekurova
+ABLINE194 		Sergey Terlyuk
+ABLINE195 		Gennady Genyuk
+ABLINE196 		Evgeny Kuchma
+ABLINE197 		Olga Ishina
+ABLINE198 		Tatiana Parfilova
+ABLINE199 Localization
+ABLINE200 		Project Manager
+ABLINE201 		Evgeny Kuchma
+ABLINE202 Translation
+ABLINE203 		Olga Ishina
+ABLINE204 Technical Support
+ABLINE205 		Yuri Skripal

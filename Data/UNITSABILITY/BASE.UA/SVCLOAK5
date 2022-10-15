@@ -1,0 +1,36 @@
+<NewItem>
+ <Name>SVCloak5</Name>
+ <FileID>Interf3\Ability\goods_coat</FileID>
+ <SpriteID>3</SpriteID>
+ <FileID_Char>Interf3\Ability\goods_character_coat</FileID_Char>
+ <FileID_Inv>Interf3\Ability\goods_inventory_coat</FileID_Inv>
+ <EffectFileID>Interf3\Ability\goods_coat</EffectFileID>
+ <EffectSpriteID>3</EffectSpriteID>
+ <HintName>#SVCloak5.NAME</HintName>
+ <Hint>#SVCloak5</Hint>
+ <Type>ItemClothe</Type>
+ <GroundMD>
+  <UnitType>DropM2(IT)</UnitType>
+ </GroundMD>
+ <ShopPrice>100</ShopPrice>
+ <Amount>1</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+ <Conditions>
+  <umc_LifeLess>
+   <OperandType>Percent</OperandType>
+  </umc_LifeLess>
+ </Conditions>
+</NewItem>

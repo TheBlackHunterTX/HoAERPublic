@@ -1,0 +1,30 @@
+<ExtraShootingElement>
+ <Name>MecTurretMoto001</Name>
+ <Type>Ability</Type>
+ <System>true</System>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <Weapon>
+  <ClassName>WeaponModificator</ClassName>
+  <RefName>3d_tank</RefName>
+ </Weapon>
+ <WholeObjectModel>Models\Units\MecUTa1\MecUTa1M.C2M</WholeObjectModel>
+ <ShootAnimation>Models\Units\MecUTa1\MecUTa1A_Shot_Cent.c2m</ShootAnimation>
+ <WholeShootTime>200</WholeShootTime>
+ <TimeOfShooting>50</TimeOfShooting>
+ <TotalRechargeTime>333</TotalRechargeTime>
+ <ShootAngleDifference>20</ShootAngleDifference>
+ <RotationSpeed>188</RotationSpeed>
+ <TowerCenterX>38</TowerCenterX>
+ <TowerCenterZ>59</TowerCenterZ>
+ <CannonRadius>22</CannonRadius>
+</ExtraShootingElement>

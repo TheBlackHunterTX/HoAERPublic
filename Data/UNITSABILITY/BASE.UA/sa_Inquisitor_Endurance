@@ -1,0 +1,35 @@
+<NewAbility>
+ <Name>sa_Inquisitor_Endurance</Name>
+ <FileID>Interf3\Ability\AntiMageSkills</FileID>
+ <SpriteID>6</SpriteID>
+ <EffectFileID>Interf3\Ability\AntiMageSkills</EffectFileID>
+ <EffectSpriteID>6</EffectSpriteID>
+ <HintName>Endurance(Whirlwind-&gtStun-&gtRange)</HintName>
+ <Type>AntiMageSkill</Type>
+ <Button>true</Button>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <AntiMageSupportSkill>true</AntiMageSupportSkill>
+ <NecessarySkills>
+  <ClassRef.UnitAbility>
+   <ClassName>NewAbility</ClassName>
+   <RefName>sa_Inquisitor_Range</RefName>
+  </ClassRef.UnitAbility>
+ </NecessarySkills>
+ <Conditions>
+  <umc_AttackRadiusMax>
+   <Compare>less</Compare>
+   <Radius>180</Radius>
+   <Caster>true</Caster>
+  </umc_AttackRadiusMax>
+ </Conditions>
+</NewAbility>

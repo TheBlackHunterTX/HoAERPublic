@@ -1,0 +1,19 @@
+<NewAbility>
+ <Name>UW_aUndULic_Poison_Fake</Name>
+ <ClassType>Image</ClassType>
+ <FileID>Interf3\Ability\auras_forest_creatures</FileID>
+ <SpriteID>2</SpriteID>
+ <HintName>#UW_aUndULic_Poison.NAME</HintName>
+ <Hint>#UW_aUndULic_Poison</Hint>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+</NewAbility>

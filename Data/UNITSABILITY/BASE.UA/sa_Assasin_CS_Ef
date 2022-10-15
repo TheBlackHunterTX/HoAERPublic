@@ -1,0 +1,55 @@
+<NewAbility>
+ <Name>sa_Assasin_CS_Ef</Name>
+ <HintName>Krit !!</HintName>
+ <System>true</System>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>3000</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+ <MultyCast>true</MultyCast>
+ <IgnoreMagicImmunity>true</IgnoreMagicImmunity>
+ <NonIgnoredSkill>true</NonIgnoredSkill>
+ <Modificators>
+  <mod_Life>
+   <Operand>
+    <Operator>-</Operator>
+    <Operand>
+     <Value>
+      <Op>
+       <BHP_Damage></BHP_Damage>
+      </Op>
+     </Value>
+    </Operand>
+   </Operand>
+   <Period>1</Period>
+  </mod_Life>
+ </Modificators>
+ <VisualEffects>
+  <uat_VisualEffect>
+   <Duration>3000</Duration>
+   <Place>Target units</Place>
+   <Effect>
+    <ModelID>Models\Effects\Effects\crit.c2m</ModelID>
+    <ReflectionID>Models\Effects\Effects\crit.c2m</ReflectionID>
+   </Effect>
+  </uat_VisualEffect>
+ </VisualEffects>
+</NewAbility>

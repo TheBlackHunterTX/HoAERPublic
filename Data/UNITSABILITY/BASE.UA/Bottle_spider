@@ -1,0 +1,53 @@
+<NewItem>
+ <Name>Bottle_spider</Name>
+ <FileID>Interf3\Ability\bottles</FileID>
+ <SpriteID>3</SpriteID>
+ <EffectFileID>Interf3\Ability\bottles_affect</EffectFileID>
+ <EffectSpriteID>5</EffectSpriteID>
+ <HintName>PaUchiy Jad =)</HintName>
+ <Hint>Vipei yadu</Hint>
+ <Type>ItemBottle</Type>
+ <GroundMD>
+  <UnitType>DropBottle(IT)</UnitType>
+ </GroundMD>
+ <Button>true</Button>
+ <Amount>1</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>30000</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+ <Modificators>
+  <mod_SpellOnMakeDamage>
+   <Spell>
+    <ClassName>NewAbility</ClassName>
+    <RefName>UW_aSpiderSlow</RefName>
+   </Spell>
+  </mod_SpellOnMakeDamage>
+ </Modificators>
+ <VisualEffects>
+  <uat_VisualEffect>
+   <Duration>2500</Duration>
+   <Effect>
+    <ModelID>Models\Effects\_PreHistoric\acid_blow_01.c2m</ModelID>
+   </Effect>
+  </uat_VisualEffect>
+ </VisualEffects>
+</NewItem>

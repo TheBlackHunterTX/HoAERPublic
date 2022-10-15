@@ -1,0 +1,14 @@
+<ua_SingleUnitAI>
+ <Name>suai_Splash</Name>
+ <CastingRadius>80</CastingRadius>
+ <Abilities>
+  <suAI_Ability>
+   <UA>
+    <ClassName>NewAbility</ClassName>
+    <RefName>ua_aSplash</RefName>
+   </UA>
+   <MinTargetAmount>5</MinTargetAmount>
+   <TargetEnemy>true</TargetEnemy>
+  </suAI_Ability>
+ </Abilities>
+</ua_SingleUnitAI>

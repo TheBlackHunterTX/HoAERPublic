@@ -1,0 +1,24 @@
+<NewItem>
+ <Clothe>true</Clothe>
+ <CanNotBeClothe>true</CanNotBeClothe>
+ <Name>QuestItemsForDragon2</Name>
+ <FileID>Interf3\Ability\goods_weapon_hammer</FileID>
+ <SpriteID>3</SpriteID>
+ <FileID_Char>Interf3\Ability\goods_character_weapon_hammer</FileID_Char>
+ <FileID_Inv>Interf3\Ability\goods_inventory_weapon_hammer</FileID_Inv>
+ <GroundMD>
+  <UnitType>DropM1(IT)</UnitType>
+ </GroundMD>
+ <Amount>1</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+</NewItem>

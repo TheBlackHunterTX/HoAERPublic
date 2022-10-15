@@ -1,0 +1,15 @@
+<ua_SingleUnitAI>
+ <Name>suai_ChillArrow</Name>
+ <CastingRadius>500</CastingRadius>
+ <Abilities>
+  <suAI_Ability>
+   <UA>
+    <ClassName>NewAbility</ClassName>
+    <RefName>MC_aChillArrow</RefName>
+   </UA>
+   <MinTargetAmount>4</MinTargetAmount>
+   <TargetEnemy>true</TargetEnemy>
+   <Finite>true</Finite>
+  </suAI_Ability>
+ </Abilities>
+</ua_SingleUnitAI>

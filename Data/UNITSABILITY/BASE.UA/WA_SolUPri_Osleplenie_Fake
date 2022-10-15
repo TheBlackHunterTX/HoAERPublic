@@ -1,0 +1,19 @@
+<NewAbility>
+ <Name>WA_SolUPri_Osleplenie_Fake</Name>
+ <ClassType>Image</ClassType>
+ <FileID>Interf3\Ability\Ability3.00</FileID>
+ <SpriteID>15</SpriteID>
+ <HintName>#WA_SolUPri_Osleplenie.NAME</HintName>
+ <Hint>#WA_SolUPri_Osleplenie</Hint>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+</NewAbility>

@@ -1,0 +1,15 @@
+<ua_SingleUnitAI>
+ <Name>suai_Resurect</Name>
+ <CastingRadius>100</CastingRadius>
+ <Abilities>
+  <suAI_Ability>
+   <UA>
+    <ClassName>NewAbility</ClassName>
+    <RefName>ua_aResurect</RefName>
+   </UA>
+   <MinTargetAmount>3</MinTargetAmount>
+   <TargetEnemy>true</TargetEnemy>
+   <CastingDelay>6000</CastingDelay>
+  </suAI_Ability>
+ </Abilities>
+</ua_SingleUnitAI>

@@ -1,0 +1,16 @@
+<ua_SingleUnitAI>
+ <Name>suAI_SolAntiFly</Name>
+ <CastingRadius>900</CastingRadius>
+ <Abilities>
+  <suAI_Ability>
+   <UA>
+    <ClassName>NewAbility</ClassName>
+    <RefName>UA_aSolAntiFly</RefName>
+   </UA>
+   <MinTargetAmount>1</MinTargetAmount>
+   <TargetEnemy>true</TargetEnemy>
+   <NeedMatherial>true</NeedMatherial>
+   <Matherial>FLY</Matherial>
+  </suAI_Ability>
+ </Abilities>
+</ua_SingleUnitAI>

@@ -1,0 +1,36 @@
+NAME MecBGat
+MESSAGE gates
+ICON U_FrnOf17
+BUILDING
+ICONEX 0 0 interf3\PortretsBuilding\MchWall 0
+ICONANM 0 0 interf3\PortretsBuilding\MchWall 1 43 1
+LIFE 12000
+PROTECTION 4 piercing 25 magical 10 chopping 25 crushing 10
+BUILDSTAGES 100
+MATHERIAL 1 BUILDING
+RECTANGLE 0 30 250 160
+3DBARS 1 -90 0 90 90 60 
+LONGDEATH
+GATE
+SELFTRANSFORM
+PRICE 1 STONE 500
+NOFARM
+VES 15
+ADDSHOTRADIUS 100
+ABILITY BuildStage_Dru
+EXPA 10
+KILLERAWARD             GOLD 4
+KILLERAWARDRANDOM       GOLD 1
+SELECT_SOUND interface_click
+BORN_SOUND building_ready_mechanic
+
+DEATH_SOUND building_death
+CYLINDER 50 70
+ABILITY UA_DamagedBuilding
+ABILITY UA_DamagedBuilding2
+ABILITY UA_DamagedBuilding3
+ABILITY UA_DestroyBuilding
+ShadowScaleX 2.3
+ShadowScaleY 1.0
+TFACTOR FF696969
+[END]

@@ -1,0 +1,28 @@
+<NewItem>
+ <Name>SVGloves6</Name>
+ <ClassType>Image</ClassType>
+ <FileID>Interf3\Ability\goods_gloves</FileID>
+ <SpriteID>5</SpriteID>
+ <FileID_Char>Interf3\Ability\goods_character_gloves</FileID_Char>
+ <FileID_Inv>Interf3\Ability\goods_inventory_gloves</FileID_Inv>
+ <HintName>#SVGloves6.NAME</HintName>
+ <Hint>#SVGloves6</Hint>
+ <Type>ItemClothe</Type>
+ <GroundMD>
+  <UnitType>DropM3(IT)</UnitType>
+ </GroundMD>
+ <ShopPrice>2000</ShopPrice>
+ <Amount>1</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <Conditions>
+  <umc_LifeLess>
+   <OperandType>Percent</OperandType>
+  </umc_LifeLess>
+ </Conditions>
+</NewItem>

@@ -1,0 +1,14 @@
+<ua_SingleUnitAI>
+ <Name>suai_Invisibility</Name>
+ <CastingRadius>160</CastingRadius>
+ <Abilities>
+  <suAI_Ability>
+   <UA>
+    <ClassName>NewAbility</ClassName>
+    <RefName>ua_aInvisibility</RefName>
+   </UA>
+   <MinTargetAmount>3</MinTargetAmount>
+   <TargetEnemy>true</TargetEnemy>
+  </suAI_Ability>
+ </Abilities>
+</ua_SingleUnitAI>

@@ -1,0 +1,14 @@
+<ua_SingleUnitAI>
+ <Name>suAI_Thif_01</Name>
+ <CastingRadius>100</CastingRadius>
+ <Abilities>
+  <suAI_Ability>
+   <UA>
+    <ClassName>NewAbility</ClassName>
+    <RefName>sa_Assasin_FoK</RefName>
+   </UA>
+   <MinTargetAmount>1</MinTargetAmount>
+   <TargetEnemy>true</TargetEnemy>
+  </suAI_Ability>
+ </Abilities>
+</ua_SingleUnitAI>

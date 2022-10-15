@@ -1,0 +1,26 @@
+<ua_DropPackage>
+ <DropPackage>
+  <ClassRef.NewAbility>
+   <ClassName>NewItem</ClassName>
+   <RefName>Treasure_Weapon_1</RefName>
+  </ClassRef.NewAbility>
+ </DropPackage>
+ <Name>HeroDropWea</Name>
+ <FileID_Char>icons_inventory</FileID_Char>
+ <FileID_Inv>icons_inventory</FileID_Inv>
+ <SoundExecute>i_reward_item</SoundExecute>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst></NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+</ua_DropPackage>

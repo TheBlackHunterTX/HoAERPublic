@@ -1,0 +1,34 @@
+<NewAbility>
+ <Name>UA_BringToLand</Name>
+ <ClassType>Image</ClassType>
+ <System>true</System>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <Modificators>
+  <mod_OverEarth>
+   <FinalHeight>60</FinalHeight>
+   <Speed>40</Speed>
+  </mod_OverEarth>
+ </Modificators>
+ <Radius>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>10</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </Radius>
+ <TargetMaxAmount>1</TargetMaxAmount>
+</NewAbility>

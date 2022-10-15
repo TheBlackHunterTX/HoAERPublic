@@ -1,0 +1,38 @@
+<NewAbility>
+ <Name>MC_aPoisonNova</Name>
+ <FileID>Interf3\Ability\auras_common</FileID>
+ <SpriteID>15</SpriteID>
+ <EffectFileID>Interf3\Ability\auras_common</EffectFileID>
+ <EffectSpriteID>15</EffectSpriteID>
+ <HintName>Poison Nova</HintName>
+ <ManaValue>70</ManaValue>
+ <CoolDownDuration>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>35000</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CoolDownDuration>
+ <Button>true</Button>
+ <UnlimitedAmount>false</UnlimitedAmount>
+ <Amount>16</Amount>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <eWeapon>
+  <ClassName>WeaponModificator</ClassName>
+  <RefName>UA_wPoisonNova_or</RefName>
+ </eWeapon>
+</NewAbility>

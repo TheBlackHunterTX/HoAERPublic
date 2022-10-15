@@ -1,0 +1,134 @@
+#SkipMagicCard Правый клик для смены карточки
+
+#BuildUnlimit Удерживайте Ctrl чтобы заказать непрерывную постройку юнитов
+
+#Inv_Bottles ЗЕЛЬЯ И СВИТКИ
+#Inv_Bottles_Hint Зелья и свитки
+#Inv_Magic ЗАКЛИНАНИЯ
+#Inv_Magic_Hint Заклинания
+#Inv_History ИСТОРИЯ
+#Inv_History_Hint История
+#Inv_Journal ЖУРНАЛ
+#Inv_Journal_Hint Журнал
+#Inv_Info ИНФОРМАЦИЯ
+#Inv_Info_Hint Параметры героя
+
+#Inv_Full_PickUp Не могу взять вещь - нет места в инвентаре
+
+#AblHint_Effects Эффекты
+
+#BuyPrice Цена на покупку
+#SellPrice Цена на продажу
+#ManaCost Расход маны
+
+#Influence Эффект действия
+#Multicast Количество наложенных зарядов
+
+#LimitedAmount Единократное применение
+#SellAfterUse Правый клик мгновенная продажа
+#Permanent Бесконечное действие
+
+#mod_MotionSpeed Скорость передвижения
+#mod_Stun Оглушение
+#mod_Trap Неподвижность
+#mod_AttackRadiusMax Дальность атаки
+#mod_Silence Безмолвие
+#mod_Compassion Бессилие
+#mod_Invulnerability Неуязвимость
+#mod_Damage Урон
+#mod_Protection Защита от
+#mod_Shield Защита от всего (даже чистого)
+#mod_AttackRate Скорость атаки
+#mod_MagicImmunity Иммунитет к магии
+#mod_LifeRegeneration Регенерация здоровья
+#mod_ManaRegeneration Регенерация маны
+#mod_Vision Радиус обзора
+#mod_Weapon Смена оружия на
+#mod_WeaponShots выстрелов
+#mod_Invisibility Невидимость
+#mod_Detector Невидимость раскрыта
+#mod_Frozen Обморожение
+#mod_Vampire Вампиризм
+#mod_Thorn Отражение урона
+#mod_ManaValue Стоимость заклинаний
+#mod_Life Текущее здоровье
+#mod_Mana Текущая мана
+#mod_LifeMax Максимальное здоровье
+#mod_ManaMax Максимальная мана
+#mod_AttackCaster Вызов боя на себя
+#mod_OverEarth Антигравитация
+#mod_Fear Страх
+#mod_ProduceEnable Запрет производства
+#mod_Scale Размер
+#mod_Control Подчинение
+#mod_Insubordination Неподчинение
+#mod_LevelForEffects Сила заклинаний
+#mod_TradeSkill Умение торговать
+#mod_Learning Обучаемость
+#mod_Evasion Уклонение
+#mod_Miss Промах
+#mod_MotionStyle Тип передвижения
+
+#mod_WeaponKind0 Тип повреждения колющий
+#mod_WeaponKind1 Тип повреждения рубящий
+#mod_WeaponKind2 Тип повреждения дробящий
+#mod_WeaponKind3 Тип повреждения магический
+
+piercing колющего
+chopping рубящего
+crushing дробящего
+magical магического
+
+FlyingObject низколетающий
+
+#BaseFantasyVic Победа! Вы смогли доказать свое мастерство.
+#BaseFantasyDefTownHalls Поражение! Вы потеряли все Городские центры
+#BaseFantasyDefPeasants Поражение! У Вас осталось меньше трех крестьян
+#BaseFantasyDefHeroDeath Поражение! Ваш герой мертв
+
+//Hints on building
+#HintShopBottle.NAME Алхимическая лаборатория
+#HintShopBottle Воспользоваться услугами торговца волшебных зельями
+#HintShopBottle1.NAME Алхимическая лаборатория I
+#HintShopBottle1 Воспользоваться услугами торговца волшебных зельями первого тира
+#HintShopBottle2.NAME Алхимическая лаборатория II
+#HintShopBottle2 Воспользоваться услугами торговца волшебных зельями второго тира
+#HintShopItems.NAME Мастер артефактов
+#HintShopItems Воспользоваться услугами торговца магическими вещами
+#HintShopItems1.NAME Мастер артефактов I
+#HintShopItems1 Воспользоваться услугами торговца магическими вещами первого и второго тира
+#HintShopItems2.NAME Мастер артефактов II
+#HintShopItems2 Воспользоваться услугами торговца магическими вещами третьего и четвёртого тира
+#HintShopItems_Recipe.NAME Мастер магических свитков
+#HintShopItems_Recipe Воспользоваться услугами торговца магическими свитками
+#HintShopItems_Povozka.NAME Мастер колец и браслетов
+#HintShopItems_Povozka Воспользоваться услугами торговой повозки
+#HintShopMagicCards.NAME Библиотека
+#HintShopMagicCards Воспользоваться библиотекой заклинаний
+#HintShopMagicCards1.NAME Библиотека I
+#HintShopMagicCards1 Воспользоваться библиотекой заклинаний 1 тира
+#HintShopMagicCards2.NAME Библиотека II
+#HintShopMagicCards2 Воспользоваться библиотекой заклинаний 2-4 тиров
+#HintBuyVillage.NAME Нейтральное поселение
+#HintBuyVillage Обсудить с вождем договор о совместной войне
+#HintAltar_attack.NAME Алтарь атаки
+#HintAltar_attack Воспользовавшись силой алтаря герой и все дружественные рядом стоящие войны на 60сек. получат усиленую атаку. +15% к урону.
+#HintAltar_defence.NAME Алтарь защиты
+#HintAltar_defence Воспользовавшись силой алтаря герой и все дружественные рядом стоящие войны на 60сек. получат усиленую защиту. +30% к защите от всего.
+#HintAltar_regeneration.NAME Камень регенирации
+#HintAltar_regeneration Воспользовавшись силой камня герой на 60сек. получит усиленую способность регенирации здоровья. +50 к регенерации здоровья.
+#HintAltar_rage.NAME Камень ярости
+#HintAltar_rage Воспользовавшись силой камня герой на 60сек. приобретет способность быстро атаковать и перемещаться. +12% к скорости атаки и +6% к скорости передвижения.
+#HintBonus_fontain.NAME Живой источник
+#HintBonus_fontain Воспользовавшись живительным источником герой востановит часть своей жизни (250) и маны (150)
+
+//Hints on use
+#UseRightClick Правый клик для использования
+#UseLeftClick Левый клик для использования
+#GetCasterHeroLvl (Уровень героя)
+#BuySellDoubleClick Двойной клик для покупки/продажи
+
+//
+#NeedBuildingForConstraction Требуется:
+
+#Select_Mission ВЫБОР МИССИИ

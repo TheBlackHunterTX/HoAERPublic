@@ -1,0 +1,35 @@
+<NewAbility>
+ <Name>ua_Conjuration_Fly</Name>
+ <System>true</System>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <EffectDuration>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>40000</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </EffectDuration>
+ <Modificators>
+  <mod_MotionStyle>
+   <Style>FlyingObject</Style>
+  </mod_MotionStyle>
+  <mod_Material>
+   <Operation>Set</Operation>
+   <AddMatherial>FLY</AddMatherial>
+  </mod_Material>
+ </Modificators>
+</NewAbility>

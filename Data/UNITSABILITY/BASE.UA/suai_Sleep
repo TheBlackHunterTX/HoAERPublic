@@ -1,0 +1,14 @@
+<ua_SingleUnitAI>
+ <Name>suai_Sleep</Name>
+ <CastingRadius>10</CastingRadius>
+ <Abilities>
+  <suAI_Ability>
+   <UA>
+    <ClassName>NewAbility</ClassName>
+    <RefName>ua_aSphinx</RefName>
+   </UA>
+   <MinTargetAmount>6</MinTargetAmount>
+   <TargetEnemy>true</TargetEnemy>
+  </suAI_Ability>
+ </Abilities>
+</ua_SingleUnitAI>

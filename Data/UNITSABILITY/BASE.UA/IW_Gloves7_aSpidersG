@@ -1,0 +1,25 @@
+<NewAbility>
+ <Name>IW_Gloves7_aSpidersG</Name>
+ <ClassType>Effect</ClassType>
+ <EffectFileID>Interf3\Ability\goods_inventory_gloves</EffectFileID>
+ <EffectSpriteID>7</EffectSpriteID>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <Permanent>true</Permanent>
+ <OnDieCreateWeapon>
+  <ClassName>WeaponModificator</ClassName>
+  <RefName>IW_Gloves7_wSpidersG</RefName>
+ </OnDieCreateWeapon>
+ <Conditions>
+  <umc_Hero></umc_Hero>
+ </Conditions>
+</NewAbility>

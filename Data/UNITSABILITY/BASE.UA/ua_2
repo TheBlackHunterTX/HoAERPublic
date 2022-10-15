@@ -1,0 +1,40 @@
+<NewAbility>
+ <Name>ua_2</Name>
+ <System>true</System>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <IgnoreMagicImmunity>true</IgnoreMagicImmunity>
+ <NonIgnoredSkill>true</NonIgnoredSkill>
+ <Modificators>
+  <mod_Life>
+   <Operand>
+    <Operator>-</Operator>
+    <Operand>
+     <Value>
+      <Op>
+       <NumericalConst>
+        <Value>
+         <Value>2</Value>
+        </Value>
+       </NumericalConst>
+      </Op>
+     </Value>
+    </Operand>
+    <OperandType>Percent</OperandType>
+    <Percent>From Base</Percent>
+   </Operand>
+   <Period>1</Period>
+   <TakeProtection>false</TakeProtection>
+  </mod_Life>
+ </Modificators>
+ <TargetMaxAmount>1</TargetMaxAmount>
+</NewAbility>

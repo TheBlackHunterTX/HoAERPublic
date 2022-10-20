@@ -248,6 +248,12 @@
       <RefName>w_SplitArrow_split</RefName>
      </Item>
     </OneClassItem>
+    <OneClassItem>
+     <Item>
+      <ClassName>NewAbility</ClassName>
+      <RefName>ua_aResurect</RefName>
+     </Item>
+    </OneClassItem>
    </Items>
   </OneClassFolder>
  </Items>

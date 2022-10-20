@@ -34,9 +34,6 @@
    </Op>
   </Value>
  </EffectDuration>
- <Modificators>
-  <mod_SpellOnMakeDamage></mod_SpellOnMakeDamage>
- </Modificators>
  <Radius>
   <Value>
    <Op>

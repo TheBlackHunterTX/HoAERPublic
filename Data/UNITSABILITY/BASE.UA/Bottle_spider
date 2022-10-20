@@ -34,14 +34,6 @@
    </Op>
   </Value>
  </EffectDuration>
- <Modificators>
-  <mod_SpellOnMakeDamage>
-   <Spell>
-    <ClassName>NewAbility</ClassName>
-    <RefName>UW_aSpiderSlow</RefName>
-   </Spell>
-  </mod_SpellOnMakeDamage>
- </Modificators>
  <VisualEffects>
   <uat_VisualEffect>
    <Duration>2500</Duration>

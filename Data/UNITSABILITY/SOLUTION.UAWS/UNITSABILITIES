@@ -913,24 +913,14 @@
     <RefName>UA_aIronFurIcon</RefName>
    </Item>
   </OneClassItem>
-  <OneClassItem>
-   <Item>
-    <ClassName>WeaponModificator</ClassName>
-    <RefName>UA_wWerewolfRegenActivator</RefName>
-   </Item>
-  </OneClassItem>
+  <OneClassItem></OneClassItem>
   <OneClassItem>
    <Item>
     <ClassName>WeaponModificator</ClassName>
     <RefName>UA_wIronFurActivator</RefName>
    </Item>
   </OneClassItem>
-  <OneClassItem>
-   <Item>
-    <ClassName>NewAbility</ClassName>
-    <RefName>UA_aWerewolfRegen</RefName>
-   </Item>
-  </OneClassItem>
+  <OneClassItem></OneClassItem>
   <OneClassItem>
    <Item>
     <ClassName>NewAbility</ClassName>

@@ -44,12 +44,6 @@
  <IgnoreMagicImmunity>true</IgnoreMagicImmunity>
  <NonIgnoredSkill>true</NonIgnoredSkill>
  <Modificators>
-  <mod_SpellOnMakeDamage>
-   <Spell>
-    <ClassName>NewAbility</ClassName>
-    <RefName>sa_Assasin_PoisonDagger</RefName>
-   </Spell>
-  </mod_SpellOnMakeDamage>
   <mod_DeleteAbilityAfterNShots>
    <NShots>7</NShots>
   </mod_DeleteAbilityAfterNShots>

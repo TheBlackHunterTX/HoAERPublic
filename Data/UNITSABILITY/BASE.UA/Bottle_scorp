@@ -36,7 +36,6 @@
  <IgnoreMagicImmunity>true</IgnoreMagicImmunity>
  <NonIgnoredSkill>true</NonIgnoredSkill>
  <Modificators>
-  <mod_SpellOnMakeDamage></mod_SpellOnMakeDamage>
   <mod_DeleteAbilityAfterNShots>
    <NShots>2</NShots>
   </mod_DeleteAbilityAfterNShots>

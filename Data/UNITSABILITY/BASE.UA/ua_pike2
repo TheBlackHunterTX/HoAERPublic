@@ -15,14 +15,6 @@
  </CastingShotAmount>
  <IgnoreMagicImmunity>true</IgnoreMagicImmunity>
  <NonIgnoredSkill>true</NonIgnoredSkill>
- <Modificators>
-  <mod_SpellOnMakeDamage>
-   <Spell>
-    <ClassName>NewAbility</ClassName>
-    <RefName>ua_2</RefName>
-   </Spell>
-  </mod_SpellOnMakeDamage>
- </Modificators>
  <Radius>
   <Value>
    <Op>

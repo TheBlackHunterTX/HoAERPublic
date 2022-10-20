@@ -25,14 +25,6 @@
    </Op>
   </Value>
  </CastingShotAmount>
- <Modificators>
-  <mod_SpellOnMakeDamage>
-   <Spell>
-    <ClassName>NewAbility</ClassName>
-    <RefName>sa_Knight_EffBlade</RefName>
-   </Spell>
-  </mod_SpellOnMakeDamage>
- </Modificators>
  <Radius>
   <Value>
    <Op>

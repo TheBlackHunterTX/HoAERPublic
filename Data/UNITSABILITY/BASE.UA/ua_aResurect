@@ -17,6 +17,7 @@
   </Value>
  </CoolDownDuration>
  <Button>true</Button>
+ <PrepareCasting>true</PrepareCasting>
  <CastingShotAmount>
   <Value>
    <Op>

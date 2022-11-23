@@ -37,23 +37,49 @@ ADDSHOTRADIUS 125
 ROUNDLOCK 6
 NOALTINFO
 INVISIBLEONMINIMAP
-ABILITY ShopClothe
+ABILITY ShopItems1
+ABILITY Treasure_Weapon_1
 ABILITY Treasure_Weapon_2
 ABILITY Treasure_Weapon_3
 ABILITY Minor_Weapon_1   
-ABILITY Armor4           
-ABILITY Armor5           
-ABILITY Belt4            
-ABILITY Belt5            
-ABILITY Cloak4           
-ABILITY Cloak5           
-ABILITY Armor4           
-ABILITY Gloves5          
-ABILITY Helm4            
-ABILITY Helm5            
-ABILITY Medalion6        
-ABILITY Medalion7        
-ABILITY Boots4 
+ABILITY Minor_Weapon_2
+ABILITY Helm1
+ABILITY Helm2
+ABILITY Helm3
+ABILITY Helm4
+ABILITY Helm5
+ABILITY Armor1
+ABILITY Armor2
+ABILITY Armor3
+ABILITY Armor4
+ABILITY Armor5
+ABILITY Belt1
+ABILITY Belt2
+ABILITY Belt3
+ABILITY Belt4
+ABILITY Belt5
+ABILITY Cloak1
+ABILITY Cloak2
+ABILITY Cloak3
+ABILITY Cloak4
+ABILITY Cloak5
+ABILITY Gloves1
+ABILITY Gloves2
+ABILITY Gloves3
+ABILITY Gloves4
+ABILITY Gloves5
+ABILITY Boots1
+ABILITY Boots2
+ABILITY Boots3
+ABILITY Boots4
+ABILITY Boots5
+ABILITY Medalion1
+ABILITY Medalion2
+ABILITY Medalion3
+ABILITY Medalion4
+ABILITY Medalion5
+
+ABILITY BA_aDoNotCrush
 CAPTURE 
 IMMORTAL
 ABILITY UA_aUseBuilding

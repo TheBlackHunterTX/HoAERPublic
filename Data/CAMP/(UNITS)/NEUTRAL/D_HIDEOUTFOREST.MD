@@ -19,7 +19,9 @@ VISION 0
 NOALTINFO
 INVISIBLEONMINIMAP
 PortretDisable True
-
+ABILITY Resource
+ABILITY Drop_BottleDropTreasure
+ABLDROP Drop_BottleDropTreasure 5
 INVISIBLEONMINIMAP
 IMMORTAL
 ShadowScaleX 2.3

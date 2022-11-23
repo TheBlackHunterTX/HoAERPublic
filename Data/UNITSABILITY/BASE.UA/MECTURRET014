@@ -13,7 +13,6 @@
    </Op>
   </Value>
  </CastingShotAmount>
- <Damage>25</Damage>
  <Weapon>
   <ClassName>WeaponModificator</ClassName>
   <RefName>ship_rifle</RefName>

@@ -5,37 +5,37 @@ ICONEX 0 0 interf3\UnitPortrets\barbarian_back 0
 ICONSET 3 0 0 interf3\UnitPortrets\barbarian_lord1 0 73 1
 ICONSET 1 0 0 interf3\UnitPortrets\barbarian_lord2 0 90 1
 
-!STAND          1 0.26 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M
+!STAND          1 0.23 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M
 ADDHDIR #STAND 0 128
-!REST          1 0.26 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M
+!REST          1 0.23 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M
 ADDHDIR #REST 0 128
-!REST          1 0.26 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M
+!REST          1 0.23 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M
 ADDHDIR #REST 0 128
-!MOTION_L      1 0.26 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M
+!MOTION_L      1 0.23 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M
 ADDHDIR #MOTION_L 0 128
 /!MOTION_L      18 0.2 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_run1.C2M
 /ADDHDIR #MOTION_L 0 128
-!PSTAND        1 0.26 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M
+!PSTAND        1 0.23 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M
 ADDHDIR #PSTAND 0 128 
-!ATTACK        1 0.26 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M
+!ATTACK        1 0.23 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M
 ADDHDIR #ATTACK 0 128
 /!ATTACK        49 0.2 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_attack2.C2M
 /ADDHDIR #ATTACK 0 128
 /!ATTACK        80 0.2 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_attack3.C2M
 /ADDHDIR #ATTACK 0 128
-*DEATH         2 1 0.26 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M 128 0.01 0.01   65 0.2 Models\Units\IceHBar\IceHBarM_death11.C2M Models\Units\IceHBar\IceHBarA_death11.C2M 128 0.0 1.0 
+*DEATH         2 1 0.23 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M 128 0.01 0.01   65 0.2 Models\Units\IceHBar\IceHBarM_death11.C2M Models\Units\IceHBar\IceHBarA_death11.C2M 128 0.0 1.0 
 /ADDHDIR #DEATH 0 128
-*DEATH         2 1 0.26 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M 128 0.01 0.01   65 0.2 Models\Units\IceHBar\IceHBarM_death11.C2M Models\Units\IceHBar\IceHBarA_death21.C2M 128 0.0 1.0 
-!CASTPREPARE   1 0.26 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M
+*DEATH         2 1 0.23 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M 128 0.01 0.01   65 0.2 Models\Units\IceHBar\IceHBarM_death11.C2M Models\Units\IceHBar\IceHBarA_death21.C2M 128 0.0 1.0 
+!CASTPREPARE   1 0.23 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M
 ADDHDIR #CASTPREPARE 0 128
-!CASTDIRECT    1 0.26 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M
+!CASTDIRECT    1 0.23 Models\Units\IceHBar\IceHBarMSS.C2M Models\Units\IceHBar\IceHBarA_stand1.C2M
 ADDHDIR #CASTDIRECT 0 128
 BREAKANIMATION #CASTDIRECT
 SETHOTFRAME2 #CASTDIRECT 25 20 20 0
 GEOMETRY 1 40 38
 SPEEDSCALE 131
 DAMAGE   0 0
-LIFE     500
+LIFE     450
 RECTANGLE 0 2 40 60
 ATTACK_RADIUS 0 15 100
 ATTACK_PAUSE 0 0
@@ -43,6 +43,7 @@ SEARCH_ENEMY_RADIUS 350
 DET_RADIUS 0 0 0
 MATHERIAL 1 BODY
 CANKILL 3 BODY WOOD BUILDING
+ATTMASK 0 3 BODY WOOD BUILDING
 PRICE 1 FOOD 100
 WEAPONKIND 0 crushing
 WEAPON 0 UW_Splash40

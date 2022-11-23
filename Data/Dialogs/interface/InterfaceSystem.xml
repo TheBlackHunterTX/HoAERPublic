@@ -1539,6 +1539,41 @@
    <FileID>Interf3\InGame\_common_upgrade_mod</FileID>
    <SpriteID>24</SpriteID>
   </cvi_Icon>
+  <cvi_Icon>
+   <Name>ICESSHP(IC)A</Name>
+   <FileID>Interf3\InGame\_common_upgrade_mod</FileID>
+   <SpriteID>25</SpriteID>
+  </cvi_Icon>
+  <cvi_Icon>
+   <Name>ICESALL(IC)S</Name>
+   <FileID>Interf3\InGame\_common_upgrade_mod</FileID>
+   <SpriteID>26</SpriteID>
+  </cvi_Icon>
+  <cvi_Icon>
+   <Name>ICESSHP(IC)L</Name>
+   <FileID>Interf3\InGame\_common_upgrade_mod</FileID>
+   <SpriteID>27</SpriteID>
+  </cvi_Icon>
+  <cvi_Icon>
+   <Name>ICEBALL(IC)D</Name>
+   <FileID>Interf3\InGame\_common_upgrade_mod</FileID>
+   <SpriteID>28</SpriteID>
+  </cvi_Icon>
+  <cvi_Icon>
+   <Name>MECBALL(ME)D</Name>
+   <FileID>Interf3\InGame\_common_upgrade_mod</FileID>
+   <SpriteID>29</SpriteID>
+  </cvi_Icon>
+  <cvi_Icon>
+   <Name>SOLBALL(SL)D</Name>
+   <FileID>Interf3\InGame\_common_upgrade_mod</FileID>
+   <SpriteID>30</SpriteID>
+  </cvi_Icon>
+  <cvi_Icon>
+   <Name>MECUENC(ME)SK</Name>
+   <FileID>Interf3\InGame\_common_upgrade_mod</FileID>
+   <SpriteID>31</SpriteID>
+  </cvi_Icon>
  </IconsList>
  <ResourcePanel>
   <Nations>

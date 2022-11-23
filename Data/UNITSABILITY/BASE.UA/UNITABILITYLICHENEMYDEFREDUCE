@@ -24,6 +24,7 @@
   </Value>
  </EffectDuration>
  <MultyCast>true</MultyCast>
+ <MaxCasts>5</MaxCasts>
  <EndEffectIfEnemyNearRadius>0</EndEffectIfEnemyNearRadius>
  <Modificators>
   <mod_Shield>

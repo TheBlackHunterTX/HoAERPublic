@@ -1,7 +1,7 @@
-handlers: 416592
-ptrs: 416150
-memused: 144321104
-memtotal: 780140544
+handlers: 433770
+ptrs: 432048
+memused: 159113568
+memtotal: 884998144
 CheckMemoryIntegrityEx: done
 mem info: done
 FEX_GetCallStackEBP_Ex: done

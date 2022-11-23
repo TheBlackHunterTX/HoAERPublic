@@ -14,7 +14,6 @@
  </CastingShotAmount>
  <MinDistance>200</MinDistance>
  <MaxDistance>1000</MaxDistance>
- <Damage>5</Damage>
  <Weapon>
   <ClassName>WeaponModificator</ClassName>
   <RefName>und_tow</RefName>

@@ -444,6 +444,29 @@
       <OneClassItem></OneClassItem>
      </Items>
     </OneClassFolder>
+    <OneClassFolder>
+     <Name>Centaur</Name>
+     <Items>
+      <OneClassItem>
+       <Item>
+        <ClassName>WeaponModificator</ClassName>
+        <RefName>UW_Splash25_DruUCen</RefName>
+       </Item>
+      </OneClassItem>
+      <OneClassItem>
+       <Item>
+        <ClassName>NewAbility</ClassName>
+        <RefName>UA_eMoraleCenOnTarget</RefName>
+       </Item>
+      </OneClassItem>
+      <OneClassItem>
+       <Item>
+        <ClassName>NewAbility</ClassName>
+        <RefName>UA_eMoraleCenOnCen</RefName>
+       </Item>
+      </OneClassItem>
+     </Items>
+    </OneClassFolder>
    </Items>
   </OneClassFolder>
   <OneClassFolder>
@@ -738,6 +761,35 @@
        <Item>
         <ClassName>WeaponModificator</ClassName>
         <RefName>3d_arrow_Werewolf</RefName>
+       </Item>
+      </OneClassItem>
+     </Items>
+    </OneClassFolder>
+    <OneClassFolder>
+     <Name>ZombiePlague</Name>
+     <Items>
+      <OneClassItem>
+       <Item>
+        <ClassName>WeaponModificator</ClassName>
+        <RefName>UW_wZombiePlague</RefName>
+       </Item>
+      </OneClassItem>
+      <OneClassItem>
+       <Item>
+        <ClassName>NewAbility</ClassName>
+        <RefName>UW_aZombiePlagueDamage</RefName>
+       </Item>
+      </OneClassItem>
+      <OneClassItem>
+       <Item>
+        <ClassName>WeaponModificator</ClassName>
+        <RefName>UW_wZombiePlagueRising</RefName>
+       </Item>
+      </OneClassItem>
+      <OneClassItem>
+       <Item>
+        <ClassName>NewAbility</ClassName>
+        <RefName>UW_aZombiePlagueIcon</RefName>
        </Item>
       </OneClassItem>
      </Items>

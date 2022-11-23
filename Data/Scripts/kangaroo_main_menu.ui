@@ -1,0 +1,79 @@
+<window name	= "kangaroo_main_menu" 
+		ext		= "900 0 120 270" 
+		bgcolor	= "0xAAFFFFFF" 
+		halign  = "center"
+		valign  = "center"> 
+		
+	<radiogroup	name = "Editors" allownonepressed="false">
+		<radiobutton	name		= "btnModelEditor"		
+						text		= "Model Editor"		
+						ext			= "10 10 100 15" 	
+						bgColor		= "0x22FFFFFF"	
+						textColor	= "0xFF000055"
+						pressed		= "ActivateModelEditor"/>
+				
+		<radiobutton	name		= "btnEffectEditor"		
+						text		= "Effect Editor"	
+						ext			= "10 30 100 15" 	
+						bgColor		= "0x22FFFFFF"	
+						textColor	= "0xFF000055"
+						pressed		= "ActivateEffectEditor"/>
+				
+		<radiobutton	name		= "btnWidgetEditor"		
+						text		= "Widget Editor"	
+						ext			= "10 50 100 15" 	
+						bgColor		= "0x22FFFFFF"	
+						textColor	= "0xFF000055"
+						pressed		= "ActivateWidgetEditor"/>
+				
+		<radiobutton	name		= "btnSceneEditor"		
+						text		= "Scene Editor"		
+						ext			= "10 70 100 15" 	
+						bgColor		= "0x22FFFFFF"	
+						textColor	= "0xFF000055"
+						pressed		= "ActivateSceneEditor"/>
+		
+		<radiobutton	name		= "btnSystemExplorer"	
+						text		= "System Explorer"	
+						ext			= "10 90 100 15" 	
+						bgColor		= "0x22FFFFFF"	
+						textColor	= "0xFF000055"
+						pressed		= "ActivateSystemExplorer"/>
+		
+		<radiobutton	name		= "btnDebugger"			
+						text		= "Debugger"			
+						ext			= "10 110 100 15" 
+						bgColor		= "0x22FFFFFF"	
+						textColor	= "0xFF000055"
+						pressed		= "ActivateDebugger"/>
+						
+	    <radiobutton	name		= "btnCharEditor"			
+						text		= "Character Editor"			
+						ext			= "10 130 100 15" 
+						bgColor		= "0x22FFFFFF"	
+						textColor	= "0xFF000055"
+						pressed		= "ActivateCharEditor"/>
+						
+	</radiogroup>
+	
+	<button		name		= "btnReloadResources"			
+				text		= "Reload Resources"			
+				ext			= "10 160 100 15" 
+				bgColor		= "0x22FFFFFF"	
+				textColor	= "0xFF000055"
+				pressed		= "ReloadResources"/>
+				
+	<button		name		= "btnOptions"			
+				text		= "Options"			
+				ext			= "10 180 100 15" 
+				bgColor		= "0x22FFFFFF"	
+				textColor	= "0xFF000055"
+				pressed		= "EditOptions"/>
+				
+	<button		name		= "btnExit"			
+				text		= "Exit"			
+				ext			= "10 220 100 15" 
+				bgColor		= "0x22FFFFFF"	
+				textColor	= "0xFF000055"
+				pressed		= "Exit"/>
+</window>

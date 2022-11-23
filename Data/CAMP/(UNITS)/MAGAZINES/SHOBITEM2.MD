@@ -3,11 +3,11 @@ ICON U_FrnOf17
 BUILDING
 SETANMPARAM -0 -0 1 0
 LOCATION -0 -0 800 800
-!STANDLO      1 1.4 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m 
-!BUILDLO_0    1 1.4 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m 
-!BUILDLO_1    1 1.4 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m 
-!BUILDLO_2    1 1.4 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m 
-!BUILDLO_3    1 1.4 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m 
+!STANDLO      1 1.4 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_red.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_red.c2m 
+!BUILDLO_0    1 1.4 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_red.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_red.c2m 
+!BUILDLO_1    1 1.4 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_red.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_red.c2m 
+!BUILDLO_2    1 1.4 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_red.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_red.c2m 
+!BUILDLO_3    1 1.4 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_red.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_red.c2m 
 MOVEXY #STANDLO   -10 0
 MOVEXY #BUILDLO_0 -10 0
 MOVEXY #BUILDLO_1 -10 0
@@ -37,18 +37,47 @@ ADDSHOTRADIUS 125
 ROUNDLOCK 6
 NOALTINFO
 INVISIBLEONMINIMAP
-ABILITY ShopClothe
-ABILITY Minor_Weapon_2
+ABILITY ShopItems2
 ABILITY Major_Weapon_1
 ABILITY Major_Weapon_2
-ABILITY Relic_Weapon  
-ABILITY Armor8        
-ABILITY Belt8         
-ABILITY Cloak8        
-ABILITY Gloves8       
-ABILITY Helm8         
-ABILITY Medalion8     
-ABILITY Boots8        
+ABILITY Relic_Weapon
+ABILITY IW_wSlot
+ABILITY IW_wSlot
+ABILITY Helm6
+ABILITY Helm7
+ABILITY Helm8
+ABILITY IW_wSlot
+ABILITY IW_wSlot
+ABILITY Armor6
+ABILITY Armor7
+ABILITY Armor8
+ABILITY IW_wSlot
+ABILITY IW_wSlot
+ABILITY Belt6
+ABILITY Belt7
+ABILITY Belt8
+ABILITY IW_wSlot
+ABILITY IW_wSlot
+ABILITY Cloak6
+ABILITY Cloak7
+ABILITY Cloak8
+ABILITY IW_wSlot
+ABILITY IW_wSlot
+ABILITY Gloves6
+ABILITY Gloves8
+ABILITY Gloves7
+ABILITY IW_wSlot
+ABILITY IW_wSlot
+ABILITY Boots6
+ABILITY Boots8
+ABILITY Boots7
+ABILITY IW_wSlot
+ABILITY IW_wSlot
+ABILITY Medalion6
+ABILITY Medalion7
+ABILITY Medalion8
+ABILITY Medalion6c
+ABILITY Medalion9
 
 CAPTURE
 IMMORTAL
@@ -60,6 +89,7 @@ PortretDisable True
 NOALTINFO
 INVISIBLEONMINIMAP
 IMMORTAL
+ABILITY BA_aDoNotCrush
 [END]
 
 

@@ -35,15 +35,9 @@
       <BaseClassUnitType>
        <UnitType>DwaURif(DW)</UnitType>
       </BaseClassUnitType>
-      <BaseClassUnitType>
-       <UnitType>TDDwaUEnc(TD)</UnitType>
-      </BaseClassUnitType>
-      <BaseClassUnitType>
-       <UnitType>TDDwaUWar(TD)</UnitType>
-      </BaseClassUnitType>
-      <BaseClassUnitType>
-       <UnitType>TDDwaURif(TD)</UnitType>
-      </BaseClassUnitType>
+      <BaseClassUnitType></BaseClassUnitType>
+      <BaseClassUnitType></BaseClassUnitType>
+      <BaseClassUnitType></BaseClassUnitType>
       <BaseClassUnitType>
        <UnitType>Dwa1Enc(DW)</UnitType>
       </BaseClassUnitType>

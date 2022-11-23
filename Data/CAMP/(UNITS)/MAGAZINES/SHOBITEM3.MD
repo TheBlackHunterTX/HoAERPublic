@@ -3,11 +3,11 @@ ICON U_FrnOf17
 BUILDING
 SETANMPARAM -0 -0 1 0
 LOCATION -0 -0 800 800
-!STANDLO      1 1.4 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m 
-!BUILDLO_0    1 1.4 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m 
-!BUILDLO_1    1 1.4 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m 
-!BUILDLO_2    1 1.4 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m 
-!BUILDLO_3    1 1.4 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house.c2m 
+!STANDLO      1 1.0 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_purple.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_purple.c2m 
+!BUILDLO_0    1 1.0 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_purple.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_purple.c2m 
+!BUILDLO_1    1 1.0 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_purple.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_purple.c2m 
+!BUILDLO_2    1 1.0 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_purple.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_purple.c2m 
+!BUILDLO_3    1 1.0 Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_purple.c2m Models\Bld\NETRAL\Artf_Seller_house\512x512\Artf_Seller_house_purple.c2m 
 MOVEXY #STANDLO   -10 0
 MOVEXY #BUILDLO_0 -10 0
 MOVEXY #BUILDLO_1 -10 0
@@ -19,12 +19,12 @@ ADDHDIR #BUILDLO_1 0 160
 ADDHDIR #BUILDLO_2 0 160
 ADDHDIR #BUILDLO_3 0 160
 BORNPOINTS3 2 0 0 0 100 80 0
-GEOMETRY 1 199 32
+GEOMETRY 1 143 32
 LIFE     3000
 PRICE 1 STONE 1
 BUILDSTAGES 300
 PROTECTION 3 piercing 15 magical 15 chopping 15
-RECTANGLE    0 60 130 100
+RECTANGLE    0 60 94 80
 MATHERIAL 1 BUILDING
 EXPLMEDIA BUILDING 5
 BUILDBAR -5 0 5 0
@@ -37,42 +37,114 @@ ADDSHOTRADIUS 125
 ROUNDLOCK 6
 NOALTINFO
 INVISIBLEONMINIMAP
-ABILITY ShopClothe
-ABILITY Ring1
-ABILITY Ring2
-ABILITY Ring3
-ABILITY Ring4
-ABILITY Ring5
-ABILITY Ring6
-ABILITY Ring7
-ABILITY Ring8
-ABILITY Ring9
-ABILITY Ring10
-ABILITY Ring11
-ABILITY Ring12
-ABILITY Ring13
-ABILITY Ring14
-ABILITY Ring15
-ABILITY Ring16
-ABILITY Ring17
-ABILITY Ring18
-ABILITY Ring19 
-ABILITY Ring20
-ABILITY Ring21
-ABILITY Ring22
-ABILITY Ring23
-ABILITY Ring24
-ABILITY Ring25
-ABILITY Ring26
-ABILITY Ring27
-ABILITY Ring28
-ABILITY Ring29
-ABILITY Ring30
-ABILITY Ring31
-ABILITY Ring32
+ABILITY ShopItem_Recipe
+/Рецептики
+/Предметики
+/Оружки
+ABILITY SVWeaponT2L
+ABILITY SVWeaponT2R
+ABILITY SVWeaponT3L
+ABILITY SVWeaponT3R
+ABILITY SVWeaponT4
+ABILITY IW_pSlot
+/Вещички
+ABILITY SVHelm4 
+ABILITY SVHelm6
+ABILITY SVHelm7
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY SVArmor4
+ABILITY SVArmor5
+ABILITY SVArmor6
+ABILITY SVArmor7
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY SVCloak4
+ABILITY SVCloak5
+ABILITY SVCloak6
+ABILITY SVCloak8
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY SVGloves4
+ABILITY SVGloves5
+ABILITY SVGloves6
+ABILITY SVGloves8
+ABILITY SVGloves7
+ABILITY IW_pSlot
+ABILITY SVBelt4
+ABILITY SVBelt5
+ABILITY SVBelt6
+ABILITY SVBelt7
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY SVBracelet10
+ABILITY SVBracelet15
+ABILITY SVBracelet16
+ABILITY SVBracelet11
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY SVRing14
+ABILITY SVRing15
+ABILITY SVRing17
+ABILITY SVRing26
+ABILITY SVRing25
+ABILITY SVRing27
+ABILITY SVRing29
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+
+/3200
+ABILITY SVMedalion6c
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+/Обилочечки
+/700
+ABILITY SVMC_aIllusion_S
+ABILITY SVMC_aIllusions
+ABILITY SVMC_aPostponeDeath
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+/900
+ABILITY SVMC_aArrowOfLife
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+/1200
+ABILITY SVMC_aDeceptionOfDeath
+ABILITY SVMC_aSpiritOfBattle
+ABILITY SVMC_aFireControl
+ABILITY SVMC_aStatueControl
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+/2000
+/ABILITY SVMC_aHPolymorph
+/ABILITY IW_pSlot
+/ABILITY IW_pSlot
+/ABILITY IW_pSlot
+/ABILITY IW_pSlot
+/ABILITY IW_pSlot
+/3200
+ABILITY SVMC_aSpiritOfWar
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+ABILITY IW_pSlot
+
+
 CAPTURE 
 IMMORTAL
-ABILITY UA_aUseBuilding
+ABILITY UA_aUseBuilding_Small
 CYLINDER 63 80
 FORMFACTOR 310
 SPLITCLUSTERS #STANDLO 500 15 1 1 0
@@ -80,6 +152,7 @@ PortretDisable True
 NOALTINFO
 INVISIBLEONMINIMAP
 IMMORTAL
+ABILITY BA_aDoNotCrush
 [END]
 
 

@@ -3,7 +3,7 @@ MESSAGE gates
 ICON U_FrnOf17
 BUILDING
 LIFE 5000
-PROTECTION 4 piercing 15 magical 0 chopping 15 crushing 0
+PROTECTION 4 piercing 15 magical 5 chopping 15 crushing 5
 BUILDSTAGES 100
 MATHERIAL 1 BUILDING
 RECTANGLE 0 30 250 160

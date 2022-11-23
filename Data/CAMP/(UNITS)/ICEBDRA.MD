@@ -7,11 +7,11 @@ ICONEX 0 0 interf3\PortretsBuilding\IceDra 0
 ICONANM 0 0 interf3\PortretsBuilding\IceDra 1 136 1
 
 LOCATION -0 -0 800 800
-!STANDLO      1 0.41 Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m
-!BUILDLO_0    1 0.41 Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m
-!BUILDLO_1    1 0.41 Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m
-!BUILDLO_2    1 0.41 Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m
-!BUILDLO_3    1 0.41 Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m
+!STANDLO      1 0.42 Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m
+!BUILDLO_0    1 0.42 Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m
+!BUILDLO_1    1 0.42 Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m
+!BUILDLO_2    1 0.42 Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m
+!BUILDLO_3    1 0.42 Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m Models\Bld\ICE\Dragon_Cave2\1024x512\Dragon_Cave2.c2m
 MOVEXY #STANDLO   35 -35
 MOVEXY #BUILDLO_0 35 -35
 MOVEXY #BUILDLO_1 35 -35
@@ -25,8 +25,9 @@ ADDHDIR #BUILDLO_3 -2 160
 BORNPOINTS3 2 50 -50 0 150 -150 0
 GEOMETRY 1 199 32
 LIFE     8000
-PRICE 2 STONE 1200 COAL 500
+PRICE 4 STONE 800 WOOD 400 IRON 400 COAL 600
 BUILDSTAGES 100
+BUILDHOTKEY		Y
 PROTECTION 3 piercing 15 magical 0 chopping 15
 RECTANGLE    0 60 200 160
 MATHERIAL 1 BUILDING
@@ -34,12 +35,11 @@ EXPLMEDIA BUILDING 5
 BUILDBAR    -17 0 17 0
 3DBARS 3 -140 -20 30 120 100 -20 30 30 120 100 0 0 35 70 160
 INFO 3 8
-COSTPERCENT 500
-VISION 0
+COSTPERCENT 400
+VISION 3
 ADDSHOTRADIUS 200
 ROUNDLOCK 11
 ARTPLACE 0 1
-ARTPLACE 1 1
 SELTYPE SelBigBuilding 2.7 2.7
 EXPA 500
 KILLERAWARD             GOLD 111
@@ -56,6 +56,7 @@ ABILITY UA_DamagedBuilding
 ABILITY UA_DamagedBuilding2
 ABILITY UA_DamagedBuilding3
 ABILITY UA_DestroyBuilding
+MFARM 50
 ShadowScaleX 1.7
 ShadowScaleY 1.3
 !TEMP 180 1.0 Models\Effects\MagicCard\Sneg\Sneg.c2m Models\Effects\MagicCard\Sneg\Sneg.c2m

@@ -19,6 +19,7 @@
   </Value>
  </CastingShotAmount>
  <MultyCast>true</MultyCast>
+ <MaxCasts>5</MaxCasts>
  <IgnoreMagicImmunity>true</IgnoreMagicImmunity>
  <NonIgnoredSkill>true</NonIgnoredSkill>
  <EndEffectIfEnemyNearRadius>0</EndEffectIfEnemyNearRadius>

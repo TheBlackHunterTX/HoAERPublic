@@ -37,18 +37,10 @@
       <BaseClassUnitType>
        <UnitType>OrcUChi(OR)</UnitType>
       </BaseClassUnitType>
-      <BaseClassUnitType>
-       <UnitType>TDOrcUOrc(TD)</UnitType>
-      </BaseClassUnitType>
-      <BaseClassUnitType>
-       <UnitType>TDOrcURid(TD)</UnitType>
-      </BaseClassUnitType>
-      <BaseClassUnitType>
-       <UnitType>TDOrcUSha(TD)</UnitType>
-      </BaseClassUnitType>
-      <BaseClassUnitType>
-       <UnitType>TDOrcUChi(TD)</UnitType>
-      </BaseClassUnitType>
+      <BaseClassUnitType></BaseClassUnitType>
+      <BaseClassUnitType></BaseClassUnitType>
+      <BaseClassUnitType></BaseClassUnitType>
+      <BaseClassUnitType></BaseClassUnitType>
       <BaseClassUnitType>
        <UnitType>OrM1Sha(MI)</UnitType>
       </BaseClassUnitType>

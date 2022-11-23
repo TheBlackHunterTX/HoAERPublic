@@ -1,5 +1,7 @@
 NAME  ShoBSpell1
 ICON U_FrnOf17
+ICONEX 0 0 interf3\PortretsBuilding\_inv_Library 0
+ICONANM 0 0 interf3\PortretsBuilding\_inv_Library 1 18 1
 BUILDING
 SETANMPARAM -0 -0 1 0
 LOCATION -0 -0 800 800
@@ -31,25 +33,46 @@ VISION 0
 MFARM 200
 ADDSHOTRADIUS 185
 ROUNDLOCK 10
-
-ABILITY ShopMagicCard
+ABILITY ShopMagicCard1
 ABILITY UA_aUseBuilding
 
+ABILITY MC_aFarSight
+ABILITY MC_aWordofBanish
+ABILITY MC_aSquall
+ABILITY MC_aTrap
+ABILITY MC_aDeathTrick
+ABILITY MC_aLandmine
+ABILITY MC_aGrenade
+ABILITY MC_aAcid
+ABILITY MC_aAcidWave
 ABILITY MC_aTreeOfLife
 ABILITY MC_aWallOfRoots
-ABILITY MC_aSummons
-ABILITY MC_aStatueOfRage
-ABILITY MagicCardLightningEye
-ABILITY MagicCardSwarnOfInsects
+ABILITY MagicCardMagicSemena1
+ABILITY MC_aCallOfNature
+ABILITY MagicCardSwarmOfInsects
+ABILITY MagicCardStoneSkin
+ABILITY MC_aFlashToStone
+ABILITY MC_aStoneFist
 ABILITY MagicCardFear
+ABILITY MC_aThorn
+ABILITY MC_aLastBreath
+ABILITY MC_aFogOfDeath
+ABILITY MC_aBlindness
+ABILITY MC_aGhostlyPrison
+ABILITY MC_aStealLife
+ABILITY MC_aRiseOfUndeads
+ABILITY MC_aIllusion
 ABILITY MagicCardBerserk
+ABILITY MC_aAuraOfFire
+ABILITY MC_aCrushingWeapon
 ABILITY MC_aCurse
-ABILITY MC_aDryUp
-ABILITY MC_aFarSight
-ABILITY MC_aDeathTrick
-ABILITY MC_aIceSphere
-ABILITY MC_aWordofBanish
-ABILITY MC_aFairyPowder
+ABILITY MC_aEnchant
+ABILITY MC_aSummons
+ABILITY MC_aChillArrow
+ABILITY MagicCardFreeze1
+ABILITY MagicCardInvisibility
+ABILITY MC_aStatueOfRage
+
 CAPTURE
 IMMORTAL
 FORMFACTOR 470
@@ -59,4 +82,5 @@ PortretDisable True
 NOALTINFO
 INVISIBLEONMINIMAP
 IMMORTAL
+ABILITY BA_aDoNotCrush1
 [END]

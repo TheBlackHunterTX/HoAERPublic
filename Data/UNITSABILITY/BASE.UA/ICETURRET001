@@ -14,7 +14,6 @@
   </Value>
  </CastingShotAmount>
  <MaxDistance>1200</MaxDistance>
- <Damage>60</Damage>
  <Weapon>
   <ClassName>WeaponModificator</ClassName>
   <RefName>UW_Ice_GaleraShot</RefName>

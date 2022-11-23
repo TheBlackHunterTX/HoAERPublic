@@ -37,7 +37,7 @@
    <WeaponModificators>
     <MakeDamage>
      <TargetedUnit>true</TargetedUnit>
-     <InRadius>30</InRadius>
+     <InRadius>15</InRadius>
      <OnlyEnemyUnits>true</OnlyEnemyUnits>
     </MakeDamage>
    </WeaponModificators>

@@ -1,0 +1,14 @@
+<NewBonus>
+ <Name>NewBonus5187</Name>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+</NewBonus>

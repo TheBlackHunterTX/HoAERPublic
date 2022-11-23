@@ -1,0 +1,10 @@
+<window name="debug_anim_toolbar" ext="0 680 1024 60" bgColor="0x885555FF" halign="parent" valign="bottom"> 
+	
+	<button		name		= "btnReset"			
+				text		= "Reset"			
+				ext			= "10 10 40 40" 
+				bgColor		= "0x22FFFFFF"	
+				textColor	= "0xAAFFFFAA"
+				pressed		= "ResetModel"/>
+
+</window>

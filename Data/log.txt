@@ -1,559 +1,108 @@
 **********************************************************************************
-*    Logger session start: Sun Oct 16 19:53:05
+*    Logger session start: Tue Nov 15 23:52:05
 **********************************************************************************
 
-19:53:06 | Warning  | Duplicate TextID: ABLINE140
-19:53:06 | Warning  | Duplicate TextID: #MM_Multi_hint
-19:53:06 | Warning  | Duplicate TextID: #SM_GameName
-19:53:06 | Warning  | Duplicate TextID: #LifeRegen
-19:53:06 | Warning  | Duplicate TextID: #ManaRegen
-19:53:06 | Warning  | Duplicate TextID: #AttackRate
-19:53:06 | Warning  | Duplicate TextID: #AttackRadius
-19:53:06 | Warning  | Duplicate TextID: #MotionSpeed
-19:53:06 | Warning  | Duplicate TextID: CHAT_IG_BACK_BUTTON_TEXT
-19:53:06 | Warning  | Duplicate TextID: CHAT_CANCEL_BUTTON_TEXT
-19:53:06 | Warning  | Duplicate TextID: IG_CANCEL
-19:53:06 | Warning  | Duplicate TextID: CHAT_IG_BACK_BUTTON_TEXT
-19:53:06 | Warning  | Duplicate TextID: IG_BACK
-19:53:06 | Warning  | Duplicate TextID: #Bottle7.NAME
-19:53:06 | Warning  | Duplicate TextID: UndUNec(UN)ABILITY
-19:53:06 | Warning  | Duplicate TextID: IceUMag(IC)A
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\SOLBALT.MD.HINT
-19:53:06 | Warning  | Duplicate TextID: #AuraNecromancy.NAME
-19:53:06 | Warning  | Duplicate TextID: #AuraNecromancy
-19:53:06 | Warning  | Duplicate TextID: #MC_aDesease_Damage_8_UndHLic.NAME
-19:53:06 | Warning  | Duplicate TextID: #Ring23.NAME
-19:53:06 | Warning  | Duplicate TextID: #Ring23
-19:53:06 | Warning  | Duplicate TextID: #Ring30.NAME
-19:53:06 | Warning  | Duplicate TextID: #Ring30
-19:53:06 | Warning  | Duplicate TextID: #AuraTransformation1.NAME
-19:53:06 | Warning  | Duplicate TextID: #AuraTransformation1
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBITEM1.MD
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBITEM1.MD.HINT
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBITEM2.MD
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBITEM2.MD.HINT
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\Ntr_Artf_HS.MD
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\Ntr_Artf_HS.MD.HINT
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBITEM3.MD
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBITEM3.MD.HINT
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MONUTORG.MD
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MONUTORG.MD.HINT
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\D_ALCHEMISTLAB001.MD
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\D_ALCHEMISTLAB001.MD.HINT
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\D_ALCHEMISTLAB002.MD
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\D_ALCHEMISTLAB002.MD.HINT
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBSPELL1.MD
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBSPELL1.MD.HINT
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBSPELL2.MD
-19:53:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBSPELL2.MD.HINT
-19:53:06 | Warning  | Duplicate TextID: ''''''''''''''
-19:53:06 | Warning  | Duplicate TextID: ''''''''''''''
-19:53:07 | Warning  | Duplicate TextID: ''''''''''''''
-19:53:07 | Warning  | Duplicate TextID: ''''''''''''''
-19:53:07 | Warning  | Duplicate TextID: ''''''''''''''
-19:53:07 | Warning  | Duplicate TextID: ''''''''''''''
-19:53:07 | Warning  | Duplicate TextID: ''''''''''''''
-19:53:09 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.FirstLoadingType0
-19:53:09 | Warning  | VariableExchangeReference: member "Visible" not found in class TextureViewer for variable $IGP.LoadingRace0
-19:53:10 | Warning  | VariableExchangeReference: member "Visible" not found in class TextureViewer for variable $IGP.LoadingRace1
-19:53:10 | Warning  | VariableExchangeReference: member "Visible" not found in class TextureViewer for variable $IGP.LoadingRace2
-19:53:10 | Warning  | VariableExchangeReference: member "Visible" not found in class TextureViewer for variable $IGP.LoadingRace3
-19:53:10 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.FirstLoadingType1
-19:53:10 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.MainMenuStarted
-19:53:10 | Error    | Invalid file Missiions\MultiMiss.txt
-19:53:10 | Error    | Const.lst: Invalid integer value of Random
-19:53:10 | Error    | E330,0 : [SECTIONS] : Incorrect parameters
-19:53:10 | Error    | walls.rsr : Unknown sprite ID :#Weapons
-19:53:11 | Error    | 0,0 : [SECTIONS] : Incorrect parameters
-19:53:11 | Warning  | walls.rsr : Unknown sprite ID :tep\WindWalkAura.c2m
-19:53:11 | Warning  | walls.rsr : Unknown sprite ID :0
-19:53:11 | Warning  | walls.rsr : Unknown sprite ID :0
-19:53:11 | Warning  | walls.rsr : Unknown sprite ID :1.0
-19:53:11 | Warning  | walls.rsr : Unknown sprite ID :0
-19:53:11 | Warning  | walls.rsr : Unknown sprite ID :FF808080
-19:53:11 | Warning  | TheoVorb: attempting to query non-playing stream [0]
-19:53:11 | Warning  | TheoVorb: attempting to query non-playing stream [0]
-19:53:11 | Error    | (UNITS)\CUSTOM\TD\TDMECBTOW,line 25:PRICE: Unknown resource:MONEY
-19:53:12 | Warning  | TheoVorb: attempting to query non-playing stream [0]
-19:53:12 | Warning  | TheoVorb: attempting to query non-playing stream [0]
-19:53:12 | Error    | (UNITS)\MECUDWW,line 54 : Not enough active points. Must be : 16
-19:53:12 | Error    | (UNITS)\MECUDWW,line 54 : Not enough active points. Must be : 16
-19:53:12 | Error    | (UNITS)\MECUDWW,line 54 : Not enough active points. Must be : 16
-19:53:12 | Error    | (UNITS)\MECUDWW,line 54 : Not enough active points. Must be : 16
-19:53:12 | Error    | (UNITS)\MECUDWW,line 54 : Not enough active points. Must be : 16
-19:53:12 | Error    | (UNITS)\MECUDWW,line 54 : Not enough active points. Must be : 16
-19:53:12 | Error    | (UNITS)\MECUDWW,line 54 : Not enough active points. Must be : 16
-19:53:12 | Error    | (UNITS)\MECUDWW,line 54 : Not enough active points. Must be : 16
-19:53:12 | Error    | (UNITS)\MECUDWW,line 54 : Not enough active points. Must be : 16
-19:53:12 | Error    | (UNITS)\MECUDWW,line 54 : Not enough active points. Must be : 16
-19:53:12 | Error    | (UNITS)\MECUDWW,line 54 : Not enough active points. Must be : 16
-19:53:12 | Error    | (UNITS)\MECUDWW,line 54 : Not enough active points. Must be : 16
-19:53:12 | Error    | (UNITS)\MECUDWW,line 54 : Not enough active points. Must be : 16
-19:53:12 | Error    | (UNITS)\MECUDWW,line 54 : Not enough active points. Must be : 16
-19:53:12 | Error    | (UNITS)\MECUDWW,line 54 : Not enough active points. Must be : 16
-19:53:12 | Error    | (UNITS)\MECUDWW,line 54 : Not enough active points. Must be : 16
-19:53:12 | Warning  | TheoVorb: attempting to query non-playing stream [0]
-19:53:12 | Warning  | TheoVorb: attempting to query non-playing stream [0]
-19:53:12 | Error    | (UNITS)\SOLBMAS,line 26:PRICE: Unknown resource:BUILDSTAGES
-19:53:12 | Error    | (UNITS)\SOLUCAT,line 28:PRICE: Unknown resource:WEAPONKIND
-19:53:13 | Warning  | TheoVorb: attempting to query non-playing stream [0]
-19:53:13 | Warning  | TheoVorb: attempting to query non-playing stream [0]
-19:53:13 | Error    | (nations)\(DR)\DRUIDS.NDS, Line 371 :DruUPi2(DR)SHIELD1: Invalid amount of resource IRON.
-19:53:13 | Error    | (nations)\(DR)\DRUIDS.NDS, Line 371 :DruUPi2(DR)SHIELD1: Invalid resource ID:OAL
-19:53:13 | Error    | (nations)\(DR)\DRUIDS.NDS, Line 373 :DruUPi2(DR)SHIELD2: Invalid amount of resource IRON.
-19:53:13 | Error    | (nations)\(DR)\DRUIDS.NDS, Line 373 :DruUPi2(DR)SHIELD2: Invalid resource ID:OAL
-19:53:13 | Error    | (nations)\(DR)\DRUIDS.NDS, Line 375 :DruUPi2(DR)SHIELD3: Invalid amount of resource IRON.
-19:53:14 | Error    | (nations)\(DR)\DRUIDS.NDS, Line 375 :DruUPi2(DR)SHIELD3: Invalid resource ID:OAL
-19:53:14 | Error    | DruUDru(DR)ATTACK1
-19:53:14 | Warning  | Could not create GeneralObject by name: da
-19:53:14 | Warning  | Could not create GeneralObject by name: da
-19:53:14 | Warning  | Could not create GeneralObject by name: da
-19:53:14 | Warning  | Could not create GeneralObject by name: da
-19:53:14 | Warning  | Could not create GeneralObject by name: da
-19:53:14 | Warning  | Could not create GeneralObject by name: da
-19:53:14 | Warning  | Could not create GeneralObject by name: da
-19:53:14 | Warning  | Could not create GeneralObject by name: da
-19:53:14 | Error    | Not found Icon: "MECUDWW(HU)S" in IconsList
-19:53:14 | Error    | Not found Icon: "MECUALL(HU)H" in IconsList
-19:53:14 | Error    | (nations)\(IC)\ICE.NDS, Line 347 :IceUYec(IC)SHIELD3: #TIME expected but TIME is found.
-19:53:14 | Error    | MecURif(ME)
-19:53:14 | Error    | MecUCan(ME)R
-19:53:14 | Error    | (nations)\(ME)\MECHANICS.NDS, Line 398 :MecUEnc(ME)SK: #POSITION expected  but POSITION is found.
-19:53:14 | Error    | MecUEnc(ME)SK
-19:53:14 | Error    | Not found Icon: "HOUND_A1" in IconsList
-19:53:14 | Error    | Not found Icon: "HOUND_A1" in IconsList
-19:53:14 | Error    | Not found Icon: "HOUND_A2" in IconsList
-19:53:14 | Error    | Not found Icon: "HOUND_A2" in IconsList
-19:53:14 | Error    | Not found Icon: "HOUND_A3" in IconsList
-19:53:14 | Error    | Not found Icon: "HOUND_A3" in IconsList
-19:53:14 | Error    | Not found Icon: "SOLUSPHD" in IconsList
-19:53:14 | Error    | SolUSlaR
-19:53:14 | Error    | Not found Icon: "SOLUSLARA" in IconsList
-19:53:14 | Error    | Not found Icon: "SOLUSLAW" in IconsList
-19:53:14 | Warning  | Could not create GeneralObject by name: TDDrcUWar
-19:53:14 | Warning  | Could not create GeneralObject by name: TDDrcUWar
-19:53:14 | Warning  | Could not create GeneralObject by name: TDDrcUWar
-19:53:15 | Warning  | Could not create GeneralObject by name: TDDrcUWar
-19:53:15 | Warning  | Could not create GeneralObject by name: TDDrcUWar
-19:53:15 | Warning  | Could not create GeneralObject by name: TDDrcUWar
-19:53:15 | Warning  | Could not create GeneralObject by name: TDDrcUWar
-19:53:15 | Warning  | Could not create GeneralObject by name: TDDrcUWar
-19:53:15 | Warning  | Could not create GeneralObject by name: TDRepUWyv
-19:53:15 | Warning  | Could not create GeneralObject by name: TDRepUWyv
-19:53:15 | Warning  | Could not create GeneralObject by name: TDRepUWyv
-19:53:15 | Warning  | Could not create GeneralObject by name: TDRepUWyv
-19:53:15 | Warning  | Could not create GeneralObject by name: TDRepUWyv
-19:53:15 | Warning  | Could not create GeneralObject by name: TDRepUWyv
-19:53:15 | Warning  | Could not create GeneralObject by name: TDRepUWyv
-19:53:15 | Warning  | Could not create GeneralObject by name: TDRepUWyv
-19:53:15 | Warning  | Could not create GeneralObject by name: TDGobUWar
-19:53:15 | Warning  | Could not create GeneralObject by name: TDGobUWar
-19:53:15 | Warning  | Could not create GeneralObject by name: TDGobUWar
-19:53:15 | Warning  | Could not create GeneralObject by name: TDGobUWar
-19:53:15 | Warning  | Could not create GeneralObject by name: TDGobUWar
-19:53:15 | Warning  | Could not create GeneralObject by name: TDGobUWar
-19:53:15 | Warning  | Could not create GeneralObject by name: TDGobUWar
-19:53:15 | Warning  | Could not create GeneralObject by name: TDGobUWar
-19:53:15 | Warning  | Could not create GeneralObject by name: TDGiaUMin
-19:53:15 | Warning  | Could not create GeneralObject by name: TDGiaUMin
-19:53:15 | Warning  | Could not create GeneralObject by name: TDGiaUMin
-19:53:15 | Warning  | Could not create GeneralObject by name: TDGiaUMin
-19:53:15 | Warning  | Could not create GeneralObject by name: TDGiaUMin
-19:53:15 | Warning  | Could not create GeneralObject by name: TDGiaUMin
-19:53:15 | Warning  | Could not create GeneralObject by name: TDGiaUMin
-19:53:15 | Warning  | Could not create GeneralObject by name: TDGiaUMin
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGho
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGho
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGho
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGho
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGho
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGho
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGho
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGho
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGrN
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGrN
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGrN
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGrN
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGrN
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGrN
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGrN
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGrN
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGra
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGra
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGra
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGra
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGra
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGra
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGra
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUGra
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUBan
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUBan
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUBan
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUBan
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUBan
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUBan
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUBan
-19:53:15 | Warning  | Could not create GeneralObject by name: TDUdeUBan
-19:53:15 | Warning  | Could not create GeneralObject by name: TDRepUBas
-19:53:15 | Warning  | Could not create GeneralObject by name: TDRepUBas
-19:53:15 | Warning  | Could not create GeneralObject by name: TDRepUBas
-19:53:15 | Warning  | Could not create GeneralObject by name: TDRepUBas
-19:53:15 | Warning  | Could not create GeneralObject by name: TDRepUBas
-19:53:15 | Warning  | Could not create GeneralObject by name: TDRepUBas
-19:53:15 | Warning  | Could not create GeneralObject by name: TDRepUBas
-19:53:15 | Warning  | Could not create GeneralObject by name: TDRepUBas
-19:53:15 | Error    | Not found Icon: "MECBTOW(TD)S" in IconsList
-19:53:18 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.LoadingRace0
-19:53:18 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.LoadingRace1
-19:53:18 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.LoadingRace2
-19:53:19 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.LoadingRace3
-19:53:19 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.isLocalization0
-19:53:19 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.isLocalization1
-19:53:19 | Warning  | TheoVorb: attempting to query non-playing stream [0]
-19:53:19 | Warning  | TheoVorb: attempting to query non-playing stream [0]
-19:53:21 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.isLocalization0
-19:53:21 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.LoadingRace0
-19:53:22 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.LoadingRace1
-19:53:22 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.LoadingRace2
-19:53:22 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.LoadingRace3
-19:53:22 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.isLocalization1
-19:53:24 | Error    | (nations)\(DR)\DRUIDS.NDS, Line 371 :DruUPi2(DR)SHIELD1: Invalid amount of resource IRON.
-19:53:24 | Error    | (nations)\(DR)\DRUIDS.NDS, Line 371 :DruUPi2(DR)SHIELD1: Invalid resource ID:OAL
-19:53:24 | Error    | (nations)\(DR)\DRUIDS.NDS, Line 373 :DruUPi2(DR)SHIELD2: Invalid amount of resource IRON.
-19:53:24 | Error    | (nations)\(DR)\DRUIDS.NDS, Line 373 :DruUPi2(DR)SHIELD2: Invalid resource ID:OAL
-19:53:24 | Error    | (nations)\(DR)\DRUIDS.NDS, Line 375 :DruUPi2(DR)SHIELD3: Invalid amount of resource IRON.
-19:53:24 | Error    | (nations)\(DR)\DRUIDS.NDS, Line 375 :DruUPi2(DR)SHIELD3: Invalid resource ID:OAL
-19:53:24 | Error    | DruUDru(DR)ATTACK1
-19:53:24 | Warning  | Could not create GeneralObject by name: da
-19:53:24 | Warning  | Could not create GeneralObject by name: da
-19:53:24 | Warning  | Could not create GeneralObject by name: da
-19:53:24 | Warning  | Could not create GeneralObject by name: da
-19:53:24 | Warning  | Could not create GeneralObject by name: da
-19:53:24 | Warning  | Could not create GeneralObject by name: da
-19:53:24 | Warning  | Could not create GeneralObject by name: da
-19:53:24 | Warning  | Could not create GeneralObject by name: da
-19:53:24 | Error    | Not found Icon: "MECUDWW(HU)S" in IconsList
-19:53:24 | Error    | Not found Icon: "MECUALL(HU)H" in IconsList
-19:53:24 | Error    | (nations)\(IC)\ICE.NDS, Line 347 :IceUYec(IC)SHIELD3: #TIME expected but TIME is found.
-19:53:24 | Error    | MecURif(ME)
-19:53:24 | Error    | MecUCan(ME)R
-19:53:24 | Error    | (nations)\(ME)\MECHANICS.NDS, Line 398 :MecUEnc(ME)SK: #POSITION expected  but POSITION is found.
-19:53:24 | Error    | MecUEnc(ME)SK
-19:53:24 | Error    | Not found Icon: "HOUND_A1" in IconsList
-19:53:24 | Error    | Not found Icon: "HOUND_A1" in IconsList
-19:53:24 | Error    | Not found Icon: "HOUND_A2" in IconsList
-19:53:24 | Error    | Not found Icon: "HOUND_A2" in IconsList
-19:53:24 | Error    | Not found Icon: "HOUND_A3" in IconsList
-19:53:24 | Error    | Not found Icon: "HOUND_A3" in IconsList
-19:53:24 | Error    | Not found Icon: "SOLUSPHD" in IconsList
-19:53:24 | Error    | SolUSlaR
-19:53:24 | Error    | Not found Icon: "SOLUSLARA" in IconsList
-19:53:24 | Error    | Not found Icon: "SOLUSLAW" in IconsList
-19:53:24 | Warning  | Could not create GeneralObject by name: TDDrcUWar
-19:53:24 | Warning  | Could not create GeneralObject by name: TDDrcUWar
-19:53:24 | Warning  | Could not create GeneralObject by name: TDDrcUWar
-19:53:24 | Warning  | Could not create GeneralObject by name: TDDrcUWar
-19:53:24 | Warning  | Could not create GeneralObject by name: TDDrcUWar
-19:53:24 | Warning  | Could not create GeneralObject by name: TDDrcUWar
-19:53:24 | Warning  | Could not create GeneralObject by name: TDDrcUWar
-19:53:24 | Warning  | Could not create GeneralObject by name: TDDrcUWar
-19:53:24 | Warning  | Could not create GeneralObject by name: TDRepUWyv
-19:53:24 | Warning  | Could not create GeneralObject by name: TDRepUWyv
-19:53:24 | Warning  | Could not create GeneralObject by name: TDRepUWyv
-19:53:24 | Warning  | Could not create GeneralObject by name: TDRepUWyv
-19:53:24 | Warning  | Could not create GeneralObject by name: TDRepUWyv
-19:53:24 | Warning  | Could not create GeneralObject by name: TDRepUWyv
-19:53:24 | Warning  | Could not create GeneralObject by name: TDRepUWyv
-19:53:24 | Warning  | Could not create GeneralObject by name: TDRepUWyv
-19:53:24 | Warning  | Could not create GeneralObject by name: TDGobUWar
-19:53:24 | Warning  | Could not create GeneralObject by name: TDGobUWar
-19:53:24 | Warning  | Could not create GeneralObject by name: TDGobUWar
-19:53:24 | Warning  | Could not create GeneralObject by name: TDGobUWar
-19:53:24 | Warning  | Could not create GeneralObject by name: TDGobUWar
-19:53:24 | Warning  | Could not create GeneralObject by name: TDGobUWar
-19:53:24 | Warning  | Could not create GeneralObject by name: TDGobUWar
-19:53:24 | Warning  | Could not create GeneralObject by name: TDGobUWar
-19:53:24 | Warning  | Could not create GeneralObject by name: TDGiaUMin
-19:53:24 | Warning  | Could not create GeneralObject by name: TDGiaUMin
-19:53:24 | Warning  | Could not create GeneralObject by name: TDGiaUMin
-19:53:24 | Warning  | Could not create GeneralObject by name: TDGiaUMin
-19:53:25 | Warning  | Could not create GeneralObject by name: TDGiaUMin
-19:53:25 | Warning  | Could not create GeneralObject by name: TDGiaUMin
-19:53:25 | Warning  | Could not create GeneralObject by name: TDGiaUMin
-19:53:25 | Warning  | Could not create GeneralObject by name: TDGiaUMin
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGho
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGho
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGho
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGho
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGho
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGho
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGho
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGho
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGrN
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGrN
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGrN
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGrN
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGrN
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGrN
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGrN
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGrN
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGra
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGra
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGra
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGra
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGra
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGra
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGra
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUGra
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUBan
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUBan
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUBan
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUBan
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUBan
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUBan
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUBan
-19:53:25 | Warning  | Could not create GeneralObject by name: TDUdeUBan
-19:53:25 | Warning  | Could not create GeneralObject by name: TDRepUBas
-19:53:25 | Warning  | Could not create GeneralObject by name: TDRepUBas
-19:53:25 | Warning  | Could not create GeneralObject by name: TDRepUBas
-19:53:25 | Warning  | Could not create GeneralObject by name: TDRepUBas
-19:53:25 | Warning  | Could not create GeneralObject by name: TDRepUBas
-19:53:25 | Warning  | Could not create GeneralObject by name: TDRepUBas
-19:53:25 | Warning  | Could not create GeneralObject by name: TDRepUBas
-19:53:25 | Warning  | Could not create GeneralObject by name: TDRepUBas
-19:53:25 | Error    | Not found Icon: "MECBTOW(TD)S" in IconsList
-19:53:27 | Warning  | Could not load texture <Details.bmp>
-19:53:29 | Warning  | Error in shader Shaders\terra_shadowed_hq.fx: (101): error X3004: undeclared identifier 'color2'
-
-19:53:29 | Warning  | Error in shader Shaders\terra_shadowed_hq.fx: (101): error X3004: undeclared identifier 'color2'
-
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class TextureViewer for variable $IGP.isPlayingTrack
-19:53:30 | Warning  | VariableExchangeReference: member "Message" not found in class TextButton for variable $IGP.HeroLifeAlert
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.MapButtonsStateIsNotHide
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class GPPicture for variable $IGP.MapButtonsStateIsNormal
-19:53:30 | Warning  | VariableExchangeReference: member "State" not found in class VitButton for variable $IGP.MapInterfaceState
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class GPPicture for variable $IGP.MapButtonsStateIsMini
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class GPPicture for variable $IGP.MapButtonsStateIsHide
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.MapButtonsStateIsNotHide
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class GPPicture for variable $OI.mcVisible
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:30 | Warning  | VariableExchangeReference: member "Color" not found in class GPPicture for variable $OI.mcColor
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:30 | Warning  | VariableExchangeReference: member "X" not found in class GPPicture for variable $OI.mcX
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:30 | Warning  | VariableExchangeReference: member "Y" not found in class GPPicture for variable $OI.mcY
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.isPlayingTrack
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $root._showADV
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $root._visible
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $root._visible
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $root._visible
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $root._visible
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $root.enterNameDD
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $root._visible
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $root.Visible
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $root._visible
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $root._watch
-19:53:30 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $root._smartBP
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:30 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:30 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Visible
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcVisible) referenced in class GPPicture not found: Visible
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Color
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcColor) referenced in class GPPicture not found: Color
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: X
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcX) referenced in class GPPicture not found: X
-19:53:31 | Warning  | VariableExchangeReference: RootClass is NULL in class GPPicture for variable: Y
-19:53:31 | Warning  | VariableExchangeReference: Variable ($OI.mcY) referenced in class GPPicture not found: Y
-19:53:47 | Warning  | VariableExchangeReference: member "Visible" not found in class GPPicture for variable $IGP.Info.CanAttack
-19:53:47 | Warning  | VariableExchangeReference: member "State" not found in class VitButton for variable $ois.HoldPosition
-19:53:47 | Warning  | VariableExchangeReference: member "Visible" not found in class VitButton for variable $IGP.isMagicsButtonVisible
-19:53:47 | Warning  | VariableExchangeReference: member "Visible" not found in class VitButton for variable $IGP.isBottleButtonVisible
-19:56:30 | Warning  | TheoVorb: attempting to play [MUSIC\TRACK05.OGG] in non-closed stream [0]
-19:56:30 | Warning  | TheoVorb: stopping non-closed stream [0] first
+23:52:06 | Warning  | Duplicate TextID: ABLINE140
+23:52:06 | Warning  | Duplicate TextID: #MM_Multi_hint
+23:52:06 | Warning  | Duplicate TextID: #SM_GameName
+23:52:06 | Warning  | Duplicate TextID: #LifeRegen
+23:52:06 | Warning  | Duplicate TextID: #ManaRegen
+23:52:06 | Warning  | Duplicate TextID: #AttackRate
+23:52:06 | Warning  | Duplicate TextID: #AttackRadius
+23:52:06 | Warning  | Duplicate TextID: #MotionSpeed
+23:52:06 | Warning  | Duplicate TextID: CHAT_IG_BACK_BUTTON_TEXT
+23:52:06 | Warning  | Duplicate TextID: CHAT_CANCEL_BUTTON_TEXT
+23:52:06 | Warning  | Duplicate TextID: IG_CANCEL
+23:52:06 | Warning  | Duplicate TextID: CHAT_IG_BACK_BUTTON_TEXT
+23:52:06 | Warning  | Duplicate TextID: IG_BACK
+23:52:06 | Warning  | Duplicate TextID: #Bottle7.NAME
+23:52:06 | Warning  | Duplicate TextID: UndUNec(UN)ABILITY
+23:52:06 | Warning  | Duplicate TextID: IceUMag(IC)A
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\SOLBALT.MD.HINT
+23:52:06 | Warning  | Duplicate TextID: #AuraNecromancy.NAME
+23:52:06 | Warning  | Duplicate TextID: #AuraNecromancy
+23:52:06 | Warning  | Duplicate TextID: #MC_aDesease_Damage_8_UndHLic.NAME
+23:52:06 | Warning  | Duplicate TextID: #Ring23.NAME
+23:52:06 | Warning  | Duplicate TextID: #Ring23
+23:52:06 | Warning  | Duplicate TextID: #Ring30.NAME
+23:52:06 | Warning  | Duplicate TextID: #Ring30
+23:52:06 | Warning  | Duplicate TextID: #AuraTransformation1.NAME
+23:52:06 | Warning  | Duplicate TextID: #AuraTransformation1
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBITEM1.MD
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBITEM1.MD.HINT
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBITEM2.MD
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBITEM2.MD.HINT
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\Ntr_Artf_HS.MD
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\Ntr_Artf_HS.MD.HINT
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBITEM3.MD
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBITEM3.MD.HINT
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MONUTORG.MD
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MONUTORG.MD.HINT
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\D_ALCHEMISTLAB001.MD
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\D_ALCHEMISTLAB001.MD.HINT
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\D_ALCHEMISTLAB002.MD
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\D_ALCHEMISTLAB002.MD.HINT
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBSPELL1.MD
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBSPELL1.MD.HINT
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBSPELL2.MD
+23:52:06 | Warning  | Duplicate TextID: (UNITS)\MAGAZINES\SHOBSPELL2.MD.HINT
+23:52:06 | Warning  | Duplicate TextID: ''''''''''''''
+23:52:06 | Warning  | Duplicate TextID: ''''''''''''''
+23:52:06 | Warning  | Duplicate TextID: ''''''''''''''
+23:52:06 | Warning  | Duplicate TextID: ''''''''''''''
+23:52:06 | Warning  | Duplicate TextID: ''''''''''''''
+23:52:06 | Warning  | Duplicate TextID: ''''''''''''''
+23:52:06 | Warning  | Duplicate TextID: ''''''''''''''
+23:52:07 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.FirstLoadingType0
+23:52:07 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.FirstLoadingType1
+23:52:08 | Warning  | VariableExchangeReference: member "Visible" not found in class TextureViewer for variable $IGP.LoadingRace0
+23:52:08 | Warning  | VariableExchangeReference: member "Visible" not found in class TextureViewer for variable $IGP.LoadingRace1
+23:52:08 | Warning  | VariableExchangeReference: member "Visible" not found in class TextureViewer for variable $IGP.LoadingRace2
+23:52:08 | Warning  | VariableExchangeReference: member "Visible" not found in class TextureViewer for variable $IGP.LoadingRace3
+23:52:08 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.MainMenuStarted
+23:52:08 | Error    | Invalid file Missiions\MultiMiss.txt
+23:52:08 | Error    | Const.lst: Invalid integer value of Random
+23:52:09 | Error    | E330,0 : [SECTIONS] : Incorrect parameters
+23:52:09 | Error    | walls.rsr : Unknown sprite ID :#Weapons
+23:52:09 | Error    | 0,0 : [SECTIONS] : Incorrect parameters
+23:52:09 | Warning  | walls.rsr : Unknown sprite ID :tep\WindWalkAura.c2m
+23:52:09 | Warning  | walls.rsr : Unknown sprite ID :0
+23:52:09 | Warning  | walls.rsr : Unknown sprite ID :0
+23:52:09 | Warning  | walls.rsr : Unknown sprite ID :1.0
+23:52:09 | Warning  | walls.rsr : Unknown sprite ID :0
+23:52:09 | Warning  | walls.rsr : Unknown sprite ID :FF808080
+23:52:09 | Warning  | TheoVorb: attempting to query non-playing stream [0]
+23:52:09 | Warning  | TheoVorb: attempting to query non-playing stream [0]
+23:52:10 | Error    | (UNITS)\CUSTOM\TD\TDMECBTOW,line 25:PRICE: Unknown resource:MONEY
+23:52:10 | Warning  | TheoVorb: attempting to query non-playing stream [0]
+23:52:10 | Warning  | TheoVorb: attempting to query non-playing stream [0]
+23:52:10 | Error    | (UNITS)\SOLBMAS,line 26:PRICE: Unknown resource:BUILDSTAGES
+23:52:10 | Error    | DruUDru(DR)ATTACK1
+23:52:10 | Warning  | Could not create GeneralObject by name: da
+23:52:11 | Warning  | Could not create GeneralObject by name: da
+23:52:11 | Warning  | Could not create GeneralObject by name: da
+23:52:11 | Warning  | Could not create GeneralObject by name: da
+23:52:11 | Warning  | Could not create GeneralObject by name: da
+23:52:11 | Warning  | Could not create GeneralObject by name: da
+23:52:11 | Warning  | Could not create GeneralObject by name: da
+23:52:11 | Warning  | Could not create GeneralObject by name: da
+23:52:11 | Error    | Not found Icon: "MECUDWW(HU)S" in IconsList
+23:52:11 | Error    | Not found Icon: "MECUALL(HU)H" in IconsList
+23:52:11 | Error    | MecURif(ME)
+23:52:11 | Error    | MecUCan(ME)R
+23:52:11 | Error    | MecSShp(ME)S
+23:52:11 | Error    | MecUEnc(ME)SK
+23:52:11 | Error    | Not found Icon: "SOLUSPHD" in IconsList
+23:52:11 | Error    | SolUSlaR
+23:52:11 | Error    | Not found Icon: "SOLUSLARA" in IconsList
+23:52:11 | Error    | Not found Icon: "SOLUSLAW" in IconsList
+23:52:14 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.LoadingRace0
+23:52:14 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.LoadingRace1
+23:52:14 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.LoadingRace2
+23:52:14 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.LoadingRace3
+23:52:14 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.isLocalization0
+23:52:14 | Warning  | VariableExchangeReference: member "Visible" not found in class DialogsDesk for variable $IGP.isLocalization1
+23:52:14 | Warning  | TheoVorb: attempting to query non-playing stream [0]
+23:52:14 | Warning  | TheoVorb: attempting to query non-playing stream [0]
+23:52:51 | Warning  | VariableExchangeReference: member "Visible" not found in class TextureViewer for variable $IGP.LoadingRace0
+23:52:51 | Warning  | VariableExchangeReference: member "Visible" not found in class TextureViewer for variable $IGP.LoadingRace1

@@ -1,0 +1,20 @@
+<NewAbility>
+ <Name>UW_aZombiePlagueIcon</Name>
+ <FileID>Interf3\Ability\auras_dead_creatures</FileID>
+ <SpriteID>5</SpriteID>
+ <EffectFileID>Interf3\Ability\auras_dead_creatures</EffectFileID>
+ <EffectSpriteID>5</EffectSpriteID>
+ <HintName>#ZombiPlague.NAME</HintName>
+ <Hint>#ZombiePlague</Hint>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+</NewAbility>

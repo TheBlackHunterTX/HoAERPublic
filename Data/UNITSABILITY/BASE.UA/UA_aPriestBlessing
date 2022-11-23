@@ -4,8 +4,8 @@
  <SpriteID>15</SpriteID>
  <EffectFileID>Interf3\Ability\Ability3.00</EffectFileID>
  <EffectSpriteID>15</EffectSpriteID>
- <HintName>#AuraIreofNature.NAME</HintName>
- <Hint>#AuraIreofNature</Hint>
+ <HintName>#PriestBlessing.NAME</HintName>
+ <Hint>#PriestBlessing</Hint>
  <GroundMD>
   <UnitType>DruHAma(DR)</UnitType>
  </GroundMD>

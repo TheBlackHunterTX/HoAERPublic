@@ -21,6 +21,7 @@ DruUGri(DR) DruUGri
 DruUPeg(DR) DruUPeg
 DruUPeg2(DR) DruUPeg2
 DruUPik(DR) DruUPik
+DruUPi2(DR) DruUPi2
 DruUTre(DR) DruUTre
 DruUUni(DR) DruUUni
 DruBElf(DR) DruBElf
@@ -97,6 +98,9 @@ SumUVas(DR) SumUVas
 SumUImp(DR) SumUImp
 SumUPha(DR) SumUPha
 
+
+
+
 [FIXED_PRODUCE]
 DruUFai(DR)     16
 DruBHal(DR)     0 0 A
@@ -131,9 +135,10 @@ DruBHal(DR)      2
 DruUFai(DR)     0 0 A
 DruUDry(DR)     1 0 A
 
-DruBElf(DR)      2
+DruBElf(DR)      3
 DruUArc(DR)     0 0 A     
 DruUPik(DR)     1 0 A
+DruUPi2(DR)		2 0 A
 
 DruBCen(DR)      1
 DruUCen(DR)     0 0 A
@@ -203,6 +208,7 @@ DruUDru(DR)
 DruUFai(DR)
 DruUCen(DR)
 DruUPik(DR)
+DruUPi2(DR)
 DruUPeg(DR)
 DruUPeg2(DR)
 DruUTre(DR)
@@ -261,161 +267,174 @@ DruUPik(DR)A PICKMAN_A01 #POSITION 1 2 #LEVEL 2 DruUPik(DR)ATTACK1 #COST 1 GOLD 
 DruUPik(DR)D PICKMAN_D01 #POSITION 1 3 #LEVEL 2 DruUPik(DR)SHIELD1 #COST 1 GOLD 100 #TIME 500
 	PROTECTION GRP 4 piercing crushing chopping magical DruUPik(DR) +1
 
-
 SUPER(DR)1 SUPERUPG01 #POSITION 2 3 #LEVEL 2 SUPER(DR)1 #COST 2 COAL 420 IRON 420 #TIME 1000
-        DAMAGE WEAPONKIND crushing GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+        DAMAGE WEAPONKIND crushing GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
 SAPURE(DR)1 SUPERUPG01 #POSITION 2 3 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
         DAMAGE WEAPONKIND MEDIK GRP 1 SumUPha(DR) +1
 SAM(DR)1 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND magical GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+        DAMAGE WEAPONKIND magical GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
 SAC(DR)1 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND chopping GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+        DAMAGE WEAPONKIND chopping GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
 SAP(DR)1 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND piercing GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+        DAMAGE WEAPONKIND piercing GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
 SAD(DR)1 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        PROTECTION GRP 4 piercing crushing chopping magical GRP 64 DruBOre(DR) DruBOr2(DR) DruBOr3(DR) DruBOr4(DR) DruBOr5(DR) DruBOr6(DR) DruBOr7(DR) DruBCry(DR) DruBCr2(DR) DruBCr3(DR) DruBCr4(DR) DruBCr5(DR) DruBCr6(DR) DruBCr7(DR) DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruBElf(DR) DruBAca(DR) DruBAlt(DR) DruBCen(DR) DruBGri(DR) DruBPeg(DR) DruBShi(DR) DruBSto(DR) DruBTre(DR) DruBHou(DR) DruBHoG(DR) DruBHo2(DR) DruBHo3(DR) DruBHo4(DR) DruBHo5(DR) DruBHo6(DR) DruBHo7(DR) DruBHal(DR) DruBApl(DR) DruBWal(DR) DruBTww(DR) DruBGat(DR) DruBBas(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+        PROTECTION GRP 4 piercing crushing chopping magical GRP 66 DruBOre(DR) DruBOr2(DR) DruBOr3(DR) DruBOr4(DR) DruBOr5(DR) DruBOr6(DR) DruBOr7(DR) DruBCry(DR) DruBCr2(DR) DruBCr3(DR) DruBCr4(DR) DruBCr5(DR) DruBCr6(DR) DruBCr7(DR) DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruBElf(DR) DruBAca(DR) DruBAlt(DR) DruBCen(DR) DruBGri(DR) DruBPeg(DR) DruBShi(DR) DruBSto(DR) DruBTre(DR) DruBHou(DR) DruBHoG(DR) DruBHo2(DR) DruBHo3(DR) DruBHo4(DR) DruBHo5(DR) DruBHo6(DR) DruBHo7(DR) DruBHal(DR) DruBApl(DR) DruBBas(DR) DruBWal(DR) DruBTww(DR) DruBGat(DR) DruBBas(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
 SAS(DR)1 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        SPEED GRP 23 DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) 107% 
+        SPEED GRP 24 DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) 106% 
 
-SUPER(DR)2 SUPERUPG02 #POSITION 2 3 #LEVEL 3 SUPER(DR)1 #COST 2 COAL 840 IRON 840 #TIME 1000
-        DAMAGE WEAPONKIND crushing GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAPURE(DR)2 SUPERUPG01 #POSITION 2 3 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
+SUPER(DR)2 SUPERUPG02 #POSITION 2 3 #LEVEL 3 SUPER(DR)1 #COST 2 COAL 840 IRON 840 #TIME 1500
+        DAMAGE WEAPONKIND crushing GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAPURE(DR)2 SUPERUPG01 #POSITION 2 3 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1500
         DAMAGE WEAPONKIND MEDIK GRP 1 SumUPha(DR) +1
-SAM(DR)2 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND magical GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAC(DR)2 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND chopping GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAP(DR)2 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND piercing GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAD(DR)2 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        PROTECTION GRP 4 piercing crushing chopping magical GRP 64 DruBOre(DR) DruBOr2(DR) DruBOr3(DR) DruBOr4(DR) DruBOr5(DR) DruBOr6(DR) DruBOr7(DR) DruBCry(DR) DruBCr2(DR) DruBCr3(DR) DruBCr4(DR) DruBCr5(DR) DruBCr6(DR) DruBCr7(DR) DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruBElf(DR) DruBAca(DR) DruBAlt(DR) DruBCen(DR) DruBGri(DR) DruBPeg(DR) DruBShi(DR) DruBSto(DR) DruBTre(DR) DruBHou(DR) DruBHoG(DR) DruBHo2(DR) DruBHo3(DR) DruBHo4(DR) DruBHo5(DR) DruBHo6(DR) DruBHo7(DR) DruBHal(DR) DruBApl(DR) DruBWal(DR) DruBTww(DR) DruBGat(DR) DruBBas(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAS(DR)2 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        SPEED GRP 23 DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) 107% 
-SUPER(DR)3 SUPERUPG03 #POSITION 2 3 #LEVEL 4 SUPER(DR)1 #COST 2 COAL 1260 IRON 1260 #TIME 1000
-        DAMAGE WEAPONKIND crushing GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAPURE(DR)3 SUPERUPG01 #POSITION 2 3 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND MEDIK GRP 1 SumUPha(DR) +1
-SAM(DR)3 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND magical GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAC(DR)3 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND chopping GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAP(DR)3 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND piercing GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAD(DR)3 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        PROTECTION GRP 4 piercing crushing chopping magical GRP 64 DruBOre(DR) DruBOr2(DR) DruBOr3(DR) DruBOr4(DR) DruBOr5(DR) DruBOr6(DR) DruBOr7(DR) DruBCry(DR) DruBCr2(DR) DruBCr3(DR) DruBCr4(DR) DruBCr5(DR) DruBCr6(DR) DruBCr7(DR) DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruBElf(DR) DruBAca(DR) DruBAlt(DR) DruBCen(DR) DruBGri(DR) DruBPeg(DR) DruBShi(DR) DruBSto(DR) DruBTre(DR) DruBHou(DR) DruBHoG(DR) DruBHo2(DR) DruBHo3(DR) DruBHo4(DR) DruBHo5(DR) DruBHo6(DR) DruBHo7(DR) DruBHal(DR) DruBApl(DR) DruBWal(DR) DruBTww(DR) DruBGat(DR) DruBBas(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAS(DR)3 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        SPEED GRP 23 DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) 107% 
+SAM(DR)2 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1500
+        DAMAGE WEAPONKIND magical GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAC(DR)2 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1500
+        DAMAGE WEAPONKIND chopping GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAP(DR)2 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1500
+        DAMAGE WEAPONKIND piercing GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAD(DR)2 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1500
+        PROTECTION GRP 4 piercing crushing chopping magical GRP 66 DruBOre(DR) DruBOr2(DR) DruBOr3(DR) DruBOr4(DR) DruBOr5(DR) DruBOr6(DR) DruBOr7(DR) DruBCry(DR) DruBCr2(DR) DruBCr3(DR) DruBCr4(DR) DruBCr5(DR) DruBCr6(DR) DruBCr7(DR) DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruBElf(DR) DruBAca(DR) DruBAlt(DR) DruBCen(DR) DruBGri(DR) DruBPeg(DR) DruBShi(DR) DruBSto(DR) DruBTre(DR) DruBHou(DR) DruBHoG(DR) DruBHo2(DR) DruBHo3(DR) DruBHo4(DR) DruBHo5(DR) DruBHo6(DR) DruBHo7(DR) DruBHal(DR) DruBApl(DR) DruBBas(DR) DruBWal(DR) DruBTww(DR) DruBGat(DR) DruBBas(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAS(DR)2 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1500
+        SPEED GRP 24 DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) 106% 
 
-SUPER(DR)4 SUPERUPG04 #POSITION 2 3 #LEVEL 5 SUPER(DR)1 #COST 2 COAL 1680 IRON 1680 #TIME 1000
-        DAMAGE WEAPONKIND crushing GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAPURE(DR)4 SUPERUPG01 #POSITION 2 3 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
+SUPER(DR)3 SUPERUPG03 #POSITION 2 3 #LEVEL 4 SUPER(DR)1 #COST 2 COAL 1260 IRON 1260 #TIME 2000
+        DAMAGE WEAPONKIND crushing GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAPURE(DR)3 SUPERUPG01 #POSITION 2 3 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 2000
         DAMAGE WEAPONKIND MEDIK GRP 1 SumUPha(DR) +1
-SAM(DR)4 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND magical GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAC(DR)4 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND chopping GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAP(DR)4 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND piercing GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAD(DR)4 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        PROTECTION GRP 4 piercing crushing chopping magical GRP 64 DruBOre(DR) DruBOr2(DR) DruBOr3(DR) DruBOr4(DR) DruBOr5(DR) DruBOr6(DR) DruBOr7(DR) DruBCry(DR) DruBCr2(DR) DruBCr3(DR) DruBCr4(DR) DruBCr5(DR) DruBCr6(DR) DruBCr7(DR) DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruBElf(DR) DruBAca(DR) DruBAlt(DR) DruBCen(DR) DruBGri(DR) DruBPeg(DR) DruBShi(DR) DruBSto(DR) DruBTre(DR) DruBHou(DR) DruBHoG(DR) DruBHo2(DR) DruBHo3(DR) DruBHo4(DR) DruBHo5(DR) DruBHo6(DR) DruBHo7(DR) DruBHal(DR) DruBApl(DR) DruBWal(DR) DruBTww(DR) DruBGat(DR) DruBBas(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAS(DR)4 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        SPEED GRP 23 DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) 107% 
+SAM(DR)3 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 2000
+        DAMAGE WEAPONKIND magical GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAC(DR)3 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 2000
+        DAMAGE WEAPONKIND chopping GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAP(DR)3 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 2000
+        DAMAGE WEAPONKIND piercing GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAD(DR)3 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 2000
+        PROTECTION GRP 4 piercing crushing chopping magical GRP 66 DruBOre(DR) DruBOr2(DR) DruBOr3(DR) DruBOr4(DR) DruBOr5(DR) DruBOr6(DR) DruBOr7(DR) DruBCry(DR) DruBCr2(DR) DruBCr3(DR) DruBCr4(DR) DruBCr5(DR) DruBCr6(DR) DruBCr7(DR) DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruBElf(DR) DruBAca(DR) DruBAlt(DR) DruBCen(DR) DruBGri(DR) DruBPeg(DR) DruBShi(DR) DruBSto(DR) DruBTre(DR) DruBHou(DR) DruBHoG(DR) DruBHo2(DR) DruBHo3(DR) DruBHo4(DR) DruBHo5(DR) DruBHo6(DR) DruBHo7(DR) DruBHal(DR) DruBApl(DR) DruBBas(DR) DruBWal(DR) DruBTww(DR) DruBGat(DR) DruBBas(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAS(DR)3 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 2000
+        SPEED GRP 24 DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) 106% 
 
-SUPER(DR)5 SUPERUPG05 #POSITION 2 3 #LEVEL 6 SUPER(DR)1 #COST 2 COAL 2100 IRON 2100 #TIME 1000
-        DAMAGE WEAPONKIND crushing GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAPURE(DR)5 SUPERUPG01 #POSITION 2 3 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
+SUPER(DR)4 SUPERUPG04 #POSITION 2 3 #LEVEL 5 SUPER(DR)1 #COST 2 COAL 1680 IRON 1680 #TIME 2500
+        DAMAGE WEAPONKIND crushing GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAPURE(DR)4 SUPERUPG01 #POSITION 2 3 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 2500
         DAMAGE WEAPONKIND MEDIK GRP 1 SumUPha(DR) +1
-SAM(DR)5 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND magical GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAC(DR)5 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND chopping GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAP(DR)5 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND piercing GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAD(DR)5 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        PROTECTION GRP 4 piercing crushing chopping magical GRP 64 DruBOre(DR) DruBOr2(DR) DruBOr3(DR) DruBOr4(DR) DruBOr5(DR) DruBOr6(DR) DruBOr7(DR) DruBCry(DR) DruBCr2(DR) DruBCr3(DR) DruBCr4(DR) DruBCr5(DR) DruBCr6(DR) DruBCr7(DR) DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruBElf(DR) DruBAca(DR) DruBAlt(DR) DruBCen(DR) DruBGri(DR) DruBPeg(DR) DruBShi(DR) DruBSto(DR) DruBTre(DR) DruBHou(DR) DruBHoG(DR) DruBHo2(DR) DruBHo3(DR) DruBHo4(DR) DruBHo5(DR) DruBHo6(DR) DruBHo7(DR) DruBHal(DR) DruBApl(DR) DruBWal(DR) DruBTww(DR) DruBGat(DR) DruBBas(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAS(DR)5 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        SPEED GRP 23 DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) 107% 
+SAM(DR)4 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 2500
+        DAMAGE WEAPONKIND magical GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAC(DR)4 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 2500
+        DAMAGE WEAPONKIND chopping GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAP(DR)4 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 2500
+        DAMAGE WEAPONKIND piercing GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAD(DR)4 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 2500
+        PROTECTION GRP 4 piercing crushing chopping magical GRP 66 DruBOre(DR) DruBOr2(DR) DruBOr3(DR) DruBOr4(DR) DruBOr5(DR) DruBOr6(DR) DruBOr7(DR) DruBCry(DR) DruBCr2(DR) DruBCr3(DR) DruBCr4(DR) DruBCr5(DR) DruBCr6(DR) DruBCr7(DR) DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruBElf(DR) DruBAca(DR) DruBAlt(DR) DruBCen(DR) DruBGri(DR) DruBPeg(DR) DruBShi(DR) DruBSto(DR) DruBTre(DR) DruBHou(DR) DruBHoG(DR) DruBHo2(DR) DruBHo3(DR) DruBHo4(DR) DruBHo5(DR) DruBHo6(DR) DruBHo7(DR) DruBHal(DR) DruBApl(DR) DruBBas(DR) DruBWal(DR) DruBTww(DR) DruBGat(DR) DruBBas(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAS(DR)4 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 2500
+        SPEED GRP 24 DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) 106% 
 
-SUPER(DR)6 SUPERUPG06 #POSITION 2 3 #LEVEL 7 SUPER(DR)1 #COST 2 COAL 2520 IRON 2520 #TIME 1000
-        DAMAGE WEAPONKIND crushing GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAPURE(DR)6 SUPERUPG06 #POSITION 2 3 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
+SUPER(DR)5 SUPERUPG05 #POSITION 2 3 #LEVEL 6 SUPER(DR)1 #COST 2 COAL 2100 IRON 2100 #TIME 3000
+        DAMAGE WEAPONKIND crushing GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAPURE(DR)5 SUPERUPG01 #POSITION 2 3 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 3000
         DAMAGE WEAPONKIND MEDIK GRP 1 SumUPha(DR) +1
-SAM(DR)6 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND magical GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAC(DR)6 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND chopping GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAP(DR)6 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND piercing GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAD(DR)6 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        PROTECTION GRP 4 piercing crushing chopping magical GRP 64 DruBOre(DR) DruBOr2(DR) DruBOr3(DR) DruBOr4(DR) DruBOr5(DR) DruBOr6(DR) DruBOr7(DR) DruBCry(DR) DruBCr2(DR) DruBCr3(DR) DruBCr4(DR) DruBCr5(DR) DruBCr6(DR) DruBCr7(DR) DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruBElf(DR) DruBAca(DR) DruBAlt(DR) DruBCen(DR) DruBGri(DR) DruBPeg(DR) DruBShi(DR) DruBSto(DR) DruBTre(DR) DruBHou(DR) DruBHoG(DR) DruBHo2(DR) DruBHo3(DR) DruBHo4(DR) DruBHo5(DR) DruBHo6(DR) DruBHo7(DR) DruBHal(DR) DruBApl(DR) DruBWal(DR) DruBTww(DR) DruBGat(DR) DruBBas(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAS(DR)6 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        SPEED GRP 23 DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) 107% 
+SAM(DR)5 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 3000
+        DAMAGE WEAPONKIND magical GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAC(DR)5 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 3000
+        DAMAGE WEAPONKIND chopping GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAP(DR)5 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 3000
+        DAMAGE WEAPONKIND piercing GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAD(DR)5 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 3000
+        PROTECTION GRP 4 piercing crushing chopping magical GRP 66 DruBOre(DR) DruBOr2(DR) DruBOr3(DR) DruBOr4(DR) DruBOr5(DR) DruBOr6(DR) DruBOr7(DR) DruBCry(DR) DruBCr2(DR) DruBCr3(DR) DruBCr4(DR) DruBCr5(DR) DruBCr6(DR) DruBCr7(DR) DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruBElf(DR) DruBAca(DR) DruBAlt(DR) DruBCen(DR) DruBGri(DR) DruBPeg(DR) DruBShi(DR) DruBSto(DR) DruBTre(DR) DruBHou(DR) DruBHoG(DR) DruBHo2(DR) DruBHo3(DR) DruBHo4(DR) DruBHo5(DR) DruBHo6(DR) DruBHo7(DR) DruBHal(DR) DruBApl(DR) DruBBas(DR) DruBWal(DR) DruBTww(DR) DruBGat(DR) DruBBas(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAS(DR)5 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 3000
+        SPEED GRP 24 DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) 106% 
 
-SUPER(DR)7 SUPERUPG07 #POSITION 2 3 #LEVEL 8 SUPER(DR)1 #COST 2 COAL 2940 IRON 2940 #TIME 1000
-        DAMAGE WEAPONKIND crushing GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAPURE(DR)7 SUPERUPG01 #POSITION 2 3 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
+SUPER(DR)6 SUPERUPG06 #POSITION 2 3 #LEVEL 7 SUPER(DR)1 #COST 2 COAL 2520 IRON 2520 #TIME 3500
+        DAMAGE WEAPONKIND crushing GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAPURE(DR)6 SUPERUPG06 #POSITION 2 3 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 3500
         DAMAGE WEAPONKIND MEDIK GRP 1 SumUPha(DR) +1
-SAM(DR)7 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND magical GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAC(DR)7 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND chopping GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAP(DR)7 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        DAMAGE WEAPONKIND piercing GRP 27 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAD(DR)7 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        PROTECTION GRP 4 piercing crushing chopping magical GRP 64 DruBOre(DR) DruBOr2(DR) DruBOr3(DR) DruBOr4(DR) DruBOr5(DR) DruBOr6(DR) DruBOr7(DR) DruBCry(DR) DruBCr2(DR) DruBCr3(DR) DruBCr4(DR) DruBCr5(DR) DruBCr6(DR) DruBCr7(DR) DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruBElf(DR) DruBAca(DR) DruBAlt(DR) DruBCen(DR) DruBGri(DR) DruBPeg(DR) DruBShi(DR) DruBSto(DR) DruBTre(DR) DruBHou(DR) DruBHoG(DR) DruBHo2(DR) DruBHo3(DR) DruBHo4(DR) DruBHo5(DR) DruBHo6(DR) DruBHo7(DR) DruBHal(DR) DruBApl(DR) DruBWal(DR) DruBTww(DR) DruBGat(DR) DruBBas(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
-SAS(DR)7 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 1000
-        SPEED GRP 23 DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) 107% 
+SAM(DR)6 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 3500
+        DAMAGE WEAPONKIND magical GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAC(DR)6 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 3500
+        DAMAGE WEAPONKIND chopping GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAP(DR)6 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 3500
+        DAMAGE WEAPONKIND piercing GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAD(DR)6 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 3500
+        PROTECTION GRP 4 piercing crushing chopping magical GRP 66 DruBOre(DR) DruBOr2(DR) DruBOr3(DR) DruBOr4(DR) DruBOr5(DR) DruBOr6(DR) DruBOr7(DR) DruBCry(DR) DruBCr2(DR) DruBCr3(DR) DruBCr4(DR) DruBCr5(DR) DruBCr6(DR) DruBCr7(DR) DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruBElf(DR) DruBAca(DR) DruBAlt(DR) DruBCen(DR) DruBGri(DR) DruBPeg(DR) DruBShi(DR) DruBSto(DR) DruBTre(DR) DruBHou(DR) DruBHoG(DR) DruBHo2(DR) DruBHo3(DR) DruBHo4(DR) DruBHo5(DR) DruBHo6(DR) DruBHo7(DR) DruBHal(DR) DruBApl(DR) DruBBas(DR) DruBWal(DR) DruBTww(DR) DruBGat(DR) DruBBas(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAS(DR)6 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 3500
+        SPEED GRP 24 DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) 106% 
 
-DruUArc(DR)ATTACK1 LUTHNIK_A01 #POSITION 0 2 #LEVEL 2 DruUArc(DR)ATTACK1 #COST 1 IRON 400 #TIME 3000
+SUPER(DR)7 SUPERUPG07 #POSITION 2 3 #LEVEL 8 SUPER(DR)1 #COST 2 COAL 2940 IRON 2940 #TIME 4000
+        DAMAGE WEAPONKIND crushing GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAPURE(DR)7 SUPERUPG01 #POSITION 2 3 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 4000
+        DAMAGE WEAPONKIND MEDIK GRP 1 SumUPha(DR) +1
+SAM(DR)7 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 4000
+        DAMAGE WEAPONKIND magical GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAC(DR)7 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 4000
+        DAMAGE WEAPONKIND chopping GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAP(DR)7 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 4000
+        DAMAGE WEAPONKIND piercing GRP 28 DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAD(DR)7 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 4000
+        PROTECTION GRP 4 piercing crushing chopping magical GRP 66 DruBOre(DR) DruBOr2(DR) DruBOr3(DR) DruBOr4(DR) DruBOr5(DR) DruBOr6(DR) DruBOr7(DR) DruBCry(DR) DruBCr2(DR) DruBCr3(DR) DruBCr4(DR) DruBCr5(DR) DruBCr6(DR) DruBCr7(DR) DruUArc(DR) DruUCen(DR) DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruBElf(DR) DruBAca(DR) DruBAlt(DR) DruBCen(DR) DruBGri(DR) DruBPeg(DR) DruBShi(DR) DruBSto(DR) DruBTre(DR) DruBHou(DR) DruBHoG(DR) DruBHo2(DR) DruBHo3(DR) DruBHo4(DR) DruBHo5(DR) DruBHo6(DR) DruBHo7(DR) DruBHal(DR) DruBApl(DR) DruBBas(DR) DruBWal(DR) DruBTww(DR) DruBGat(DR) DruBBas(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) +1
+SAS(DR)7 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(DR)1 #COST 1 COAL 0 #TIME 4000
+        SPEED GRP 24 DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) DruSBo1(DR) DruSBo2(DR) DruSSai(DR) SumUPha(DR) SumUImp(DR) SumUVas(DR) SumURid(DR) SumURat(DR) SumUMaE(DR) SumUHar(DR) SumUDrc(DR) SumUDae(DR) SumUBan(DR) 106% 
+
+DruUArc(DR)ATTACK1 LUTHNIK_A01 #POSITION 0 2 #LEVEL 2 DruUArc(DR)ATTACK1 #COST 1 IRON 500 #TIME 1000
         DAMAGE WEAPONKIND piercing DruUArc(DR) +2
-DruUArc(DR)ATTACK2 LUTHNIK_A02 #POSITION 0 2 #LEVEL 3 DruUArc(DR)ATTACK2 #COST 1 IRON 800 #TIME 3500
-        DAMAGE WEAPONKIND piercing DruUArc(DR) +2
-DruUArc(DR)ATTACK3 LUTHNIK_A03 #POSITION 0 2 #LEVEL 4 DruUArc(DR)ATTACK3 #COST 1 IRON 2000 #TIME 4000
+DruUArc(DR)ATTACK2 LUTHNIK_A02 #POSITION 0 2 #LEVEL 3 DruUArc(DR)ATTACK2 #COST 1 IRON 1000 #TIME 1500
         DAMAGE WEAPONKIND piercing DruUArc(DR) +3
-DruUArc(DR)SHIELD1 LUTHNIK_D01 #POSITION 0 3 #LEVEL 2 DruUArc(DR)SHIELD1 #COST 1 FOOD 500 #TIME 500
+DruUArc(DR)ATTACK3 LUTHNIK_A03 #POSITION 0 2 #LEVEL 4 DruUArc(DR)ATTACK3 #COST 1 IRON 1500 #TIME 2000
+        DAMAGE WEAPONKIND piercing DruUArc(DR) +4
+DruUArc(DR)SHIELD1 LUTHNIK_D01 #POSITION 0 3 #LEVEL 2 DruUArc(DR)SHIELD1 #COST 1 FOOD 600 #TIME 1000
 	PROTECTION GRP 4 piercing crushing chopping magical DruUArc(DR) +1
-DruUArc(DR)SHIELD2 LUTHNIK_D02 #POSITION 0 3 #LEVEL 3 DruUArc(DR)SHIELD2 #COST 1 FOOD 1000 #TIME 750
+DruUArc(DR)SHIELD2 LUTHNIK_D02 #POSITION 0 3 #LEVEL 3 DruUArc(DR)SHIELD2 #COST 1 FOOD 1200 #TIME 1500
 	PROTECTION GRP 4 piercing crushing chopping magical DruUArc(DR) +2
-DruUArc(DR)SHIELD3 LUTHNIK_D03 #POSITION 0 3 #LEVEL 4 DruUArc(DR)SHIELD3 #COST 1 FOOD 1800 #TIME 1000
+DruUArc(DR)SHIELD3 LUTHNIK_D03 #POSITION 0 3 #LEVEL 4 DruUArc(DR)SHIELD3 #COST 1 FOOD 1800 #TIME 2000
 	PROTECTION GRP 4 piercing crushing chopping magical DruUArc(DR) +3
 
-DruUPik(DR)ATTACK1 PICKMAN_A01 #POSITION 1 2 #LEVEL 2 DruUPik(DR)ATTACK1 #COST 1 FOOD 400 #TIME 2000
+DruUPik(DR)ATTACK1 PICKMAN_A01 #POSITION 1 2 #LEVEL 2 DruUPik(DR)ATTACK1 #COST 1 FOOD 750 #TIME 1000
         DAMAGE WEAPONKIND piercing DruUPik(DR) +3
-DruUPik(DR)ATTACK2 PICKMAN_A02 #POSITION 1 2 #LEVEL 3 DruUPik(DR)ATTACK2 #COST 1 FOOD 900 #TIME 2500
+DruUPik(DR)ATTACK2 PICKMAN_A02 #POSITION 1 2 #LEVEL 3 DruUPik(DR)ATTACK2 #COST 1 FOOD 1500 #TIME 1500
         DAMAGE WEAPONKIND piercing DruUPik(DR) +4
-DruUPik(DR)ATTACK3 PICKMAN_A03 #POSITION 1 2 #LEVEL 4 DruUPik(DR)ATTACK3 #COST 1 FOOD 2000 #TIME 3000
+DruUPik(DR)ATTACK3 PICKMAN_A03 #POSITION 1 2 #LEVEL 4 DruUPik(DR)ATTACK3 #COST 1 FOOD 2250 #TIME 2000
         DAMAGE WEAPONKIND piercing DruUPik(DR) +5
-DruUPik(DR)SHIELD1 PICKMAN_D01 #POSITION 1 3 #LEVEL 2 DruUPik(DR)SHIELD1 #COST 1 IRON 350 #TIME 1500
-	PROTECTION GRP 4 piercing crushing chopping magical DruUPik(DR) +1
-DruUPik(DR)SHIELD2 PICKMAN_D02 #POSITION 1 3 #LEVEL 3 DruUPik(DR)SHIELD2 #COST 1 IRON 800 #TIME 2500
+DruUPik(DR)SHIELD1 PICKMAN_D01 #POSITION 1 3 #LEVEL 2 DruUPik(DR)SHIELD1 #COST 1 IRON 500 #TIME 1000
 	PROTECTION GRP 4 piercing crushing chopping magical DruUPik(DR) +2
-DruUPik(DR)SHIELD3 PICKMAN_D03 #POSITION 1 3 #LEVEL 4 DruUPik(DR)SHIELD3 #COST 1 IRON 1200 #TIME 3000
+DruUPik(DR)SHIELD2 PICKMAN_D02 #POSITION 1 3 #LEVEL 3 DruUPik(DR)SHIELD2 #COST 1 IRON 1000 #TIME 1500
 	PROTECTION GRP 4 piercing crushing chopping magical DruUPik(DR) +3
+DruUPik(DR)SHIELD3 PICKMAN_D03 #POSITION 1 3 #LEVEL 4 DruUPik(DR)SHIELD3 #COST 1 IRON 1500 #TIME 2000
+	PROTECTION GRP 4 piercing crushing chopping magical DruUPik(DR) +4
+	
+DruUPi2(DR)ATTACK1 PICKMAN_A01 #POSITION 2 2 #LEVEL 2 DruUPi2(DR)ATTACK1 #COST 2 IRON 500 COAL 250 #TIME 2000
+        DAMAGE WEAPONKIND piercing DruUPi2(DR) +2
+DruUPi2(DR)ATTACK2 PICKMAN_A02 #POSITION 2 2 #LEVEL 3 DruUPi2(DR)ATTACK2 #COST 2 IRON 1000 COAL 500 #TIME 3000
+        DAMAGE WEAPONKIND piercing DruUPi2(DR) +3
+DruUPi2(DR)ATTACK3 PICKMAN_A03 #POSITION 2 2 #LEVEL 4 DruUPi2(DR)ATTACK3 #COST 2 IRON 1500 COAL 750 #TIME 4000
+        DAMAGE WEAPONKIND piercing DruUPi2(DR) +4
+DruUPi2(DR)SHIELD1 PICKMAN_D01 #POSITION 2 3 #LEVEL 2 DruUPi2(DR)SHIELD1 #COST 3 FOOD 500 IRON 250 COAL 250  #TIME 2000
+	PROTECTION GRP 4 piercing crushing chopping magical DruUPi2(DR) +2
+DruUPi2(DR)SHIELD2 PICKMAN_D02 #POSITION 2 3 #LEVEL 3 DruUPi2(DR)SHIELD2 #COST 3 FOOD 1000 IRON 500 COAL 500  #TIME 3000
+	PROTECTION GRP 4 piercing crushing chopping magical DruUPi2(DR) +3
+DruUPi2(DR)SHIELD3 PICKMAN_D03 #POSITION 2 3 #LEVEL 4 DruUPi2(DR)SHIELD3 #COST 3 FOOD 1500 IRON 750 COAL 7500  #TIME 4000
+	PROTECTION GRP 4 piercing crushing chopping magical DruUPi2(DR) +4
 
-DruUCen(DR)ATTACK1 CENTAUR_A01 #POSITION 0 2 #LEVEL 2 DruUCen(DR)ATTACK1 #COST 1 IRON 300 #TIME 1500
-        DAMAGE WEAPONKIND chopping DruUCen(DR) +1
-DruUCen(DR)ATTACK2 CENTAUR_A02 #POSITION 0 2 #LEVEL 3 DruUCen(DR)ATTACK2 #COST 1 IRON 750 #TIME 2000
+DruUCen(DR)ATTACK1 CENTAUR_A01 #POSITION 0 2 #LEVEL 2 DruUCen(DR)ATTACK1 #COST 2 FOOD 750 IRON 750 #TIME 3000
         DAMAGE WEAPONKIND chopping DruUCen(DR) +2
-DruUCen(DR)ATTACK3 CENTAUR_A03 #POSITION 0 2 #LEVEL 4 DruUCen(DR)ATTACK3 #COST 1 IRON 2000 #TIME 2500
+DruUCen(DR)ATTACK2 CENTAUR_A02 #POSITION 0 2 #LEVEL 3 DruUCen(DR)ATTACK2 #COST 2 FOOD 1500 IRON 1500 #TIME 4000
         DAMAGE WEAPONKIND chopping DruUCen(DR) +3
-DruUCen(DR)SHIELD1 CENTAUR_D01 #POSITION 0 3 #LEVEL 2 DruUCen(DR)SHIELD1 #COST 1 COAL 950 #TIME 1000
+DruUCen(DR)ATTACK3 CENTAUR_A03 #POSITION 0 2 #LEVEL 4 DruUCen(DR)ATTACK3 #COST 2 FOOD 2250 IRON 2250 #TIME 5000
+        DAMAGE WEAPONKIND chopping DruUCen(DR) +4
+DruUCen(DR)SHIELD1 CENTAUR_D01 #POSITION 0 3 #LEVEL 2 DruUCen(DR)SHIELD1 #COST 2 WOOD 1000 COAL 500 #TIME 3000
 	PROTECTION GRP 4 piercing crushing chopping magical DruUCen(DR) +2
-DruUCen(DR)SHIELD2 CENTAUR_D02 #POSITION 0 3 #LEVEL 3 DruUCen(DR)SHIELD2 #COST 1 COAL 1350 #TIME 2000
+DruUCen(DR)SHIELD2 CENTAUR_D02 #POSITION 0 3 #LEVEL 3 DruUCen(DR)SHIELD2 #COST 2 WOOD 2000 COAL 1000 #TIME 4000
 	PROTECTION GRP 4 piercing crushing chopping magical DruUCen(DR) +3
-DruUCen(DR)SHIELD3 CENTAUR_D03 #POSITION 0 3 #LEVEL 4 DruUCen(DR)SHIELD3 #COST 1 COAL 3450 #TIME 2500
+DruUCen(DR)SHIELD3 CENTAUR_D03 #POSITION 0 3 #LEVEL 4 DruUCen(DR)SHIELD3 #COST 2 WOOD 3000 COAL 1500 #TIME 5000
 	PROTECTION GRP 4 piercing crushing chopping magical DruUCen(DR) +4
 
-DruUDry(DR)ATTACK1 DRIADA_A01 #POSITION 1 2 #LEVEL 2 DruUDry(DR)ATTACK1 #COST 1 COAL 200 #TIME 1000
+DruUDry(DR)ATTACK1 DRIADA_A01 #POSITION 1 2 #LEVEL 2 DruUDry(DR)ATTACK1 #COST 1 COAL 750 #TIME 2000
         DAMAGE WEAPONKIND crushing DruUDry(DR) +2
-DruUDry(DR)ATTACK2 DRIADA_A02 #POSITION 1 2 #LEVEL 3 DruUDry(DR)ATTACK2 #COST 1 COAL 600 #TIME 2000
+DruUDry(DR)ATTACK2 DRIADA_A02 #POSITION 1 2 #LEVEL 3 DruUDry(DR)ATTACK2 #COST 1 COAL 1500 #TIME 2500
+        DAMAGE WEAPONKIND crushing DruUDry(DR) +3
+DruUDry(DR)ATTACK3 DRIADA_A03 #POSITION 1 2 #LEVEL 4 DruUDry(DR)ATTACK3 #COST 1 COAL 2250 #TIME 3000
         DAMAGE WEAPONKIND crushing DruUDry(DR) +4
-DruUDry(DR)ATTACK3 DRIADA_A03 #POSITION 1 2 #LEVEL 4 DruUDry(DR)ATTACK3 #COST 1 COAL 1800 #TIME 3000
-        DAMAGE WEAPONKIND crushing DruUDry(DR) +6
-DruUDry(DR)SHIELD1 DRIADA_D01 #POSITION 1 3 #LEVEL 2 DruUDry(DR)SHIELD1 #COST 1 COAL 500 #TIME 500
+DruUDry(DR)SHIELD1 DRIADA_D01 #POSITION 1 3 #LEVEL 2 DruUDry(DR)SHIELD1 #COST 2 WOOD 900 COAL 600 #TIME 2000
 	PROTECTION GRP 4 piercing crushing chopping magical DruUDry(DR) +2
-DruUDry(DR)SHIELD2 DRIADA_D02 #POSITION 1 3 #LEVEL 3 DruUDry(DR)SHIELD2 #COST 1 COAL 1100 #TIME 1000
+DruUDry(DR)SHIELD2 DRIADA_D02 #POSITION 1 3 #LEVEL 3 DruUDry(DR)SHIELD2 #COST 2 WOOD 1800 COAL 1200 #TIME 3000
 	PROTECTION GRP 4 piercing crushing chopping magical DruUDry(DR) +3
-DruUDry(DR)SHIELD3 DRIADA_D03 #POSITION 1 3 #LEVEL 4 DruUDry(DR)SHIELD3 #COST 1 COAL 1600 #TIME 2000
+DruUDry(DR)SHIELD3 DRIADA_D03 #POSITION 1 3 #LEVEL 4 DruUDry(DR)SHIELD3 #COST 2 WOOD 2700 COAL 1800 #TIME 4000
 	PROTECTION GRP 4 piercing crushing chopping magical DruUDry(DR) +4
 
 DruBHoG(DR)INSIDE DRUBCRY(UN)INSIDE_01 #POSITION 0 3 #LEVEL 2 DruBHoG(DR)INSIDE #COST 1 WOOD 200 #TIME 500
@@ -457,49 +476,50 @@ DruBOre(DR)INSIDE6 DRUBCRY(UN)INSIDE_05  #POSITION 0 3 #LEVEL 6 DruBCry(DR)INSID
 DruBOre(DR)INSIDE7 DRUBCRY(UN)INSIDE_06  #POSITION 0 3 #LEVEL 7 DruBCry(DR)INSIDE #COST 2 IRON 40000 COAL 23000 #TIME 500
         CHANGEMD DruBOr7(DR)
 
-DruBTow(DR)P1 DRUBTOW(DR)P1  #POSITION 0 3 #LEVEL 2 DruBTow(DR)P1 #COST 1 COAL 250 #TIME 1000
+DruBTow(DR)P1 DRUBTOW(DR)P1  #POSITION 0 3 #LEVEL 2 DruBTow(DR)P1 #COST 1 COAL 450 #TIME 750
         CHANGEMD DruBTo1(DR)
-DruBTow(DR)P2 DRUBTOW(DR)P2  #POSITION 1 3 #LEVEL 2 DruBTow(DR)P2 #COST 1 COAL 300 #TIME 1000
+DruBTow(DR)P2 DRUBTOW(DR)P2  #POSITION 1 3 #LEVEL 2 DruBTow(DR)P2 #COST 1 COAL 500 #TIME 750
         CHANGEMD DruBTo2(DR)
-DruBTow(DR)P3 DRUBTOW(DR)P3  #POSITION 2 3 #LEVEL 2 DruBTow(DR)P3 #COST 1 WOOD 900 #TIME 1000
+DruBTow(DR)P3 DRUBTOW(DR)P3  #POSITION 2 3 #LEVEL 2 DruBTow(DR)P3 #COST 1 WOOD 1200 #TIME 750
         CHANGEMD DruBTo3(DR)
 
-DruUTre(DR)SHIELD1 DRUUTRE(DR)SHIELD1  #POSITION 0 3 #LEVEL 4 DruUTre(DR)SHIELD1 #COST 1 COAL 3000 #TIME 2000
+DruUTre(DR)SHIELD1 DRUUTRE(DR)SHIELD1  #POSITION 0 3 #LEVEL 4 DruUTre(DR)SHIELD1 #COST 2 WOOD 8000 COAL 3000 #TIME 8000
 	PROTECTION GRP 4 piercing crushing chopping magical GRP 2 DruUTre(DR) DruUUni(DR) +5
 DruSShp(DR)P DRUSSHP(DR)P  #POSITION 0 3 #LEVEL 2 DruSShp(DR)P #COST 2 FOOD 1000 COAL 500  #TIME 2000
         COST GRP 1  DruSBo1(DR) GRP 1 WOOD -0%
 
 
-DruUAll(DR)H DRUUALL(DR)H  #POSITION 0 2 #LEVEL 2 DruUAll(DR)H #COST 1 FOOD 100 #TIME 300
-	HEALING GRP 10 DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR)  +50
-DruBAll(DR)D1 DRUBALL(DR)D1 #POSITION 0 3 #LEVEL 2 DruBAll(DR)D1 #COST 1 WOOD 6200 #TIME 3000
-	PROTECTION GRP 4 piercing crushing chopping magical GRP 41 DruBElf(DR) DruBAca(DR) DruBAlt(DR) DruBCen(DR) DruBGri(DR) DruBPeg(DR) DruBShi(DR) DruBSto(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruBTre(DR) DruBOre(DR) DruBOr2(DR) DruBOr3(DR) DruBOr4(DR) DruBOr5(DR) DruBOr6(DR) DruBOr7(DR) DruBCry(DR) DruBCr2(DR) DruBCr3(DR) DruBCr4(DR) DruBCr5(DR) DruBCr6(DR) DruBCr7(DR) DruBHou(DR) DruBHoG(DR) DruBHo2(DR) DruBHo3(DR) DruBHo4(DR) DruBHo5(DR) DruBHo6(DR) DruBHo7(DR) DruBHal(DR) DruBApl(DR) DruBWal(DR) DruBTww(DR) DruBGat(DR) DruBBas(DR)  +5
-DruBTow(DR)A1 DRUBTOW(DR)A1 #POSITION 1 2 #LEVEL 2 DruBTow(DR)A1 #COST 2 COAL 1800 FOOD 2200 #TIME 2000
-        DAMAGE WEAPONKIND GRP 4 magical piercing crushing chopping GRP 14 DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUTre(DR) DruUUni(DR) +2
-DruBTow(DR)L DRUBTOW(DR)L  #POSITION 1 3 #LEVEL 2 DruBTow(DR)L #COST 1 IRON 2000  #TIME 3000
-        LIFE GRP 4 DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) +65%
-DruUFai(DR)A1 DRUUFAI(DR)A1 #POSITION 2 2 #LEVEL 2 DruUFai(DR)A1 #COST 1 COAL 450 #TIME 2000
-        DAMAGE WEAPONKIND magical DruUFai(DR) +3
-DruUFai(DR)S DRUUFAI(DR)S  #POSITION 2 3 #LEVEL 2 DruUFai(DR)S #COST 2 COAL 250 IRON 200 #TIME 1000
+DruUAll(DR)H DRUUALL(DR)H  #POSITION 0 2 #LEVEL 2 DruUAll(DR)H #COST 1 FOOD 100 #TIME 250
+	HEALING GRP 11 DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR)  +50
+DruBAll(DR)D1 DRUBALL(DR)D1 #POSITION 0 3 #LEVEL 2 DruBAll(DR)D1 #COST 1 WOOD 6400 #TIME 5000
+	PROTECTION GRP 4 piercing crushing chopping magical GRP 26 DruBElf(DR) DruBAca(DR) DruBAlt(DR) DruBCen(DR) DruBGri(DR) DruBPeg(DR) DruBShi(DR) DruBSto(DR) DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruBTre(DR) DruBHoG(DR) DruBHo2(DR) DruBHo3(DR) DruBHo4(DR) DruBHo5(DR) DruBHo6(DR) DruBHo7(DR) DruBHal(DR) DruBApl(DR) DruBWal(DR) DruBTww(DR) DruBGat(DR) DruBBas(DR) +5
+DruBTow(DR)A1 DRUBTOW(DR)A1 #POSITION 1 2 #LEVEL 2 DruBTow(DR)A1 #COST 4 FOOD 6400 WOOD 6400 IRON 3200 COAL 4000 #TIME 10000
+        DAMAGE WEAPONKIND GRP 4 magical piercing crushing chopping GRP 15 DruBTow(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) DruUArc(DR) DruUCen(DR)  DruUDru(DR) DruUDry(DR) DruUFai(DR) DruUGri(DR) DruUPeg(DR) DruUPik(DR) DruUPi2(DR) DruUTre(DR) DruUUni(DR) +3
+DruBTow(DR)L DRUBTOW(DR)L  #POSITION 1 3 #LEVEL 2 DruBTow(DR)L #COST 2 WOOD 4800 IRON 1200  #TIME 5000
+        LIFE GRP 26 DruBElf(DR) DruBAca(DR) DruBAlt(DR) DruBCen(DR) DruBGri(DR) DruBPeg(DR) DruBShi(DR) DruBSto(DR) DruBTow(DR) DruBTre(DR) DruBHoG(DR) DruBHo2(DR) DruBHo3(DR) DruBHo4(DR) DruBHo5(DR) DruBHo6(DR) DruBHo7(DR) DruBHal(DR) DruBApl(DR) DruBWal(DR) DruBTww(DR) DruBGat(DR) DruBBas(DR) DruBTo1(DR) DruBTo2(DR) DruBTo3(DR) +25%
+DruUPi2(DR)C DRUUFAI(DR)A1 #POSITION 2 2 #LEVEL 2 DruUPi2(DR)A1 #COST 2 IRON 900 COAL 2700 #TIME 5000
+        COST GRP 2 DruUPik(DR) DruUPi2(DR) GRP 4 WOOD -25% IRON -25% FOOD -25% COAL -25%
+DruUFai(DR)S DRUUFAI(DR)S  #POSITION 2 3 #LEVEL 2 DruUFai(DR)S #COST 2 COAL 500 IRON 400 #TIME 2000
         SPEED GRP 1 DruUFai(DR) +50%
-DruBFai(DR)W DRUBFAI(DR)W  #POSITION 3 2 #LEVEL 2 DruBFai(DR)W #COST 2 FOOD 900 COAL 500  #TIME 1000
+DruBFai(DR)W DRUBFAI(DR)W  #POSITION 3 2 #LEVEL 2 DruBFai(DR)W #COST 2 FOOD 900 COAL 500  #TIME 2000
         EFFECT_WOOD  +50%
-DruUCen(DR)C DRUUCEN(DR)C  #POSITION 3 3 #LEVEL 2 DruUCen(DR)C #COST 2 IRON 800 COAL 450 #TIME 3000
+DruUCen(DR)C DRUUCEN(DR)C  #POSITION 3 3 #LEVEL 2 DruUCen(DR)C #COST 3 FOOD 3600 IRON 2200 COAL 2800  #TIME 5000
 	BUILD DruUCen(DR) -50%
-DruSShp(DR)R DRUSSHP(DR)R  #POSITION 4 2 #LEVEL 2 DruSShp(DR)R #COST 2 FOOD 1000 COAL 800  #TIME 2500
-        ATTRANGE ATTINDEX 0 GRP 2 DruSBo1(DR) DruSBo2(DR) +40%
-DruSShp(DR)C DRUSSHP(DR)C  #POSITION 4 3 #LEVEL 2 DruSShp(DR)C #COST 2 FOOD 1500 COAL 800  #TIME 2500
-        COST GRP 2  DruSBo1(DR) DruSBo2(DR) GRP 4 WOOD -35% IRON -35% GOLD -35% COAL -35%
-DruUDru(DR)ATTACK1 DRUIDUPG01 #POSITION 0 2 #LEVEL 2 DruUDru(DR)ATTACK1 #COST 1 COAL 750 #TIME 1500
-        DAMAGE WEAPONKIND magical DruUDru(DR) +2
-DruUHHH(DR)H DRUBCRY(DR)INSIDE  #POSITION 5 2 #LEVEL 2 DruUHHH(DR)H #COST 3 COAL 4600 FOOD 6200 WOOD 6000 #TIME 4000
+DruUCen(DR)C2 DRUUCEN(DR)C  #POSITION 3 3 #LEVEL 2 DruUCen(DR)C #COST 1 FOOD 0 #TIME 5000
+    PROTECTION GRP 4 piercing crushing chopping magical DruUCen(DR) +2
+DruSShp(DR)R DRUSSHP(DR)R  #POSITION 4 2 #LEVEL 2 DruSShp(DR)R #COST 2 FOOD 1000 COAL 800  #TIME 4000
+        ATTRANGE ATTINDEX 0 GRP 2 DruSBo1(DR) DruSBo2(DR) +25%
+DruSShp(DR)C DRUSSHP(DR)C  #POSITION 4 3 #LEVEL 2 DruSShp(DR)C #COST 2 FOOD 1500 COAL 800  #TIME 7500
+        COST GRP 2  DruSBo1(DR) DruSBo2(DR) GRP 4 WOOD -40% IRON -40% GOLD -40% COAL -40%
+DruUDru(DR)ATTACK1 DRUIDUPG01 #POSITION 5 3 #LEVEL 2 DruUDru(DR)ATTACK1 #COST 3 FOOD 800 WOOD 200 COAL 1000 #TIME 2500
+        ATTSPEEDSCALE GRP 1 DruUDru(DR) +25%
+DruUHHH(DR)H DRUBCRY(DR)INSIDE  #POSITION 5 2 #LEVEL 2 DruUHHH(DR)H #COST 2  WOOD 3600 COAL 1200 #TIME 2000
         LIFE GRP 1 DruUFai(DR) 100%
 
 [UPGRADEPLACE]
-DruBSto(DR) 1
-DruUDru(DR)ATTACK1
 
-DruBElf(DR) 12
+
+DruBElf(DR) 18
 DruUArc(DR)ATTACK1
 DruUArc(DR)ATTACK2
 DruUArc(DR)ATTACK3
@@ -513,6 +533,13 @@ DruUPik(DR)ATTACK3
 DruUPik(DR)SHIELD1
 DruUPik(DR)SHIELD2
 DruUPik(DR)SHIELD3
+
+DruUPi2(DR)ATTACK1
+DruUPi2(DR)ATTACK2
+DruUPi2(DR)ATTACK3
+DruUPi2(DR)SHIELD1
+DruUPi2(DR)SHIELD2
+DruUPi2(DR)SHIELD3
 
 DruBCen(DR) 6
 DruUCen(DR)ATTACK1
@@ -576,10 +603,10 @@ DruBHoG(DR)INSIDE6
 DruBHo6(DR) 1 
 DruBHoG(DR)INSIDE7
 
-DruBAca(DR) 11
+DruBAca(DR) 12
 DruBTow(DR)A1
 DruBAll(DR)D1
-DruUFai(DR)A1
+DruUPi2(DR)C
 DruUFai(DR)S 
 DruBTow(DR)L 
 DruUCen(DR)C 
@@ -588,6 +615,8 @@ DruUHHH(DR)H
 DruBFai(DR)W
 DruSShp(DR)R
 DruSShp(DR)C
+DruUDru(DR)ATTACK1
+
 DruBShi(DR) 1
 DruSShp(DR)P
 
@@ -604,6 +633,8 @@ DruUDru(DR)ATTACK1
 DruUTre(DR)SHIELD1
 DruUPik(DR)ATTACK1
 DruUPik(DR)SHIELD1
+DruUPi2(DR)ATTACK1
+DruUPi2(DR)SHIELD1
 DruUArc(DR)ATTACK1
 DruUArc(DR)SHIELD1
 DruUCen(DR)ATTACK1
@@ -631,7 +662,7 @@ DruBHoG(DR)INSIDE7
 DruBTow(DR)A1
 DruBAll(DR)D1
 DruBAll(DR)D1
-DruUFai(DR)A1
+DruUPi2(DR)C
 DruUFai(DR)S 
 DruBTow(DR)L 
 DruUCen(DR)C 
@@ -662,6 +693,11 @@ DruUPik(DR)ATTACK1 1 DruUPik(DR)ATTACK2
 DruUPik(DR)ATTACK2 1 DruUPik(DR)ATTACK3
 DruUPik(DR)SHIELD1 1 DruUPik(DR)SHIELD2
 DruUPik(DR)SHIELD2 1 DruUPik(DR)SHIELD3
+
+DruUPi2(DR)ATTACK1 1 DruUPi2(DR)ATTACK2
+DruUPi2(DR)ATTACK2 1 DruUPi2(DR)ATTACK3
+DruUPi2(DR)SHIELD1 1 DruUPi2(DR)SHIELD2
+DruUPi2(DR)SHIELD2 1 DruUPi2(DR)SHIELD3
 
 DruUArc(DR)ATTACK1 1 DruUArc(DR)ATTACK2
 DruUArc(DR)ATTACK2 1 DruUArc(DR)ATTACK3
@@ -730,6 +766,8 @@ SAC(DR)7
 SAP(DR)7
 SAD(DR)7
 SAS(DR)7
+DruUCen(DR)C 1
+DruUCen(DR)C2
 
 [PRIVATE]
 DruBHoG(DR)INSIDE 
@@ -758,12 +796,12 @@ DruBTow(DR)P3
 DruBElf(DR)    1 DruBHal(DR)                
 DruBTow(DR)    1 DruBHal(DR)
 DruBWal(DR)    1 DruBHal(DR)                
-DruBCen(DR)    1 DruBHal(DR)
+DruBCen(DR)    1 DruBSto(DR)
 DruBHoG(DR)    1 DruBHal(DR)
 DruBPeg(DR)    1 DruBSto(DR)
 DruBAca(DR)    1 DruBHal(DR)
 DruBAlt(DR)    1 DruBHal(DR)
-DruBTre(DR)    1 DruBAca(DR)
+DruBTre(DR)    1 DruBSto(DR)
 DruBSto(DR)    1 DruBAca(DR)
 DruBGri(DR)    1 DruBAca(DR)
 DruBHou(DR)    1 DruBAca(DR)
@@ -779,7 +817,7 @@ DruUTre(DR)    1 DruBAca(DR)
 DruUUni(DR)    1 DruBAca(DR)
 DruBAlt(DR)    1 DruBHal(DR)
 [COUNTRY]
-DRUIDS 88
+DRUIDS 89
 #heroes
 DruHAma(DR)
 DruHArc(DR)
@@ -789,6 +827,7 @@ DruUFai(DR)
 DruUDry(DR)
 DruUArc(DR)
 DruUPik(DR)
+DruUPi2(DR)
 DruUDru(DR)
 DruUCen(DR)
 DruUUni(DR)

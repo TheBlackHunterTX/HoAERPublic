@@ -1,0 +1,41 @@
+<NewAbility>
+ <Name>UA_eMoraleCenOnCen</Name>
+ <FileID>Interf3\Ability\auras_forest_creatures</FileID>
+ <SpriteID>7</SpriteID>
+ <EffectFileID>Interf3\Ability\auras_forest_creatures</EffectFileID>
+ <EffectSpriteID>7</EffectSpriteID>
+ <CastingShotAmount>
+  <Value>
+   <Op>
+    <NumericalConst>
+     <Value>
+      <Value>1</Value>
+     </Value>
+    </NumericalConst>
+   </Op>
+  </Value>
+ </CastingShotAmount>
+ <Permanent>true</Permanent>
+ <IgnoreMagicImmunity>true</IgnoreMagicImmunity>
+ <NonIgnoredSkill>true</NonIgnoredSkill>
+ <Modificators>
+  <mod_Damage>
+   <Operand>
+    <Operand>
+     <Value>
+      <Op>
+       <NumericalConst>
+        <Value>
+         <Value>50</Value>
+        </Value>
+       </NumericalConst>
+      </Op>
+     </Value>
+    </Operand>
+    <OperandType>Percent</OperandType>
+    <Percent>From Curent</Percent>
+   </Operand>
+  </mod_Damage>
+  <mod_DeleteAbilityAfterNShots></mod_DeleteAbilityAfterNShots>
+ </Modificators>
+</NewAbility>

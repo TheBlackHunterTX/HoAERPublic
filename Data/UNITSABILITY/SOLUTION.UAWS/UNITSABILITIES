@@ -933,5 +933,52 @@
     <RefName>UA_aRaiseSkeleton</RefName>
    </Item>
   </OneClassItem>
+  <OneClassItem>
+   <Item>
+    <ClassName>NewAbility</ClassName>
+    <RefName>UA_aDruUCenMoraleIcon</RefName>
+   </Item>
+  </OneClassItem>
+  <OneClassItem>
+   <Item>
+    <ClassName>NewAbility</ClassName>
+    <RefName>UA_aSolUClePure</RefName>
+   </Item>
+  </OneClassItem>
+  <OneClassFolder>
+   <Name>DryadCycleOfLife</Name>
+   <Items>
+    <OneClassItem>
+     <Item>
+      <ClassName>NewAbility</ClassName>
+      <RefName>UA_aCycleOfLife</RefName>
+     </Item>
+    </OneClassItem>
+    <OneClassItem>
+     <Item>
+      <ClassName>WeaponModificator</ClassName>
+      <RefName>UA_wCycleOfLife1</RefName>
+     </Item>
+    </OneClassItem>
+    <OneClassItem>
+     <Item>
+      <ClassName>WeaponModificator</ClassName>
+      <RefName>UA_wCycleOfLife2</RefName>
+     </Item>
+    </OneClassItem>
+    <OneClassItem>
+     <Item>
+      <ClassName>NewAbility</ClassName>
+      <RefName>UA_aCycleOfLife2</RefName>
+     </Item>
+    </OneClassItem>
+    <OneClassItem>
+     <Item>
+      <ClassName>WeaponModificator</ClassName>
+      <RefName>UA_wCycleOfLifeBorn</RefName>
+     </Item>
+    </OneClassItem>
+   </Items>
+  </OneClassFolder>
  </Items>
 </OneClassFolder>

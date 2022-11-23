@@ -1,0 +1,12 @@
+<window name	= "kangaroo_statistics" 
+		ext		        = "0 0 1024 768" 
+		drawbackground	= "false" 
+		halign          = "left"
+		valign          = "top"
+		draggable       = "false"> 
+	<label		name		= "lblFPS"			
+				caption     = "FPS:"	
+				text		= "<=FPS"		
+				ext			= "10 10 80 40" 
+				textColor	= "0xFFFF0000"/>
+</window>

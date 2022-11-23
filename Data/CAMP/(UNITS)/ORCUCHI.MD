@@ -28,6 +28,7 @@ SEARCH_ENEMY_RADIUS 	250
 DET_RADIUS 		0 0 7000
 MATHERIAL 		1 BODY
 CANKILL 3 BODY BUILDING WOOD 
+ATTMASK 0 3 BODY BUILDING WOOD 
 WEAPONKIND 		0 chopping
 DAMAGE   		0 21
 WEAPON 0 UW_Splash30
@@ -53,16 +54,9 @@ KILLERAWARD             GOLD 26
 KILLERAWARDRANDOM       GOLD 7
 ABILITY			UA_aOrcChief
 ABILITY			UA_aOrcChief_FearStarter
-ABILITY Drop_BottleDropRelic
-ABLDROP Drop_BottleDropRelic 1
-ABILITY Drop_BottleDropMajor
-ABLDROP Drop_BottleDropMajor 4
-ABILITY Drop_BottleDropMinor
-ABLDROP Drop_BottleDropMinor 7
 ABILITY Drop_ItemDropMinor
-ABLDROP Drop_ItemDropMinor 14
-ABILITY Drop_ItemDropTreasure
-ABLDROP Drop_ItemDropTreasure 6
+
+ABLDROP Drop_ItemDropMinor 10
 ZPOINTS 25 25
 SHADOWLESS
 CANTCAPTURE

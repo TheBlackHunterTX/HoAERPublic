@@ -13,6 +13,7 @@
    </Op>
   </Value>
  </CastingShotAmount>
+ <MaxDistance>600</MaxDistance>
  <Weapon>
   <ClassName>WeaponModificator</ClassName>
   <RefName>3d_tank</RefName>

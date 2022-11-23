@@ -8,30 +8,30 @@ ICONSET 3 0 0 interf3\UnitPortrets\clay_golem1 0 90 1
 ICONSET 1 0 0 interf3\UnitPortrets\clay_golem2 0 108 1
 
 
-!STAND          1 0.13  Models\Units\MecUGoG\MecUGoGM.C2M Models\Units\MecUGoG\MecUGoGA_stand1.C2M
+!STAND          1 0.15  Models\Units\MecUGoG\MecUGoGM.C2M Models\Units\MecUGoG\MecUGoGA_stand1.C2M
 ADDHDIR #STAND 0 128
-!REST          60 0.13  Models\Units\MecUGoG\MecUGoGM.C2M Models\Units\MecUGoG\MecUGoGA_stand1.C2M
+!REST          60 0.15  Models\Units\MecUGoG\MecUGoGM.C2M Models\Units\MecUGoG\MecUGoGA_stand1.C2M
 ADDHDIR #REST 0 128
-!MOTION_L      36 0.13  Models\Units\MecUGoG\MecUGoGM.C2M Models\Units\MecUGoG\MecUGoGA_walk1.C2M
+!MOTION_L      36 0.15  Models\Units\MecUGoG\MecUGoGM.C2M Models\Units\MecUGoG\MecUGoGA_walk1.C2M
 ADDHDIR #MOTION_L 0 128
-!PSTAND        1  0.13  Models\Units\MecUGoG\MecUGoGM.C2M Models\Units\MecUGoG\MecUGoGA_attack1.C2M
+!PSTAND        1  0.15  Models\Units\MecUGoG\MecUGoGM.C2M Models\Units\MecUGoG\MecUGoGA_attack1.C2M
 ADDHDIR #PSTAND 0 128
-!ATTACK        65 0.13  Models\Units\MecUGoG\MecUGoGM.C2M Models\Units\MecUGoG\MecUGoGA_attack1.C2M
+!ATTACK        65 0.15  Models\Units\MecUGoG\MecUGoGM.C2M Models\Units\MecUGoG\MecUGoGA_attack1.C2M
 ADDHDIR #ATTACK 0 128
 SETACTIVEPOINT0 #ATTACK 20
 SOUND 17 #ATTACK attack_ggolem
 SOUNDFRAME2 #ATTACK 34
-!ATTACK        50 0.13  Models\Units\MecUGoG\MecUGoGM.C2M Models\Units\MecUGoG\MecUGoGA_attack2.C2M
+!ATTACK        50 0.15  Models\Units\MecUGoG\MecUGoGM.C2M Models\Units\MecUGoG\MecUGoGA_attack2.C2M
 ADDHDIR #ATTACK 0 128
 SETACTIVEPOINT0 #ATTACK 26
 SOUND 22 #ATTACK attack_ggolem
-!DEATH          60 0.13  Models\Units\MecUGoG\MecUGoGM_death1.C2M Models\Units\MecUGoG\MecUGoGA_death1.C2M
+!DEATH          60 0.15  Models\Units\MecUGoG\MecUGoGM_death1.C2M Models\Units\MecUGoG\MecUGoGA_death1.C2M
 ADDHDIR #DEATH 0 128
-GEOMETRY 1 12 30
+GEOMETRY 1 18 25
 
 DAMAGE   0 8
 LIFE     80
-RECTANGLE 		0 2 30 51
+RECTANGLE 		0 0 50 80
 ATTACK_RADIUS 0 0 50
 ATTACK_PAUSE 0 0
 SEARCH_ENEMY_RADIUS 400
@@ -42,7 +42,7 @@ ATTMASK 0 3 BODY BUILDING WOOD
 PRICE 2 STONE 5 COAL 12
 WEAPONKIND 0 crushing
 WEAPON 0 clay_splash_100
-BUILDSTAGES 210
+BUILDSTAGES 200
 VISION 0
 STANDGROUND
 VES 30
@@ -68,7 +68,7 @@ KILLERAWARDRANDOM       GOLD 2
 
 ABILITY UA_ClayGolem_Regeneration
 ABILITY UA_ClayGolem_Slow_Button
-SPEEDSCALE 126
+SPEEDSCALE 151
 LOWCOLLISION
 COLUMN 2                                  	
 BRANDOMPOS 3

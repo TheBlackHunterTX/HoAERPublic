@@ -1,0 +1,6 @@
+<window name="res_browser" ext="100 100 200 300" bgColor="0xFFFFFFFF">
+	<button name="btnOK" text="OK" ext="10 10 80 15"/>
+	<button name="btnCancel" text="Cancel" ext="10 30 80 15"/>
+	<editbox name="lEdit" text="Path"  ext="10 90 80 15" bgColor="0xFFFFFFFF"/>
+	<listbox name="lbList" text="" ext="10 110 80 80"/>
+</window>

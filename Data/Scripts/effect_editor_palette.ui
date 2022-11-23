@@ -1,0 +1,27 @@
+<window name="effect_editor_palette" ext="0 0 200 200" bgColor="0x225555FF" halign="right" valign="center"> 
+	
+	<palettesample  name		= "palModular"			
+				    text		= "Modular"	
+				    sampleclass = "PModularEmitter"		
+				    ext			= "20 10 70 16" 
+				    textColor	= "0xAA000000"/>
+				 
+	<palettesample  name		= "palConst"			
+				    text		= "Const"
+				    sampleclass = "PConstEmitter"			
+				    ext			= "20 30 70 16" 
+				    textColor	= "0xAA000000"/>
+				    
+    <palettesample  name		= "palBurst"			
+				    text		= "Burst"	
+				    sampleclass = "PBurstEmitter"		
+				    ext			= "20 50 70 16" 
+				    textColor	= "0xAA000000"/>
+				    
+	<palettesample  name		= "palStatic"			
+				    text		= "Static"
+				    sampleclass = "PStaticEmitter"			
+				    ext			= "20 70 70 16" 
+				    textColor	= "0xAA000000"/>
+				    
+</window> 

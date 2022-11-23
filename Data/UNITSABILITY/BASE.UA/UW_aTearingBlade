@@ -4,6 +4,8 @@
  <SpriteID>4</SpriteID>
  <EffectFileID>Interf3\Ability\auras_gnomy</EffectFileID>
  <EffectSpriteID>4</EffectSpriteID>
+ <HintName>#TearingBlade.NAME</HintName>
+ <Hint>#TearingBlade</Hint>
  <Aura>true</Aura>
  <CastingShotAmount>
   <Value>

@@ -7,7 +7,7 @@ ICONANM 0 0 interf3\PortretsBuilding\MchMin 1 103 1
 !STAND 30 0.001 Models\Effects\MagicCard\Mina\Mina.C2M Models\Effects\MagicCard\Mina\MinaAN.C2M 
 !DEATH 1 0.001 Models\Effects\MagicCard\Mina\Mina.C2M Models\Effects\MagicCard\Mina\MinaAN.C2M 
 ADDHDIR #DEATH 0 128
-//!ATTACK 60 1 Models\Effects\MagicCard\Mina\Mina.C2M Models\Effects\MagicCard\Mina\MinaAN.C2M 
+//!ATTACK 60 1 0.001 Models\Effects\MagicCard\Mina\Mina.C2M Models\Effects\MagicCard\Mina\MinaAN.C2M 
 ADDHDIR #ATTACK 0 128
 GEOMETRY 1 20 0
 LIFE     100
@@ -25,6 +25,7 @@ ADD_ATTACK_RADIUS 0 64
 SEARCH_ENEMY_RADIUS 800
 DET_RADIUS 0 0 8000
 CANKILL 2 BODY BUILDING 
+ATTMASK 0 2 BODY BUILDING 
 SETHOTFRAME2 #ATTACK 7 0 100 0
 USAGE ARCHER
 ARCHER

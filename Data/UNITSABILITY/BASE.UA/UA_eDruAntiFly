@@ -3,8 +3,8 @@
  <ClassType>Effect</ClassType>
  <EffectFileID>Interf3\Ability\Ability3.00</EffectFileID>
  <EffectSpriteID>39</EffectSpriteID>
- <HintName>#SPELL_GRENADE.NAME</HintName>
- <Hint>#SPELL_GRENADE</Hint>
+ <HintName>#DruAFly.NAME</HintName>
+ <Hint>#AntiFly</Hint>
  <CastingShotAmount>
   <Value>
    <Op>
@@ -49,6 +49,42 @@
  <IgnoreMagicImmunity>true</IgnoreMagicImmunity>
  <Modificators>
   <mod_Life>
+   <Conditions>
+    <umc_UnitType>
+     <Not>true</Not>
+     <Type>
+      <BaseClassUnitType>
+       <UnitType>DruUPeg(DR)</UnitType>
+      </BaseClassUnitType>
+     </Type>
+    </umc_UnitType>
+   </Conditions>
+   <Operand>
+    <Operator>-</Operator>
+    <Operand>
+     <Value>
+      <Op>
+       <NumericalConst>
+        <Value>
+         <Value>350</Value>
+        </Value>
+       </NumericalConst>
+      </Op>
+     </Value>
+    </Operand>
+   </Operand>
+   <Period>1</Period>
+  </mod_Life>
+  <mod_Life>
+   <Conditions>
+    <umc_UnitType>
+     <Type>
+      <BaseClassUnitType>
+       <UnitType>DruUPeg(DR)</UnitType>
+      </BaseClassUnitType>
+     </Type>
+    </umc_UnitType>
+   </Conditions>
    <Operand>
     <Operator>-</Operator>
     <Operand>
@@ -63,7 +99,6 @@
      </Value>
     </Operand>
    </Operand>
-   <Period>1</Period>
   </mod_Life>
  </Modificators>
 </NewAbility>

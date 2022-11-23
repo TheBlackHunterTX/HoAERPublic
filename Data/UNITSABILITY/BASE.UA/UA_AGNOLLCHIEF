@@ -35,12 +35,8 @@
       <BaseClassUnitType>
        <UnitType>GnoUGno(GN)</UnitType>
       </BaseClassUnitType>
-      <BaseClassUnitType>
-       <UnitType>TDGnoUChi(TD)</UnitType>
-      </BaseClassUnitType>
-      <BaseClassUnitType>
-       <UnitType>TDGnoUGno(TD)</UnitType>
-      </BaseClassUnitType>
+      <BaseClassUnitType></BaseClassUnitType>
+      <BaseClassUnitType></BaseClassUnitType>
      </Type>
     </umc_UnitType>
    </Complex>

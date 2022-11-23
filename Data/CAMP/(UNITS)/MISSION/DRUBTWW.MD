@@ -2,8 +2,8 @@ NAME DruBTwwMis
 MESSAGE tower
 ICON U_FrnOf17
 BUILDING
-LIFE 2000
-PROTECTION 4 piercing 15 magical 0 chopping 15 crushing 0
+LIFE 5000
+PROTECTION 4 piercing 15 magical 5 chopping 15 crushing 5
 BUILDSTAGES 30
 MATHERIAL 1 BUILDING
 RECTANGLE 10 20 100 150

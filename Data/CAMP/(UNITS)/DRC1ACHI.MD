@@ -1,8 +1,8 @@
 NAME 			Drc1aChi
 ICON 			U_FrnOf17
-ICONEX 0 0 interf3\UnitPortrets\Draconide_back 0
-ICONANM 0 0 interf3\UnitPortrets\Draconide_back 1 42 1
-ICONANM 0 0 interf3\UnitPortrets\Draconide 0 0 0
+ICONEX 0 0 interf3\UnitPortrets\Devils_back 0
+ICONANM 0 0 interf3\UnitPortrets\Devils_back 1 29 1
+ICONANM 0 0 interf3\UnitPortrets\Devils 0 0 1
 USERLC 			0 G\DracSPC SHADOW -90 -118
 USERLC 			1 G\DracSPG SHADOW -90 -118
 USERLC 			3 G\DracSPU SHADOW -90 -118
@@ -37,6 +37,7 @@ DET_RADIUS 		1 200 7000
 ATTACK_ANGLES 	 	0 -255 25
 MATHERIAL 		1 BODY
 CANKILL 3 BODY BUILDING WOOD
+ATTMASK 0 3 BODY BUILDING WOOD
 WEAPONKIND 		0 piercing
 WEAPONKIND 		0 piercing
 WEAPON			1 3d_arrow_Archer

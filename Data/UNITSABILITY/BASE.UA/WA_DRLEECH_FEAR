@@ -28,7 +28,4 @@
    </Op>
   </Value>
  </EffectDuration>
- <Modificators>
-  <mod_Fear></mod_Fear>
- </Modificators>
 </NewAbility>

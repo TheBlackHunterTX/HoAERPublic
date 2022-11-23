@@ -22,7 +22,6 @@
  <BuildingAttackRangeOuterFillColor>3300FF00</BuildingAttackRangeOuterFillColor>
  <GameName>Fantasy</GameName>
  <DefaultGameSpeedForSkirmish>40</DefaultGameSpeedForSkirmish>
- <AutoProduceFoodLimit>0</AutoProduceFoodLimit>
  <GreaterFormationDistanceScale>300</GreaterFormationDistanceScale>
  <MoraleType>Rome</MoraleType>
  <AllowTiring>false</AllowTiring>
@@ -35,7 +34,6 @@
  <DontUseAgressiveState>true</DontUseAgressiveState>
  <EnableCapturing>true</EnableCapturing>
  <vInterf>
-  <MagicCardsVisibleAmount>9</MagicCardsVisibleAmount>
   <selColor>500000FF</selColor>
   <fSettlement>icons</fSettlement>
   <SettlementSpriteHeight>0</SettlementSpriteHeight>
@@ -178,6 +176,7 @@
   <TimeOut>500</TimeOut>
  </CollidingCamera>
  <ThirdPersonCamera>
+  <ForceCameraParams>true</ForceCameraParams>
   <final_FogNearPlane>868</final_FogNearPlane>
   <final_FogFarPlane>1501</final_FogFarPlane>
   <CameraMovingStage>0.529680</CameraMovingStage>

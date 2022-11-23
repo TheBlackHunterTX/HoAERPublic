@@ -4,8 +4,8 @@ ICON U_FrnOf17
 ICONEX 0 0 interf3\PortretsBuilding\DruWall 0
 ICONANM 0 0 interf3\PortretsBuilding\DruWall 1 46 1
 BUILDING
-LIFE 2000
-PROTECTION 4 piercing 15 magical 0 chopping 15 crushing 0
+LIFE 5000
+PROTECTION 4 piercing 20 magical 10 chopping 20 crushing 10
 BUILDSTAGES 20
 MATHERIAL 1 BUILDING
 RECTANGLE 10 20 100 150

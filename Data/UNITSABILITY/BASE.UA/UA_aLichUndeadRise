@@ -4,6 +4,8 @@
  <SpriteID>3</SpriteID>
  <EffectFileID>Interf3\Ability\auras_dead_creatures</EffectFileID>
  <EffectSpriteID>3</EffectSpriteID>
+ <HintName>#LichUndeadRise.NAME</HintName>
+ <Hint>#LichUndeadRise</Hint>
  <MoveToEndAfterUse>true</MoveToEndAfterUse>
  <CoolDownDuration>
   <Value>

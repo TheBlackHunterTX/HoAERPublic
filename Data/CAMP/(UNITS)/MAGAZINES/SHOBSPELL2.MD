@@ -1,9 +1,11 @@
 NAME  ShoBSpell2
 ICON U_FrnOf17
 BUILDING
+ICONEX 0 0 interf3\PortretsBuilding\_inv_Library 0
+ICONANM 0 0 interf3\PortretsBuilding\_inv_Library 1 18 1
 SETANMPARAM -0 -0 1 0
 LOCATION -0 -0 800 800
-!STANDLO      1 0.4 Models\Bld\NETRAL\viex_biblio02\1024x512\viex_biblio02.c2m Models\Bld\NETRAL\viex_biblio02\1024x512\viex_biblio02.c2m
+!STANDLO      1 0.4 Models\Bld\NETRAL\viex_biblio02\1024x512\viex_biblio01.c2m Models\Bld\NETRAL\viex_biblio02\1024x512\viex_biblio02.c2m
 MOVEXY #STANDLO    20 0
 MOVEXY #BUILDLO_0  20 0
 MOVEXY #BUILDLO_1  20 0
@@ -31,26 +33,61 @@ VISION 0
 MFARM 200
 ADDSHOTRADIUS 185
 ROUNDLOCK 10
-
-ABILITY ShopMagicCard
+ABILITY ShopMagicCard2
 ABILITY UA_aUseBuilding
-
-ABILITY MC_aAirSupport
-ABILITY MC_aGhostlyPrison
-ABILITY MC_aSummonDjin
-ABILITY MC_aLightningStorm
-ABILITY MC_aTornado
-ABILITY MC_aWhiteMagic_Heal
-ABILITY MC_aStoneFist
-ABILITY MC_aStealLife
-ABILITY MC_aMagmaBall
-ABILITY MagicCardFreeze1
+/T2
+ABILITY MC_aFairyPowder
+ABILITY MC_aDryUp
 ABILITY MC_aAbsorbMagic
-ABILITY MC_aPolymorph
-ABILITY MagicCard
-ABILITY MagicCardInvisibility
+ABILITY MC_aMagicDef
+ABILITY MC_aSummonDjin
+ABILITY MC_aIceSphere
+ABILITY MC_aHolyLight
+ABILITY MC_aAirSupport
+ABILITY MC_aTornado
+ABILITY MC_aLightningEye
+ABILITY MC_aHurricane
+ABILITY MC_aIllusions
+ABILITY MC_aIllusion_S
+ABILITY MC_aArena
+ABILITY MC_aRuneOfFire
+ABILITY MC_aFireStorm
+ABILITY MC_aPostponeDeath
+ABILITY MC_aGolem
+ABILITY MC_aControl
+ABILITY //MC_aPolymorph
+ABILITY MC_aEarthquake
+ABILITY MC_aDesease
+ABILITY MC_aSlot
+ABILITY MC_aSlot
+ABILITY MC_aSlot
+
+ABILITY MC_aArrowOfLife
+ABILITY MC_aSlot
+ABILITY MC_aSlot
+ABILITY MC_aSlot
+/T3
+ABILITY MC_aLightningStorm
+ABILITY MC_aAntiMech
+ABILITY MC_aWhiteMagic_Heal
+ABILITY MC_aSpiritOfBattle
+ABILITY MC_aDeceptionOfDeath
+ABILITY MC_aMagmaBall
+ABILITY MC_aFireControl
+ABILITY MC_aStatueControl
+ABILITY MagicCardAntiMagic
+ABILITY MC_aSlot
+ABILITY MC_aSlot
+ABILITY MC_aSlot
+
+ABILITY MC_aStorm
+ABILITY MC_aSpiritOfWar
+ABILITY MC_aAncientGhosts
 ABILITY MagicCardVortex
-ABILITY MagicCardGolem
+ABILITY MC_aFireRing
+ABILITY MC_aFireball_1
+ABILITY MC_aSlot
+ABILITY MC_aSlot
 CAPTURE
 IMMORTAL
 FORMFACTOR 470
@@ -60,4 +97,5 @@ PortretDisable True
 NOALTINFO
 INVISIBLEONMINIMAP
 IMMORTAL
+ABILITY BA_aDoNotCrush1
 [END]

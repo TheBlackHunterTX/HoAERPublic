@@ -177,7 +177,7 @@ SumUImp(SL)
 SumUPha(SL)
 
 [UPGRADE]
-SUPER(SO)1 SUPERUPG01 #POSITION 2 3 #LEVEL 2 SUPER(SO)1 #COST 3 COAL 335 IRON 335 GOLD 335 #TIME 500
+SUPER(SO)1 SUPERUPG01 #POSITION 2 3 #LEVEL 2 SUPER(SO)1 #COST 3 COAL 335 IRON 335 GOLD 335 #TIME 1000
         DAMAGE WEAPONKIND crushing GRP 22 SolUPri(SL) SolUCle(SL) SolUSli(SL) SolUCat(SL) SolUDra(SL) SolUGSc(SL) SolUSla(SL) SolUTas(SL) SolUSco(SL) SolUSph(SL) SolUFly(SL) SolBTow(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1
 SAPURE(SO)1 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
         DAMAGE WEAPONKIND MEDIK GRP 22 SolUPri(SL) SolUCle(SL) SolUSli(SL) SolUCat(SL) SolUDra(SL) SolUGSc(SL) SolUSla(SL) SolUTas(SL) SolUSco(SL) SolUSph(SL) SolUFly(SL) SolBTow(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1
@@ -188,7 +188,7 @@ SAC(SO)1 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
 SAP(SO)1 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
         DAMAGE WEAPONKIND piercing GRP 22 SolUPri(SL) SolUCle(SL) SolUSli(SL) SolUCat(SL) SolUDra(SL) SolUGSc(SL) SolUSla(SL) SolUTas(SL) SolUSco(SL) SolUSph(SL) SolUFly(SL) SolBTow(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1
 SAD(SO)1 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
-        PROTECTION GRP 4 piercing crushing chopping magical GRP 55 SolBCat(SL) SolUSli(SL) SolBBar(SL) SolBHra(SL) SolBSco(SL) SolBMas(SL) SolBShi(SL) SolBAlt(SL) SolBHou(SL) SolBGol(SL) SolBGo2(SL) SolBGo3(SL) SolBGo4(SL) SolBGo5(SL) SolBGo6(SL) SolBGo7(SL) SolBCry(SL) SolBCr2(SL) SolBCr3(SL) SolBCr4(SL) SolBCr5(SL) SolBCr6(SL) SolBCr7(SL) SolBOre(SL) SolBOr2(SL) SolBOr3(SL) SolBOr4(SL) SolBOr5(SL) SolBOr6(SL) SolBOr7(SL) SolBMel(SL) SolBSkl(SL) SolBAca(SL) SolBTow(SL) SolBDra(SL) SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1 
+        PROTECTION GRP 4 piercing crushing chopping magical GRP 59 SolBCat(SL) SolUSli(SL) SolBBar(SL) SolBHra(SL) SolBSco(SL) SolBMas(SL) SolBShi(SL) SolBAlt(SL) SolBHou(SL) SolBGol(SL) SolBGo2(SL) SolBGo3(SL) SolBGo4(SL) SolBGo5(SL) SolBGo6(SL) SolBGo7(SL) SolBCry(SL) SolBCr2(SL) SolBCr3(SL) SolBCr4(SL) SolBCr5(SL) SolBCr6(SL) SolBCr7(SL) SolBOre(SL) SolBOr2(SL) SolBOr3(SL) SolBOr4(SL) SolBOr5(SL) SolBOr6(SL) SolBOr7(SL) SolBMel(SL) SolBSkl(SL) SolBAca(SL) SolBTow(SL) SolBDra(SL) SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SolBBas(SL) SolBTww(SL) SolBWal(SL) SolBGat(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1 
 SAS(SO)1 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
         SPEED GRP 21 SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUSli(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) 106%
 
@@ -203,7 +203,7 @@ SAC(SO)2 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
 SAP(SO)2 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
         DAMAGE WEAPONKIND piercing GRP 22 SolUPri(SL) SolUCle(SL) SolUCat(SL) SolUSli(SL) SolUDra(SL) SolUGSc(SL) SolUSla(SL) SolUTas(SL) SolUSco(SL) SolUSph(SL) SolUFly(SL) SolBTow(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1
 SAD(SO)2 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
-        PROTECTION GRP 4 piercing crushing chopping magical GRP 55 SolBCat(SL) SolUSli(SL) SolBBar(SL) SolBHra(SL) SolBSco(SL) SolBMas(SL) SolBShi(SL) SolBAlt(SL) SolBHou(SL) SolBGol(SL) SolBGo2(SL) SolBGo3(SL) SolBGo4(SL) SolBGo5(SL) SolBGo6(SL) SolBGo7(SL) SolBCry(SL) SolBCr2(SL) SolBCr3(SL) SolBCr4(SL) SolBCr5(SL) SolBCr6(SL) SolBCr7(SL) SolBOre(SL) SolBOr2(SL) SolBOr3(SL) SolBOr4(SL) SolBOr5(SL) SolBOr6(SL) SolBOr7(SL) SolBMel(SL) SolBSkl(SL) SolBAca(SL) SolBTow(SL) SolBDra(SL) SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1 
+        PROTECTION GRP 4 piercing crushing chopping magical GRP 59 SolBCat(SL) SolUSli(SL) SolBBar(SL) SolBHra(SL) SolBSco(SL) SolBMas(SL) SolBShi(SL) SolBAlt(SL) SolBHou(SL) SolBGol(SL) SolBGo2(SL) SolBGo3(SL) SolBGo4(SL) SolBGo5(SL) SolBGo6(SL) SolBGo7(SL) SolBCry(SL) SolBCr2(SL) SolBCr3(SL) SolBCr4(SL) SolBCr5(SL) SolBCr6(SL) SolBCr7(SL) SolBOre(SL) SolBOr2(SL) SolBOr3(SL) SolBOr4(SL) SolBOr5(SL) SolBOr6(SL) SolBOr7(SL) SolBMel(SL) SolBSkl(SL) SolBAca(SL) SolBTow(SL) SolBDra(SL) SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SolBBas(SL) SolBTww(SL) SolBWal(SL) SolBGat(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1
 SAS(SO)2 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
         SPEED GRP 21 SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUSli(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) 106%
 
@@ -218,7 +218,7 @@ SAC(SO)3 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
 SAP(SO)3 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
         DAMAGE WEAPONKIND piercing GRP 22 SolUPri(SL) SolUCle(SL) SolUCat(SL) SolUSli(SL) SolUDra(SL) SolUGSc(SL) SolUSla(SL) SolUTas(SL) SolUSco(SL) SolUSph(SL) SolUFly(SL) SolBTow(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1
 SAD(SO)3 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
-        PROTECTION GRP 4 piercing crushing chopping magical GRP 55 SolBCat(SL) SolUSli(SL) SolBBar(SL) SolBHra(SL) SolBSco(SL) SolBMas(SL) SolBShi(SL) SolBAlt(SL) SolBHou(SL) SolBGol(SL) SolBGo2(SL) SolBGo3(SL) SolBGo4(SL) SolBGo5(SL) SolBGo6(SL) SolBGo7(SL) SolBCry(SL) SolBCr2(SL) SolBCr3(SL) SolBCr4(SL) SolBCr5(SL) SolBCr6(SL) SolBCr7(SL) SolBOre(SL) SolBOr2(SL) SolBOr3(SL) SolBOr4(SL) SolBOr5(SL) SolBOr6(SL) SolBOr7(SL) SolBMel(SL) SolBSkl(SL) SolBAca(SL) SolBTow(SL) SolBDra(SL) SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1 
+        PROTECTION GRP 4 piercing crushing chopping magical GRP 59 SolBCat(SL) SolUSli(SL) SolBBar(SL) SolBHra(SL) SolBSco(SL) SolBMas(SL) SolBShi(SL) SolBAlt(SL) SolBHou(SL) SolBGol(SL) SolBGo2(SL) SolBGo3(SL) SolBGo4(SL) SolBGo5(SL) SolBGo6(SL) SolBGo7(SL) SolBCry(SL) SolBCr2(SL) SolBCr3(SL) SolBCr4(SL) SolBCr5(SL) SolBCr6(SL) SolBCr7(SL) SolBOre(SL) SolBOr2(SL) SolBOr3(SL) SolBOr4(SL) SolBOr5(SL) SolBOr6(SL) SolBOr7(SL) SolBMel(SL) SolBSkl(SL) SolBAca(SL) SolBTow(SL) SolBDra(SL) SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SolBBas(SL) SolBTww(SL) SolBWal(SL) SolBGat(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1
 SAS(SO)3 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
         SPEED GRP 21 SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUSli(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) 106%
 
@@ -233,7 +233,7 @@ SAC(SO)4 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
 SAP(SO)4 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
         DAMAGE WEAPONKIND piercing GRP 22 SolUPri(SL) SolUCle(SL) SolUCat(SL) SolUSli(SL) SolUDra(SL) SolUGSc(SL) SolUSla(SL) SolUTas(SL) SolUSco(SL) SolUSph(SL) SolUFly(SL) SolBTow(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1
 SAD(SO)4 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
-        PROTECTION GRP 4 piercing crushing chopping magical GRP 55 SolBCat(SL) SolUSli(SL) SolBBar(SL) SolBHra(SL) SolBSco(SL) SolBMas(SL) SolBShi(SL) SolBAlt(SL) SolBHou(SL) SolBGol(SL) SolBGo2(SL) SolBGo3(SL) SolBGo4(SL) SolBGo5(SL) SolBGo6(SL) SolBGo7(SL) SolBCry(SL) SolBCr2(SL) SolBCr3(SL) SolBCr4(SL) SolBCr5(SL) SolBCr6(SL) SolBCr7(SL) SolBOre(SL) SolBOr2(SL) SolBOr3(SL) SolBOr4(SL) SolBOr5(SL) SolBOr6(SL) SolBOr7(SL) SolBMel(SL) SolBSkl(SL) SolBAca(SL) SolBTow(SL) SolBDra(SL) SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1 
+        PROTECTION GRP 4 piercing crushing chopping magical GRP 59 SolBCat(SL) SolUSli(SL) SolBBar(SL) SolBHra(SL) SolBSco(SL) SolBMas(SL) SolBShi(SL) SolBAlt(SL) SolBHou(SL) SolBGol(SL) SolBGo2(SL) SolBGo3(SL) SolBGo4(SL) SolBGo5(SL) SolBGo6(SL) SolBGo7(SL) SolBCry(SL) SolBCr2(SL) SolBCr3(SL) SolBCr4(SL) SolBCr5(SL) SolBCr6(SL) SolBCr7(SL) SolBOre(SL) SolBOr2(SL) SolBOr3(SL) SolBOr4(SL) SolBOr5(SL) SolBOr6(SL) SolBOr7(SL) SolBMel(SL) SolBSkl(SL) SolBAca(SL) SolBTow(SL) SolBDra(SL) SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SolBBas(SL) SolBTww(SL) SolBWal(SL) SolBGat(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1
 SAS(SO)4 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
         SPEED GRP 21 SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUSli(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) 106%
 
@@ -248,7 +248,7 @@ SAC(SO)5 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
 SAP(SO)5 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(S)1 #COST 1 COAL 0 #TIME 1000
         DAMAGE WEAPONKIND piercing GRP 22 SolUPri(SL) SolUCle(SL) SolUCat(SL) SolUSli(SL) SolUDra(SL) SolUGSc(SL) SolUSla(SL) SolUTas(SL) SolUSco(SL) SolUSph(SL) SolUFly(SL) SolBTow(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1
 SAD(SO)5 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
-        PROTECTION GRP 4 piercing crushing chopping magical GRP 55 SolBCat(SL) SolUSli(SL) SolBBar(SL) SolBHra(SL) SolBSco(SL) SolBMas(SL) SolBShi(SL) SolBAlt(SL) SolBHou(SL) SolBGol(SL) SolBGo2(SL) SolBGo3(SL) SolBGo4(SL) SolBGo5(SL) SolBGo6(SL) SolBGo7(SL) SolBCry(SL) SolBCr2(SL) SolBCr3(SL) SolBCr4(SL) SolBCr5(SL) SolBCr6(SL) SolBCr7(SL) SolBOre(SL) SolBOr2(SL) SolBOr3(SL) SolBOr4(SL) SolBOr5(SL) SolBOr6(SL) SolBOr7(SL) SolBMel(SL) SolBSkl(SL) SolBAca(SL) SolBTow(SL) SolBDra(SL) SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1 
+        PROTECTION GRP 4 piercing crushing chopping magical GRP 59 SolBCat(SL) SolUSli(SL) SolBBar(SL) SolBHra(SL) SolBSco(SL) SolBMas(SL) SolBShi(SL) SolBAlt(SL) SolBHou(SL) SolBGol(SL) SolBGo2(SL) SolBGo3(SL) SolBGo4(SL) SolBGo5(SL) SolBGo6(SL) SolBGo7(SL) SolBCry(SL) SolBCr2(SL) SolBCr3(SL) SolBCr4(SL) SolBCr5(SL) SolBCr6(SL) SolBCr7(SL) SolBOre(SL) SolBOr2(SL) SolBOr3(SL) SolBOr4(SL) SolBOr5(SL) SolBOr6(SL) SolBOr7(SL) SolBMel(SL) SolBSkl(SL) SolBAca(SL) SolBTow(SL) SolBDra(SL) SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SolBBas(SL) SolBTww(SL) SolBWal(SL) SolBGat(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1
 SAS(SO)5 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
         SPEED GRP 21 SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUSli(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) 106%
 
@@ -263,7 +263,7 @@ SAC(SO)6 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
 SAP(SO)6 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(S)1 #COST 1 COAL 0 #TIME 1000
         DAMAGE WEAPONKIND piercing GRP 22 SolUPri(SL) SolUCle(SL) SolUCat(SL) SolUSli(SL) SolUDra(SL) SolUGSc(SL) SolUSla(SL) SolUTas(SL) SolUSco(SL) SolUSph(SL) SolUFly(SL) SolBTow(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1
 SAD(SO)6 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
-        PROTECTION GRP 4 piercing crushing chopping magical GRP 55 SolBCat(SL) SolUSli(SL) SolBBar(SL) SolBHra(SL) SolBSco(SL) SolBMas(SL) SolBShi(SL) SolBAlt(SL) SolBHou(SL) SolBGol(SL) SolBGo2(SL) SolBGo3(SL) SolBGo4(SL) SolBGo5(SL) SolBGo6(SL) SolBGo7(SL) SolBCry(SL) SolBCr2(SL) SolBCr3(SL) SolBCr4(SL) SolBCr5(SL) SolBCr6(SL) SolBCr7(SL) SolBOre(SL) SolBOr2(SL) SolBOr3(SL) SolBOr4(SL) SolBOr5(SL) SolBOr6(SL) SolBOr7(SL) SolBMel(SL) SolBSkl(SL) SolBAca(SL) SolBTow(SL) SolBDra(SL) SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1 
+        PROTECTION GRP 4 piercing crushing chopping magical GRP 59 SolBCat(SL) SolUSli(SL) SolBBar(SL) SolBHra(SL) SolBSco(SL) SolBMas(SL) SolBShi(SL) SolBAlt(SL) SolBHou(SL) SolBGol(SL) SolBGo2(SL) SolBGo3(SL) SolBGo4(SL) SolBGo5(SL) SolBGo6(SL) SolBGo7(SL) SolBCry(SL) SolBCr2(SL) SolBCr3(SL) SolBCr4(SL) SolBCr5(SL) SolBCr6(SL) SolBCr7(SL) SolBOre(SL) SolBOr2(SL) SolBOr3(SL) SolBOr4(SL) SolBOr5(SL) SolBOr6(SL) SolBOr7(SL) SolBMel(SL) SolBSkl(SL) SolBAca(SL) SolBTow(SL) SolBDra(SL) SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SolBBas(SL) SolBTww(SL) SolBWal(SL) SolBGat(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1
 SAS(SO)6 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
         SPEED GRP 21 SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUSli(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) 106%
 
@@ -278,7 +278,7 @@ SAC(SO)7 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
 SAP(SO)7 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(S)1 #COST 1 COAL 0 #TIME 1000
         DAMAGE WEAPONKIND piercing GRP 22 SolUPri(SL) SolUCle(SL) SolUCat(SL) SolUSli(SL) SolUDra(SL) SolUGSc(SL) SolUSla(SL) SolUTas(SL) SolUSco(SL) SolUSph(SL) SolUFly(SL) SolBTow(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1
 SAD(SO)7 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
-        PROTECTION GRP 4 piercing crushing chopping magical GRP 55 SolBCat(SL) SolUSli(SL) SolBBar(SL) SolBHra(SL) SolBSco(SL) SolBMas(SL) SolBShi(SL) SolBAlt(SL) SolBHou(SL) SolBGol(SL) SolBGo2(SL) SolBGo3(SL) SolBGo4(SL) SolBGo5(SL) SolBGo6(SL) SolBGo7(SL) SolBCry(SL) SolBCr2(SL) SolBCr3(SL) SolBCr4(SL) SolBCr5(SL) SolBCr6(SL) SolBCr7(SL) SolBOre(SL) SolBOr2(SL) SolBOr3(SL) SolBOr4(SL) SolBOr5(SL) SolBOr6(SL) SolBOr7(SL) SolBMel(SL) SolBSkl(SL) SolBAca(SL) SolBTow(SL) SolBDra(SL) SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1 
+        PROTECTION GRP 4 piercing crushing chopping magical GRP 59 SolBCat(SL) SolUSli(SL) SolBBar(SL) SolBHra(SL) SolBSco(SL) SolBMas(SL) SolBShi(SL) SolBAlt(SL) SolBHou(SL) SolBGol(SL) SolBGo2(SL) SolBGo3(SL) SolBGo4(SL) SolBGo5(SL) SolBGo6(SL) SolBGo7(SL) SolBCry(SL) SolBCr2(SL) SolBCr3(SL) SolBCr4(SL) SolBCr5(SL) SolBCr6(SL) SolBCr7(SL) SolBOre(SL) SolBOr2(SL) SolBOr3(SL) SolBOr4(SL) SolBOr5(SL) SolBOr6(SL) SolBOr7(SL) SolBMel(SL) SolBSkl(SL) SolBAca(SL) SolBTow(SL) SolBDra(SL) SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SolBBas(SL) SolBTww(SL) SolBWal(SL) SolBGat(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) +1
 SAS(SO)7 SUPER1 #POSITION 1 4 #LEVEL 2 SUPER(SO)1 #COST 1 COAL 0 #TIME 1000
         SPEED GRP 21 SolUSla(SL) SolUTas(SL) SolUPri(SL) SolUCle(SL) SolUSco(SL) SolUSli(SL) SolUGSc(SL) SolUSph(SL) SolUCat(SL) SolUDra(SL) SolUFly(SL) SumUPha(SL) SumUImp(SL) SumUVas(SL) SumURid(SL) SumURat(SL) SumUMaE(SL) SumUHar(SL) SumUDrc(SL) SumUDae(SL) SumUBan(SL) 106%
 
@@ -301,9 +301,9 @@ SolBOre(SO)INSIDE3 UNDBCRY(UN)INSIDE_02  #POSITION 0 3 #LEVEL 3 SolBCry(UN)INSID
         CHANGEMD SolBOr3(SL)
 SolBOre(SO)INSIDE4 UNDBCRY(UN)INSIDE_03  #POSITION 0 3 #LEVEL 4 SolBCry(UN)INSIDE #COST 2 WOOD 2300 GOLD 1450 #TIME 500
         CHANGEMD SolBOr4(SL)
-SolBOre(SO)INSIDE5 UNDBCRY(UN)INSIDE_04  #POSITION 0 3 #LEVEL 5 SolBCry(UN)INSIDE #COST 2 WOOD 4400 IRON 3000 #TIME 500
+SolBOre(SO)INSIDE5 UNDBCRY(UN)INSIDE_04  #POSITION 0 3 #LEVEL 5 SolBCry(UN)INSIDE #COST 2 WOOD 4400 IRON 4000 #TIME 500
         CHANGEMD SolBOr5(SL)  
-SolBOre(SO)INSIDE6 UNDBCRY(UN)INSIDE_05  #POSITION 0 3 #LEVEL 6 SolBCry(UN)INSIDE #COST 2 GOLD 10200 IRON 7000 #TIME 500
+SolBOre(SO)INSIDE6 UNDBCRY(UN)INSIDE_05  #POSITION 0 3 #LEVEL 6 SolBCry(UN)INSIDE #COST 2 WOOD 10200 IRON 7000 #TIME 500
         CHANGEMD SolBOr6(SL)
 SolBOre(SO)INSIDE7 UNDBCRY(UN)INSIDE_06  #POSITION 0 3 #LEVEL 7 SolBCry(UN)INSIDE #COST 1 GOLD 20800 #TIME 500
         CHANGEMD SolBOr7(SL)
@@ -392,17 +392,17 @@ SolUScoD2 HOUND_D2S #POSITION 0 3 #LEVEL 4 SolUScoD2 #COST 1 IRON 900 #TIME 3000
 SolUScoD3 HOUND_D3S #POSITION 0 3 #LEVEL 4 SolUScoD3 #COST 1 IRON 1400 #TIME 3500
        PROTECTION GRP 4 piercing crushing chopping magical SolUSco(SL) +4
 
-SolUGScA1 HOUND_A1 #POSITION 1 2 #LEVEL 2 SolUGScA1 #COST 3 FOOD 500 GOLD 250 COAL 250 #TIME 4000
+SolUGScA1 HOUND_A1S #POSITION 1 2 #LEVEL 2 SolUGScA1 #COST 3 FOOD 500 GOLD 250 COAL 250 #TIME 4000
        DAMAGE WEAPONKIND GRP 1 crushing SolUGSc(SL) +2
-SolUGScA1P HOUND_A1 #POSITION 1 2 #LEVEL 2 SolUGScA1 #COST 1 FOOD 0 #TIME 4000
+SolUGScA1P HOUND_A1S #POSITION 1 2 #LEVEL 2 SolUGScA1 #COST 1 FOOD 0 #TIME 4000
        DAMAGE WEAPONKIND GRP 1 piercing SolUGSc(SL) +3
-SolUGScA2 HOUND_A2 #POSITION 1 2 #LEVEL 2 SolUGScA2 #COST 3 FOOD 1250 GOLD 500 COAL 500 #TIME 4500
+SolUGScA2 HOUND_A1S #POSITION 1 2 #LEVEL 2 SolUGScA2 #COST 3 FOOD 1250 GOLD 500 COAL 500 #TIME 4500
        DAMAGE WEAPONKIND GRP 1 crushing SolUGSc(SL) +4
-SolUGScA2P HOUND_A2 #POSITION 1 2 #LEVEL 2 SolUGScA2 #COST 1 FOOD 0 #TIME 4500
+SolUGScA2P HOUND_A1S #POSITION 1 2 #LEVEL 2 SolUGScA2 #COST 1 FOOD 0 #TIME 4500
        DAMAGE WEAPONKIND GRP 1 piercing SolUGSc(SL) +5
-SolUGScA3 HOUND_A3 #POSITION 1 2 #LEVEL 2 SolUGScA3 #COST 3 FOOD 2000 GOLD 750 COAL 1000 #TIME 5000
+SolUGScA3 HOUND_A1S #POSITION 1 2 #LEVEL 2 SolUGScA3 #COST 3 FOOD 2000 GOLD 750 COAL 1000 #TIME 5000
        DAMAGE WEAPONKIND GRP 1 crushing SolUGSc(SL) +6
-SolUGScA3P HOUND_A3 #POSITION 1 2 #LEVEL 2 SolUGScA3 #COST 1 FOOD 0 #TIME 5000
+SolUGScA3P HOUND_A1S #POSITION 1 2 #LEVEL 2 SolUGScA3 #COST 1 FOOD 0 #TIME 5000
        DAMAGE WEAPONKIND GRP 1 piercing SolUGSc(SL) +7
 SolUGScD1 HOUND_D1S #POSITION 1 3 #LEVEL 4 SolUGScD1 #COST 1 GOLD 500 #TIME 4000
        PROTECTION GRP 4 piercing crushing chopping magical SolUGSc(SL) +2
@@ -428,15 +428,15 @@ SolUDraH SOLUDRAH #POSITION 5 2 #LEVEL 2 SolUDraH #COST 3 FOOD 2400 IRON 800 COA
 SolUFlyD SOLUFLYD #POSITION 6 2 #LEVEL 2 SolUFlyD #COST 3 WOOD 4000 GOLD 750 IRON 1250 #TIME 4000
        PROTECTION GRP 4 piercing crushing chopping magical GRP 1 SolUFly(SL) +10
 	   
-SolUScoD SOLUSCOD #POSITION 0 3 #LEVEL 2 SolUScoD #COST 2 STONE 1800 IRON 1400 #TIME 2000
+SolUScoD SOLUSCOD #POSITION 0 3 #LEVEL 2 SolUScoD #COST 2 STONE 1800 IRON 1400 #TIME 4000
        PROTECTION GRP 4 piercing crushing chopping magical GRP 2 SolUSco(SL) SolUGSc(SL) +4
-SolUSlaR SOLUSLAR #POSITION 1 3 #LEVEL 2 SolUSlaR #COST 5 FOOD 4800 WOOD 12800 GOLD 3000 IRON 1800 COAL 1200 #TIME 4000
+SolUSlaR SOLUSLAR #POSITION 1 3 #LEVEL 2 SolUSlaR #COST 5 FOOD 4800 WOOD 12800 GOLD 3000 IRON 1800 COAL 1200 #TIME 8000
        ATTSPEEDSCALE GRP 9 SolUTas(SL) SolUSli(SL) SolUSla(SL) SolUSco(SL) SolUGSc(SL) SolUCle(SL) SolUPri(SL) SolUSph(SL) SolUDra(SL) +20%
 SolUSlaRA SOLUSLARA #POSITION 1 3 #LEVEL 2 SolUSlaRA #COST 1 FOOD 0 #TIME 4000
        DAMAGE WEAPONKIND GRP 4 magical piercing crushing chopping GRP 9 SolUTas(SL) SolUSli(SL) SolUSla(SL) SolUSco(SL) SolUGSc(SL) SolUCle(SL) SolUPri(SL) SolUSph(SL) SolUDra(SL) +1
-SolHraMU SOLHRAMU #POSITION 2 3 #LEVEL 2 SolHraMU #COST 2 GOLD 1200 IRON 800 #TIME 4000
-	   BUILD GRP 2 SolUPri(SL) SolUCle(SL) -25%
-SolUSlaA SOLUSLAA #POSITION 3 3 #LEVEL 2 SolUSlaA #COST 2 STONE 300 IRON 400 #TIME 2000
+SolHraMU SOLHRAMU #POSITION 2 3 #LEVEL 2 SolHraMU #COST 2 GOLD 1200 IRON 1500 #TIME 5000
+	   BUILD GRP 2 SolUPri(SL) SolUCle(SL) -50%
+SolUSlaA SOLUSLAA #POSITION 3 3 #LEVEL 2 SolUSlaA #COST 2 STONE 500 IRON 750 #TIME 1000
        DAMAGE WEAPONKIND GRP 1 chopping GRP 1 SolUSla(SL) +10
 SolUSlaS SOLUSLAS #POSITION 4 3 #LEVEL 2 SolUSlaS #COST 4 FOOD 400 STONE 500 IRON 1000 GOLD 800 #TIME 1000
        EFFECT_WOOD  +50%
@@ -444,8 +444,13 @@ SolUSlaW SOLUSLAW #POSITION 4 4 #LEVEL 2 SolUSlaW #COST 1 STONE 0 #TIME 1000
        EFFECT_STONE  +50%
 SolUDraA SOLUDRAA #POSITION 5 3 #LEVEL 2 SolUDraA #COST 2 GOLD 1200 COAL 1500 #TIME 5000
        DAMAGE WEAPONKIND GRP 1 magical SolUDra(SL) +9
-SolUCatR SOLUCATR #POSITION 6 3 #LEVEL 2 SolUCatR #COST 2 IRON 500 WOOD 2000 #TIME 2000
+SolUCatR SOLUCATR #POSITION 6 3 #LEVEL 2 SolUCatR #COST 2 IRON 500 WOOD 1000 #TIME 3500
        ATTRANGE ATTINDEX 0 GRP 1 SolUCat(SL) +25%
+	   
+SolBAll(SL)D SOLBALL(SL)D #POSITION 7 2 #LEVEL 2 SOLBALL(SL)D #COST 2 WOOD 4800 STONE 1600 #TIME 5000
+        PROTECTION GRP 4 piercing crushing chopping magical GRP 17 SolBCat(SL) SolBBar(SL) SolBHra(SL) SolBSco(SL) SolBMas(SL) SolBShi(SL) SolBAlt(SL) SolBHou(SL) SolBMel(SL) SolBSkl(SL) SolBAca(SL) SolBTow(SL) SolBDra(SL) SolBBas(SL) SolBTww(SL) SolBWal(SL) SolBGat(SL) +5 
+
+	   
 	   
 [UPGRADEPLACE]
 SolBCat(SL) 7
@@ -499,7 +504,7 @@ SolUGScD1
 SolUGScD2
 SolUGScD3
 
-SolBAca(SL) 14
+SolBAca(SL) 15
 SolUAllH
 SolUTreT
 SolUTreP
@@ -514,6 +519,7 @@ SolUSlaA
 SolUSlaS
 SolUDraA
 SolUCatR
+SolBAll(SL)D
 
 SolBGol(SL) 1
 SolBGol(SO)INSIDE
@@ -580,6 +586,7 @@ SolUSlaA
 SolUSlaS
 SolUDraA
 SolUCatR
+SolBAll(SL)D
 SolBOre(SO)INSIDE 
 SolBOre(SO)INSIDE3
 SolBOre(SO)INSIDE4

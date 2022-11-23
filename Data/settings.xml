@@ -19,7 +19,7 @@
   <AutoBrightDegree>1.594595</AutoBrightDegree>
   <AutoBrightAdaptSpeed>20.000000</AutoBrightAdaptSpeed>
   <D></D>
-  <RequiredMsPerFrame>25</RequiredMsPerFrame>
+  <RequiredMsPerFrame>30</RequiredMsPerFrame>
   <ScrollSpeed>8</ScrollSpeed>
   <MusicPlayMode>1</MusicPlayMode>
   <SleepTimeForDemo>100</SleepTimeForDemo>

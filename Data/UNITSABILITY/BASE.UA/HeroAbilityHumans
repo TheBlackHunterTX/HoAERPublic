@@ -1,5 +1,4 @@
 <HeroAbility>
- <Lives>2</Lives>
  <OnDieUnitAbility>
   <ClassName>NewAbility</ClassName>
   <RefName>HA_OnDie</RefName>

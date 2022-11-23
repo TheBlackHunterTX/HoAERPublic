@@ -1,0 +1,141 @@
+<window name="model_editor_toolbar" ext="0 680 1024 60" bgColor="0x555555FF" halign="parent" valign="bottom"> 
+	
+	<button		name		= "btnReset"			
+				text		= "Reset"			
+				ext			= "10 10 40 40" 
+				bgColor		= "0x22FFFFFF"	
+				textColor	= "0xAAFFFFAA"
+				spritepack  = "scripts\kangaroo_interface"
+				spriteid    = "0"
+				drawborder  = "false"
+				pressed		= "ResetModel"/>
+				
+	<button		name		= "btnLoad"			
+				text		= "Load"			
+				ext			= "50 10 40 40" 
+				bgColor		= "0x22FFFFFF"	
+				textColor	= "0xAAFFFFAA"
+				spritepack  = "scripts\kangaroo_interface"
+				spriteid    = "0"
+				drawborder  = "false"
+				pressed		= "LoadModel"/>
+	
+	<button		name		= "btnSave"			
+				text		= "Save"			
+				ext			= "90 10 40 40" 
+				bgColor		= "0x22FFFFFF"	
+				textColor	= "0xAAFFFFAA"
+				spritepack  = "scripts\kangaroo_interface"
+				spriteid    = "0"
+				drawborder  = "false"
+				visible     = "<=ModelLoaded"
+				pressed		= "SaveModel"/>
+	
+	<button		name		= "btnLoadAnimation"			
+				text		= "Anim"			
+				ext			= "150 10 40 40" 
+				bgColor		= "0x22FFFFFF"	
+				textColor	= "0xAAFFFFAA"
+				spritepack  = "scripts\kangaroo_interface"
+				spriteid    = "0"
+				drawborder  = "false"
+				visible     = "<=ModelLoaded"
+				pressed		= "LoadAnimation"/>
+				
+	<button		name		= "btnPlay"			
+				text		= "Play"			
+				ext			= "190 10 40 40" 
+				bgColor		= "0x22FFFFFF"	
+				textColor	= "0xAAFFFFAA"
+				spritepack  = "scripts\kangaroo_interface"
+				spriteid    = "0"
+				drawborder  = "false"
+				visible     = "<=AnimLoaded"
+				pressed		= "Play"/>
+	
+	<button		name		= "btnPause"			
+				text		= "Pause"			
+				ext			= "230 10 40 40" 
+				bgColor		= "0x22FFFFFF"	
+				textColor	= "0xAAFFFFAA"
+				spritepack  = "scripts\kangaroo_interface"
+				spriteid    = "0"
+				drawborder  = "false"
+				visible     = "<=AnimPlayed"
+				pressed		= "Pause"/>
+				
+	<button		name		= "btnStop"			
+				text		= "Stop"			
+				ext			= "270 10 40 40" 
+				bgColor		= "0x22FFFFFF"	
+				textColor	= "0xAAFFFFAA"
+				spritepack  = "scripts\kangaroo_interface"
+				spriteid    = "0"
+				drawborder  = "false"
+				visible     = "<=AnimPlayed"
+				pressed		= "Stop"/>
+
+        <button		name		= "btnConvert"			
+				text		= "Conv"			
+				ext			= "310 10 40 40" 
+				bgColor		= "0x22FFFFFF"	
+				textColor	= "0xAAFFFFAA"
+				spritepack  = "scripts\kangaroo_interface"
+				spriteid    = "0"
+				drawborder  = "false"
+				pressed		= "ConvertSkin2GPU"/>
+	
+	<slider		name		= "slEffectTime"			
+				ext			= "520 5 500 15"
+				visible     = "<=AnimLoaded"
+				position    = "<=>CurAnimTimeRatio"/>
+				
+	<label		name		= "lbModelTransparency"			
+				ext			= "620 32 40 15"
+				visible     = "<=ModelLoaded"
+				textColor	= "0xFFFFFFFF"
+				text        = "Opacity:"/>
+				
+	<slider		name		= "slModelTransparency"			
+				ext			= "670 27 123 15"
+				visible     = "<=ModelLoaded"
+				position    = "1.0"
+				position    = "<=>ModelTransparency"/>
+				
+	<label		name		= "lbModelColor"			
+				ext			= "633 42 40 12"
+				visible     = "<=ModelLoaded"
+				textColor	= "0xFFFFFFFF"
+				text        = "Color:"/>
+				
+	<colorbox	name		= "cebModelColor"			
+				ext			= "670 42 90 12"
+				visible     = "<=ModelLoaded"
+				textColor	= "0xFFDDDDDD"
+				colorvalue  = "0xFFFFFFFF"
+				colorvalue  = "<=>ModelColor"/>
+				
+	<editbox	name		= "ebAnimSpeed"			
+				ext			= "800 25 50 12"
+				bgColor     = "0x22ÑÑÑÑÑÑ"
+				textColor	= "0xFFFFFFFF"
+				visible     = "<=AnimLoaded"
+				text        = "<=>AnimSpeed"/>
+				
+	<checkbutton    name        = "cbShowBackdrop"
+	                ext         = "520 25 100 14"
+	                text        = "Show Backdrop"
+	                textColor	= "0xFFFFFFFF"
+	                checked     = "false"
+	                bgColor     = "0x225555FF"
+	                checked     = "<=>ShowBackdrop"/>
+	                
+	<checkbutton    name        = "cbShowGrid"
+	                ext         = "520 38 100 14"
+	                text        = "Show Grid"
+	                textColor	= "0xFFFFFFFF"
+	                bgColor     = "0x225555FF"
+	                checked     = "true"
+	                checked     = "<=>ShowGrid"/>
+				
+</window>

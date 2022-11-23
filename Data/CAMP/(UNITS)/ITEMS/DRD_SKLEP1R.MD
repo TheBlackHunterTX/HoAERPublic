@@ -17,10 +17,8 @@ EXPLMEDIA BUILDING 5
 BUILDBAR -3 0 3 0
 VISION 0
 ABILITY Resource
-ABILITY Drop_ItemDropMajor
-ABLDROP Drop_ItemDropMajor 10
-ABILITY Drop_BottleDropRelic
-ABLDROP Drop_BottleDropRelic 5
+ABILITY Drop_BottleDropTreasure
+ABLDROP Drop_BottleDropTreasure 5
 
 CAPTURE
 PortretDisable True

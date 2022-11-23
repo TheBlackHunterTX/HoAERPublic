@@ -29,9 +29,7 @@
       <BaseClassUnitType>
        <UnitType>GobUChi(GO)</UnitType>
       </BaseClassUnitType>
-      <BaseClassUnitType>
-       <UnitType>TDGobUChi(TD)</UnitType>
-      </BaseClassUnitType>
+      <BaseClassUnitType></BaseClassUnitType>
       <BaseClassUnitType>
        <UnitType>GoM1Chi(MI)</UnitType>
       </BaseClassUnitType>
@@ -44,15 +42,9 @@
       <BaseClassUnitType>
        <UnitType>GobUWar(GO)</UnitType>
       </BaseClassUnitType>
-      <BaseClassUnitType>
-       <UnitType>TDGobUGob(TD)</UnitType>
-      </BaseClassUnitType>
-      <BaseClassUnitType>
-       <UnitType>TDGobUSha(TD)</UnitType>
-      </BaseClassUnitType>
-      <BaseClassUnitType>
-       <UnitType>TDGobUWar(TD)</UnitType>
-      </BaseClassUnitType>
+      <BaseClassUnitType></BaseClassUnitType>
+      <BaseClassUnitType></BaseClassUnitType>
+      <BaseClassUnitType></BaseClassUnitType>
       <BaseClassUnitType>
        <UnitType>GoM1Sha(MI)</UnitType>
       </BaseClassUnitType>

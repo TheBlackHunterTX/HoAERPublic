@@ -8,12 +8,12 @@ ICONANM 0 0 interf3\UnitPortrets\joker 1 60 1
 *DEATH  1 60 0.0003 Models\Effects\MagicCard\StatueOfRage\StatueOfRage_mUnit.C2M Models\Effects\MagicCard\StatueOfRage\StatueOfRage_aUnit.C2M 128 0.0 1.0
 ADDHDIR #DEATH 0 128
 GEOMETRY 1 20 0
-LIFE     300
+LIFE     400
 MATHERIAL 1 BODY
 MOTIONSTYLE SINGLESTEP
 ROTATE 8
 ADDSHOTRADIUS 20
-PROTECTION 4 chopping 3 magical 0 piercing 3 crushing 3         
+PROTECTION 4 chopping 0 magical 0 piercing 0 crushing 0         
 UNITRADIUS 32
 ZPOINTS 35 35
 ARMRADIUS 2000
@@ -24,4 +24,5 @@ NOCOLLISION
 SELTYPE SelBig 1 1
 NO_HUNGRY
 NIKAKIXMAM
+NOFARM
 [END]

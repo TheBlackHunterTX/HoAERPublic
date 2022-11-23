@@ -1,6 +1,8 @@
 <ClassArray.OneGrassType>
  <OneGrassType>
   <ColorModulator>FF57541E</ColorModulator>
+  <TextureID>Textures\!trava.dds</TextureID>
+  <ShadowTextureID>Textures\!trava_bg.dds</ShadowTextureID>
   <Frequency>0.630631</Frequency>
  </OneGrassType>
  <OneGrassType>

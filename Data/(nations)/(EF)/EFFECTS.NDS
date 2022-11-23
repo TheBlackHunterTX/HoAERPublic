@@ -8,6 +8,7 @@ EffPolymorphDrake(EF) 	EffPolymorphDrake
 EffGho(EF)		EffGho
 EffTas(EF)		EffTas
 EffUVas(EF)             EffUVas
+EffSeed1(EF) 		EffSeed1
 EffSeed(EF) 		EffSeed
 EffSeedM(EF) 		EffSeedM
 EffSeedShell(EF) 	EffSeedShell
@@ -48,7 +49,7 @@ Spell46-54(EF)		Spell46-54
 Spell55-63(EF)		Spell55-63
 Spell64-68(EF)		Spell64-68
 [COUNTRY]
-EFFECTS 50
+EFFECTS 51
 #units
 Viewer_Main(EF)
 Viewer(EF)
@@ -60,7 +61,8 @@ EffGho(EF)
 EffTas(EF)
 EffUVas(EF)
 EffPolymorphBoar(EF) 	
-EffPolymorphDrake(EF) 	
+EffPolymorphDrake(EF)
+EffSeed1(EF) 	
 EffSeed(EF)
 EffSeedM(EF)
 EffSeedShell(EF)

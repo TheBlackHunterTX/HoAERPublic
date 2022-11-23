@@ -1,8 +1,8 @@
 NAME 			Dwa1Enc
 ICON 			U_FrnOf17
-ICONEX 0 0 interf3\UnitPortrets\dwarf_back 0
-ICONANM 0 0 interf3\UnitPortrets\dwarf_back 1 44 1
-ICONANM 0 0 interf3\UnitPortrets\dwarf 1 1 0
+ICONEX 0 0 interf3\UnitPortrets\Devils_back 0
+ICONANM 0 0 interf3\UnitPortrets\Devils_back 1 29 1
+ICONANM 0 0 interf3\UnitPortrets\Devils 0 0 1
 USERLC 			0 G\DwrSorC SHADOW -123 -148
 USERLC 			1 G\DwrSorG SHADOW -123 -148
 USERLC 			3 G\DwrSorS1 SHADOW -123 -148
@@ -30,6 +30,7 @@ ADD_ATTACK_RADIUS 	0 128
 SEARCH_ENEMY_RADIUS 	500
 MATHERIAL 		1 BODY
 CANKILL 		6 BODY BUILDING FLY WOOD STONE IRON
+ATTMASK 0 6 BODY BUILDING FLY WOOD STONE IRON
 PRICE 			3 COAL 30 GOLD 50 IRON 50
 WEAPONKIND 		0 magical
 WEAPON 			0 DwarfEnchanter1

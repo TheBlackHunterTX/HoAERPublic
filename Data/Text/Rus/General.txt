@@ -313,9 +313,9 @@ CSNORS Не достаточно ресурсов для стрельбы
 #TEXTINTRO From ancient times the true history of the land of elves has been covered by a carpet of tranquility. Until the time when this once serene land was deluged from within by the malicious hordes of undead warriors.\Whilst still a young elf of twenty-eight summers, Elhant dared to challenge the forces of evil and attempt to rescue the world from the clutches of eternal darkness. Although being uncertain about the actual powers of the undead and naive to the dangers ahead, Elhant was confident. He had twice won the ritual duel with death, and his powers were now stronger then ever. His mastery of the fiery Khaelgor and composite Longbow was unmatched. Clad in the green robe of his Strain, he was the only one here, at the outskirts of the elven capital, to stand steadfast against the remnants of the undead legion.\The buds of their evil empire are swelling across this region. Elhant must sever them swiftly.
 #Options_Quality_No Выключено
 #PPH_Random Случайно
-#PPH_Melee Воин
-#PPH_Range Убийца
-#PPH_Mage Маг
+#PPH_Melee Воитель
+#PPH_Range Рейнджер
+#PPH_Mage Чародей
 
 `~ ~
 #MultiRoom_MapList Список карт
@@ -378,10 +378,10 @@ LOOKSTX Ожидает
 NOPALTX Вышел
 DISCNTX Отключен
 ALT-TAB Переключился
-PAUSE Пауза :D
-PAUSE_RNDM0 Пауза :D
-PAUSE_RNDM1 Тоже Пауза :D
-PAUSE_RNDM2 ЛОООЛ Пауза :D
+PAUSE Пауза
+PAUSE_RNDM0 Пауза
+PAUSE_RNDM1 Пауза
+PAUSE_RNDM2 Пауза
 You_cant_start_game Вы не можете начать игру:
 #too_many_players_on_map - слишком много игроков
 #you_are_alone_in_room - недостаточно игроков
@@ -420,7 +420,7 @@ INHIN5 Запретить получение сообщений от этого игрока
 INHIN4 Отослать персональное сообщение этому игроку
 INHIN6 Разрешить получение сообщений от этого игрока
 
-#COPYRIGHTS2 Heroes of Annihilated Empires REBORN R4.01 Beta\Наш сайт hoaer.org
+#COPYRIGHTS2 Heroes of Annihilated Empires REBORN R4.02 Beta\Наш сайт hoaer.org
 Герои Уничтоженных Империй © 2006 GSC Game World,\ GSC World Publishing. Все права защищены.
 Heroes of Annihilated Empires © 2006 GSC Game World,\ GSC World Publishing. All rights reserved.
 #COPYRIGHTS1

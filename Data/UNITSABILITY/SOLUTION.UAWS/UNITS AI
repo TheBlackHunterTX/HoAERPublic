@@ -211,5 +211,11 @@
     <RefName>suAIS_AuraOfFire</RefName>
    </Item>
   </OneClassItem>
+  <OneClassItem>
+   <Item>
+    <ClassName>NewAbility</ClassName>
+    <RefName>UA_aPegasEvasion</RefName>
+   </Item>
+  </OneClassItem>
  </Items>
 </OneClassFolder>

@@ -1,51 +1,56 @@
 NAME SolUSco
 ICON U_FrnOf17
-ICONEX 0 0 interf3\UnitPortrets\Sol_back 0
+/ICONEX 0 0 interf3\UnitPortrets\Sol_back 0
 ICONANM 0 0 interf3\UnitPortrets\Sol_back 1 35 1
-ICONANM 0 0 interf3\UnitPortrets\Sol 5 5 0
-!STAND          1 0.3 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_stand1.C2M
+ICONANM 0 0 interf3\UnitPortrets\Scorp 0 121 1
+!STAND          1 0.108 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_stand1.C2M
 ADDHDIR #STAND 0 128
-!REST          60 0.3 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_stand1.C2M
+!REST          60 0.108 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_stand1.C2M
 ADDHDIR #REST 0 128
-!REST          60 0.3 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_stand2.C2M
+!REST          60 0.108 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_stand2.C2M
 ADDHDIR #REST 0 128
-!MOTION_L      27 0.3 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_walk1.C2M
+!MOTION_L      27 0.108 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_walk1.C2M
 ADDHDIR #MOTION_L 0 128
-/!MOTION_L      40 0.3 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_walk2.C2M
+/!MOTION_L      40 0.108 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_walk2.C2M
 /ADDHDIR #MOTION_L 0 128
-!PSTAND        1  0.3 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_attack1.C2M
+!PSTAND        1  0.108 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_attack1.C2M
 ADDHDIR #PSTAND 0 128 
-!ATTACK        24 0.3 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_attack1.C2M
+!ATTACK1       30 0.108 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_attack1.C2M
+ADDHDIR #ATTACK1 0 128
+SETACTIVEPOINT0 #ATTACK1 9
+!ATTACK        40 0.108 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_attack2.C2M
 ADDHDIR #ATTACK 0 128
 SETACTIVEPOINT0 #ATTACK 9
-!ATTACK        35 0.3 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_attack2.C2M
-ADDHDIR #ATTACK 0 128
-SETACTIVEPOINT0 #ATTACK 9
-!DEATH         70 0.3 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_death1.C2M
+!DEATH         70 0.108 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_death1.C2M
 ADDHDIR #DEATH 0 128
-!DEATH         80 0.3 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_death2.C2M
+!DEATH         80 0.108 Models\Units\SolUSco\SolUScoM.C2M Models\Units\SolUSco\SolUScoA_death2.C2M
 ADDHDIR #DEATH 0 128
-GEOMETRY 1 32 40
-SPEEDSCALE             150
-DAMAGE   0 45
-LIFE     1000
-RECTANGLE 0 2 60 60
-ATTACK_RADIUS 0 0 100
-ATTACK_PAUSE 0 0
+GEOMETRY 1 14 43
+DAMAGE   1 20
+DAMAGE   0 12
+LIFE     260
+RECTANGLE 0 2 30 40
+ATTACK_RADIUS 1 0 160
+ATTACK_PAUSE 1 100
+ATTACK_RADIUS 0 0 80
+ATTACK_PAUSE 0 10
+NOPAUSEDATTACK 0
 SEARCH_ENEMY_RADIUS 500
-DET_RADIUS 0 0 7000
+DET_RADIUS 		1 57 7000
+DET_RADIUS 		0 0 8000
 MATHERIAL 1 BODY
-CANKILL 3 BODY BUILDING WOOD 
-PRICE 2 FOOD 200 COAL 500
-WEAPONKIND 0 piercing
-WEAPON 0 uw_scorp_big
-BUILDSTAGES 3600
+CANKILL 3 BODY BUILDING WOOD
+ATTMASK 0 3 BODY BUILDING WOOD 
+ATTMASK 1 3 BODY BUILDING WOOD
+PRICE 3 FOOD 30 GOLD 20 IRON 20
+WEAPONKIND 1 piercing
+WEAPONKIND 0 chopping
+WEAPON 1 UW_wSolUSco
+BUILDSTAGES 400
+BUILDHOTKEY		W
+ABILITY UW_aSolUSco_Slow
 VISION 1
-SOUND 3 #DEATH death_scorpion
-SOUND 9 #ATTACK attack_dubina
-!TEMP  1 24 models\empty\empty.c2m models\empty\emptya.c2m
-ANMEXT #ATTACK #TEMP 0 0 0 1 0
-SOUND 8 #TEMP attack_scorpion
+//SOUND 3 #DEATH DEASE
 STANDGROUND
 INFO 0 28
 VES 30
@@ -55,29 +60,37 @@ MOVEBREAK #MOTION_L
 BREAKANIMATION #REST
 BREAKANIMATION #PSTAND
 BREAKANIMATION #STAND
+BREAKANIMATION #ATTACK
 ADDSHOTRADIUS 30
-PROTECTION 2 chopping 3 piercing 18
+PROTECTION 4 crushing 6 magical 7 piercing 10 chopping 6
 CANSTORM
-EXPA 400
-KILLERAWARD             GOLD 177
-KILLERAWARDRANDOM       GOLD 44
-COLLISION 32
-SELTYPE SelBig 1 1
+EXPA 30
+KILLERAWARD             GOLD 30
+KILLERAWARDRANDOM       GOLD 6
+COLLISION 14
+SELTYPE SelSmall 1 1
 LOWCOLLISION
 ZPOINTS 15 15
 CYLINDER 25 20
 CANTCAPTURE
 USAGE COSTLY
-UNITRADIUS 16
+UNITRADIUS 8
+SPEEDSCALE 89
+ATTSPEEDSCALE 120
 NO_HUNGRY
 VISITORMASK 		1
-PLACEINTRANSPORT 	25
+PLACEINTRANSPORT 	1
 ShadowScaleX 2.7
 ShadowScaleY 2.7
+UNITSCALE 350
 ShadowHAligning true
+SOUND 3 #DEATH death_scorpion
+SOUND 9 #ATTACK attack_dubina
+!TEMP  1 24 models\empty\empty.c2m models\empty\emptya.c2m
+ANMEXT #ATTACK #TEMP 0 0 0 1 0
+SOUND 8 #TEMP attack_scorpion
 NIKAKIXMAM
-TFACTOR FF746F6C
-MAXINDEPO 4 1
+COLUMN 2
+TFACTOR FF737373
 NOCOLLISION
-ABILITY ua_aAcid
 [END]

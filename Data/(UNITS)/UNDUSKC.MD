@@ -47,7 +47,7 @@ BREAKANIMATION 		#STAND
 MOVEBREAK 		#MOTION_L
 MOTIONSTYLE 		SINGLESTEP
 ROTATE 			16
-PROTECTION 		4 piercing 9 magical 3 crushing 3 chopping 3
+PROTECTION 		4 piercing 9 magical 4 crushing 3 chopping 3
 EXPA 			50	
 ZPOINTS	22 22
 CANSTORM

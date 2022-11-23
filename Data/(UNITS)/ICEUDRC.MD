@@ -24,7 +24,7 @@ USERLC 			9 G\UnDedSceDed SHADOW -92 -117
 GEOMETRY 		1 10 35
 SPEEDSCALE 122
 LIFE     		60
-PROTECTION 		4 piercing 5 magical 4 chopping 0 crushing 0
+PROTECTION 		4 piercing 5 magical 4 chopping 1 crushing 1
 RECTANGLE 		0 0 30 48
 ATTACK_RADIUS 		0 0 60
 ATTACK_PAUSE 		0 44

@@ -6,20 +6,20 @@ ICON U_FrnOf17
 ICONEX 0 0 interf3\UnitPortrets\_back_dwarfes 2
 ICONSET 4 0 0 interf3\UnitPortrets\golem1 0 90 1
 ICONSET 1 0 0 interf3\UnitPortrets\golem2 0 90 1
-!STAND          1 0.19  Models\Units\MecUGoI\MecUGoIM.C2M Models\Units\MecUGoI\MecUGoIA_stand1.C2M
+!STAND          1 0.21  Models\Units\MecUGoI\MecUGoIM.C2M Models\Units\MecUGoI\MecUGoIA_stand1.C2M
 ADDHDIR #STAND 0 128
-!MOTION_L      40 0.19  Models\Units\MecUGoI\MecUGoIM.C2M Models\Units\MecUGoI\MecUGoIA_walk1.C2M
+!MOTION_L      40 0.21  Models\Units\MecUGoI\MecUGoIM.C2M Models\Units\MecUGoI\MecUGoIA_walk1.C2M
 ADDHDIR #MOTION_L 0 128
-!REST          40 0.19  Models\Units\MecUGoI\MecUGoIM.C2M Models\Units\MecUGoI\MecUGoIA_stand1.C2M
+!REST          40 0.21  Models\Units\MecUGoI\MecUGoIM.C2M Models\Units\MecUGoI\MecUGoIA_stand1.C2M
 ADDHDIR #REST 0 128
-!PSTAND        1  0.19  Models\Units\MecUGoI\MecUGoIM.C2M Models\Units\MecUGoI\MecUGoIA_attack1.C2M
+!PSTAND        1  0.21  Models\Units\MecUGoI\MecUGoIM.C2M Models\Units\MecUGoI\MecUGoIA_attack1.C2M
 ADDHDIR #PSTAND 0 128 
-!ATTACK        60 0.19  Models\Units\MecUGoI\MecUGoIM.C2M Models\Units\MecUGoI\MecUGoIA_attack1.C2M
+!ATTACK        60 0.21  Models\Units\MecUGoI\MecUGoIM.C2M Models\Units\MecUGoI\MecUGoIA_attack1.C2M
 ADDHDIR #ATTACK 0 128
-!DEATH         75 0.19  Models\Units\MecUGoI\MecUGoIM_death1.C2M Models\Units\MecUGoI\MecUGoIA_death1.C2M
+!DEATH         75 0.21  Models\Units\MecUGoI\MecUGoIM_death1.C2M Models\Units\MecUGoI\MecUGoIA_death1.C2M
 ADDHDIR #DEATH 0 128
 GEOMETRY 1 20 24
-SPEEDSCALE 160
+SPEEDSCALE 152
 DAMAGE   0 20
 LIFE     600
 RECTANGLE 0 0 38 80
@@ -30,7 +30,7 @@ DET_RADIUS 0 0 8000
 MATHERIAL 1 WOOD
 CANKILL 3 BODY BUILDING WOOD
 ATTMASK 0 3 BODY BUILDING WOOD 
-PRICE 2 IRON 175 GOLD 125
+PRICE 2 IRON 180 GOLD 130
 WEAPONKIND 0 chopping
 WEAPON 0 UW_MecUGoi
 BUILDSTAGES 800
@@ -45,7 +45,7 @@ BREAKANIMATION #REST
 BREAKANIMATION #PSTAND
 BREAKANIMATION #STAND
 ADDSHOTRADIUS 10
-PROTECTION 4 chopping 8 magical 8 piercing 11 crushing 8
+PROTECTION 4 chopping 10 magical 9 piercing 11 crushing 9
 UNITRADIUS 14
 ZPOINTS 35 35
 SETACTIVEPOINT0 #ATTACK 20

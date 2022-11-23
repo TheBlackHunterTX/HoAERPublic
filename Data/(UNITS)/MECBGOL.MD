@@ -60,7 +60,7 @@ ABILITY UA_DamagedBuilding
 ABILITY UA_DamagedBuilding2
 ABILITY UA_DamagedBuilding3
 ABILITY UA_DestroyBuilding
-
+MFARM 25
 !TEMP 180 1.0 Models\Effects\Buildings\pipe_smoke.c2m Models\Effects\Buildings\pipe_smoke.c2m
 MOVEXY  #TEMP 0 0
 ADDHDIR #TEMP 0 160

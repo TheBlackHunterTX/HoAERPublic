@@ -7,7 +7,7 @@ ICONANM 0 0 interf3\PortretsBuilding\PATCHZDANIA 1 1 1
 
 BUILDING
 LIFE 5000
-PROTECTION 4 piercing 15 magical 5 chopping 15 crushing 5
+PROTECTION 4 piercing 25 magical 10 chopping 25 crushing 10
 BUILDSTAGES 20
 BUILDHOTKEY		K
 MATHERIAL 1 BUILDING

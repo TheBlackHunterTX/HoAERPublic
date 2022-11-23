@@ -2,34 +2,34 @@ NAME InsUSpi
 ICON U_FrnOf17
 ICONEX 0 0 interf3\UnitPortrets\Insect_back 0
 ICONANM 0 0 interf3\UnitPortrets\Insect_back 1 29 1
-ICONANM 0 0 interf3\UnitPortrets\Insect 1 1 0
-!STAND          1 0.20 Models\Units\InsUSpi\InsUSpiM.C2M Models\Units\InsUSpi\InsUSpiA_stand1.C2M
+ICONANM 0 0 interf3\UnitPortrets\Insect 0 0 0
+!STAND          1 0.1 Models\Units\InsUSpG\InsUSpGM.C2M Models\Units\InsUSpG\InsUSpGA_stand1.C2M
 ADDHDIR #STAND 0 128
-!REST          60 0.20 Models\Units\InsUSpi\InsUSpiM.C2M Models\Units\InsUSpi\InsUSpiA_stand1.C2M
+!REST          60 0.1 Models\Units\InsUSpG\InsUSpGM.C2M Models\Units\InsUSpG\InsUSpGA_stand1.C2M
 ADDHDIR #REST 0 128
-!REST          60 0.20 Models\Units\InsUSpi\InsUSpiM.C2M Models\Units\InsUSpi\InsUSpiA_stand2.C2M
+!REST          60 0.1 Models\Units\InsUSpG\InsUSpGM.C2M Models\Units\InsUSpG\InsUSpGA_stand2.C2M
 ADDHDIR #REST 0 128
-!MOTION_L      12 0.20 Models\Units\InsUSpi\InsUSpiM.C2M Models\Units\InsUSpi\InsUSpiA_walk1.C2M
+!MOTION_L      20 0.1 Models\Units\InsUSpG\InsUSpGM.C2M Models\Units\InsUSpG\InsUSpGA_walk1.C2M
 ADDHDIR #MOTION_L 0 128
-!PSTAND        1  0.20 Models\Units\InsUSpi\InsUSpiM.C2M Models\Units\InsUSpi\InsUSpiA_attack1.C2M
+!PSTAND        1  0.1 Models\Units\InsUSpG\InsUSpGM.C2M Models\Units\InsUSpG\InsUSpGA_attack1.C2M
 ADDHDIR #PSTAND 0 128 
-!ATTACK        32 0.20 Models\Units\InsUSpi\InsUSpiM.C2M Models\Units\InsUSpi\InsUSpiA_attack1.C2M
+!ATTACK        40 0.1 Models\Units\InsUSpG\InsUSpGM.C2M Models\Units\InsUSpG\InsUSpGA_attack1.C2M
 ADDHDIR #ATTACK 0 128
-!DEATH         62 0.20 Models\Units\InsUSpi\InsUSpiM.C2M Models\Units\InsUSpi\InsUSpiA_death1.C2M
+!DEATH         60 0.1 Models\Units\InsUSpG\InsUSpGM.C2M Models\Units\InsUSpG\InsUSpGA_death1.C2M
 ADDHDIR #DEATH 0 128
 SOUND 1 #DEATH death_spider
-!DEATH         65 0.20 Models\Units\InsUSpi\InsUSpiM.C2M Models\Units\InsUSpi\InsUSpiA_death2.C2M
+!DEATH         75 0.1 Models\Units\InsUSpG\InsUSpGM.C2M Models\Units\InsUSpG\InsUSpGA_death2.C2M
 ADDHDIR #DEATH 0 128
 SOUND 1 #DEATH death_spider
-!CASTPREPARE  1 0.20 Models\Units\InsUSpi\InsUSpiM.C2M Models\Units\InsUSpi\InsUSpiA_attack1.C2M
+!CASTPREPARE   20 0.10 Models\Units\InsUSpG\InsUSpGM.C2M Models\Units\InsUSpG\InsUSpGA_attack1.C2M
 ADDHDIR #CASTPREPARE 0 128
-!CASTDIRECT   30 0.20 Models\Units\InsUSpi\InsUSpiM.C2M Models\Units\InsUSpi\InsUSpiA_attack1.C2M
+!CASTDIRECT   1 0.10 Models\Units\InsUSpG\InsUSpGM.C2M Models\Units\InsUSpG\InsUSpGA_attack1.C2M
 ADDHDIR #CASTDIRECT 0 128
 SETHOTFRAME2 #CASTDIRECT 19 20 20 0
-GEOMETRY 1 15 42
-SPEEDSCALE 75
-DAMAGE   0 25
-LIFE     300
+GEOMETRY 1 15 60
+SPEEDSCALE 100
+DAMAGE   0 15
+LIFE     120
 RECTANGLE 0 2 32 40
 ATTACK_RADIUS 0 0 60
 ATTACK_PAUSE 0 0
@@ -38,9 +38,10 @@ DET_RADIUS 0 0 7000
 ADD_ATTACK_RADIUS 0 48
 MATHERIAL 1 BODY
 CANKILL 3 BODY BUILDING WOOD 
+ATTMASK 0 3 BODY BUILDING WOOD 
 PRICE 2 FOOD 200 COAL 500
 WEAPONKIND 0 piercing
-WEAPON 0 UW_wSpiderSlow
+WEAPON 0 UW_wSpiderSlow_S
 BUILDSTAGES 3600
 VISION 1
 STANDGROUND
@@ -53,21 +54,21 @@ BREAKANIMATION #REST
 BREAKANIMATION #PSTAND
 BREAKANIMATION #STAND
 ADDSHOTRADIUS 16
-PROTECTION 1 magical 15
+PROTECTION 1 magical 6
 SETACTIVEPOINT0 #ATTACK 17
 CANSTORM
-EXPA 110
-COLLISION 24
+COLLISION 14
 SELTYPE SelMedium 1 1
 /*ROTATEATPLACE      1 150 0.20 Models\Units\InsUSpi\InsUSpiM.C2M Models\Units\InsUSpi\InsUSpiA_turn1.C2M 0 1.0 0.0
 /ADDHDIR #ROTATEATPLACE 0 -64
 /RPLACESPEED         1000
-KILLERAWARD             GOLD 48
-KILLERAWARDRANDOM       GOLD 12
+EXPA 			45
+KILLERAWARD             GOLD 20
+KILLERAWARDRANDOM       GOLD 5
 
-ABILITY UA_aSpider_Detonate
-//ABILITY UA_aSpiderNet
+ABILITY UA_aSpider_s
 
+INVISIBLEONMINIMAP
 ZPOINTS 10 10
 LIKE2DONMINIMAP
 CANTCAPTURE

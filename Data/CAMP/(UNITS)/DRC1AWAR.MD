@@ -1,8 +1,8 @@
 NAME 			Drc1aWar
 ICON 			U_FrnOf17
-ICONEX 0 0 interf3\UnitPortrets\Draconide_back 0
-ICONANM 0 0 interf3\UnitPortrets\Draconide_back 1 42 1
-ICONANM 0 0 interf3\UnitPortrets\Draconide 2 2 0
+ICONEX 0 0 interf3\UnitPortrets\Devils_back 0
+ICONANM 0 0 interf3\UnitPortrets\Devils_back 1 29 1
+ICONANM 0 0 interf3\UnitPortrets\Devils 0 0 1
 USERLC 			0 G\DracWarC SHADOW -95 -122
 USERLC 			1 G\DracWarG SHADOW -95 -122
 USERLC 			3 G\DracWarU SHADOW -95 -122
@@ -30,6 +30,7 @@ SEARCH_ENEMY_RADIUS 	250
 DET_RADIUS 		0 0 7000
 MATHERIAL 		1 BODY
 CANKILL 3 BODY BUILDING WOOD
+ATTMASK 0 3 BODY BUILDING WOOD
 PRICE 			2 COAL 40 GOLD 15
 WEAPONKIND 		0 crushing
 DAMAGE   		0 55

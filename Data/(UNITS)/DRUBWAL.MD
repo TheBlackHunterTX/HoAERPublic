@@ -6,8 +6,8 @@ ICONEX 0 0 interf3\PortretsBuilding\DruWall 0
 ICONANM 0 0 interf3\PortretsBuilding\DruWall 1 46 1
 
 BUILDING
-LIFE 5000
-PROTECTION 4 piercing 20 magical 10 chopping 20 crushing 10
+LIFE 8000
+PROTECTION 4 piercing 25 magical 10 chopping 25 crushing 10
 BUILDSTAGES 20
 BUILDHOTKEY K
 MATHERIAL 1 BUILDING

@@ -38,15 +38,9 @@
       <BaseClassUnitType>
        <UnitType>GobUWar(GO)</UnitType>
       </BaseClassUnitType>
-      <BaseClassUnitType>
-       <UnitType>TDGobUGob(TD)</UnitType>
-      </BaseClassUnitType>
-      <BaseClassUnitType>
-       <UnitType>TDGobUSha(TD)</UnitType>
-      </BaseClassUnitType>
-      <BaseClassUnitType>
-       <UnitType>TDGobUWar(TD)</UnitType>
-      </BaseClassUnitType>
+      <BaseClassUnitType></BaseClassUnitType>
+      <BaseClassUnitType></BaseClassUnitType>
+      <BaseClassUnitType></BaseClassUnitType>
      </Type>
     </umc_UnitType>
    </Conditions>

@@ -88,7 +88,7 @@ SELTYPE SelHero1 1 1
 USAGE STRELOK
 ATTACK_ANGLES		0 -255 255
 ABILITY DruidHeroSingleFAST
-ABILITY MC_aSummonPeasants_Start_Debaff
+ABILITY MC_aHeroStart_Debaff
 ABILITY MC_aSummonPeasants_Mechanic
 ABILITY Start_MecHEnf
 ABILITY Treasure_Weapon_1

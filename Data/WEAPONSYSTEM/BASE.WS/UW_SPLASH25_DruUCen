@@ -27,16 +27,39 @@
        </Op>
       </Value>
      </Probability>
+     <NewUnitAbility>
+      <ClassName>NewAbility</ClassName>
+      <RefName>UA_eMoraleCenOnTarget</RefName>
+     </NewUnitAbility>
      <DamageChange>0</DamageChange>
      <NewTargetList>
-      <UserDefinedPoints>
-       <AddPointsInRadius>
-        <NPoints>1</NPoints>
-       </AddPointsInRadius>
-       <Points>
-        <UserDefinedPointCoor></UserDefinedPointCoor>
-       </Points>
-      </UserDefinedPoints>
+      <UnitsInRadius>
+       <MaxUnitsDependRadius>false</MaxUnitsDependRadius>
+       <MaxUnits>
+        <Value>
+         <Op>
+          <NumericalConst>
+           <Value>
+            <Value>100</Value>
+           </Value>
+          </NumericalConst>
+         </Op>
+        </Value>
+       </MaxUnits>
+       <Radius>
+        <Value>
+         <Op>
+          <NumericalConst>
+           <Value>
+            <Value>23</Value>
+           </Value>
+          </NumericalConst>
+         </Op>
+        </Value>
+       </Radius>
+       <Enemy>true</Enemy>
+       <UnitsSelectionRule>NearestUnits</UnitsSelectionRule>
+      </UnitsInRadius>
      </NewTargetList>
     </MassBirthNew>
     <SelfMurder></SelfMurder>

@@ -13,7 +13,6 @@
    </Op>
   </Value>
  </CastingShotAmount>
- <Damage>40</Damage>
  <Weapon>
   <ClassName>WeaponModificator</ClassName>
   <RefName>cannon_shot</RefName>

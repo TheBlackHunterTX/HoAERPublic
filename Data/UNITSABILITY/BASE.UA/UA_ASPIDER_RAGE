@@ -51,24 +51,12 @@
     <BaseClassUnitType>
      <UnitType>InsUSpiZ(IN)</UnitType>
     </BaseClassUnitType>
-    <BaseClassUnitType>
-     <UnitType>TDInsUSpG(TD)</UnitType>
-    </BaseClassUnitType>
-    <BaseClassUnitType>
-     <UnitType>TDInsUSpi(TD)</UnitType>
-    </BaseClassUnitType>
-    <BaseClassUnitType>
-     <UnitType>TDInsUSpGS(TD)</UnitType>
-    </BaseClassUnitType>
-    <BaseClassUnitType>
-     <UnitType>TDInsUSpiS(TD)</UnitType>
-    </BaseClassUnitType>
-    <BaseClassUnitType>
-     <UnitType>TDInsUSpGZ(TD)</UnitType>
-    </BaseClassUnitType>
-    <BaseClassUnitType>
-     <UnitType>TDInsUSpiZ(TD)</UnitType>
-    </BaseClassUnitType>
+    <BaseClassUnitType></BaseClassUnitType>
+    <BaseClassUnitType></BaseClassUnitType>
+    <BaseClassUnitType></BaseClassUnitType>
+    <BaseClassUnitType></BaseClassUnitType>
+    <BaseClassUnitType></BaseClassUnitType>
+    <BaseClassUnitType></BaseClassUnitType>
    </Type>
   </umc_UnitType>
  </Conditions>

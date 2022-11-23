@@ -8,6 +8,7 @@
    <WeaponModificators>
     <DrawOne>
      <Anim>
+      <Scale>1.500000</Scale>
       <ModelID>Models\Effects\Weapons\ParovoiGolem\ParavoiGolem_Vistrel2.c2m</ModelID>
       <ReflectionID>Models\Effects\Weapons\ParovoiGolem\ParovoiGolem.c2m</ReflectionID>
      </Anim>

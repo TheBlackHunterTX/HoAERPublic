@@ -1,0 +1,148 @@
+<window name="effect_editor_toolbar" ext="0 680 1024 60" bgColor="0x555555FF" halign="parent" valign="bottom"> 
+	
+	<button		name		= "btnReset"			
+				text		= "Reset"			
+				ext			= "10 10 40 40" 
+				bgColor		= "0x665555FF"	
+				textColor	= "0xFFFFFFFF"
+				spritepack  = "scripts\kangaroo_interface"
+				spriteid    = "0"
+				drawborder  = "false"
+				pressed		= "Reset"/>
+				
+	<button		name		= "btnLoad"			
+				text		= "Load"			
+				ext			= "60 10 40 40" 
+				bgColor		= "0x665555FF"	
+				textColor	= "0xFFFFFFFF"
+				spritepack  = "scripts\kangaroo_interface"
+				spriteid    = "0"
+				drawborder  = "false"
+				pressed		= "Load"/>
+	
+	<button		name		= "btnSave"			
+				text		= "Save"			
+				ext			= "100 10 40 40" 
+				bgColor		= "0x665555FF"	
+				textColor	= "0xFFFFFFFF"
+				spritepack  = "scripts\kangaroo_interface"
+				spriteid    = "0"
+				drawborder  = "false"
+				pressed		= "SaveAs"/>
+				
+	<button		name		= "btnPlay"			
+				text		= "Play"			
+				ext			= "160 10 40 40" 
+				bgColor		= "0x665555FF"	
+				textColor	= "0xFFFFFFFF"
+				drawborder  = "false"
+				visible     = "<=IsEffectIdle"
+				spritepack  = "scripts\kangaroo_interface"
+				spriteid    = "0"
+				pressed		= "Play"/>
+	
+	<button		name		= "btnPause"			
+				text		= "Pause"			
+				ext			= "200 10 40 40" 
+				bgColor		= "0x665555FF"	
+				textColor	= "0xFFFFFFFF"
+				visible     = "<=IsEffectPlayed"
+				spritepack  = "scripts\kangaroo_interface"
+				spriteid    = "0"
+				drawborder  = "false"
+				pressed		= "Pause"/>				
+	<button		name		= "btnStop"			
+				text		= "Stop"			
+				ext			= "240 10 40 40" 
+				bgColor		= "0x665555FF"	
+				textColor	= "0xFFFFFFFF"
+				visible     = "<=IsEffectPlayed"
+				spritepack  = "scripts\kangaroo_interface"
+				spriteid    = "0"
+				drawborder  = "false"
+				pressed		= "Stop"/>
+				
+    <button		name		= "btnDump"			
+				text		= "Dump"			
+				ext			= "280 10 40 40" 
+				bgColor		= "0x665555FF"	
+				textColor	= "0xFFFFFFFF"
+				spritepack  = "scripts\kangaroo_interface"
+				spriteid    = "0"
+				drawborder  = "false"
+				pressed		= "DumpSequence"/>
+        <button		name		= "btnKillAA"			
+				text		= "KillAA"			
+				ext			= "320 10 40 40" 
+				bgColor		= "0x665555FF"	
+				textColor	= "0xFFFFFFFF"
+				spritepack  = "scripts\kangaroo_interface"
+				spriteid    = "0"
+				drawborder  = "false"
+				pressed		= "KillAutoUpdate"/>
+	
+	<label		name		= "lblEmitters"			
+				caption     = "Emitters:"	
+				text		= "<=NumEmitters"		
+				ext			= "400 5 80 40" 
+				textColor	= "0xFFFFFFFF"/>
+	
+	<label		name		= "lblParticles"			
+				caption     = "Particles:"			
+				text		= "<=NumParticles"			
+				ext			= "400 15 80 40" 
+				textColor	= "0xFFFFFFFF"/>
+				
+	<label		name		= "lblArea"			
+				caption     = "Area:"			
+				text		= "<=ParticleArea"			
+				ext			= "400 25 80 40" 
+				textColor	= "<=DangerColor"/>
+				
+    <label		name		= "lblEffectName"			
+				caption     = "Effect:"	
+				text		= "<=EffectFile"		
+				ext			= "700 40 180 40" 
+				textColor	= "0xFFFFFF99"/>
+	
+	<slider		name		= "slEffectTime"			
+				ext			= "520 5 500 20"
+				bgColor		= "0x554444EE"
+				position    = "<=>CurEffectTimeRatio"/>
+	
+	<checkbutton    name        = "cbShowBackdrop"
+	                ext         = "520 20 100 20"
+	                text        = "Show Backdrop"
+	                textColor	= "0xFFFFFFFF"
+	                checked     = "true"
+	                checked     = "<=>ShowBackdrop"/>
+	                
+	<checkbutton    name        = "cbShowGrid"
+	                ext         = "520 32 100 20"
+	                text        = "Show Grid"
+	                textColor	= "0xFFFFFFFF"
+	                checked     = "true"
+	                checked     = "<=>ShowGrid"/>
+	                
+	 <checkbutton	name		= "cbInvertMouse"
+					ext			= "820 20 100 20"
+					text		= "Invert Mouse"
+					textColor	= "0xffffffff"
+					checked		= "false"
+					checked		= "<=>InvertMouse"/>
+	                
+	 <checkbutton   name        = "cbSaveTextures"
+	                ext         = "400 34 100 20"
+	                text        = "Save Textures"
+	                textColor	= "0xFFFFFFFF"
+	                checked     = "true"
+	                checked     = "<=>SaveTextures"/>
+	
+	<checkbutton   name        = "cbLockFPS"
+	                ext         = "700 20 100 20"
+	                text        = "Lock FPS"
+	                textColor	= "0xFFFFFFFF"
+	                checked     = "true"
+	                checked     = "<=>LockFPS"/>
+				
+</window>

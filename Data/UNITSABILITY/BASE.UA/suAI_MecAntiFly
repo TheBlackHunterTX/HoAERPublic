@@ -1,6 +1,6 @@
 <ua_SingleUnitAI>
  <Name>suAI_MecAntiFly</Name>
- <CastingRadius>900</CastingRadius>
+ <CastingRadius>1190</CastingRadius>
  <Abilities>
   <suAI_Ability>
    <UA>

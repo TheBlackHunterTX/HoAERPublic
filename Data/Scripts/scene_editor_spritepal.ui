@@ -1,0 +1,5 @@
+<spritepalette name="scene_editor_spritepal" ext="0 0 396 600" 
+        bgColor="0x225555FF" halign="right" valign="center"
+        draggable = "true"
+        spritePackage="cash\treesall"> 				    
+</spritepalette> 
